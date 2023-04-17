@@ -303,7 +303,7 @@ Lesen Sie dazu bitte zunächst den folgenden Text: [Moshe Y. Vardi: Are We Havin
 Beantworten Sie außerdem die beiden Fragen:
 
 1. Welche Argumente benennt der Text, um seine Position zu belegen? Versuchen Sie die Argumente in eigenen Worten in Stichpunkten oder als Fließtext aufzuschreiben.
-2. Wie haben Sie den Text gelesen, um sich dessen Sinn (argumentative Struktur etc.) zu erschließen? Verfassen Sie eine kurze Beschreibung (als was?) Ihres Vorgehens.
+2. Wie haben Sie den Text gelesen, um sich dessen Sinn (argumentative Struktur etc.) zu erschließen? Verfassen Sie eine kurze Beschreibung Ihres Vorgehens.
 
 ### 02-01 Ethische Texte lesen
 
@@ -611,7 +611,7 @@ Trolley-Dilemma:
 
 ### 03-02 Moral Machine
 
-Besuchen Sie die [Moral Machine](https://elearn.informatik.uni-kiel.de/mod/page/view.php?id=7290) und entscheiden Sie, wie ein selbstfahrendes Auto agieren sollte; versuchen Sie das in Zusammenhang mit 03-01 (Gedankenexperimente und Dilemmata) und 03-03 (Argumentationslinien) zu bringen.
+Besuchen Sie die [Moral Machine](https://www.moralmachine.net/) und entscheiden Sie, wie ein selbstfahrendes Auto agieren sollte; versuchen Sie das in Zusammenhang mit 03-01 (Gedankenexperimente und Dilemmata) und 03-03 (Argumentationslinien) zu bringen.
 
 ### 03-03 Ethische Argumentationslinien
 
