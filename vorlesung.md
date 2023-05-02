@@ -40,11 +40,11 @@ Die zwölf Themen der Vorlesung teilen sich in drei große Bereiche auf: Grundla
 
 ![Die Inhalte der Vorlesung "Ethik in der Informatik"](img/vl_inhalte.png)
 
-Im Grundlagenbereich werden Sie mit wichtigen Voraussetzungen der ethischen Argumentation vertraut gemacht. Es wird das "richtige" Argumentieren ebenso thematisiert, wie verschiedene Argumentationsschemata. Sie werden wichtige Argumentationslinien kennen lernen und anhand der Methode des Gedankenexperiments ausprobieren. Außerdem werden fundamentale Begriffe der Ethik diskutiert und die Frage in den Blick genommen, was Begriffe überhaupt sind und warum sie für die ethische Argumentation gleichermaßen schwierig, wie notwendig sind.
+Im Grundlagenbereich werden Sie mit wichtigen Voraussetzungen der ethischen Argumentation vertraut gemacht. Es wird das "richtige" Argumentieren ebenso thematisiert, wie verschiedene Argumentationsschemata. Sie werden wichtige Argumentationslinien kennen lernen und anhand der Methode des Gedankenexperiments ausprobieren. Außerdem werden fundamentale Begriffe der Ethik diskutiert und die Frage in den Blick genommen, was Begriffe überhaupt sind und warum sie für die ethische Argumentation gleichermaßen schwierig wie notwendig sind.
 
-Der Kontextbereich stellt den Bezug zwischen den ethischen Grundlagen und der Informatik anhand zentraler Begriffe her: Verantwortung, Transparenz, Sicherheit und Privatheit werden den Kern von allein zwei Vorlesungen bilden. Daneben wird das wichtige Thema diskutiert, was Daten und die Verarbeitung von Daten - beispielsweise im Bereich des Machine Learning - ethische problematisch werden lässt. Den Abschluss dieses Bereichs bildet die Diskussion von ethischen Rahmenwerken, die gezielt für den Einsatz in informatischen Kontexten entwickelt wurden: Den ethischen Leitlinien der GI und Codes of Conduct, wie sie häufig von Open Source-Projekten verwendet werden.
+Der Kontextbereich stellt den Bezug zwischen den ethischen Grundlagen und der Informatik anhand zentraler Begriffe her: Verantwortung, Transparenz, Sicherheit und Privatheit werden den Kern von allein zwei Vorlesungen bilden. Daneben wird das wichtige Thema diskutiert, was Daten und die Verarbeitung von Daten - beispielsweise im Bereich des Machine Learning - ethisch problematisch werden lässt. Den Abschluss dieses Bereichs bildet die Diskussion von ethischen Rahmenwerken, die gezielt für den Einsatz in informatischen Kontexten entwickelt wurden: Den ethischen Leitlinien der GI und Codes of Conduct, wie sie häufig von Open Source-Projekten verwendet werden.
 
-Der Anwendungsbereich zeigt dann auf, welche Rolle ethische Entscheidungen in wirtschaftlichen und akademischen Projekten spielen. Dabei wird thematisiert, wie man Projekte in dem jeweiligen Umfeld unter ethischen Gesichtspunkten entwerfen kann und welche Fallstricke es dabei möglicherweise gibt. Außerdem wird darauf eingegangen, wie man mit individuellen Dilemmasituationen umgehen kann: Was tut man bspw., wenn der Arbeitgeber etwas eindeutig unethisches von einem verlangt? Wie kann mit so einer Situation umgehen?
+Der Anwendungsbereich zeigt dann auf, welche Rolle ethische Entscheidungen in wirtschaftlichen und akademischen Projekten spielen. Dabei wird thematisiert, wie man Projekte in dem jeweiligen Umfeld unter ethischen Gesichtspunkten entwerfen kann und welche Fallstricke es dabei möglicherweise gibt. Außerdem wird darauf eingegangen, wie man mit individuellen Dilemmasituationen umgehen kann: Was tut man bspw., wenn der Arbeitgeber etwas eindeutig unethisches von einem verlangt? Wie kann mit so einer Situation umgegangen werden?
 
 **Zeitplanung**
 
@@ -89,17 +89,17 @@ Dieses Dokument, sowie die damit verbundenen Materialien, befinden sich derzeit 
 
 Dieses Modul verlangt von Ihnen als Prüfungsleistung eine ethische Analyse, als Prüfungsvorleistung eine schriftliche Ausarbeitung in Form einer Einsendeaufgabe. Beides muss den Ansprüchen genügen, die an wissenschaftliche Texte gelegt werden: Überzeugende Argumentation, korrekte Formalia, vertrauenswürdiger Umgang mit Quellen.
 
-Uns ist bewusst, dass es für viele von Ihnen das erste Mal ist, dass Sie in Ihrem Studium einen längeren Text verfassen müssen, an den solche Ansprüche gestellt werden. Daher haben wir verschiedene Hilfsmittel vorbereitet und versuchen Sie in dem Prozess zu unterstützen (s. Erläuterungen unten).
+Uns ist bewusst, dass es für viele von Ihnen das erste Mal ist, dass Sie in Ihrem Studium einen längeren Text verfassen müssen, an den solche Ansprüche gestellt werden. Daher haben wir verschiedene Hilfsmittel vorbereitet und versuchen, Sie in dem Prozess zu unterstützen (s. Erläuterungen unten).
 
-Besonders wichtig dabei ist, dass wir versucht haben Vorbereitungs- und Einsendeaufgaben dergestalt zu entwickeln, dass sie aufeinander aufbauen und die für das wissenschaftliche Schreiben notwendige Kompetenzen iterativ vermittelt werden. Das heißt, wenn Sie sich mit allen Vorbereitungs- und Einsendeaufgaben in dem vorgesehenen Maß auseinandersetzen, sollten Sie nicht nur eine gute Vorbereitung auf die Prüfungsleistung in dieser Veranstaltung haben, sondern Ihre Schreibfertigkeiten insgesamt ausbauen.
+Besonders wichtig dabei ist, dass wir versucht haben, Vorbereitungs- und Einsendeaufgaben dergestalt zu entwickeln, dass sie aufeinander aufbauen und die für das wissenschaftliche Schreiben notwendigen Kompetenzen iterativ vermittelt werden. Das heißt, wenn Sie sich mit allen Vorbereitungs- und Einsendeaufgaben in dem vorgesehenen Maß auseinandersetzen, sollten Sie nicht nur eine gute Vorbereitung auf die Prüfungsleistung in dieser Veranstaltung haben, sondern Ihre Schreibfertigkeiten insgesamt ausbauen.
 
 **Einsendeaufgaben**
 
 Die Einsendeaufgaben sind längere schriftliche Ausarbeitungen von zwei bis drei Seiten, die Ihnen die detailliertere Auseinandersetzung mit einem Thema oder Abschnitt der Vorlesung erlauben. Das Bestehen einer dieser Aufgaben ist zudem notwendige Voraussetzung (zusammen mit dem Bestehen eines mdl. Testats) zum Erwerb der Prüfungsvorleistung.
 
-Um Ihnen die Anfertigung der Einsendeaufgaben zu erleichtern, gibt es im Weiteren detaillierte Informationen zu den Formalia, sowie bei den jeweiligen Aufgaben die Kriterien, die Sie erfüllen müssen, damit Ihre Einsendung als *sinnvoll bearbeitet* bewertet wird. Außerdem findet jeweils etwa eine Woche vor dem Abgabetermin einer Einsendeaufgabe eine öffentliche Sprechstunde bzw. ein Tutorial statt, in dem Ihnen erklärt wird, wie Sie die Aufgabe am besten angehen. Im Rahmen dieser Sprechstunde ist es Ihnen möglich individuelle Fragen zu klären.
+Um Ihnen die Anfertigung der Einsendeaufgaben zu erleichtern, gibt es im Weiteren detaillierte Informationen zu den Formalia, sowie bei den jeweiligen Aufgaben die Kriterien, die Sie erfüllen müssen, damit Ihre Einsendung als *sinnvoll bearbeitet* bewertet wird. Außerdem findet jeweils etwa eine Woche vor dem Abgabetermin einer Einsendeaufgabe eine öffentliche Sprechstunde bzw. ein Tutorial statt, in dem Ihnen erklärt wird, wie Sie die Aufgabe am besten angehen. Im Rahmen dieser Sprechstunde ist es Ihnen möglich, individuelle Fragen zu klären.
 
-Jeder Einsendeaufgabe ist eine unterschriebene Eigenständigkeitserklärung (s. Vorlage weiter unten) beizulegen, die bestätigt, dass alle Quellen und zusätzlichen Hilfsmittel in der Einsendung korrekt ausgewiesen wurden. Fehlt die Erklärung oder die Unterschrift unter der Erklärung wird die Einsendung grundsätzlich als *nicht sinnvoll bearbeitet* bewertet. Achten Sie also unbedingt darauf!
+Jeder Einsendeaufgabe ist eine unterschriebene Eigenständigkeitserklärung (s. Vorlage weiter unten) beizulegen, die bestätigt, dass alle Quellen und zusätzlichen Hilfsmittel in der Einsendung korrekt ausgewiesen wurden. Fehlt die Erklärung oder die Unterschrift unter der Erklärung, wird die Einsendung grundsätzlich als *nicht sinnvoll bearbeitet* bewertet. Achten Sie also unbedingt darauf!
 
 **Vorbereitungsaufgaben**
 
@@ -109,7 +109,7 @@ Die Aufgaben sollten in etwa 30 Minuten bearbeitet werden und bearbeitbar sein. 
 
 #### Formalia
 
-Bitte geben Sie auf der ersten Seite ihren vollen Namen, Matrikelnummer und (für die Abschlussprüfung) die von Ihnen gewählte Aufgabe an. Verwenden Sie am besten [diese Vorlage](https://cloud.rz.uni-kiel.de/index.php/s/jnECr3q3GP5T64j).
+Bitte geben Sie auf der ersten Seite Ihren vollen Namen, Matrikelnummer und (für die Abschlussprüfung) die von Ihnen gewählte Aufgabe an. Verwenden Sie am besten [diese Vorlage](https://cloud.rz.uni-kiel.de/index.php/s/jnECr3q3GP5T64j).
 
 **Weitere Formalia**
 
@@ -302,7 +302,7 @@ Lesen Sie dazu bitte zunächst den folgenden Text: [Moshe Y. Vardi: Are We Havin
 
 Beantworten Sie außerdem die beiden Fragen:
 
-1. Welche Argumente benennt der Text, um seine Position zu belegen? Versuchen Sie die Argumente in eigenen Worten in Stichpunkten oder als Fließtext aufzuschreiben.
+1. Welche Argumente benennt der Text, um seine Position zu belegen? Versuchen Sie, die Argumente in eigenen Worten, in Stichpunkten oder als Fließtext aufzuschreiben.
 2. Wie haben Sie den Text gelesen, um sich dessen Sinn (argumentative Struktur etc.) zu erschließen? Verfassen Sie eine kurze Beschreibung Ihres Vorgehens.
 
 ### 02-01 Ethische Texte lesen
@@ -422,7 +422,7 @@ Das Klonen von Tieren ist technisch möglich. Die Natur klont alle Tage. Das hei
    [( )] Nein
 
 
-Wir wollen die Zahl der Verkehrsunfälle verringern. Durch ein Verbot von Handys ohne 	Freisprecheinrichtung geht die Anzahl der Unfälle um x % zurück. Also sollte man ein 	Verbot von Handys ohne Freisprecheinrichtung beim Fahren einführen.
+Wir wollen die Zahl der Verkehrsunfälle verringern. Durch ein Verbot von Handys ohne Freisprecheinrichtung geht die Anzahl der Unfälle um x % zurück. Also sollte man ein 	Verbot von Handys ohne Freisprecheinrichtung beim Fahren einführen.
 
 
    [( )] Ja
@@ -469,7 +469,7 @@ Welche der folgenden Vorteile bietet das Rogerian Argument gegenüber anderen Ar
 
 ### Erste Einsendeaufgabe: Gegenargumentation
 
-In der ersten Einsendeaufgabe sollen Sie eine Gegenargumentation zum Text von Moshe Vardi zu verfassen. Dafür ist es erforderlich sich zunächst mit den Argumenten Vardis vertraut zu machen (Aufgabe 1), um in Anschluss wirkungsvolle Gegenargumente in einem eigenen Text vorzubringen (Aufgabe 2).
+In der ersten Einsendeaufgabe sollen Sie eine Gegenargumentation zum Text von Moshe Vardi zu verfassen. Dafür ist es erforderlich, sich zunächst mit den Argumenten Vardis vertraut zu machen (Aufgabe 1), um in Anschluss wirkungsvolle Gegenargumente in einem eigenen Text vorzubringen (Aufgabe 2).
 
 Diese Auseinandersetzung mit und die Formulierung eigener Argumente soll Ihr Verständnis für das Formulieren eigener, strukturierter Argumentationen vertiefen und Sie damit auf die Prüfungsleistung vorbereiten.
 
