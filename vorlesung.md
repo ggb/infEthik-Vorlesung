@@ -309,7 +309,7 @@ Beantworten Sie außerdem die beiden Fragen:
 
 <iframe title="02-01 Ethische Texte lesen" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/f31256f86952408a87034f5f34c3eb3f1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Ethische Texte lesen](https://cloud.rz.uni-kiel.de/index.php/s/33eN3NKNTASD3en)
+[Folien: Ethische Texte lesen](https://cloud.rz.uni-kiel.de/index.php/s/FMxstx488j73N2B)
 
 ---
 
@@ -335,7 +335,7 @@ Welche der folgenden Fragen sind für den ersten Zugang zu einem Text relevant?
 
 <iframe title="02-02 Argumente analysieren" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/7b5c8640074e4a1a9e4f3e18ea085a041d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Argumente analysieren](https://cloud.rz.uni-kiel.de/index.php/s/83yN5XxNf2AMGec)
+[Folien: Argumente analysieren](https://cloud.rz.uni-kiel.de/index.php/s/o7NZAzZpoDdmdFY)
 
 ---
 
@@ -405,7 +405,7 @@ Welche der genannten Argumente würden sie als seriös einschätzen?
 
 <iframe title="02-03 Schließen" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/e2acc27e830745d482ef8690d0b95ad91d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Logisches Schließen](https://cloud.rz.uni-kiel.de/index.php/s/pR5SxZwzZekqyXw)
+[Folien: Logisches Schließen](https://cloud.rz.uni-kiel.de/index.php/s/j9ydjNtktzN4m2G)
 
 ---
 
@@ -433,7 +433,7 @@ Wir wollen die Zahl der Verkehrsunfälle verringern. Durch ein Verbot von Handys
 
 <iframe title="02-04 Texte verfassen" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/778cd2e99d9e4bfebcd4a348485b98a21d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Texte verfassen](https://cloud.rz.uni-kiel.de/index.php/s/CdbyQXZMT2MQkz6)
+[Folien: Texte verfassen](https://cloud.rz.uni-kiel.de/index.php/s/oZ5b747DNi5QsK4)
 
 ---
 
@@ -561,7 +561,7 @@ Wie haben Sie sich gefühlt, als Sie die Verantwortung für die Designentscheidu
 
 <iframe title="03-01 Gedankenexperimente und Dilemmata" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/387a9a9e4a6a40c5a1167d1eb393c7ad1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Gedankenexperimente und Dilemmata](https://cloud.rz.uni-kiel.de/index.php/s/NBtQEfeAWyseEEQ)
+[Folien: Gedankenexperimente und Dilemmata](https://cloud.rz.uni-kiel.de/index.php/s/dRRtx4E5sRTSsWG)
 
 ---
 
@@ -617,7 +617,7 @@ Besuchen Sie die [Moral Machine](https://www.moralmachine.net/) und entscheiden 
 
 <iframe title="03-03 Ethische Argumentationslinien" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/51005ed3339a47e8b2fbd5635a04d9031d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Ethische Argumentationslinien](https://cloud.rz.uni-kiel.de/index.php/s/x2mG7Ta8mpt5Kqb)
+[Folien: Ethische Argumentationslinien](https://cloud.rz.uni-kiel.de/index.php/s/NjD39jkNzDDWXwM)
 
 Weiterführende Informationen zu den verschiedenen Argumentationslinien bieten die kurzen Übersichtsartikel (mit Video) des [Ethics Centre](https://ethics.org.au):
 
@@ -696,7 +696,7 @@ Priorisieren Sie die Gründe und versuchen Sie eine systematische Darstellungswe
 
 <iframe title="04-01 Begriffe und Begriffsdifferenzierung" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/00794395a6484627a40315d6e139bf1c1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Der Begriff des Begriffs und Begriffsdifferenzierungen](https://cloud.rz.uni-kiel.de/index.php/s/r6spo6MTBPQSMj4)
+[Folien: Der Begriff des Begriffs und Begriffsdifferenzierungen](https://cloud.rz.uni-kiel.de/index.php/s/MgnjiBnJnLc2y7A)
 
 ---
 
@@ -739,7 +739,7 @@ Autonomie:
 
 <iframe title="04-02 Concept Maps" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/05de2a47a35744d497785016e042945b1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Concept Maps](https://cloud.rz.uni-kiel.de/index.php/s/cAmYCWyieBpRPfc)
+[Folien: Concept Maps](https://cloud.rz.uni-kiel.de/index.php/s/rFZb3Dg232DtJdk)
 
 ---
 
@@ -770,7 +770,7 @@ Welche der folgenden Eigenschaften sollte eine Concept Map haben?
 
 <iframe title="04-03 Wichtige Begriffe" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/06383154f3664efaa7f85caa9d72ee421d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Wichtige Begriffe](https://cloud.rz.uni-kiel.de/index.php/s/FNNd6PDqi7ggWAw)
+[Folien: Wichtige Begriffe](https://cloud.rz.uni-kiel.de/index.php/s/AS5gaAyeBdmSJg3)
 
 ---
 
@@ -826,7 +826,7 @@ In dieser Woche beschäftigen wir uns mit dem – für die Informatikethik – s
 
 Erstellen Sie bitte eine Concept Map zum Begriff der Verantwortung vor dem Hintergrund der Informatik: Wie gestaltet sich die Verantwortung von Informatiker:innen in der Forschung und in Unternehmen?
 
-Zur Anfertigung der Concept Map können Sie das Online-Tool CoMapEd.de (Code: infEthik_Verantwortung) verwenden. (Fügen Sie dann bitte in die obere, linke Ecke einen andersfarbigen Knoten mit ihrem Namen ein, falls Sie einverstanden sind Ihre Ergebnisse in der Übung zu präsentieren.)
+Zur Anfertigung der Concept Map können Sie das Online-Tool CoMapEd.de (Code: infEthik_Verantwortung) verwenden. Merken Sie sich in diesem Fall den von CoMapEd.de generierten Code (am oberen Rand in der Mitte), damit Sie die Map später erneut aufrufen können (bspw. zur Präsentation in der Übung).
 
 Sie können Ihre Map auch mit Stift und Papier oder mit einem Tool Ihrer Wahl erstellen.
 
@@ -834,7 +834,7 @@ Sie können Ihre Map auch mit Stift und Papier oder mit einem Tool Ihrer Wahl er
 
 <iframe title="05-01 Der Begriff Verantwortung" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/4e1e0ae326a648899e61e5ac7f96c1921d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: 05-01 Der Begriff der Verantwortung](https://cloud.rz.uni-kiel.de/index.php/s/fr6WFCjLFLMgMLw)
+[Folien: 05-01 Der Begriff der Verantwortung](https://cloud.rz.uni-kiel.de/index.php/s/pCngQxkJA4BDPNs)
 
 ---
 
@@ -867,7 +867,7 @@ Welche der folgenden Punkte sind Vorraussetzung um laut Andreas Matthias (“The
 
 <iframe title="05-02 Typische Probleme" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/29315639c93d40e593454eea779910a21d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: 05-02 Typische Probleme](https://cloud.rz.uni-kiel.de/index.php/s/RZn5k5WsKX47Dej)
+[Folien: 05-02 Typische Probleme](https://cloud.rz.uni-kiel.de/index.php/s/zsqYn5M5dsxj9s9)
 
 ---
 
@@ -942,7 +942,7 @@ Antwort in etwas spannderer Formulierung [hier](https://youtu.be/BYVZh5kqaFg?t=6
 
 <iframe title="05-03 Anthropomorphismen" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/da4fd27a30f543bd81428f3357b068721d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: 05-03 Anthropomorphismen](https://cloud.rz.uni-kiel.de/index.php/s/2J4dRcSEWSCeWcb)
+[Folien: 05-03 Anthropomorphismen](https://cloud.rz.uni-kiel.de/index.php/s/nLNKn7XEj6TP9q4)
 
 ---
 
@@ -965,7 +965,7 @@ Selbstkontrollfragen:
 4. Transparenz kann positiv und negativ verstanden werden. Erläutern Sie, warum die Wertung vom Begriff der Öffentlichkeit/Privatheit abhängt!
 5. Nennen Sie einen typischen Wertekonflikt, der im Zusammenhang mit Sicherheit in der Öffentlichkeit häufig diskutiert wird!
 
-Mit Selbstkontrollfragen oben steht Ihnen ein Instrument zur Verfügung, um ihr Verständnis des Stoffes zur überprüfen und Sie können mit den kurzen Fragestellungen üben prägnante Antworten zu formulieren.
+Mit den Selbstkontrollfragen oben steht Ihnen ein Instrument zur Verfügung, um ihr Verständnis des Stoffes zur überprüfen und Sie können mit den kurzen Fragestellungen üben prägnante Antworten zu formulieren.
 
 Ihre Vorbereitungsaufgabe in dieser Woche lautet:
 
@@ -976,7 +976,7 @@ Ihre Vorbereitungsaufgabe in dieser Woche lautet:
 
 <iframe title="06-01 Privatheit" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/a2fdc30b0ddd41938e9375c76c53b2061d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: 06-01 Privatheit](https://cloud.rz.uni-kiel.de/index.php/s/frWDgxSqDYyK2ag)
+[Folien: 06-01 Privatheit](https://cloud.rz.uni-kiel.de/index.php/s/NdNj5HFfizjSSX6)
 
 ---
 
@@ -1006,7 +1006,7 @@ Was sind die Funktionen von Privatsphäre?
 
 <iframe title="06-02 Transparenz" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/e7a06c338b2b42afac2f09feecda3f441d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: 06-02 Transparenz](https://cloud.rz.uni-kiel.de/index.php/s/6wgpR6ZSz3ZQX6y)
+[Folien: 06-02 Transparenz](https://cloud.rz.uni-kiel.de/index.php/s/2MP7pcHEbsniJmB)
 
 ---
 
@@ -1027,7 +1027,7 @@ Was sind Probleme die in Bezug zu Transparenz auftreten können?
 
 <iframe title="06-03 Sicherheit" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/014faee10b1b45509b99f3cbdf648a4e1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: 06-03 Sicherheit](https://cloud.rz.uni-kiel.de/index.php/s/DLpq55nnLPJobfo)
+[Folien: 06-03 Sicherheit](https://cloud.rz.uni-kiel.de/index.php/s/b4fL5pt4bW9ZFFY)
 
 ---
 
@@ -1123,7 +1123,7 @@ c) Sind die in diesem Beispiel verwendeten Daten "objektiv"? Falls ja: Was macht
 
 <iframe title="07-01 Objektivität" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/bd311de750fd424f91b4246ae0b62c911d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Objektivität](https://cloud.rz.uni-kiel.de/index.php/s/G54zE7XFbmAj2K5)
+[Folien: Objektivität](https://cloud.rz.uni-kiel.de/index.php/s/s2FH8wAE4ST4mG9)
 
 ---
 
@@ -1172,7 +1172,7 @@ Normative Prämissen sind niemals objektiv, da sie normative Prämissen und dami
 
 <iframe title="07-02 Woher kommen eigentlich die Daten?" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/3986dc2cd578418b805cf7500e2028a91d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Woher kommen eigentlich die Daten?](https://cloud.rz.uni-kiel.de/index.php/s/eCMyZL2s8cF788D)
+[Folien: Woher kommen eigentlich die Daten?](https://cloud.rz.uni-kiel.de/index.php/s/8tAbHTQ54SAEK2m)
 
 ---
 
@@ -1211,7 +1211,7 @@ Welche der Aussagen über "Ghost Worker" sind richtig?
 
 <iframe title="07-03 Reduktion, Verzerrungen und Präferenzenstarrheit" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/1c86d9e6ab8244adb0de48375a97db141d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Reduktion, Verzerrungen und Präferenzenstarrheit](https://cloud.rz.uni-kiel.de/index.php/s/MxyktLnWyyAjTT6)
+[Folien: Reduktion, Verzerrungen und Präferenzenstarrheit](https://cloud.rz.uni-kiel.de/index.php/s/EKq8HByQrjWm92W)
 
 ---
 
@@ -1251,7 +1251,7 @@ Welche Aussagen über das Bias im Kontext von Machine Learning sind richtig?
 
 <iframe title="07-04 Wie machen wir es besser" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/966d66aa17144c77b9e169c43a02de5e1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Wie machen wir es besser?](https://cloud.rz.uni-kiel.de/index.php/s/DjHmCZHndXCqL6o)
+[Folien: Wie machen wir es besser?](https://cloud.rz.uni-kiel.de/index.php/s/BSRcojKnDYn25sC)
 
 ---
 
@@ -1366,7 +1366,7 @@ Lesen Sie zur Vorbereitung auf die nächste Woche den ["Ethischen Kompass für I
 
 <iframe title="08-01 Ethische Leitlinien" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/437088b724164f6a8d708be3dc61bbb81d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Ethische Leitlinien](https://cloud.rz.uni-kiel.de/index.php/s/4bGdayzByS97cR5)
+[Folien: Ethische Leitlinien](https://cloud.rz.uni-kiel.de/index.php/s/AnHKBgzTRMfsafH)
 
 ---
 
@@ -1399,7 +1399,7 @@ Welche 4 Überthemen werden in den 13. Artikeln der Ethischen Leitlinien der GI 
 
 <iframe title="08-02 Codes of Conduct" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/8d6e4870a80842b7bfb0c900a0b40aaa1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Codes of Conduct](https://cloud.rz.uni-kiel.de/index.php/s/ijgYtwCGfwrDHf7)
+[Folien: Codes of Conduct](https://cloud.rz.uni-kiel.de/index.php/s/Tbfym9T49JJ6F9n)
 
 ---
 
@@ -1475,7 +1475,7 @@ Wir verwenden die Ergebnisse Ihrer Analyse als Ausgangspunkt der Diskussion in u
 
 <iframe title="09-01 Fallanalysen" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/8f0beb245c5d4f3f922eb5691430f8a11d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Fallanalysen](https://cloud.rz.uni-kiel.de/index.php/s/rCZKdLbFMfCxPNW)
+[Folien: Fallanalysen](https://cloud.rz.uni-kiel.de/index.php/s/7azbcqQDsbkKr26)
 
 ---
 
@@ -1511,7 +1511,7 @@ Wann sollte eine ethische Fallanalyse durchgeführt werden?
 
 <iframe title="09-02 Ethisches Designdokument und Impact Statement" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/fa112ae6b525462a91fabd9b52ce57e91d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Ethisches Designdokument und Impact Statement](https://cloud.rz.uni-kiel.de/index.php/s/wM7eegDteQWGAPD)
+[Folien: Ethisches Designdokument und Impact Statement](https://cloud.rz.uni-kiel.de/index.php/s/iTSdwQBC9q3EBbM)
 
 ---
 
@@ -1655,7 +1655,7 @@ Wir werden Ihre Vorschläge und Ideen zu Beginn der kommenden Übung diskutieren
 
 <iframe title="10-01 Verfahren" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/670e95320e1a4edb8472f729811952bd1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Verfahren](https://cloud.rz.uni-kiel.de/index.php/s/3KBeHM9iKfL84kZ)
+[Folien: Verfahren](https://cloud.rz.uni-kiel.de/index.php/s/eFkw8RzWtCyS3Pj)
 
 ---
 
@@ -1686,7 +1686,7 @@ Welche der folgenden Punkte sind Teil der 10 Handlungsprinzipien des Value-based
 
 <iframe title="10-02 Ethisches Design im Kleinen" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/c12f462f9ea942f8a43e76db0d5b36551d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Ethisches Design im Kleinen](https://cloud.rz.uni-kiel.de/index.php/s/8JL8xgDjDeDdFJR)
+[Folien: Ethisches Design im Kleinen](https://cloud.rz.uni-kiel.de/index.php/s/bfCWejKLWp85PXP)
 
 ---
                            {{1}}
@@ -1749,7 +1749,7 @@ Gamification:
 
 <iframe title="10-03 Barrierefreiheit" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/b0a8be1783824369b0a3157d0f9df2c01d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Barrierefreiheit](https://cloud.rz.uni-kiel.de/index.php/s/fi6a2L4EDcXqzMY)
+[Folien: Barrierefreiheit](https://cloud.rz.uni-kiel.de/index.php/s/wdzPzftX4QWxmSB)
 
 ---
                            {{1}}
@@ -1847,7 +1847,7 @@ Prof. Flamel hat inzwischen mit der Studentin ein Paper als Beitrag für die Kon
 
 <iframe title="11-01 Eigene Forschung reflektieren" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/9d5e00db9441444f8588db0829ec69501d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Eigene Forschung reflektieren](https://cloud.rz.uni-kiel.de/index.php/s/zoAfrboi4jTxYnN)
+[Folien: Eigene Forschung reflektieren](https://cloud.rz.uni-kiel.de/index.php/s/DsXHripa6Jey5ta)
 
 ---
                            {{1}}
@@ -1877,7 +1877,7 @@ Was sind wichtige Aspekte die bei der Reflektion von Forschungsergebnissen berü
 
 <iframe title="11-02 Geistiges Eigentum und Plagiate" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/78dbb84593a64ebb97a2f9d0c467fdc11d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Geistiges Eigentum und Plagiate](https://cloud.rz.uni-kiel.de/index.php/s/AXnJLp2p23NfSPo)
+[Folien: Geistiges Eigentum und Plagiate](https://cloud.rz.uni-kiel.de/index.php/s/ZwAeeP8ERx2L7S6)
 
 ---
 
@@ -1910,7 +1910,7 @@ Was sollte man tun, um Plagiate zu vermeiden?
 
 <iframe title="11-03 Impact Statements" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/372a8795c2bb45dd8f08d6d075f8f3951d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Impact Statements](https://cloud.rz.uni-kiel.de/index.php/s/HDXNydDbsctA4r7)
+[Folien: Impact Statements](https://cloud.rz.uni-kiel.de/index.php/s/X8CQ587DegwLeqa)
 
 ---
 
@@ -1939,7 +1939,7 @@ Was sollte beim Schreiben eines Impact Statements beachtet werden?
 
 <iframe title="11-04 Zivilklausel" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/1bd4d886823e416187b8e4b9091603ec1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien : Zivilklausel](https://cloud.rz.uni-kiel.de/index.php/s/D8xmGxeG9iXM9jA)
+[Folien : Zivilklausel](https://cloud.rz.uni-kiel.de/index.php/s/2LMP5gn29rE4eqW)
 
 ---
 
@@ -1988,7 +1988,7 @@ Sophie spricht ihre vorgesetzten Personen auf ihre Bedenken an. Diese lehnen abe
 
 <iframe title="12-01 Haltung und Gewissen" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/217cd6be2eee41ff98a6b762f2adaa401d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Haltung und Gewissen](https://cloud.rz.uni-kiel.de/index.php/s/rQC9cKnDmcwyE4T)
+[Folien: Haltung und Gewissen](https://cloud.rz.uni-kiel.de/index.php/s/tJjTLyAiCds8Xdd)
 
 ---
 
@@ -2012,7 +2012,7 @@ Wie hängen Haltung und Gewissen zusammen?
 
 <iframe title="12-02 Treuepflicht und Whistleblowing" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/dff4342a776246729e17e11932fb2a1c1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Treuepflicht und Whistleblowing](https://cloud.rz.uni-kiel.de/index.php/s/TpNWnE73r8J7sRt)
+[Folien: Treuepflicht und Whistleblowing](https://cloud.rz.uni-kiel.de/index.php/s/dmfoqKSa6tnEqMs)
 
 ---
 
@@ -2058,7 +2058,7 @@ Werden Whistleblower geschützt und wenn ja wie?
 
 <iframe title="12-03 Arbeitgeberwahl" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/f5c51b0c0fd64a61aadbcc3b7af6d7761d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Folien: Arbeitgeberwahl](https://cloud.rz.uni-kiel.de/index.php/s/MnwBkWZGGfQgy7d)
+[Folien: Arbeitgeberwahl](https://cloud.rz.uni-kiel.de/index.php/s/9WxpHTWy5Xbe4KJ)
 
 ---
 
