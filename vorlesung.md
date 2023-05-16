@@ -1296,9 +1296,7 @@ Für welche der folgenden Probleme lässt sich eine sinnvolle datengetriebene L�
 
 In der Vorlesung haben wir uns damit beschäftigt, dass die Zuweisung von Verantwortung in (Software-)Projekten häufig mit Schwierigkeiten verbunden ist und, dass die Verantwortlichkeiten für unterschiedliche Gruppen sich stark unterscheiden können. In der zweiten Einsendeaufgabe haben Sie Gelegenheit zu üben, mit diesen Problemen umzugehen.
 
-Lesen Sie dazu zunächst die nachfolgende Fallstudie.
-
-Ignorieren Sie die an den Text anschließenden Fragen. Sollten Sie Probleme beim Zugriff auf den Text haben, versuchen Sie es bitte aus dem Uni-Netz (bzw. VPN) oder wenden Sie sich an uns.
+Lesen Sie dazu zunächst die nachfolgende Fallstudie (nächster Navigationspunkt) über Chris und Rose.
 
 Analysieren Sie:
 
