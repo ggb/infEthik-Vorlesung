@@ -142,6 +142,19 @@ Hiermit versichere ich, dass ich die Abschlussarbeit im Modul "Ethik in der Info
 
 Wir haben Ihnen hier umfangreiche [Hinweise für das Zitieren von Forschungsliteratur](https://cloud.rz.uni-kiel.de/index.php/s/BNA5SG8bzmg2XjX) zusammengestellt.
 
+#### ChatGPT und ähnliche Software zur Unterstützung des Schreibens
+
+**Frage:** Darf ich ChatGPT oder [andere LLMs](https://en.wikipedia.org/wiki/Large_language_model) für die Beantwortung der Einsendeaufgaben und Prüfungsleistung in infEthik-01a verwenden?
+
+**Antwort:** Prinzipiell ja, dabei gelten jedoch zwei wichtige Einschränkungen bzw. Voraussetzungen:
+
+1. Der Umfang, in dem Sie ChatGPT verwenden, darf keinen Zweifel daran aufkommen lassen, dass es sich weiterhin um eine eigene, wissenschaftliche Leistung *von Ihnen* handelt. Wann besteht dieser Zweifel? Wenn Sie sich diese Frage stellen, ist das ein guter Hinweis darauf, dass Sie möglicherweise bereits die Linie überschritten haben. Wenn Sie unsicher sind, sollten Sie das Gespräch mit den Übungsleitungen suchen.
+2. Die Verwendung von ChatGPT und ähnlicher Software ist ein Hilfsmittel. Hilfsmittel müssen – ähnlich wie verwendete Literatur – im Anhang Ihrer Arbeit angegeben werden. Dabei sollten Sie das verwendete Hilfsmittel, den Umfang der Verwendung (wie viel und welcher Text wurde übernommen) und die verwendeten Prompts angeben.
+
+In der Eigenständigkeitserklärung sichern Sie zu, dass Sie alle Hilfsmittel angegeben haben. Sollten Sie entsprechend ChatGPT verwenden ohne dies anzugeben, müssen wir das als Täuschungsversuch werten.
+
+In Woche 11 der Vorlesung geht um „Ethik in der Wissenschaft“, dort wird auch das Thema Plagiate behandelt. Eine Verwendung von ChatGPT die nicht den Regeln oben folgt, ist aus den gleichen Gründen ethisch problematisch, die auch für Plagiate (in der Wissenschaft) gelten: Es ist intransparent und verhindert die Nachvollzieh- und Reproduzierbarkeit wissenschaftlicher Ergebnisse; es schadet damit nicht nur der wissenschaftlichen Methode, sondern auch dem Ansehen der Wissenschaft überhaupt.
+
 #### Der "letzte Check" vor der Abgabe
 
 Bevor Sie Ihre Einsendeaufgabe oder Prüfungsleistung einreichen, können Sie sich anhand der folgenden Fragen vergewissern, ob Ihre Abgabe den wichtigsten (formalen) Anforderungen entspricht.
