@@ -1074,9 +1074,9 @@ Kreuzen Sie die richtigen Aussagen an!
 
 ### Vorbereitungsaufgabe
 
-* [negativewords.txt](https://cloud.rz.uni-kiel.de/index.php/f/465699522)
-* [positivewords.txt](https://cloud.rz.uni-kiel.de/index.php/f/465699525)
-* [reviews-small.txt](https://cloud.rz.uni-kiel.de/index.php/f/465699531)
+* [negativewords.txt](https://cloud.rz.uni-kiel.de/index.php/s/RW45JTFXj3qdqJG)
+* [positivewords.txt](https://cloud.rz.uni-kiel.de/index.php/s/s3i9jW9swpQ9dLB)
+* [reviews-small.txt](https://cloud.rz.uni-kiel.de/index.php/s/mtLEjcKzP4RbEWD)
 
 **Hinweise:**
 
