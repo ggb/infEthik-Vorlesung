@@ -512,6 +512,8 @@ Diese Aufgabe wird anhand der folgenden Kriterien bewertet:
 
 Zum Bestehen müssen Sie mindestens 7 von 9 Kriterien erreichen/nicht verletzen.
 
+**Hinweis:** Unabhängig von den hier genannten Kriterien werden Einsendungen, die nicht oder nicht sinnvoll auf die gestellten Aufgaben eingehen als "nicht sinnvoll bearbeitet" bewertet. Es können nur Texte und Textabschnitte für die Bewertung berücksichtigt werden, die sprachlich verständlich sind. 
+
 ## 03 Argumentationslinien
 
 ### Vorbereitungsaufgabe
@@ -1339,6 +1341,8 @@ Diese Aufgabe wird anhand der folgenden Kriterien bewertet:
 
 Zum Bestehen müssen Sie mindestens 7 von 9 Kriterien erreichen/nicht verletzen.
 
+**Hinweis:** Unabhängig von den hier genannten Kriterien werden Einsendungen, die nicht oder nicht sinnvoll auf die gestellten Aufgaben eingehen als "nicht sinnvoll bearbeitet" bewertet. Es können nur Texte und Textabschnitte für die Bewertung berücksichtigt werden, die sprachlich verständlich sind. 
+
 #### Fallstudie
 
 Chris und Rose arbeiten in einem Roboter-Team bei einem mittelständischen Unternehmen, das Spielwaren herstellt. Dem Trend der Zeit folgend, gibt es schon seit mehreren Jahren eine wachsende eigene Abteilung für vernetztes elektronisches Spielzeug. Chris und Rose gehören zu einer kleinen Gruppe, die kuschlige, bewegliche Roboter konzipiert und baut, die speziell – aber nicht nur – an Kinder vermarktet werden.
@@ -1817,6 +1821,8 @@ Diese Aufgabe wird anhand der folgenden Kriterien bewertet:
 * Die Verhaltensalternativen werden anhand einer in der Vorlesung vorgestellten Argumentationslinie bewertet.
 
 Zum Bestehen müssen Sie mindestens 7 von 9 Kriterien erreichen/nicht verletzen.
+
+**Hinweis:** Unabhängig von den hier genannten Kriterien werden Einsendungen, die nicht oder nicht sinnvoll auf die gestellten Aufgaben eingehen als "nicht sinnvoll bearbeitet" bewertet. Es können nur Texte und Textabschnitte für die Bewertung berücksichtigt werden, die sprachlich verständlich sind. 
 
 #### Fallbeschreibung "Friendly Helper"
 
