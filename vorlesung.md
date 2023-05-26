@@ -877,6 +877,7 @@ Welche der folgenden Punkte sind Vorraussetzung um laut Andreas Matthias (“The
 * Pfeifer, V. 2009. Ethisch argumentieren: eine Anleitung anhand von aktuellen Fallanalysen. Ethisch argumentieren / Eine Anleitung anhand von aktuellen Fallanalysen. Schöningh.
 * Shafer-Landau, Russ. 2012. Ethical theory: an anthology. Vol. 13. John Wiley & Sons.
 * Talbert, Matthew. 2019. [“Moral Responsibility.”](https://plato.stanford.edu/archives/win2019/entries/moral-responsibility/) In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Winter 2019. Metaphysics Research Lab, Stanford University.
+* Weber, Max. 1971. Politik als Beruf. In Gesammelte politische Schriften. Mohr, Tübingen. (Zitat von den Folien: S. 551f.)
 
 ### 05-02 Typische Probleme
 
