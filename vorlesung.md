@@ -1730,7 +1730,6 @@ Welche Kritikpunkte gibt es an Gamification?
        [[X]] Vernachlässigung von langfristigen Zielen zugunsten kurzfristiger Erfolgserlebnisse
        [[ ]] Steigerung von Motivation und Engagement
        [[ ]] Einschränkung von Freiheitsrechten
-       [[ ]] Steigerung von Motivation und Engagement
 
                            {{2}}
 **Quellen und vertiefende Literatur**
