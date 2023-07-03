@@ -66,13 +66,13 @@ Die Vorbereitungsaufgabe und Vorlesungen sollten zur jeweiligen Woche, die im Mo
 * Wenn die Videos bei der Wiedergabe knistern, verwenden Sie bitte einen anderen Browser!
 * Die Videos lassen sich auch beschleunigt wiedergeben…
 
-### Wie sie erfolgreich an dieser Veranstaltung teilnehmen
+### Wie Sie erfolgreich an dieser Veranstaltung teilnehmen:
 
 * Nehmen Sie regelmäßig an der Übung teil!
 * Bringen Sie bitte nach Möglichkeit einen Laptop o. ä. mit, da wir in den Übungen immer wieder Onlinetools zur gemeinsamen Arbeit verwenden werden.
 * Erledigen Sie die wöchentlichen Vorbereitungsaufgaben: Planen Sie dafür jeweils eine halbe Stunde Bearbeitungszeit ein.
 * Beteiligen Sie sich und stellen Sie Fragen.
-* Nutzen Sie die Zeit des Selbststudiums um mit den Quiz-Aufgaben Ihr Wissen zu überprüfen oder verfolgen Sie Themen, die Sie Interessieren in den Quellen und der vertiefenden Literatur zu jedem Thema weiter.
+* Nutzen Sie die Zeit des Selbststudiums, um mit den Quiz-Aufgaben Ihr Wissen zu überprüfen oder verfolgen Sie Themen, die Sie interessieren in den Quellen und der vertiefenden Literatur zu jedem Thema weiter.
 * Setzen Sie sich frühzeitig mit den Einsendeaufgaben auseinander. Wenn Sie nicht viel (akademische) Schreiberfahrung haben, dann nehmen Sie unsere vielfältigen Hilfsangebote (Sprechstunden, Hinweise weiter unten, Vorbereitungsaufgaben) in Anspruch.
 
 ### Status dieses Dokuments
@@ -120,7 +120,7 @@ Bitte geben Sie auf der ersten Seite Ihren vollen Namen, Matrikelnummer und (fü
 * Fußnoten: 10 pt. Times New Roman (oder vergleichbare Serifenschrift), Zeilenabstand einfach
 * Seitenzählung arabisch, die Nummerierung der Seiten beginnt nach dem Deckblatt
 
-Legen Sie jeder Abgabe (Einsendeaufgaben, Prüfung) eine unterschriebene Eigenständigkeitserklärung (Vorlage s. u.) bei. Die Eigenständigkeitserklärung zählt nicht zur Gesamtlänge. Ohne unterschriebene Eigenständigkeitserklärung wird Ihre Abgabe als nicht sinnvoll bearbeitet bzw. nicht bestanden bewertet.
+Legen Sie jeder Abgabe (Einsendeaufgaben, Prüfung) eine unterschriebene Eigenständigkeitserklärung (Vorlage s. u.) bei. Die Eigenständigkeitserklärung zählt nicht zur Gesamtlänge. Ohne unterschriebene Eigenständigkeitserklärung wird Ihre Abgabe als nicht sinnvoll bearbeitet bzw. als nicht bestanden bewertet.
 
 <br />
 
@@ -153,7 +153,7 @@ Wir haben Ihnen hier umfangreiche [Hinweise für das Zitieren von Forschungslite
 
 In der Eigenständigkeitserklärung sichern Sie zu, dass Sie alle Hilfsmittel angegeben haben. Sollten Sie entsprechend ChatGPT verwenden ohne dies anzugeben, müssen wir das als Täuschungsversuch werten.
 
-In Woche 11 der Vorlesung geht um „Ethik in der Wissenschaft“, dort wird auch das Thema Plagiate behandelt. Eine Verwendung von ChatGPT die nicht den Regeln oben folgt, ist aus den gleichen Gründen ethisch problematisch, die auch für Plagiate (in der Wissenschaft) gelten: Es ist intransparent und verhindert die Nachvollzieh- und Reproduzierbarkeit wissenschaftlicher Ergebnisse; es schadet damit nicht nur der wissenschaftlichen Methode, sondern auch dem Ansehen der Wissenschaft überhaupt.
+In Woche 11 der Vorlesung geht es um „Ethik in der Wissenschaft“, dort wird auch das Thema Plagiate behandelt. Eine Verwendung von ChatGPT, die nicht den Regeln oben folgt, ist aus den gleichen Gründen ethisch problematisch, die auch für Plagiate (in der Wissenschaft) gelten: Es ist intransparent und verhindert die Nachvollzieh- und Reproduzierbarkeit wissenschaftlicher Ergebnisse; es schadet damit nicht nur der wissenschaftlichen Methode, sondern auch dem Ansehen der Wissenschaft überhaupt.
 
 #### Der "letzte Check" vor der Abgabe
 
