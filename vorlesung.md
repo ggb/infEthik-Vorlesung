@@ -18,7 +18,7 @@ tags:     Ethik, Informatik, Privatheit, Verantwortung, Forschungsethik, Machine
 
 # infEthik-01a: Ethik in der Informatik
 
-Längst haben Informatiksysteme in den unterschiedlichsten Facetten den Alltag erreicht, sie helfen bei der Navigation auf der Straße, ebenso, wie zur Verarbeitung der immer größer werdenden Wissensbestände. Lernende Maschinen entscheiden darüber, ob ein Kredit vergeben oder eine Versicherung abgeschlossen werden kann, sie optimieren Warenflüsse und Roboter und Softwaresysteme übernehmen die Arbeit von Menschen in den unterschiedlichsten Bereichen: In gefährlichen, wie als Minensucher oder Feuerwehrfrau, im klassischen Niedriglohnsektor, aber auch im Journalismus oder der Justiz.
+Längst haben Informatiksysteme in den unterschiedlichsten Facetten den Alltag erreicht. Sie helfen bei der Navigation auf der Straße oder bei der Verarbeitung immer größer werdender Wissensbestände. Lernende Maschinen entscheiden darüber, ob ein Kredit vergeben oder eine Versicherung abgeschlossen werden kann. Sie optimieren Warenflüsse und Roboter oder Softwaresysteme übernehmen die Arbeit von Menschen in den unterschiedlichsten Bereichen: In gefährlichen, wie als Minensucher oder Feuerwehrfrau, im klassischen Niedriglohnsektor, aber auch im Journalismus oder der Justiz.
 
 Damit kommt Informatiker:innen eine besondere Verantwortung als Entwickler:innen dieser Systeme zu: Sie müssen absehen und bewerten können, welche Personengruppen ein von ihnen entwickeltes System betrifft und was mögliche Folgen sind. Der damit verbundene Diskurs erfolgt im Anschluss an das philosophische Arbeitsfeld der Ethik, so dass als besondere Erschwernis für Informatiker:innen der solide Umgang mit Begriffen und Praktiken aus einem anderen Fach zu erlernen ist.
 
@@ -252,7 +252,7 @@ Weitere Hinweise finden Sie bei den einzelnen Themen der Veranstaltung. Diese Li
 Welche der folgenden Aspekte sind nicht Teil der Epoché (Urteilsenthaltung)?
 
 
-          [[ ]] Alle Perspektiven eines Problems unvoreingenommen offen legen 
+          [[ ]] Alle Perspektiven eines Problems unvoreingenommen offen legen
           [[ ]] Meinungen und Gefühle zum Thema zurückhalten und rein faktenbasiert urteilen
           [[x]] Erst ein Urteil bilden und dieses später hinterfragen
           [[ ]] Empathie für andere Positionen haben/entwickeln
@@ -333,7 +333,7 @@ Beantworten Sie außerdem die beiden Fragen:
 Welche der folgenden Fragen sind für den ersten Zugang zu einem Text relevant?
 
 
-          [[X]] Wer ist der Autor des Textes? 
+          [[X]] Wer ist der Autor des Textes?
           [[X]] Bezieht sich der Text auf Aktuelles oder Vergangenes?
           [[X]] In welchem Land wurde der Text veröffentlicht?
           [[ ]] Wie fühle ich mich beim Lesen des Textes?
@@ -360,49 +360,49 @@ Ordnen Sie den folgenden Argumenten zu, ob es sich um normative, indirekte, Fakt
 
 1. Die Verwendung von Smartphones als Hilfsmittel spielt in unserem privaten Leben eine immer größer werdende Rolle, weshalb sie auch im Unterricht als Hilfsmittel erlaubt werden sollten.
 
-   
-   [( )] normatives Argument 
-   [(X)] indirektes Argument 
+
+   [( )] normatives Argument
+   [(X)] indirektes Argument
    [( )] Faktenargument
-   [( )] Argument ad populum 
+   [( )] Argument ad populum
    [( )] Argument ad hominem
-   
+
 2. Wir sollten Person X nicht vertrauen, sie hat uns schon mehrfach angelogen.
 
-   
-   [( )] normatives Argument 
-   [( )] indirektes Argument 
+
+   [( )] normatives Argument
+   [( )] indirektes Argument
    [( )] Faktenargument
-   [( )] Argument ad populum 
+   [( )] Argument ad populum
    [(X)] Argument ad hominem
-   
+
 3. Abschreiben sollte mit einer schlechten Note bestraft werden, weil man für seine Taten einstehen soll.
 
-   
-   [(X)] normatives Argument 
-   [( )] indirektes Argument 
+
+   [(X)] normatives Argument
+   [( )] indirektes Argument
    [( )] Faktenargument
-   [( )] Argument ad populum 
+   [( )] Argument ad populum
    [( )] Argument ad hominem
-   
+
 4. Marke X ist führend in Europa, also solltest du ihre Produkte kaufen.
 
-   
-   [( )] normatives Argument 
-   [( )] indirektes Argument 
+
+   [( )] normatives Argument
+   [( )] indirektes Argument
    [( )] Faktenargument
-   [(X)] Argument ad populum 
+   [(X)] Argument ad populum
    [( )] Argument ad hominem
-   
+
 5. Bei 90 Prozent der 2.000 Versuchspersonen traten unmittelbar nach Verzehr des Produktes Atembeschwerden, Hautreizungen und akute Kopfschmerzen auf. Deshalb hätte es erst gar nicht verkauft werden dürfen.
 
-   
-   [( )] normatives Argument 
-   [( )] indirektes Argument 
+
+   [( )] normatives Argument
+   [( )] indirektes Argument
    [(X)] Faktenargument
-   [( )] Argument ad populum 
+   [( )] Argument ad populum
    [( )] Argument ad hominem
-   
+
 
 Welche der genannten Argumente würden sie als seriös einschätzen?
 
@@ -410,7 +410,7 @@ Welche der genannten Argumente würden sie als seriös einschätzen?
    [[X]] 1.
    [[ ]] 2.
    [[X]] 3.
-   [[ ]] 4. 
+   [[ ]] 4.
    [[X]] 5.
 
 
@@ -460,7 +460,7 @@ Welche der folgenden Vorteile bietet das Rogerian Argument gegenüber anderen Ar
    [[X]] Es hilft die eigene Position zu reflektieren.
    [[ ]] Es ist leichter die Gegenseite immer wieder falsch dazustellen.
    [[X]] Konsensorientierung hilft verschiedene Positionen anzunähern.
-   [[ ]] Es ist besonders geeignet für kürzere Meinungsbeiträge. 
+   [[ ]] Es ist besonders geeignet für kürzere Meinungsbeiträge.
    [[X]] Es erleichtert das Einnahmen der Gegenposition durch vorherige Annäherung.
 
 
@@ -512,7 +512,7 @@ Diese Aufgabe wird anhand der folgenden Kriterien bewertet:
 
 Zum Bestehen müssen Sie mindestens 7 von 9 Kriterien erreichen/nicht verletzen.
 
-**Hinweis:** Unabhängig von den hier genannten Kriterien werden Einsendungen, die nicht oder nicht sinnvoll auf die gestellten Aufgaben eingehen als "nicht sinnvoll bearbeitet" bewertet. Es können nur Texte und Textabschnitte für die Bewertung berücksichtigt werden, die sprachlich verständlich sind. 
+**Hinweis:** Unabhängig von den hier genannten Kriterien werden Einsendungen, die nicht oder nicht sinnvoll auf die gestellten Aufgaben eingehen als "nicht sinnvoll bearbeitet" bewertet. Es können nur Texte und Textabschnitte für die Bewertung berücksichtigt werden, die sprachlich verständlich sind.
 
 ## 03 Argumentationslinien
 
@@ -920,7 +920,7 @@ In-the-loop?
    [[ ]] Größere Verantwortung auf Leitern eines Projektes
    [[ ]] Leichtere Abwälzung von Fehlern auf Einzelpersonen
    [[X]] Erschwerte Wahrnehmung der Verantwortung von Beteiligten selbstfahrende
-   [[X]] Erschwerte Verantwortungszuweisung 
+   [[X]] Erschwerte Verantwortungszuweisung
 
 
 (4.) Was steckt hinter der sogenannten "Dual Use" Problematik?
@@ -1201,7 +1201,7 @@ Welche der Aussagen über "Ghost Worker" sind richtig?
 
    [[ ]] Datenkontrolle von Verbraucherschutzportalen
    [[X]] Erstellen und Verifizieren Trainingsdaten für Maschinelles Lernen  
-   [[X]] Erledigen Moderationsarbeiten in sozialen Netzwerken 
+   [[X]] Erledigen Moderationsarbeiten in sozialen Netzwerken
    [[X]] Werden für ihre Arbeit meist sehr schlecht bezahlt
    [[ ]] Werden von den Firmen fest angestellt
    [[X]] Es gibt weltweit ca 100 Millionen
@@ -1242,7 +1242,7 @@ Welche Aussagen über das Bias im Kontext von Machine Learning sind richtig?
    [[ ]] Firmware die von ihrem Betriebssystem geladen wird
    [[X]] Maschinelle Bevorzugung von einzelnen Individuen oder Gruppen durch einen Algorithmus
    [[ ]] Bias kann nicht unvorhergesehen auftreten und ist immer gewollt
-   [[X]] Es ist unklar sich Bias in Daten verhindern lässt 
+   [[X]] Es ist unklar sich Bias in Daten verhindern lässt
    [[X]] Bias legitimiert sich selbst und verstärkt sich, dadurch das Algorithmen menschliches Verhalten nachbilden und imitieren
    [[ ]] Abstraktion von Daten ist neutral und kann keine Ursache für Bias sein
 
@@ -1342,7 +1342,7 @@ Diese Aufgabe wird anhand der folgenden Kriterien bewertet:
 
 Zum Bestehen müssen Sie mindestens 7 von 9 Kriterien erreichen/nicht verletzen.
 
-**Hinweis:** Unabhängig von den hier genannten Kriterien werden Einsendungen, die nicht oder nicht sinnvoll auf die gestellten Aufgaben eingehen als "nicht sinnvoll bearbeitet" bewertet. Es können nur Texte und Textabschnitte für die Bewertung berücksichtigt werden, die sprachlich verständlich sind. 
+**Hinweis:** Unabhängig von den hier genannten Kriterien werden Einsendungen, die nicht oder nicht sinnvoll auf die gestellten Aufgaben eingehen als "nicht sinnvoll bearbeitet" bewertet. Es können nur Texte und Textabschnitte für die Bewertung berücksichtigt werden, die sprachlich verständlich sind.
 
 #### Fallstudie
 
@@ -1402,7 +1402,7 @@ Wie unterscheiden sich "Ethischen Leitlinien" von "Codes of Conduct"?
 Welche 4 Überthemen werden in den 13. Artikeln der Ethischen Leitlinien der GI behandelt?
 
 
-   [[X]] Kompetenzen 
+   [[X]] Kompetenzen
    [[X]] Arbeitsbedingungen
    [[X]] Bildung
    [[ ]] Finanzielle Integrität und Transparenz
@@ -1511,7 +1511,7 @@ Wann sollte eine ethische Fallanalyse durchgeführt werden?
 
 
    [[X]] Bevor Entscheidungen getroffen werden, die ethische Implikationen haben
-   [[ ]] Nachdem Entscheidungen getroffen wurden, um ihre Auswirkungen zu beurteilen 
+   [[ ]] Nachdem Entscheidungen getroffen wurden, um ihre Auswirkungen zu beurteilen
    [[ ]] Es gibt keine Notwendigkeit, ethische Fallanalyse durchzuführen
 
 
@@ -1548,7 +1548,7 @@ Welche Vorteile bieten Ethische Designdokumente und Impact Statements für Unter
 
 
    [[ ]] Garantie für die Vermeidung von Regulierungen und Strafen
-   [[X]] Unterstützung bei der Identifizierung und Bewertung von ethischen Problemen im Zusammenhang mit Technologie- und Produktentwicklungen 
+   [[X]] Unterstützung bei der Identifizierung und Bewertung von ethischen Problemen im Zusammenhang mit Technologie- und Produktentwicklungen
    [[X]] Möglichkeit, langfristige Risiken und Chancen zu identifizieren und zu bewerten
    [[ ]] Erhöhung der Popularität des Unternehmens oder Entwicklers
 
@@ -1776,7 +1776,7 @@ Warum sollten Unternehmen ihre Website barrierefrei gestalten?
        [[X]] Um rechtliche Vorgaben zu erfüllen
        [[X]] Um die Nutzerfreundlichkeit für alle Nutzer zu erhöhen
        [[ ]] Um das Image des Unternehmens zu verbessern
-       [[ ]] Um Kosten zu sparen 
+       [[ ]] Um Kosten zu sparen
 
 
 Wie können Unternehmen ihre Website barrierefrei gestalten?
@@ -1822,7 +1822,7 @@ Diese Aufgabe wird anhand der folgenden Kriterien bewertet:
 
 Zum Bestehen müssen Sie mindestens 7 von 9 Kriterien erreichen/nicht verletzen.
 
-**Hinweis:** Unabhängig von den hier genannten Kriterien werden Einsendungen, die nicht oder nicht sinnvoll auf die gestellten Aufgaben eingehen als "nicht sinnvoll bearbeitet" bewertet. Es können nur Texte und Textabschnitte für die Bewertung berücksichtigt werden, die sprachlich verständlich sind. 
+**Hinweis:** Unabhängig von den hier genannten Kriterien werden Einsendungen, die nicht oder nicht sinnvoll auf die gestellten Aufgaben eingehen als "nicht sinnvoll bearbeitet" bewertet. Es können nur Texte und Textabschnitte für die Bewertung berücksichtigt werden, die sprachlich verständlich sind.
 
 #### Fallbeschreibung "Friendly Helper"
 
@@ -1877,7 +1877,7 @@ Was sind wichtige Aspekte die bei der Reflektion von Forschungsergebnissen berü
        [[ ]] Die Identifikation von Fehlern anderer Forschungsgruppen
        [[X]] Die ausreichende Anonymisierung der Probandendaten
        [[X]] Die Gewährleistung der Validität der Forschungsergebnisse
-       
+
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -1907,7 +1907,7 @@ Was gilt laut ACM Policy als Plagiat?
        [[X]] Die wortwörtliche Übernahme von Texten oder Teilen aus Texten anderer Autoren ohne entsprechende Quellenangabe
        [[X]] Das Paraphrasieren von Texten anderer Autoren ohne entsprechende Quellenangabe
        [[X]] Das Kopieren von Grafiken, Tabellen oder Bildern anderer Autoren ohne entsprechende Quellenangabe
-       [[X]] Das Abschreiben von Programmen oder Programmteilen anderer Autoren ohne entsprechende Quellenangabe 
+       [[X]] Das Abschreiben von Programmen oder Programmteilen anderer Autoren ohne entsprechende Quellenangabe
 
 Was sollte man tun, um Plagiate zu vermeiden?
 
@@ -1915,7 +1915,7 @@ Was sollte man tun, um Plagiate zu vermeiden?
        [[ ]] Alle Texte, Grafiken oder Tabellen selbst erstellen und keine fremden Quellen verwenden
        [[X]] Alle verwendeten Quellen korrekt zitieren und angeben
        [[ ]] Sich auf die Verwendung von Texten anderer Autoren beschränken, die älter als 50 Jahre sind
-       [[ ]] Sich auf die Verwendung von Quellen beschränken, die nicht im Internet verfügbar sind 
+       [[ ]] Sich auf die Verwendung von Quellen beschränken, die nicht im Internet verfügbar sind
 
 
                            {{2}}
@@ -1940,10 +1940,10 @@ Was sollte beim Schreiben eines Impact Statements beachtet werden?
        [[X]] Verwenden Sie klare und präzise Sprache
        [[ ]] Behandeln Sie nur die Nachteile und Probleme ihrer Forschung
        [[ ]] Versuchen Sie Unsicherheiten zu kaschieren
-       [[X]] Verwenden Sie ethische Fachbegriffe 
+       [[X]] Verwenden Sie ethische Fachbegriffe
        [[X]] Verwenden Sie weiterführende Literatur, wenn sie sinnvoll oder nötig ist  
-       [[ ]] Bei theoretischen Arbeiten ist ein Impact Statement unnötig 
-       
+       [[ ]] Bei theoretischen Arbeiten ist ein Impact Statement unnötig
+
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -1969,8 +1969,8 @@ Was legt eine Zivilklausel an Universitäten fest?
        [[ ]] Schreibt den Studierenden das Tragen von Militärkleidung vor
        [[ ]] Erlaubt die Nutzung von zivilen Technologien und Materialien in der Forschung und Lehre an der Universität
        [[ ]] Reguliert die Zusammenarbeit zwischen der Universität und zivilen Organisationen
-       [[ ]] Fördert die Durchführung von zivilgesellschaftlichen Projekten an der Universität 
-       [[X]] Schreibt den Verzicht auf militärische Forschung und Lehre an der Universität vor 
+       [[ ]] Fördert die Durchführung von zivilgesellschaftlichen Projekten an der Universität
+       [[X]] Schreibt den Verzicht auf militärische Forschung und Lehre an der Universität vor
 
 
                            {{2}}
@@ -2053,7 +2053,7 @@ Was ist Whistleblowing?
        [[ ]] Das illegale Hacken in die Computersysteme einer Organisation
        [[X]] Die offene oder verdeckte Meldung von Missständen in einer Organisation an eine externe Stelle
        [[ ]] Das Verkaufen von vertraulichen Informationen einer Organisation an Dritte
-       [[ ]] Die gezielte Rufschädigung einer Organisation durch das Verbreiten von Falschinformationen 
+       [[ ]] Die gezielte Rufschädigung einer Organisation durch das Verbreiten von Falschinformationen
 
 
 Werden Whistleblower geschützt und wenn ja wie?
@@ -2061,8 +2061,8 @@ Werden Whistleblower geschützt und wenn ja wie?
 
        [[X]] Ja, Whistleblower werden durch mehrere Richtlinien und Gesetze vor Benachteiligung und Vergeltung geschützt
        [[ ]] Ja, Whistleblower werden durch Aufnahme in das Zeugenschutzprogramm geschützt
-       [[ ]] Nein, Whistleblower verstoßen gegen die Treuepflicht und werden deshalb nicht geschützt 
-       
+       [[ ]] Nein, Whistleblower verstoßen gegen die Treuepflicht und werden deshalb nicht geschützt
+
 
                          {{2}}
 **Quellen und vertiefende Literatur**
