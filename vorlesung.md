@@ -263,18 +263,21 @@ Abschließend wird noch ein kurzer Ausblick darüber geführt, welche Probleme e
                            {{1}}
 **Quiz**
 
-Welche der folgenden Aspekte sind nicht Teil der Epoché (Urteilsenthaltung)?
+Was bedeutet Epoché?
 
+  [[ ]] Urzustand
+  [[X]] Urteilsenthaltung
+  [[ ]] Urteilsbildung
 
-          [[ ]] Alle Perspektiven eines Problems unvoreingenommen offen legen
-          [[ ]] Meinungen und Gefühle zum Thema zurückhalten und rein faktenbasiert urteilen
-          [[x]] Erst ein Urteil bilden und dieses später hinterfragen
-          [[ ]] Empathie für andere Positionen haben/entwickeln
-          [[ ]] Nicht urteilen, solange man kein klares Bild aller Umstände entwickelt hat
+Welche der folgenden Aspekte sind nicht Teil der Epoché?
 
+  [[ ]] Alle Perspektiven eines Problems unvoreingenommen offen legen
+  [[ ]] Meinungen und Gefühle zum Thema zurückhalten und rein faktenbasiert urteilen
+  [[x]] Erst ein Urteil bilden und dieses später hinterfragen
+  [[ ]] Empathie für andere Positionen haben/entwickeln
+  [[ ]] Nicht urteilen, solange man kein klares Bild aller Umstände entwickelt hat
 
 ---
-
 
                           {{2}}
 **Quellen und vertiefende Literatur**
@@ -297,25 +300,27 @@ Welche der folgenden Aspekte sind nicht Teil der Epoché (Urteilsenthaltung)?
                            {{1}}
 **Quiz**
 
+Welche Aussagen zu Ethik sind korrekt?
+
+  [[ ]] Der Begriff wird einheitlich verwendet.
+  [[X]] Ethik beschäftigt sich mit dem richtigen Handeln.
+  [[ ]] Ethik ist ein einfaches Konzept.
+  [[X]] In der Informatikethik werden u.a. die Handlungsnormen und Werte identifiziert, systematisiert und problematisiert.
+  [[X]] Ethik reflektiert über und systematisiert existierende Moral.
+
 Entscheiden Sie, um was für eine Art der Fragestellung es sich bei den folgenden Fragen handelt (Moral, Ethik, Metaethik):
 
 Welche Schlüsse kann ich aus der Auswertung von Benutzerdaten schließen, sodass diese weiter „natürlich“ und wertfrei bleiben?
 
-
-[[Ethik]]
-
+  [[Ethik]]
 
 Sollte ich meine Benutzerdaten an die Hersteller des Programms weitergeben?
 
-
-[[Moral]]
-
+  [[Moral]]
 
 Wie kann die „Natürlichkeit“ und Wertfreiheit von genommenen Daten bewertet werden?
 
-
-[[Metaethik]]
-
+  [[Metaethik]]
 
 ## 02 Argumentation
 
@@ -355,22 +360,20 @@ Beantworten Sie außerdem die beiden Fragen:
 
 ---
 
-
                            {{1}}
 **Quiz**
 
 Welche der folgenden Fragen sind für den ersten Zugang zu einem Text relevant?
 
-
-          [[X]] Wer ist der Autor des Textes?
-          [[X]] Bezieht sich der Text auf Aktuelles oder Vergangenes?
-          [[X]] In welchem Land wurde der Text veröffentlicht?
-          [[ ]] Wie fühle ich mich beim Lesen des Textes?
-          [[X]] Welches Fazit kann man aus dem Text ziehen?
-          [[ ]] Wie lang ist der Text?
-          [[ ]] Welche Wörter nutzt der Autor besonders häufig?
-          [[X]] Wann ist der Text erschienen?
-          [[X]] Was ist das (Haupt-)Thema des Textes?
+  [[X]] Wer ist der Autor des Textes?
+  [[X]] Bezieht sich der Text auf Aktuelles oder Vergangenes?
+  [[X]] In welchem Land wurde der Text veröffentlicht?
+  [[ ]] Wie fühle ich mich beim Lesen des Textes?
+  [[X]] Welches Fazit kann man aus dem Text ziehen?
+  [[ ]] Wie lang ist der Text?
+  [[ ]] Welche Wörter nutzt der Autor besonders häufig?
+  [[X]] Wann ist der Text erschienen?
+  [[X]] Was ist das (Haupt-)Thema des Textes?
 
 
 ### 02-02 Argumente analysieren
@@ -389,7 +392,6 @@ Ordnen Sie den folgenden Argumenten zu, ob es sich um normative, indirekte, Fakt
 
 1. Die Verwendung von Smartphones als Hilfsmittel spielt in unserem privaten Leben eine immer größer werdende Rolle, weshalb sie auch im Unterricht als Hilfsmittel erlaubt werden sollten.
 
-
    [( )] normatives Argument
    [(X)] indirektes Argument
    [( )] Faktenargument
@@ -397,7 +399,6 @@ Ordnen Sie den folgenden Argumenten zu, ob es sich um normative, indirekte, Fakt
    [( )] Argument ad hominem
 
 2. Wir sollten Person X nicht vertrauen, sie hat uns schon mehrfach angelogen.
-
 
    [( )] normatives Argument
    [( )] indirektes Argument
@@ -407,15 +408,13 @@ Ordnen Sie den folgenden Argumenten zu, ob es sich um normative, indirekte, Fakt
 
 3. Abschreiben sollte mit einer schlechten Note bestraft werden, weil man für seine Taten einstehen soll.
 
-
    [(X)] normatives Argument
    [( )] indirektes Argument
    [( )] Faktenargument
    [( )] Argument ad populum
    [( )] Argument ad hominem
 
-4. Marke X ist führend in Europa, also solltest du ihre Produkte kaufen.
-
+4. Marke X ist führend in Europa, also solltest Du ihre Produkte kaufen.
 
    [( )] normatives Argument
    [( )] indirektes Argument
@@ -425,22 +424,19 @@ Ordnen Sie den folgenden Argumenten zu, ob es sich um normative, indirekte, Fakt
 
 5. Bei 90 Prozent der 2.000 Versuchspersonen traten unmittelbar nach Verzehr des Produktes Atembeschwerden, Hautreizungen und akute Kopfschmerzen auf. Deshalb hätte es erst gar nicht verkauft werden dürfen.
 
-
    [( )] normatives Argument
    [( )] indirektes Argument
    [(X)] Faktenargument
    [( )] Argument ad populum
    [( )] Argument ad hominem
 
+Welche der genannten Argumente würden Sie als seriös einschätzen?
 
-Welche der genannten Argumente würden sie als seriös einschätzen?
-
-
-   [[X]] 1.
-   [[ ]] 2.
-   [[X]] 3.
-   [[ ]] 4.
-   [[X]] 5.
+  [[X]] 1\.
+  [[ ]] 2\.
+  [[X]] 3\.
+  [[ ]] 4\.
+  [[X]] 5\.
 
 
 ### 02-03 Logisches Schließen
@@ -451,25 +447,35 @@ Welche der genannten Argumente würden sie als seriös einschätzen?
 
 ---
 
-
                            {{1}}
 **Quiz**
 
-Liegt im folgenden Fall ein naturalistischer Fehlschluss vor?
+Welche Aussagen zu Fakten- und Normenaussagen sind korrekt?
+
+  [[X]] Faktenaussagen sind beschreibend.
+  [[ ]] Faktenaussagen bringen eine Norm zum Ausdruck.
+  [[ ]] Faktenaussagen lassen sich nicht auf "Wahr" oder "Falsch" überprüfen.
+  [[X]] Faktenaussagen lassen sich überprüfen.
+  [[ ]] Faktenaussagen beinhalten Forderungen.
+  [[X]] Faktenaussagen richten sich auf eine Tatsache.
+  [[ ]] Normenaussagen richten sich auf eine Tatsache.
+  [[X]] Normenaussagen beinhalten Forderungen.
+  [[X]] Normenaussagen bringen eine Norm zum Ausdruck.
+  [[ ]] Normenaussagen sind beschreibend.
+  [[X]] Normenaussagen lassen sich nicht auf "Wahr" oder "Falsch" überprüfen.
+  [[ ]] Normenaussagen lassen sich überprüfen.
+
+Liegt in den folgenden Fällen ein naturalistischer Fehlschluss vor?
 
 Das Klonen von Tieren ist technisch möglich. Die Natur klont alle Tage. Das heißt das Klonen von Tieren ist moralisch in Ordnung.
 
+  [(X)] Ja
+  [( )] Nein
 
-   [(X)] Ja
-   [( )] Nein
+Wir wollen die Zahl der Verkehrsunfälle verringern. Durch ein Verbot von Handys ohne Freisprecheinrichtung geht die Anzahl der Unfälle um x % zurück. Also sollte man ein     Verbot von Handys ohne Freisprecheinrichtung beim Fahren einführen.
 
-
-Wir wollen die Zahl der Verkehrsunfälle verringern. Durch ein Verbot von Handys ohne Freisprecheinrichtung geht die Anzahl der Unfälle um x % zurück. Also sollte man ein 	Verbot von Handys ohne Freisprecheinrichtung beim Fahren einführen.
-
-
-   [( )] Ja
-   [(X)] Nein
-
+  [( )] Ja
+  [(X)] Nein
 
 ### 02-04 Texte verfassen
 
@@ -479,19 +485,69 @@ Wir wollen die Zahl der Verkehrsunfälle verringern. Durch ein Verbot von Handys
 
 ---
 
-
                            {{1}}
 **Quiz**
 
+In den folgenden Fragen wird jeweils die passende Argumentationsform zu einem formalen Aufbau gesucht.
+
+Der formale Aufbau besteht aus Einleitung, drei Argumenten und einem Schluss.
+
+  [(X)] Five-paragraph essay
+  [( )] Pingpong
+  [( )] Sanduhr
+  [( )] Rogerian Argument
+
+Der formale Aufbau besteht aus einer Einleitung, Argumente der Gegenseite, eigenen Argumenten, einer Kompromiss-Findung und dem Ergebnis mit einem Schluss.
+
+  [( )] Five-paragraph essay
+  [( )] Pingpong
+  [( )] Sanduhr
+  [(X)] Rogerian Argument
+
+Der formale Aufbau besteht aus einer Einleitung für die Gegenposition und Nennung der Argumente von stark zu schwach. Anschließend kommt die Einleitung für die Pro-Argumente, die dazugehörigen Argumente von schwach zu stark und abschließend ein Schlussteil.
+
+  [( )] Five-paragraph essay
+  [( )] Pingpong
+  [(X)] Sanduhr
+  [( )] Rogerian Argument
+
+Der formale Aufbau besteht aus einer Einleitung, sich abwechselnden Pro- und Contra-Argumenten und einem Schlussteil.
+
+  [( )] Five-paragraph essay
+  [(X)] Pingpong
+  [( )] Sanduhr
+  [( )] Rogerian Argument
+
+Die nächsten Fragen beziehen sich auf die Vor- und Nachteile der verschiedenen Argumentationsformen.
+
 Welche der folgenden Vorteile bietet das Rogerian Argument gegenüber anderen Argumentationsstrukturen?
 
+  [[X]] Es hilft die eigene Position zu reflektieren.
+  [[ ]] Es ist leichter die Gegenseite immer wieder falsch dazustellen.
+  [[X]] Konsensorientierung hilft verschiedene Positionen anzunähern.
+  [[ ]] Es ist besonders geeignet für kürzere Meinungsbeiträge.
+  [[X]] Es erleichtert das Einnehmen der Gegenposition durch vorherige Annäherung.
 
-   [[X]] Es hilft die eigene Position zu reflektieren.
-   [[ ]] Es ist leichter die Gegenseite immer wieder falsch dazustellen.
-   [[X]] Konsensorientierung hilft verschiedene Positionen anzunähern.
-   [[ ]] Es ist besonders geeignet für kürzere Meinungsbeiträge.
-   [[X]] Es erleichtert das Einnahmen der Gegenposition durch vorherige Annäherung.
+Bei welcher Argumentationsform muss das Ergebnis der Argumentation bereits vorher feststehen?
 
+  [( )] Five-paragraph essay
+  [( )] Pingpong
+  [(X)] Sanduhr
+  [( )] Rogerian Argument
+
+Welche Aussagen treffen auf die Pingpong Argumentation zu?
+
+  [[ ]] Die Argumentation wirkt überzeugend, weil das stärkste Pro-Argument immer als letztes genannt wird.
+  [[X]] Die eigene Argumentation wird durch Widerlegen gestützt.
+  [[X]] Durch die Gegenposition wird sich mit dem Thema auseinandergesetzt.
+  [[ ]] Es ist kaum Raum für die Entfaltung von Ideen vorhanden.
+
+Es soll ein Meinungsbeitrag geschrieben werden. Welche Argumentationsform ist am besten geeignet?
+
+  [(X)] Five-paragraph essay
+  [( )] Pingpong
+  [( )] Sanduhr
+  [( )] Rogerian Argument
 
 ### Quellen und vertiefende Literatur
 
@@ -609,34 +665,30 @@ Wie haben Sie sich gefühlt, als Sie die Verantwortung für die Designentscheidu
 
 ---
 
-
                         {{1}}
 **Quiz**
 
 Welcher der folgenden Teile ist nicht Teil eines Gedankenexperiments?
 
-
-   [[ ]] Einleitung durch philosophische Fragestellung
-   [[ ]] Kontrafaktisches Szenario
-   [[X]] Unterscheidung zur realen Situation
-   [[ ]] Auswertung des Szenarios in Bezug auf die Fragestellung
-
+  [[ ]] Einleitung durch philosophische Fragestellung
+  [[ ]] Kontrafaktisches Szenario
+  [[X]] Unterscheidung zur realen Situation
+  [[ ]] Auswertung des Szenarios in Bezug auf die Fragestellung
 
 Welche der folgenden Aussagen treffen auf ein moralisches Dilemma zu? Kreuzen Sie die richtigen Antworten an!
 
-
-   [[X]] In einer Dilemmasituation gibt es immer zwei moralisch fragwürdige Möglichkeiten.
-   [[X]] Eine Dilemmasituation besteht aus einer moralischen Entscheidung.
-   [[X]] Keine einzelne Entscheidung ist moralisch zu 100% richtig.
-   [[ ]] Man ist nicht gezwungen eine unmoralische Entscheidung zu treffen.
-   [[ ]] Bei einem Dilemma geht es darum sich zwischen zwei angenehmen Optionen zu entscheiden.
-   [[ ]] Bei einem Dilemma gibt es immer eine richtige Lösung.
-
+  [[X]] Ein Dilemma ist eine Konfliktsituation für einen Akteur mit mehreren unterschiedlichen Handlungsmöglichkeiten, die sich gegenseitig ausschließen.
+  [[X]] In einer Dilemmasituation gibt es moralische Gründe für jede Handlungsmöglichkeit.
+  [[X]] Eine Dilemmasituation besteht aus einer moralischen Entscheidung.
+  [[X]] Keine einzelne Entscheidung ist moralisch zu 100% richtig.
+  [[ ]] Man ist nicht gezwungen eine unmoralische Entscheidung zu treffen.
+  [[ ]] Bei einem Dilemma geht es darum sich zwischen zwei angenehmen Optionen zu entscheiden.
+  [[ ]] Bei einem Dilemma gibt es immer eine richtige Lösung.
+  [[X]] In einer Dilemmasituation müssen alle Handlungsmöglichkeiten durchführbar sein.
 
 ---
 
-
-                           {{2}}
+                           {{2}}                   
 **Quellen und vertiefende Literatur**
 
 Gedankenexperimente:
@@ -671,30 +723,61 @@ Weiterführende Informationen zu den verschiedenen Argumentationslinien bieten d
 
 ---
 
-
                            {{1}}
 **Quiz**
 
-Welcher Argumentationslinie (Utilitarismus, Deontologie und Kontraktualismus) folgen die Akteure in den folgenden Beispielen.
+elche Argumentationslinie kann mit der Phrase "fake it, until you make it" beschrieben werden?
+
+  [( )] Utilitarismus
+  [(X)] Tugendethik
+  [( )] Deontologie
+  [( )] Kontraktualismus
+
+Wie wird beim Utilitarismus eine moralisch wertvolle Handlung bestimmt?
+
+  [[X]] Es wird der moralische Wert einer Handlung allein anhand der zu erwartenden Konsequenzen bzw. Handlungsfolgen bewertet.
+  [[ ]] Es wird der moralische Wert einer Handlung anhand des Prinzips oder der Regel, der beim Handeln gefolgt wird, bewertet.
+  [[ ]] Moralisch gutes Handeln gelingt durch die eigene Charakterausbildung und durch Einübung in bzw. die Habitualisierung von guten Verhaltensweisen.
+  [[ ]] Moralisch gutes Handeln entsteht, in dem Personen des Urzustands sich für das beste der schlechtestmöglichen Resultate entscheiden.
+
+Wie wird beim Kontraktualismus eine moralisch wertvolle Handlung bestimmt?
+
+  [[ ]] Es wird der moralische Wert einer Handlung allein anhand der zu erwartenden Konsequenzen bzw. Handlungsfolgen bewertet.
+  [[ ]] Es wird der moralische Wert einer Handlung anhand des Prinzips oder der Regel, der beim Handeln gefolgt wird, bewertet.
+  [[ ]] Moralisch gutes Handeln gelingt durch die eigene Charakterausbildung und durch Einübung in bzw. die Habitualisierung von guten Verhaltensweisen.
+  [[X]] Moralisch gutes Handeln entsteht, in dem Personen des Urzustands sich für das beste der schlechtestmöglichen Resultate entscheiden.
+
+Wie wird bei der Deontologie eine moralisch wertvolle Handlung bestimmt?
+
+  [[ ]] Es wird der moralische Wert einer Handlung allein anhand der zu erwartenden Konsequenzen bzw. Handlungsfolgen bewertet.
+  [[X]] Es wird der moralische Wert einer Handlung anhand des Prinzips oder der Regel, der beim Handeln gefolgt wird, bewertet.
+  [[ ]] Moralisch gutes Handeln gelingt durch die eigene Charakterausbildung und durch Einübung in bzw. die Habitualisierung von guten Verhaltensweisen.
+  [[ ]] Moralisch gutes Handeln entsteht, in dem Personen des Urzustands sich für das beste der schlechtestmöglichen Resultate entscheiden.
+
+Wie wird bei der Tugendethik eine moralisch wertvolle Handlung bestimmt?
+
+  [[ ]] Es wird der moralische Wert einer Handlung allein anhand der zu erwartenden Konsequenzen bzw. Handlungsfolgen bewertet.
+  [[ ]] Es wird der moralische Wert einer Handlung anhand des Prinzips oder der Regel, der beim Handeln gefolgt wird, bewertet.
+  [[X]] Moralisch gutes Handeln gelingt durch die eigene Charakterausbildung und durch Einübung in bzw. die Habitualisierung von guten Verhaltensweisen.
+  [[ ]] Moralisch gutes Handeln entsteht, in dem Personen des Urzustands sich für das beste der schlechtestmöglichen Resultate entscheiden.
+
+Welcher Argumentationslinie folgen die Akteure in den folgenden Beispielen?
 
 In den Marvelfilmen will Thanos die Hälfte der gesamten Population auslöschen. Er begründet das damit, dass durch die Ressourcenknappheit sonst früher oder später der ganze Planet zugrunde geht.
 
-
-   [[X]] Utilitarismus
-   [[ ]] Deontologie
-   [[ ]] Kontraktualismus
-
+  [(X)] Utilitarismus
+  [( )] Tugendethik
+  [( )] Deontologie
+  [( )] Kontraktualismus
 
 In dem Film "Bridge of Spies" vertritt James Donovan als Strafverteidiger Abel, einen russischen Spion, weil auch dieser ein verfassungsmäßiges Recht auf einen Anwalt hat.
 
-
-   [[ ]] Utilitarismus
-   [[ ]] Deontologie
-   [[X]] Kontraktualismus
-
+  [( )] Utilitarismus
+  [( )] Tugendethik
+  [( )] Deontologie
+  [(X)] Kontraktualismus
 
 ---
-
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -744,23 +827,36 @@ Priorisieren Sie die Gründe und versuchen Sie eine systematische Darstellungswe
 
 ---
 
-
                            {{1}}
 **Quiz**
 
+Welche Aussagen sind definitorische Merkmale von Begriffen?
+
+  [[ ]] Ein Begriff oder ein Konzept funktioniert immer ohne Bezug zu anderen Konzepten.
+  [[X]] Begriffe sind Bausteine der Gedanken.
+  [[X]] Ein Begriff oder ein Konzept funktioniert nie ohne Bezug zu anderen Konzepten.
+  [[X]] Begriffe können auch als Konzepte bezeichnet werden.
+  [[ ]] Begriffe können nicht als Konzepte bezeichnet werden.
+
+Was bedeutet der Begriff Ambiguität?
+
+  [[ ]] Geschwindigkeit
+  [[ ]] Vielfalt
+  [[ ]] Eindeutigkeit
+  [[ ]] Wahrhaftigkeit
+  [[X]] Mehrdeutigkeit
+  [[ ]] Volumen
+
 Welche der folgenden Eigenschaften muss ein System erfüllen, um als moralischer Akteur angesehen zu werden?
 
-
-   [[X]] Interaktivität
-   [[ ]] Versatilität
-   [[X]] Autonomie
-   [[X]] Adaptivität
-   [[ ]] Dualität
-   [[ ]] Dignität
-
+  [[X]] Interaktivität
+  [[ ]] Versatilität
+  [[X]] Autonomie
+  [[X]] Adaptivität
+  [[ ]] Dualität
+  [[ ]] Dignität
 
 ---
-
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -793,17 +889,14 @@ Autonomie:
 
 Welche der folgenden Eigenschaften sollte eine Concept Map haben?
 
-
-   [[ ]] Die Map ist ein Baum.
-   [[X]] Die Map ist hierarchisch organisiert.
-   [[X]] Die Map verfügt über Querverbindungen.
-   [[ ]] Die Verbindungen sind nicht beschriftet.
-   [[X]] Zwei Knoten und die Verbindung dazwischen lassen sich wie ein Satz lesen.
-   [[ ]] Jeder Knoten ist ein Attribut.
-
+  [[ ]] Die Map ist ein Baum.
+  [[X]] Die Map ist hierarchisch organisiert.
+  [[X]] Die Map verfügt über Querverbindungen.
+  [[ ]] Die Verbindungen sind nicht beschriftet.
+  [[X]] Zwei Knoten und die Verbindung dazwischen lassen sich wie ein Satz lesen.
+  [[ ]] Jeder Knoten ist ein Attribut.
 
 ---
-
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -822,35 +915,39 @@ Welche der folgenden Eigenschaften sollte eine Concept Map haben?
                            {{1}}
 **Quiz**
 
+Welches Wort muss bei der folgenden Aussage ergänzt werden?
+Ein/e ??? entspringt aus einem bestimmten Bedürfnis.
+
+  [[X]] Interesse
+  [[ ]] Norm
+  [[ ]] Wert
+
+Welche Konfliktart beschreibt die nachfolgende Aussage?
+Konflikte beruhen auf der Knappheit von Gütern oder Positionen, die von den Parteien gleichermaßen geschätzt werden.
+
+  [[X]] Interessenkonflikte
+  [[ ]] Wertekonflikte
+
 Was sind Werttypen?
 
+  [[ ]] Alle numerischen Datentypen. Boolean, Char und Date.
+  [[X]] Verschiedene Begründungen für unsere Wertevorstellungen.
 
-   [[ ]] Alle numerischen Datentypen. Boolean, Char und Date.
-   [[X]] Verschiedene Begründungen für unsere Wertevorstellungen.
-
-
-Handelt es sich bei den folgenen Aussagen um Normen oder Werte? (Eingabe: Wert, Norm, Beides, Keines)
+Handelt es sich bei den folgenden Aussagen um Normen oder Werte? (Eingabe: Wert, Norm, Beides, Keines)
 
 Das Leben ist schützenswert.
 
-
-[[Wert]]
-
+  [[Wert]]
 
 Wir müssen unsere Umwelt schützen.
 
-
-[[Norm]]
-
+  [[Norm]]
 
 Um die Sicherheit unserer Daten zu schützen sollten wir große Firmen bei der Erfassung von Daten mehr einschränken.
 
-
-[[Beides]]
-
+  [[Beides]]
 
 ---
-
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -886,18 +983,15 @@ Sie können Ihre Map auch mit Stift und Papier oder mit einem Tool Ihrer Wahl er
                            {{1}}
 **Quiz**
 
-Welche der folgenden Punkte sind Vorraussetzung um laut Andreas Matthias (“The responsibility gap: Ascribing responsibility for the actions of learning automata.”) Verantwortung zu zuschreiben?
+Welche der folgenden Punkte sind Voraussetzung, um laut Andreas Matthias (“The responsibility gap: Ascribing responsibility for the actions of learning automata.”) Verantwortung zuzuschreiben?
 
-
-   [[X]] Der Akteur muss Auskunft über seine Handlungsgründe geben können.
-   [[ ]] Der Akteur muss unabhängig äußerer Umständen seine Taten begründen können.
-   [[X]] Der Aktuer muss die Folgen seiner Handlungen in angemessenem Masse überschauen können.
-   [[X]] Der Akteur muss andere Handlungsmöglichkeiten gehabt haben.
-   [[ ]] Der Akteur darf nicht im Auftrag einer anderen Person gehandelt haben.
-
+  [[X]] Der Akteur muss Auskunft über seine Handlungsgründe geben können.
+  [[ ]] Der Akteur muss unabhängig äußerer Umständen seine Taten begründen können.
+  [[X]] Der Akteur muss die Folgen seiner Handlungen in angemessenem Masse überschauen können.
+  [[X]] Der Akteur muss andere Handlungsmöglichkeiten gehabt haben.
+  [[ ]] Der Akteur darf nicht im Auftrag einer anderen Person gehandelt haben.
 
 ---
-
 
                            {{2}}
 **Verantwortung**
@@ -916,62 +1010,53 @@ Welche der folgenden Punkte sind Vorraussetzung um laut Andreas Matthias (“The
 
 ---
 
-
                            {{1}}
 **Quiz**
 
-(1.) Wodurch kann eine sogenannte Verantwortungslücke ("Responsibility Gap") entstehen?
+odurch kann eine sogenannte Verantwortungslücke ("Responsibility Gap") entstehen?
 
+  [[ ]] Neuronale Netzwerke können gerichtlich nicht verfolgt werden.
+  [[X]] Der Programmierer kann nicht für das Verhalten seiner Schöpfung verantwortlich gemacht werden.
+  [[ ]] Die Verhaltensmuster bei maschinellem Lernen müssen immer als optimal angesehen werden.
+  [[X]] Maschinelles Lernen erlaubt keine Kontrolle über das Endprodukt.
 
-   [[ ]] Neuronale Netzwerke können gerichtlich nicht verfolgt werden.
-   [[X]] Der Programmierer kann nicht für das Verhalten seiner Schöpfung verantwortlich gemacht werden.
-   [[ ]] Die Verhaltensmuster bei maschinellem Lernen müssen immer als optimal angesehen werden.
-
-
-(2.) Wer hat bei den folgenden Mensch Maschinen Interaktionen die Kontrolle (Mensch, Maschine, Beide, Keiner)?
+Wer hat bei den folgenden Mensch Maschinen Interaktionen die Kontrolle (Mensch, Maschine, Beide, Keiner)?
 
 On-the loop?
 
-
-   [[Beide]]
-
+  [[Beide]]
 
 In-the-loop?
 
+  [[Mensch]]
 
-   [[Mensch]]
+Out-of-the-Loop
 
+  [[Maschine]]
 
-(3.) Welche Probleme ergeben sich laut Misselhorn durch größere Projekte und Arbeitsteilung?
+Welche Probleme ergeben sich laut Misselhorn durch größere Projekte und Arbeitsteilung?
 
+  [[X]] Rechtfertigung durch Organisationsstruktur
+  [[ ]] Größere Verantwortung auf Projektleitenden
+  [[ ]] Leichtere Abwälzung von Fehlern auf Einzelpersonen
+  [[X]] Erschwerte Wahrnehmung der Verantwortung von Beteiligten
+  [[X]] Erschwerte Verantwortungszuweisung
 
-   [[X]] Rechtfertigung durch Organisationsstruktur
-   [[ ]] Größere Verantwortung auf Leitern eines Projektes
-   [[ ]] Leichtere Abwälzung von Fehlern auf Einzelpersonen
-   [[X]] Erschwerte Wahrnehmung der Verantwortung von Beteiligten selbstfahrende
-   [[X]] Erschwerte Verantwortungszuweisung
+Was steckt hinter der sogenannten "Dual Use" Problematik?
 
+  [[ ]] Neue Entwicklungen sind zu spezifisch und lassen sich nur in maximal zwei Einsatzgebieten nutzen
+  [[X]] Neue Entwicklungen lassen sich für unmoralische Taten missbrauchen
+  [[ ]] Neue Entwicklungen sind nach nur kurzen Einsatzzeiten nicht mehr zu gebrauchen und sind zu spezifisch, um anderweitig eingesetzt zu werden
 
-(4.) Was steckt hinter der sogenannten "Dual Use" Problematik?
+Schauen Sie die ersten 70 Sekunden dieses [Videos](https://www.youtube.com/watch?v=BYVZh5kqaFg&t=1060s) an und überlegen Sie was für Einsatzmöglichkeiten für eine solche Technologie am naheliegendsten sind?
 
+  [[ ]] Umweltschutzmaßnahmen
+  [[X]] Militärische Einsatzzwecke
+  [[ ]] Keine Ahnung. Scheint nicht wirklich nützlich zu sein.
 
-   [[ ]] Neue Entwicklungen sind zu spezifisch und lassen sich nur in maximal zwei Einsatzgebieten nutzen
-   [[X]] Neue Entwicklungen lassen sich für unmoralische Taten missbrauchen
-   [[ ]] Neue Entwicklungen sind nach nur kurzen Einsatzzeiten nichtmehr zu gebrauchen und sind zu spezifisch um anderweitig eingesetzt zu werden
-
-
-(5.) Schauen Sie die ersten 70 Sekunden dieses [Videos](https://www.youtube.com/watch?v=BYVZh5kqaFg&t=1060s) an und überlegen Sie was für Einsatzmöglichkeiten für eine solche Technologie am naheliegendsten sind?
-
-
-   [[ ]] Umweltschutzmaßnahmen
-   [[X]] Millitärische Einsatzzwecke
-   [[ ]] Keine Ahnung scheint nicht wirklich nützlich
-
-
-Antwort in etwas spannderer Formulierung [hier](https://youtu.be/BYVZh5kqaFg?t=653).
+Antwort in einer etwas spannenderer Formulierung [hier](https://youtu.be/BYVZh5kqaFg?t=653).
 
 ---
-
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -991,8 +1076,19 @@ Antwort in etwas spannderer Formulierung [hier](https://youtu.be/BYVZh5kqaFg?t=6
 
 ---
 
-
                            {{1}}
+**Quiz**
+
+Welche Aussagen zum Anthropomorphismus sind korrekt?
+
+  [[X]] Übertragung menschlicher Eigenschaften auf außermenschliche Gegenstände und Verhältnisse.
+  [[ ]] Übertragung maschineller Eigenschaften auf Personen und menschliche Verhältnisse.
+  [[X]] Übertragung menschlicher Verhaltensweisen auf außermenschliche Gegenstände und Verhältnisse.
+  [[ ]] Übertragung maschineller Verhaltensweisen auf Personen und menschliche Verhältnisse.
+
+---
+
+                           {{2}}
 **Quellen und vertiefende Literatur**
 
 * Prechtl, Peter, and Franz-Peter Burkard. 2015. Metzler Lexikon Philosophie: Begriffe und Definitionen. Springer-Verlag.
@@ -1028,23 +1124,25 @@ Ihre Vorbereitungsaufgabe in dieser Woche lautet:
                            {{1}}
 **Quiz**
 
-Welche Faktoren führen dazu das in Grimms Zwiebelmodell der Privatssphäre selbst die intimsten Bereiche direkt an Gesellschaft, Staat und Wirtschaft anliegen?
+Welche Faktoren führen dazu, dass in Grimms Zwiebelmodell der Privatsphäre selbst die intimsten Bereiche direkt an Gesellschaft, Staat und Wirtschaft anliegen?
 
-
-   [[X]] Soziale Medien
-   [[X]] Digitalisierung
-   [[ ]] Staatliche Vorschriften
-   [[ ]] Fehlende Aluhüte
-
+  [[X]] Soziale Medien
+  [[X]] Digitalisierung
+  [[ ]] Staatliche Vorschriften
+  [[ ]] Fehlende Aluhüte
 
 Was sind die Funktionen von Privatsphäre?
 
+  [[ ]] Verstärken von "Chilling effects"
+  [[X]] Freiheit und Autonomie
+  [[X]] Kreative Entfaltung und Selbstbestimmung
+  [[ ]] Ungefilterte Sammlung von Daten für Firmen und Staat
+  [[X]] Identitäts- und Meinungsbildung
 
-   [[ ]] Verstärken von "Chilling effects"
-   [[X]] Freiheit und Autonomie
-   [[X]] Kreative Entfaltung und Selbstbestimmung
-   [[ ]] Ungefilterte Sammlung von Daten für Firmen und Staat
-   [[X]] Identitäts- und Meinungsbildung
+Was zeichnet ein panoptisches System aus?
+
+  [( )] Machtsymmetrie der beteiligten Parteien.
+  [(X)] Machtasymmetrie der beteiligten Parteien.
 
 
 ### 06-02 Transparenz
@@ -1058,15 +1156,13 @@ Was sind die Funktionen von Privatsphäre?
                            {{1}}
 **Quiz**
 
-Was sind Probleme die in Bezug zu Transparenz auftreten können?
+Was sind Probleme, die in Bezug zu Transparenz auftreten können?
 
-
-   [[X]] Schränkt Privatheit ein und verhindert vertrauensvollen Austausch
-   [[X]] Überforderung der Rezipienten durch zu viel Information
-   [[ ]] Rezipienten müssen sich weniger mit System beschäftigen
-   [[X]] Rezipienten müssen sich mehr mit dem System selbst auseinandersetzen
-   [[ ]] Experten des Systems werden überflüssig
-
+  [[X]] Schränkt die Privatheit ein und verhindert vertrauensvollen Austausch
+  [[X]] Überforderung der Rezipienten durch zu viele Informationen
+  [[ ]] Rezipienten müssen sich weniger mit System beschäftigen
+  [[X]] Rezipienten müssen sich mehr mit dem System selbst auseinandersetzen
+  [[ ]] Experten des Systems werden überflüssig
 
 ### 06-03 Sicherheit
 
@@ -1081,16 +1177,14 @@ Was sind Probleme die in Bezug zu Transparenz auftreten können?
 
 Kreuzen Sie die richtigen Aussagen an!
 
-
-   [[ ]] Absolute Sicherheit ist die oberste Priorität für jeden Informatiker!
-   [[X]] Durch Test lässt sich die Sicherheit eines Systems verbessern.
-   [[X]] Meist muss man einen Kompromiss aus Sicherheit, Privatheit und Transparenz nutzen um Programme oder Systeme zu realisieren.
-   [[ ]] Sicherheit fordert meist keine Einbusen für Freiheit oder Transparenz.
-   [[X]] Qualitätskontrollen erhöhen die Sicherheit eines Systems.
-   [[ ]] Transparenz kann in der Informatikethik meist vernachlässigt werden.
-   [[ ]] Code Reviews und Pair Programming erhöhen das Risiko unsichere Systeme zu bauen.
-   [[X]] Sichere Systeme zu bauen ist ein Ideal in der Informatikethik.
-
+  [[ ]] Absolute Sicherheit ist die oberste Priorität für jeden Informatiker!
+  [[X]] Durch Tests lässt sich die Sicherheit eines Systems verbessern.
+  [[X]] Meist muss man einen Kompromiss aus Sicherheit, Privatheit und Transparenz nutzen, um Programme oder Systeme zu realisieren.
+  [[ ]] Sicherheit fordert meist keine Einbußen für Freiheit oder Transparenz.
+  [[X]] Qualitätskontrollen erhöhen die Sicherheit eines Systems.
+  [[ ]] Transparenz kann in der Informatikethik meist vernachlässigt werden.
+  [[ ]] Code Reviews und Pair Programming erhöhen das Risiko unsichere Systeme zu bauen.
+  [[X]] Sichere Systeme zu bauen ist ein Ideal in der Informatikethik.
 
 
 ### Quellen und vertiefende Literatur
@@ -1178,34 +1272,25 @@ c) Sind die in diesem Beispiel verwendeten Daten "objektiv"? Falls ja: Was macht
 
 Objektivität ist schwer bis gar nicht zu erreichen.
 
-
-   [(X)] Wahr
-   [( )] Falsch
-
+  [(X)] Wahr
+  [( )] Falsch
 
 Deshalb kann Objektivität in der Informatik vernachlässigt werden.
 
+  [( )] Wahr
+  [(X)] Falsch
 
-   [( )] Wahr
-   [(X)] Falsch
+Objektiv (moralisch)- urteilende Maschinen oder Algorithmen sind möglich, da sie nicht wie Menschen innerhalb von Werte- und Normgebilden aufwachsen.
 
-
-Objektiv (moralisch)- urteilende Maschinen oder Algorithmen sind möglich, da Sie nicht wie Menschen innerhalb von Werte- und Nnormgebilden aufwachsen.
-
-
-   [( )] Wahr
-   [(X)] Falsch
-
+  [( )] Wahr
+  [(X)] Falsch
 
 Normative Prämissen sind niemals objektiv, da sie normative Prämissen und damit auch Werteurteile erfordern.
 
-
-   [(X)] Wahr
-   [( )] Falsch
-
+  [(X)] Wahr
+  [( )] Falsch
 
 ---
-
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -1221,25 +1306,21 @@ Normative Prämissen sind niemals objektiv, da sie normative Prämissen und dami
 
 ---
 
-
                            {{1}}
 **Quiz**
 
 Welche der Aussagen über "Ghost Worker" sind richtig?
 
-
-   [[ ]] Datenkontrolle von Verbraucherschutzportalen
-   [[X]] Erstellen und Verifizieren Trainingsdaten für Maschinelles Lernen  
-   [[X]] Erledigen Moderationsarbeiten in sozialen Netzwerken
-   [[X]] Werden für ihre Arbeit meist sehr schlecht bezahlt
-   [[ ]] Werden von den Firmen fest angestellt
-   [[X]] Es gibt weltweit ca 100 Millionen
-   [[ ]] ca 10% von ihnen haben einen Bachelor oder höheren Abschluss
-   [[X]] werden erst nach Erledigung der Arbeit bezahlt (unabhängig von Aufwand)
-
+  [[ ]] Datenkontrolle von Verbraucherschutzportalen.
+  [[X]] Sie erstellen und verifizieren Trainingsdaten für Maschinelles Lernen.  
+  [[X]] Sie erledigen Moderationsarbeiten in sozialen Netzwerken.
+  [[X]] Sie werden für ihre Arbeit meist sehr schlecht bezahlt.
+  [[ ]] Sie werden von den Firmen fest angestellt.
+  [[X]] Es gibt weltweit ca. 100 Millionen Ghost Worker.
+  [[ ]] Ca. 10% von ihnen haben einen Bachelor- oder höheren Abschluss.
+  [[X]] Sie werden erst nach Erledigung der Arbeit bezahlt (unabhängig vom Aufwand).
 
 ---
-
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -1264,20 +1345,18 @@ Welche der Aussagen über "Ghost Worker" sind richtig?
                            {{1}}
 **Quiz**
 
-Welche Aussagen über das Bias im Kontext von Machine Learning sind richtig?
+Welche Aussagen über Bias im Kontext von Machine Learning sind richtig?
 
-
-   [[X]] Systematische Verzerrung durch einen Algorithmus
-   [[ ]] Firmware die von ihrem Betriebssystem geladen wird
-   [[X]] Maschinelle Bevorzugung von einzelnen Individuen oder Gruppen durch einen Algorithmus
-   [[ ]] Bias kann nicht unvorhergesehen auftreten und ist immer gewollt
-   [[X]] Es ist unklar sich Bias in Daten verhindern lässt
-   [[X]] Bias legitimiert sich selbst und verstärkt sich, dadurch das Algorithmen menschliches Verhalten nachbilden und imitieren
-   [[ ]] Abstraktion von Daten ist neutral und kann keine Ursache für Bias sein
-
+  [[X]] Systematische Verzerrung durch einen Algorithmus.
+  [[ ]] Firmware, die von ihrem Betriebssystem geladen wird.
+  [[X]] Maschinelle Bevorzugung von einzelnen Individuen oder Gruppen durch einen Algorithmus.
+  [[ ]] Bias kann nicht unvorhergesehen auftreten und ist immer gewollt.
+  [[X]] Es ist unklar, wie sich Bias in Daten verhindern lässt.
+  [[X]] Bias legitimiert sich selbst und verstärkt sich dadurch, dass Algorithmen menschliches Verhalten nachbilden und imitieren.
+  [[ ]] Abstraktion von Daten ist neutral und kann keine Ursache für Bias sein.
+  [[X]] Maschinelles Lernen ist konservativ.
 
 ---
-
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -1306,29 +1385,24 @@ Welche Aussagen über das Bias im Kontext von Machine Learning sind richtig?
 
 Wie kann Bias in einem Machine-Learning-Modell reduziert werden?
 
-
-   [[X]] Durch Erhöhung der Menge an Trainingsdaten
-   [[ ]] Durch Erhöhung der Komplexität des Modells
-   [[X]] Durch Erhöhung der Vielfalt der Trainingsdaten
-   [[X]] Durchführung von Abgleichstests, um sicherzustellen, dass das Modell für verschiedene Bevölkerungsgruppen und Untergruppen genau ist
-   [[X]] Durchführung von Benutzertests, um sicherzustellen, dass das Modell in der Praxis fair und angemessen ist
-   [[ ]] Ignorieren von Feedback und Beschwerden von Benutzern bezüglich möglicher Bias im Modell
-   [[X]] Einbindung von Experten aus unterschiedlichen Bereichen, um mögliche Bias im Modell zu identifizieren und zu korrigieren
-
+  [[X]] Durch Erhöhung der Menge an Trainingsdaten.
+  [[ ]] Durch Erhöhung der Komplexität des Modells.
+  [[X]] Durch Erhöhung der Vielfalt der Trainingsdaten.
+  [[X]] Durchführung von Abgleichtests, um sicherzustellen, dass das Modell für verschiedene Bevölkerungsgruppen und Untergruppen genau ist.
+  [[X]] Durchführung von Benutzertests, um sicherzustellen, dass das Modell in der Praxis fair und angemessen ist.
+  [[ ]] Ignorieren von Feedback und Beschwerden von Benutzern bezüglich möglicher Bias im Modell.
+  [[X]] Einbindung von Experten aus unterschiedlichen Bereichen, um mögliche Bias im Modell zu identifizieren und zu korrigieren.
 
 Für welche der folgenden Probleme lässt sich eine sinnvolle datengetriebene Lösung finden?
 
-
-   [[X]] Verbesserung der Verkehrsfluss in Städten
-   [[ ]] Persönliche Konflikte in Familien oder Beziehungen
-   [[X]] Verringerung des CO2-Fußabdrucks von Unternehmen
-   [[X]] Verbesserung der Patientenversorgung in Krankenhäusern
-   [[ ]] Entscheidungen bezüglich der Erziehung von Kindern
-   [[ ]] Kreatives Schreiben oder Kunst
-
+  [[X]] Verbesserung des Verkehrsfluss in Städten
+  [[ ]] Persönliche Konflikte in Familien oder Beziehungen
+  [[X]] Verringerung des CO2-Fußabdrucks von Unternehmen
+  [[X]] Verbesserung der Patientenversorgung in Krankenhäusern
+  [[ ]] Entscheidungen bezüglich der Erziehung von Kindern
+  [[ ]] Kreatives Schreiben oder Kunst
 
 ---
-
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -1415,30 +1489,25 @@ Lesen Sie zur Vorbereitung auf die nächste Woche den ["Ethischen Kompass für I
 
 ---
 
-
                            {{1}}
 **Quiz**
 
-Wie unterscheiden sich "Ethischen Leitlinien" von "Codes of Conduct"?
+WWie unterscheiden sich "Ethischen Leitlinien" von "Codes of Conduct"?
 
+  [[X]] Ethische Leitlinien sind allgemeine Richtlinien, während Codes of Conduct spezifische Regeln enthalten.
+  [[ ]] Ethische Leitlinien sind spezifische Regeln, während Codes of Conduct allgemeine Richtlinien enthalten.
+  [[ ]] Ethische Leitlinien und Codes of Conduct sind dasselbe und können austauschbar verwendet werden.
+  [[X]] Ethische Leitlinien sind im Gegensatz zu Codes of Conduct nicht sanktionierbar.
 
-   [[X]] Ethische Leitlinien sind allgemeine Richtlinien, während Codes of Conduct spezifische Regeln enthalten
-   [[ ]] Ethische Leitlinien sind spezifische Regeln, während Codes of Conduct allgemeine Richtlinien enthalten
-   [[ ]] Ethische Leitlinien und Codes of Conduct sind dasselbe und können austauschbar verwendet werden
-   [[X]] Ethische Leitlinien sind im Gegensatz zu Codes of Conduct nicht sanktionierbar
+Welche 4 Überthemen werden in den 12 Artikeln der Ethischen Leitlinien der GI behandelt?
 
-
-Welche 4 Überthemen werden in den 13. Artikeln der Ethischen Leitlinien der GI behandelt?
-
-
-   [[X]] Kompetenzen
-   [[X]] Arbeitsbedingungen
-   [[X]] Bildung
-   [[ ]] Finanzielle Integrität und Transparenz
-   [[ ]] Umweltverantwortung
-   [[ ]] Datenschutz
-   [[X]] Soziale und gesellschaftliche Verantwortung
-
+  [[X]] Kompetenzen
+  [[X]] Arbeitsbedingungen
+  [[X]] Bildung
+  [[ ]] Finanzielle Integrität und Transparenz
+  [[ ]] Umweltverantwortung
+  [[ ]] Datenschutz
+  [[X]] Soziale und gesellschaftliche Verantwortung
 
 ### 08-02 Codes of Conduct
 
@@ -1448,38 +1517,30 @@ Welche 4 Überthemen werden in den 13. Artikeln der Ethischen Leitlinien der GI 
 
 ---
 
-
                            {{1}}
 **Quiz**
 
-Welche Art von Verhalten wird in einem Code of Conduct erwartet?
+elche Art von Verhalten wird in einem Code of Conduct erwartet?
 
-
-   [[ ]] Gewalt und Belästigung
-   [[ ]] Diebstahl und Betrug
-   [[X]] Integrität, Respekt und Professionalität
-
+  [[ ]] Gewalt und Belästigung
+  [[ ]] Diebstahl und Betrug
+  [[X]] Integrität, Respekt und Professionalität
 
 Wer ist verantwortlich für die Umsetzung eines Codes of Conduct?
 
-
-   [[ ]] Die Kunden
-   [[X]] Die Mitarbeiter
-   [[ ]] Die Regierung
-   [[X]] Die Führungskräfte
-
+  [[ ]] Die Kunden
+  [[X]] Die Mitarbeiter
+  [[ ]] Die Regierung
+  [[X]] Die Führungskräfte
 
 Was können Unternehmen tun, um sicherzustellen, dass ihr Code of Conduct eingehalten wird?
 
-
-   [[ ]] Ignorieren von Verstößen
-   [[X]] Schulungen und Aufklärung der Mitarbeiter
-   [[ ]] Einschränkung von Meinung und Feedback zum Inhalt des Code of Conduct
-   [[X]] Vertrauliche Meldung von Verstößen und Untersuchung
-
+  [[ ]] Ignorieren von Verstößen
+  [[X]] Schulungen und Aufklärung der Mitarbeiter
+  [[ ]] Einschränkung von Meinung und Feedback zum Inhalt des Code of Conduct
+  [[X]] Vertrauliche Meldung von Verstößen und Untersuchung
 
 ---
-
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -1524,28 +1585,22 @@ Wir verwenden die Ergebnisse Ihrer Analyse als Ausgangspunkt der Diskussion in u
 
 ---
 
-
                            {{1}}
 **Quiz**
 
 Welche Schritte sind bei der Durchführung einer ethischen Fallanalyse nach Pfeifer erforderlich?
 
-
-   [[ ]] Ignorieren von Meinungen und Interessen von Betroffenen
-   [[X]] Begutachtung des Sachverhalts in Bezug auf Kotext und Werte , Identifizierung von Alternativen, Bewertung der Auswirkungen
-   [[ ]] Verlassen auf subjektive Meinungen und Annahmen
-
+  [[ ]] Ignorieren von Meinungen und Interessen von Betroffenen.
+  [[X]] Begutachtung des Sachverhalts in Bezug auf Kotext und Werte , Identifizierung von Alternativen, Bewertung der Auswirkungen.
+  [[ ]] Verlassen auf subjektive Meinungen und Annahmen.
 
 Wann sollte eine ethische Fallanalyse durchgeführt werden?
 
-
-   [[X]] Bevor Entscheidungen getroffen werden, die ethische Implikationen haben
-   [[ ]] Nachdem Entscheidungen getroffen wurden, um ihre Auswirkungen zu beurteilen
-   [[ ]] Es gibt keine Notwendigkeit, ethische Fallanalyse durchzuführen
-
+  [[X]] Bevor Entscheidungen getroffen werden, die ethische Implikationen haben.
+  [[ ]] Nachdem Entscheidungen getroffen wurden, um ihre Auswirkungen zu beurteilen.
+  [[ ]] Es gibt keine Notwendigkeit, ethische Fallanalyse durchzuführen.
 
 ---
-
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -1560,31 +1615,26 @@ Wann sollte eine ethische Fallanalyse durchgeführt werden?
 
 ---
 
-
                            {{1}}
 **Quiz**
 
 Was ist der Zweck von Ethischen Designdokumenten und Impact Statements?
 
-
-   [[ ]] Die finanzielle Rentabilität von Technologie- und Produktentwicklungen zu beurteilen
-   [[X]] Die Auswirkungen von Technologie und Produkten auf die Gesellschaft und die Umwelt zu bewerten
-   [[ ]] Politische Korrektheit in der Technologie- und Produktentwicklung sicherstellen
-   [[X]] Maßnahmen zur Risikominderung und Kontrolle
-
+  [[ ]] Die finanzielle Rentabilität von Technologie- und Produktentwicklungen zu beurteilen
+  [[X]] Die Auswirkungen von Technologie und Produkten auf die Gesellschaft und die Umwelt zu bewerten
+  [[ ]] Politische Korrektheit in der Technologie- und Produktentwicklung sicherstellen
+  [[X]] Maßnahmen zur Risikominderung und Kontrolle
 
 Welche Vorteile bieten Ethische Designdokumente und Impact Statements für Unternehmen und Entwickler?
 
-
-   [[ ]] Garantie für die Vermeidung von Regulierungen und Strafen
-   [[X]] Unterstützung bei der Identifizierung und Bewertung von ethischen Problemen im Zusammenhang mit Technologie- und Produktentwicklungen
-   [[X]] Möglichkeit, langfristige Risiken und Chancen zu identifizieren und zu bewerten
-   [[ ]] Erhöhung der Popularität des Unternehmens oder Entwicklers
-
+  [[ ]] Garantie für die Vermeidung von Regulierungen und Strafen
+  [[X]] Unterstützung bei der Identifizierung und Bewertung von ethischen Problemen im Zusammenhang mit Technologie- und Produktentwicklungen
+  [[X]] Möglichkeit, langfristige Risiken und Chancen zu identifizieren und zu bewerten
+  [[ ]] Erhöhung der Popularität des Unternehmens oder Entwicklers
 
 ### 09-03 Verfassen eines Ethischen Designdokuments
 
-Ein ethisches Desgindokument dokumentiert, dass man sich ernsthaft und umfänglich Gedanken über die Konsequenzen der Entwicklung und des Einsatzes einer Softwareanwendung gemacht hat. Da dies vor dem eigentlichen Entwicklungsprozess erfolgt, leitet es die Entwicklung an, die dadurch – so das Ziel – ethisch(er) wird.
+Ein ethisches Designdokument dokumentiert, dass man sich ernsthaft und umfänglich Gedanken über die Konsequenzen der Entwicklung und des Einsatzes einer Softwareanwendung gemacht hat. Da dies vor dem eigentlichen Entwicklungsprozess erfolgt, leitet es die Entwicklung an, die dadurch – so das Ziel – ethisch(er) wird.
 
 Die Dokumentation ist nicht final und sollte während des eigentlichen Entwicklungsprozesses konsultiert und nachjustiert werden. Das Dokument sollte außerdem nach Möglichkeit nicht von einzelnen Entwickler*innen, sondern in Abstimmung mit (bestenfalls) verschiedenen Gruppen von Beteiligten, den sog. Stakeholdern, formuliert werden.
 
@@ -1709,15 +1759,31 @@ Wir werden Ihre Vorschläge und Ideen zu Beginn der kommenden Übung diskutieren
 
 Welche der folgenden Punkte sind Teil der 10 Handlungsprinzipien des Value-based Engineering nach Spiekermann?
 
+  [[X]] Übernahme von Verantwortung für die erweiterte Systemlandschaft
+  [[X]] Kontextsensitive, weise und kontinuierliche Beobachtung und Antizipation der Systementfaltung
+  [[X]] Nutzung ethischer und moralischer Prinzipien zum Erkennen dessen, was von Wert ist
+  [[ ]] Ausschließen von Wertzielen außerhalb des Fokus der Unternehmensführung
+  [[ ]] Bereitschaft, das System umzusetzen, trotz ethischer Bedenken
+  [[ ]] Integration von Wertzielen in die Product Roadmap durch einzelne Entscheidungsträger
+  [[X]] Reflektion bestehender Gesetze und Abkommen zur Verfeinerung der Wertschwerpunkte  
 
-       [[X]] Übernahme von Verantwortung für die erweiterte Systemlandschaft
-       [[X]] Kontextsensitive, weise und kontinuierliche Beobachtung und Antizipation der Systementfaltung
-       [[X]] Nutzung ethischer und moralischer Prinzipien zum Erkennen dessen, was von Wert ist
-       [[ ]] Auschließen von Wertzielen außerhalb des Fokuses der Unternehmensführung
-       [[ ]] Bereitschaft, das System umzusetzen, trotz ethischer Bedenken
-       [[ ]] Integration von Wertzielen in die Product Roadmap durch einzelne Entscheidungsträger
-       [[X]] Reflektion bestehender Gesetze und Abkommen zur Verfeinerung der Wertschwerpunkte  
+Aus welchen Bereichen werden beim  Value-based Engineering Fragen in Bezug auf das jeweilige System of Interest gestellt?
 
+  [[X]] Utilitarismus
+  [[X]] Tugendethik
+  [[ ]] Kontraktualismus
+  [[X]] Deontologie
+
+Welche Aussagen zum GERD-Modell sind korrekt?
+
+  [[ ]] Das GERD-Modell ist ein wissenschaftliches Modell und kein ethisches Modell.
+  [[ ]] Das GERD-Modell ist kein wissenschaftliches Modell und ein ethisches Modell.
+  [[X]] Das GERD-Modell ist ein wissenschaftliches Modell und ein ethisches Modell.
+  [[X]] Es bietet Wissen und Leitlinien für unterschiedliche Phasen der Forschung und Entwicklung.
+  [[X]] GERD steht für Gender Extended Research and Development-Modell.
+  [[ ]] GERD steht für Gender E-Learning, Research and Development-Modell.
+
+---
 
                         {{2}}
 **Quellen und vertiefende Literatur**
@@ -1734,31 +1800,46 @@ Welche der folgenden Punkte sind Teil der 10 Handlungsprinzipien des Value-based
 [Folien: Ethisches Design im Kleinen](https://cloud.rz.uni-kiel.de/index.php/s/bfCWejKLWp85PXP)
 
 ---
+
                            {{1}}
 **Quiz**
 
+Welche Aussagen zur Theorie von Kahnemann (2011) zur Informationsverarbeitung sind korrekt?
+
+  [[X]] System 1 ist schnell, instinktiv und emotional.
+  [[ ]] System 1 ist langsam, reflektiert und logisch.
+  [[X]] System 2 ist langsam, reflektiert und logisch.
+  [[ ]] System 2 ist schnell, instinktiv und emotional.
+
+Welches Informationsverarbeitungssystem nach Kahnemann (2011) versuchen Nudges zu beeinflussen?
+
+  [(X)] System 1
+  [( )] System 2
+
 Welches der folgenden Beispiele beschreibt Nudging?
 
-       [[ ]] Ein Plakat, das zum Kauf von Junkfood auffordert
-       [[X]] Eine schockierende Warnung vor Tabakkonsum auf einer Zigarettenpackung
-       [[ ]] Ein Verbot von Plastiktüten in Supermärkten
-       [[ ]] Eine Strafe für ungesunde Ernährung
-       [[ ]] Eine App, die das Nutzerverhalten aufzeichnet  
+  [[ ]] Ein Plakat, das zum Kauf von Junkfood auffordert.
+  [[X]] Eine schockierende Warnung vor Tabakkonsum auf einer Zigarettenpackung.
+  [[ ]] Ein Verbot von Plastiktüten in Supermärkten.
+  [[ ]] Eine Strafe für ungesunde Ernährung.
+  [[ ]] Eine App, die das Nutzerverhalten aufzeichnet.
 
 Welche Ziele verfolgen Dark Patterns?
 
-       [[X]] Manipulation von Nutzerverhalten
-       [[ ]] Erhöhung der Nutzerfreundlichkeit
-       [[ ]] Verbesserung von Datenschutz und Sicherheit
-       [[ ]] Förderung von sozialer Gerechtigkeit
-       [[X]] Steigerung des Gewinns von Unternehmen
+  [[X]] Manipulation von Nutzerverhalten
+  [[ ]] Erhöhung der Nutzerfreundlichkeit
+  [[ ]] Verbesserung von Datenschutz und Sicherheit
+  [[ ]] Förderung von sozialer Gerechtigkeit
+  [[X]] Steigerung des Gewinns von Unternehmen
 
 Welche Kritikpunkte gibt es an Gamification?
 
-       [[X]] Missbrauch von spielerischen Elementen zur Manipulation
-       [[X]] Vernachlässigung von langfristigen Zielen zugunsten kurzfristiger Erfolgserlebnisse
-       [[ ]] Steigerung von Motivation und Engagement
-       [[ ]] Einschränkung von Freiheitsrechten
+  [[X]] Missbrauch von spielerischen Elementen zur Manipulation
+  [[X]] Vernachlässigung von langfristigen Zielen zugunsten kurzfristiger Erfolgserlebnisse
+  [[ ]] Steigerung von Motivation und Engagement
+  [[ ]] Einschränkung von Freiheitsrechten
+
+  ---
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -1796,26 +1877,25 @@ Gamification:
 [Folien: Barrierefreiheit](https://cloud.rz.uni-kiel.de/index.php/s/wdzPzftX4QWxmSB)
 
 ---
+
                            {{1}}
 **Quiz**
 
 Warum sollten Unternehmen ihre Website barrierefrei gestalten?
 
-
-       [[X]] Um rechtliche Vorgaben zu erfüllen
-       [[X]] Um die Nutzerfreundlichkeit für alle Nutzer zu erhöhen
-       [[ ]] Um das Image des Unternehmens zu verbessern
-       [[ ]] Um Kosten zu sparen
-
+   [[X]] Um rechtliche Vorgaben zu erfüllen
+   [[X]] Um die Nutzerfreundlichkeit für alle Nutzer zu erhöhen
+   [[ ]] Um das Image des Unternehmens zu verbessern
+   [[ ]] Um Kosten zu sparen
 
 Wie können Unternehmen ihre Website barrierefrei gestalten?
 
+   [[X]] Durch die Verwendung von klaren und einfachen Texten
+   [[X]] Durch die Verwendung von Farben mit hohem Kontrast
+   [[X]] Durch die Bereitstellung von Alternativtexten für Bilder und Grafiken
+   [[X]] Durch die Bereitstellung von Texttranskriptionen und Untertiteln für Audio- und Videodateien
 
-       [[X]] Durch die Verwendung von klaren und einfachen Texten
-       [[X]] Durch die Verwendung von Farben mit hohem Kontrast
-       [[X]] Durch die Bereitstellung von Alternativtexten für Bilder und Grafiken
-       [[X]] Durch die Bereitstellung von Texttranskriptionen und Untertiteln für Audio- und Videodateien
-
+---
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -1896,17 +1976,19 @@ Prof. Flamel hat inzwischen mit der Studentin ein Paper als Beitrag für die Kon
 [Folien: Eigene Forschung reflektieren](https://cloud.rz.uni-kiel.de/index.php/s/DsXHripa6Jey5ta)
 
 ---
+
                            {{1}}
 **Quiz**
 
-Was sind wichtige Aspekte die bei der Reflektion von Forschungsergebnissen berücksichtigt werden müssen?
+Was sind wichtige Aspekte, die bei der Reflektion von Forschungsergebnissen berücksichtigt werden müssen?
 
+ [[X]] Die Berücksichtigung der eigenen Vorurteile und Voreingenommenheit
+ [[ ]] Die Identifikation von Fehlern anderer Forschungsgruppen
+ [[X]] Die ausreichende Anonymisierung der Probandendaten
+ [[X]] Die Gewährleistung der Validität der Forschungsergebnisse
+ [[X]] Das Prinzip "lege artis" wurde für die Forschung verwendet.
 
-       [[X]] Die Berücksichtigung der eigenen Vorurteile und Voreingenommenheiten
-       [[ ]] Die Identifikation von Fehlern anderer Forschungsgruppen
-       [[X]] Die ausreichende Anonymisierung der Probandendaten
-       [[X]] Die Gewährleistung der Validität der Forschungsergebnisse
-
+---
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -1930,22 +2012,21 @@ Was sind wichtige Aspekte die bei der Reflektion von Forschungsergebnissen berü
                            {{1}}
 **Quiz**
 
-Was gilt laut ACM Policy als Plagiat?
+as gilt laut ACM Policy als Plagiat?
 
-
-       [[X]] Die wortwörtliche Übernahme von Texten oder Teilen aus Texten anderer Autoren ohne entsprechende Quellenangabe
-       [[X]] Das Paraphrasieren von Texten anderer Autoren ohne entsprechende Quellenangabe
-       [[X]] Das Kopieren von Grafiken, Tabellen oder Bildern anderer Autoren ohne entsprechende Quellenangabe
-       [[X]] Das Abschreiben von Programmen oder Programmteilen anderer Autoren ohne entsprechende Quellenangabe
+ [[X]] Die wortwörtliche Übernahme von Texten oder Teilen aus Texten anderer Autoren ohne entsprechende Quellenangabe.
+ [[X]] Das Paraphrasieren von Texten anderer Autoren ohne entsprechende Quellenangabe.
+ [[X]] Das Kopieren von Grafiken, Tabellen oder Bildern anderer Autoren ohne entsprechende Quellenangabe.
+ [[X]] Das Abschreiben von Programmen oder Programmteilen anderer Autoren ohne entsprechende Quellenangabe.
 
 Was sollte man tun, um Plagiate zu vermeiden?
 
+ [[ ]] Alle Texte, Grafiken oder Tabellen selbst erstellen und keine fremden Quellen verwenden.
+ [[X]] Alle verwendeten Quellen korrekt zitieren und angeben.
+ [[ ]] Sich auf die Verwendung von Texten anderer Autoren beschränken, die älter als 50 Jahre sind.
+ [[ ]] Sich auf die Verwendung von Quellen beschränken, die nicht im Internet verfügbar sind.
 
-       [[ ]] Alle Texte, Grafiken oder Tabellen selbst erstellen und keine fremden Quellen verwenden
-       [[X]] Alle verwendeten Quellen korrekt zitieren und angeben
-       [[ ]] Sich auf die Verwendung von Texten anderer Autoren beschränken, die älter als 50 Jahre sind
-       [[ ]] Sich auf die Verwendung von Quellen beschränken, die nicht im Internet verfügbar sind
-
+ ---
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -1965,14 +2046,14 @@ Was sollte man tun, um Plagiate zu vermeiden?
 
 Was sollte beim Schreiben eines Impact Statements beachtet werden?
 
+ [[X]] Die Verwendung von klarer und präziser Sprache.
+ [[ ]] Es sollen nur die Nachteile und Probleme ihrer Forschung behandelt werden.
+ [[ ]] Es sollte versucht werden, Unsicherheiten zu kaschieren.
+ [[X]] Die Verwendung von ethischen Fachbegriffen.
+ [[X]] Die Verwendung von weiterführender Literatur, wenn sie sinnvoll oder nötig ist.  
+ [[ ]] Bei theoretischen Arbeiten ist ein Impact Statement unnötig.
 
-       [[X]] Verwenden Sie klare und präzise Sprache
-       [[ ]] Behandeln Sie nur die Nachteile und Probleme ihrer Forschung
-       [[ ]] Versuchen Sie Unsicherheiten zu kaschieren
-       [[X]] Verwenden Sie ethische Fachbegriffe
-       [[X]] Verwenden Sie weiterführende Literatur, wenn sie sinnvoll oder nötig ist  
-       [[ ]] Bei theoretischen Arbeiten ist ein Impact Statement unnötig
-
+ ---
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -1994,13 +2075,18 @@ Was sollte beim Schreiben eines Impact Statements beachtet werden?
 
 Was legt eine Zivilklausel an Universitäten fest?
 
+ [[ ]] Sie schreibt den Studierenden das Tragen von Militärkleidung vor.
+ [[ ]] Sie erlaubt die Nutzung von zivilen Technologien und Materialien in der Forschung und Lehre an der Universität.
+ [[ ]] Sie reguliert die Zusammenarbeit zwischen der Universität und zivilen Organisationen.
+ [[ ]] Sie fördert die Durchführung von zivilgesellschaftlichen Projekten an der Universität.
+ [[X]] Sie schreibt den Verzicht auf militärische Forschung und Lehre an der Universität vor.
 
-       [[ ]] Schreibt den Studierenden das Tragen von Militärkleidung vor
-       [[ ]] Erlaubt die Nutzung von zivilen Technologien und Materialien in der Forschung und Lehre an der Universität
-       [[ ]] Reguliert die Zusammenarbeit zwischen der Universität und zivilen Organisationen
-       [[ ]] Fördert die Durchführung von zivilgesellschaftlichen Projekten an der Universität
-       [[X]] Schreibt den Verzicht auf militärische Forschung und Lehre an der Universität vor
+Hat die CAU Kiel eine Zivilklausel?
 
+  [( )] Ja
+  [(X)] Nein
+
+---
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -2043,9 +2129,12 @@ Sophie spricht ihre vorgesetzten Personen auf ihre Bedenken an. Diese lehnen abe
 
 Wie hängen Haltung und Gewissen zusammen?
 
-   [[ ]] Haltung und Gewissen sind Synonyme und bedeuten dasselbe
-   [[ ]] Haltung ist dynamisch und ändert sich häufig, während das Gewissen unveränderlich ist
-   [[X]] Haltung ist ein Wertesystems das man sich entwickelt, während das Gewissen die Funktion ist dieses Wertesystem in kkonkreten Kontexten anzuwenden  
+  [[ ]] Haltung und Gewissen sind Synonyme und bedeuten dasselbe.
+  [[ ]] Haltung ist dynamisch und ändert sich häufig, während das Gewissen unveränderlich ist.
+  [[X]] Haltung ist ein Wertesystem, welches man für sich entwickelt, während das Gewissen dieses Wertesystem in konkreten Kontexten abwägt und anwendet.
+  [[X]] Man muss Haltung vertreten, um für sich selbst vertretbare Gewissensentscheidungen treffen zu können.
+
+  ---
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -2067,31 +2156,27 @@ Wie hängen Haltung und Gewissen zusammen?
 
 Was ist die Treuepflicht?
 
-
-       [[ ]] Die Verpflichtung eines Arbeitnehmers, während der Arbeitszeit keine privaten E-Mails zu schreiben
-       [[X]] Die Verpflichtung eines Arbeitnehmers, Firmengeheimnisse vertraulich zu behandeln
-       [[X]] Die Verpflichtung eines Arbeitnehmers, dem Arbeitgeber nicht zu schaden
-       [[ ]] Die Verpflichtung eines Arbeitgebers, die Gehälter pünktlich zu zahlen
-       [[ ]] Die Verpflichtung eines Arbeitnehmers, Überstunden zu leisten, wenn der Arbeitgeber dies anordnet
-
+  [[ ]] Die Verpflichtung eines Arbeitnehmers, während der Arbeitszeit keine privaten E-Mails zu schreiben.
+  [[X]] Die Verpflichtung eines Arbeitnehmers, Firmengeheimnisse vertraulich zu behandeln.
+  [[X]] Die Verpflichtung eines Arbeitnehmers, dem Arbeitgeber nicht zu schaden.
+  [[ ]] Die Verpflichtung eines Arbeitgebers, die Gehälter pünktlich zu zahlen.
+  [[ ]] Die Verpflichtung eines Arbeitnehmers, Überstunden zu leisten, wenn der Arbeitgeber dies anordnet.
 
 Was ist Whistleblowing?
 
-
-       [[ ]] Das unbefugte Veröffentlichen von Informationen über eine Organisation
-       [[ ]] Das illegale Hacken in die Computersysteme einer Organisation
-       [[X]] Die offene oder verdeckte Meldung von Missständen in einer Organisation an eine externe Stelle
-       [[ ]] Das Verkaufen von vertraulichen Informationen einer Organisation an Dritte
-       [[ ]] Die gezielte Rufschädigung einer Organisation durch das Verbreiten von Falschinformationen
-
+  [[ ]] Das unbefugte Veröffentlichen von Informationen über eine Organisation.
+  [[ ]] Das illegale Hacken in die Computersysteme einer Organisation.
+  [[X]] Die offene oder verdeckte Meldung von Missständen in einer Organisation an eine externe Stelle.
+  [[ ]] Das Verkaufen von vertraulichen Informationen einer Organisation an Dritte.
+  [[ ]] Die gezielte Rufschädigung einer Organisation durch das Verbreiten von Falschinformationen.
 
 Werden Whistleblower geschützt und wenn ja wie?
 
+  [[X]] Ja, Whistleblower werden durch mehrere Richtlinien und Gesetze vor Benachteiligung und Vergeltung geschützt.
+  [[ ]] Ja, Whistleblower werden durch Aufnahme in das Zeugenschutzprogramm geschützt.
+  [[ ]] Nein, Whistleblower verstoßen gegen die Treuepflicht und werden deshalb nicht geschützt.
 
-       [[X]] Ja, Whistleblower werden durch mehrere Richtlinien und Gesetze vor Benachteiligung und Vergeltung geschützt
-       [[ ]] Ja, Whistleblower werden durch Aufnahme in das Zeugenschutzprogramm geschützt
-       [[ ]] Nein, Whistleblower verstoßen gegen die Treuepflicht und werden deshalb nicht geschützt
-
+  ---
 
                          {{2}}
 **Quellen und vertiefende Literatur**
