@@ -235,7 +235,21 @@ Weitere Hinweise finden Sie bei den einzelnen Themen der Veranstaltung. Diese Li
 
 ## 01 Orientierung
 
+Dieser erste Abschnitt der Vorlesung gehört zu dem Grundlagenbereich und soll einen ersten orientierenden Überblick über Ethik geben.
+Im ersten Kapitel werden die zwei ethischen Methoden Philosophisches Staunen und Epoché (Urteilsenthaltung) eingeführt. Diese helfen, scheinbar Selbstverständliches aus einem anderen Blickwinkel zu betrachten und auch das nicht Offensichtliche zu erkennen. Sie werden beide Methoden im Laufe des Semesters immer wieder benötigen.
+
+Auch dieses Bild werden Sie im ersten Video erneut sehen. Nehmen Sie sich daher doch bereits jetzt einige Minuten Zeit, um es in Ruhe zu betrachten.
+
 ![Flammarion](img/Flammarion-3.jpg "Bildquelle: Heikenwaelder Hugo, Austria, Email : heikenwaelder@aon.at, www.heikenwaelder.at, CC BY-SA 2.5, via Wikimedia Commons")
+
+Im zweiten Kapitel wird der Begriff Ethik definiert und Sie lernen die Unterschiede zwischen Moral, Ethik und Metaethik kennen.
+Abschließend wird noch ein kurzer Ausblick darüber geführt, welche Probleme es im Schnittbereich zwischen Informatik und Ethik geben kann.
+
+**Lernziele** des Abschnitts _01 Orientierung_:
+
++ Sie können die Methoden _Philosophisches Staunen_ und _Epoché_ beschreiben und wissen, welche Funktionen sie erfüllen.
++ Sie kennen verschiedene Verständnisweisen des Begriffs _Ethik_ und können diese erläutern.
++ Sie können die Definitionen der Begriffe _Moral_, _Ethik_ und _Moralethik_ nennen und Gemeinsamkeiten und Unterschiede beschreiben.
 
 ### 01-01 Philosophisches Staunen, Epoché (Urteilsenthaltung)
 
@@ -304,6 +318,21 @@ Wie kann die „Natürlichkeit“ und Wertfreiheit von genommenen Daten bewertet
 
 
 ## 02 Argumentation
+
+Der zweite Abschnitt gehört ebenfalls zu den Grundlagen und handelt von Argumentation. Argumentieren ist in der Ethik sehr wichtig und wird Sie das gesamte Semester begleiten. Durch richtiges Argumentieren können unterschiedliche Standpunkte erkannt, analysiert und diskutiert werden. Sie ermöglicht Ihnen eine kritische, rationale und reflektierte Auseinandersetzung mit moralischen Problemen und unterschiedlichen Perspektiven. Sie werden bestenfalls neue Erkenntnisse erlangen und in der Lage sein, ausgewählte Argumente zu stärken oder abzuschwächen.
+
+![Argumentation](img/argumentation.jpg "Bildquelle: von Mohamed_hassan über pixabay")
+
+Das erste Kapitel erklärt wie ethische Texte am besten zu lesen sind und welche Fragen Sie sich dabei stellen sollten. Im zweiten Kapitel wird der grundlegende Aufbau eines Arguments durch These, Argument und Beleg durchgegangen und verschiedene Argumenttypen werden besprochen.
+In Kapitel 3 lernen Sie, wie Sie richtige Schlüsse ziehen und was Fakten- und Normenaussagen sind. Das Wissen hilft, Ihre Argumentationen überzeugend zu formulieren. Das letzte Kapitel des zweiten Abschnitts handelt davon, wie Sie Argumente strukturieren und verknüpfen können, um einen schlüssigen Gesamttext zu erhalten.
+
+**Lernziele** des Abschnitts _02 Argumentation_:
+
++ Sie haben ein grundlegendes Verständnis erlangt, wie ethische Texte zu lesen sind und können die grobe Vorgehensweise beschreiben.
++ Sie wissen, was eine _These_, ein _Argument_ und ein _Beleg_ sind und wie diese sich unterscheiden.
++ Sie kennen die beiden Argumenttypen _seriös_ und _unseriös_ und ihre Unterschiede.
++ Sie können wesentlichen Merkmale von _Fakten- und Normenaussagen_ nennen und den Unterschied erklären.
++ Sie kennen den formalen Aufbau sowie Vor- und Nachteile von _Five Paragraph-Essay_, _Pingpong_, _Sanduhr_ und _Rogerian Argument_.
 
 ### Vorbereitungsaufgabe
 
