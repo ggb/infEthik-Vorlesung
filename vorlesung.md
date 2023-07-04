@@ -322,11 +322,19 @@ Wie kann die „Natürlichkeit“ und Wertfreiheit von genommenen Daten bewertet
 
   [[Metaethik]]
 
+
+---
+
+                           {{2}}                   
+**Quellen und vertiefende Literatur**
+
+* Prechtl, Peter, and Franz-Peter Burkard. 2015. Metzler Lexikon Philosophie: Begriffe und Definitionen. Springer-Verlag.
+
 ## 02 Argumentation
 
 Der zweite Abschnitt gehört ebenfalls zu den Grundlagen und handelt von Argumentation. Argumentieren ist in der Ethik sehr wichtig und wird Sie das gesamte Semester begleiten. Durch richtiges Argumentieren können unterschiedliche Standpunkte erkannt, analysiert und diskutiert werden. Sie ermöglicht Ihnen eine kritische, rationale und reflektierte Auseinandersetzung mit moralischen Problemen und unterschiedlichen Perspektiven. Sie werden bestenfalls neue Erkenntnisse erlangen und in der Lage sein, ausgewählte Argumente zu stärken oder abzuschwächen.
 
-![Argumentation](img/argumentation.jpg "Bildquelle: von Mohamed_hassan über pixabay")
+![Argumentation](img/argumentation.jpg "Bildquelle: von Mohamed_hassan über pixabay, https://pixabay.com/de/vectors/streiten-konflikt-debatte-7218071/")
 
 Das erste Kapitel erklärt wie ethische Texte am besten zu lesen sind und welche Fragen Sie sich dabei stellen sollten. Im zweiten Kapitel wird der grundlegende Aufbau eines Arguments durch These, Argument und Beleg durchgegangen und verschiedene Argumenttypen werden besprochen.
 In Kapitel 3 lernen Sie, wie Sie richtige Schlüsse ziehen und was Fakten- und Normenaussagen sind. Das Wissen hilft, Ihre Argumentationen überzeugend zu formulieren. Das letzte Kapitel des zweiten Abschnitts handelt davon, wie Sie Argumente strukturieren und verknüpfen können, um einen schlüssigen Gesamttext zu erhalten.
@@ -432,11 +440,11 @@ Ordnen Sie den folgenden Argumenten zu, ob es sich um normative, indirekte, Fakt
 
 Welche der genannten Argumente würden Sie als seriös einschätzen?
 
-  [[X]] 1\.
-  [[ ]] 2\.
-  [[X]] 3\.
-  [[ ]] 4\.
-  [[X]] 5\.
+  [[X]] 1.
+  [[ ]] 2.
+  [[X]] 3.
+  [[ ]] 4.
+  [[X]] 5.
 
 
 ### 02-03 Logisches Schließen
@@ -551,11 +559,12 @@ Es soll ein Meinungsbeitrag geschrieben werden. Welche Argumentationsform ist am
 
 ### Quellen und vertiefende Literatur
 
-* Kruse, Otto. 2017. Argumentieren, begründen und reflektieren. In: Ders. ["Kritisches Denken und Argumentieren."](https://katalog.ub.uni-kiel.de/DB=1/XMLPRS=N/PPN?PPN=881421464) UTB.
+* Kruse, Otto. 2020. Argumentieren, begründen und reflektieren. In: Ders. ["Kritisches Denken und Argumentieren."](https://katalog.ub.uni-kiel.de/DB=1/XMLPRS=N/PPN?PPN=881421464) UTB.
 * Ahrens, S. 2017. Das Zettelkasten-Prinzip: Erfolgreich wissenschaftlich Schreiben und Studieren mit effektiven Notizen. Books on Demand.
 * Aßmann, Lothar, Reiner Bergmann, Roland W. Henke, Matthias Schulze, and Eva-Maria Sewing. 2020. Zugänge zur Philosophie. Einführungsphase. 1. Cornelsen Schulverlage.
 * Dutilh Novaes, Catarina. 2021. [“Argument and Argumentation.”](Https://plato.stanford.edu/archives/fall2021/entries/argument/) In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Fall 2021. Metaphysics Research Lab, Stanford University.
 * Pfeifer, V. 2009. Ethisch argumentieren: eine Anleitung anhand von aktuellen Fallanalysen. Ethisch argumentieren / Eine Anleitung anhand von aktuellen Fallanalysen. Schöningh.
+* Regenbogen, A., und U. Meyer. 2013. Wörterbuch der philosophischen Begriffe. Philosophische Bibliothek. Meiner, F.
 * Smith, Robin. 2020. [“Aristotle’s Logic.”](Https://plato.stanford.edu/archives/fall2020/entries/aristotle-logic/) In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Fall 2020. Metaphysics Research Lab, Stanford University.
 * T. Edward Damer. 2008. Attacking Faulty Reasoning: A Practical Guide to Fallacy-Free Arguments. Wadsworth/Cengage Laerning.
 * Weitere prakt. Tipps gibt es zum Beispiel beim Schreibportal der Uni Leipzig und der Schreibwerkstatt der Uni Kiel (UB).
@@ -1839,7 +1848,7 @@ Welche Kritikpunkte gibt es an Gamification?
   [[ ]] Steigerung von Motivation und Engagement
   [[ ]] Einschränkung von Freiheitsrechten
 
-  ---
+---
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -2026,7 +2035,7 @@ Was sollte man tun, um Plagiate zu vermeiden?
  [[ ]] Sich auf die Verwendung von Texten anderer Autoren beschränken, die älter als 50 Jahre sind.
  [[ ]] Sich auf die Verwendung von Quellen beschränken, die nicht im Internet verfügbar sind.
 
- ---
+---
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -2053,7 +2062,7 @@ Was sollte beim Schreiben eines Impact Statements beachtet werden?
  [[X]] Die Verwendung von weiterführender Literatur, wenn sie sinnvoll oder nötig ist.  
  [[ ]] Bei theoretischen Arbeiten ist ein Impact Statement unnötig.
 
- ---
+---
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -2134,7 +2143,7 @@ Wie hängen Haltung und Gewissen zusammen?
   [[X]] Haltung ist ein Wertesystem, welches man für sich entwickelt, während das Gewissen dieses Wertesystem in konkreten Kontexten abwägt und anwendet.
   [[X]] Man muss Haltung vertreten, um für sich selbst vertretbare Gewissensentscheidungen treffen zu können.
 
-  ---
+---
 
                            {{2}}
 **Quellen und vertiefende Literatur**
@@ -2176,7 +2185,7 @@ Werden Whistleblower geschützt und wenn ja wie?
   [[ ]] Ja, Whistleblower werden durch Aufnahme in das Zeugenschutzprogramm geschützt.
   [[ ]] Nein, Whistleblower verstoßen gegen die Treuepflicht und werden deshalb nicht geschützt.
 
-  ---
+---
 
                          {{2}}
 **Quellen und vertiefende Literatur**
