@@ -610,6 +610,23 @@ Zum Bestehen müssen Sie mindestens 7 von 9 Kriterien erreichen/nicht verletzen.
 
 ## 03 Argumentationslinien
 
+Der dritte Abschnitt des Grundlagenbereichs gibt eine Einführung in die Methode der Gedankenexperimente, definiert den Begriff Dilemma und beschäftigt sich mit klassischen Argumentationslinien der Ethik.
+
+![Wortwolke mit Begriffen aus dem Kapitel 3](img/Wortwolke03.jpg "Bildquelle: www.wortwolken.com")
+
+Im ersten Kapitel geht es um Gedankenexperimente - eine beliebte Methode der Philosophie. Sie helfen dabei, sich Szenarien vorzustellen, die der Realität nicht entsprechen. Neben einer typischen Struktur werden in diesem Kapitel auch verschiedene Arten von Gedankenexperimenten vorgestellt. Außerdem wird auch der Begriff Dilemma definiert und der Bezug zu den Gedankenexperimenten verdeutlicht.
+In Kapitel 2 sollen Sie sich mit der Internetseite [Moral Machine](https://www.moralmachine.net/) beschäftigen und selbst entscheiden, wie ein selbstfahrendes Auto handeln soll.
+Das dritte Kapitel gibt einen Überblick über die klassischen Argumentationslinien und ethischen Denkschulen. Ethische Denkschulen sind Gegenstand jahrtausendlanger Auseinandersetzungen und geprägt von verschiedenen Ethiker*innen, die im Laufe dieses Kapitels genauer vorgestellt werden. Die verschiedenen Argumentationslinie sollen unterschiedliche Blickwinkel auf einen Sachverhalt zeigen und Begründungsrahmen für ethische Diskussionen bieten.
+
+**Lernziele** des Abschnitts _03 Argumentationslinien_:
+
++ Sie haben die Methode des Gedankenexperiments verstanden und können diese anwenden.
++ Sie können den Begriff _Dilemma_ definieren und wichtige Eigenschaften benennen.
++ Sie haben verstanden, warum das _Trolley Dilemma_ ein Dilemma und ein Gedankenexperiment ist und können beides erklären.
++ Sie kennen die verschiedenen Argumentationslinien und können diese unterscheiden.
++ Sie haben verstanden, warum der _Utilitarismus_ auch als _ethische Arithmetik_ bezeichnet werden kann.
++ Sie kennen den Begriff des _Urzustands_ und des _Schleiers des Nichtwissens_ in der Gerechtigkeitstheorie von John Rawls und können diese erläutern.
+
 ### Vorbereitungsaufgabe
 
 [CSV-Datei mit Daten](https://cloud.rz.uni-kiel.de/index.php/s/pX66t2ArMLJqnAt)
