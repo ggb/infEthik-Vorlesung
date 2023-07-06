@@ -735,7 +735,7 @@ Weiterführende Informationen zu den verschiedenen Argumentationslinien bieten d
                            {{1}}
 **Quiz**
 
-elche Argumentationslinie kann mit der Phrase "fake it, until you make it" beschrieben werden?
+Welche Argumentationslinie kann mit der Phrase "fake it, until you make it" beschrieben werden?
 
   [( )] Utilitarismus
   [(X)] Tugendethik
