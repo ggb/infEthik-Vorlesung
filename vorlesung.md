@@ -2226,4 +2226,116 @@ Werden Whistleblower geschützt und wenn ja wie?
 
 ## Anhang
 
-Aktuell noch ungenutzt :-/
+### Glossar
+
+Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit den/dem Kapitel/n auf, in denen sie vorkommen. Die Tabelle erhebt keinen Anspruch auf Vollständigkeit.
+
+| Begriff                          | Kapitel                                                                     |
+|----------------------------------|-----------------------------------------------------------------------------|
+| Abstraktion                      | 07-03                                                                       |
+| Aktuerschaft                     | 04-01, 05-01                                                                |
+| Alternativtexte                  | 10-03                                                                       |
+| Ambiguität                       | 04-01                                                                       |
+| Ambiguitätstoleranz              | 04-01                                                                       |
+| Analogie-Test                    | 09-01                                                                       |
+| Anthropomorphismen               | 05-03                                                                       |
+| Argumentationslinien             | 02-01, 03-01, 03-03                                                         |
+| Argumenttypen                    | 02-02                                                                       |
+| Autonomie                        | 03-03, 04-01, 06-01                                                         |
+| Barrierefreiheit                 | 10-03                                                                       |
+| Begriffe                         | 02-01, 03-01, 04-01, 04-02, 04-03, 12-01                                    |
+| Behindertengleichstellungsgesetz (BGG) | 10-03                                                                       |
+| Bias                             | 07-03, 11-03                                                                |
+| Chilling effects                 | 06-01                                                                       |
+| Code of Conduct                  | 08-02                                                                       |
+| Concept Map                      | 04-02                                                                       |
+| Concept of Operation             | 10-01                                                                       |
+| Dark Patterns                    | 10-02                                                                       |
+| Deontologie                      | 03-03,  10-01                                                               |
+| Dilemma                          | 03-01, 04-03, 08-01, 09-01, 09-02, 09-03, 09-04, 11-03, 12-01, 12-02, 12-03 |
+| Dual Use                         | 05-02, 11-01, 11-03, 11-04                                                  |
+| Epoché                           | 01-01                                                                       |
+| Ethik                            | 01-02, 03-03, 04-03, 05-01, 11-03                                           |
+| Ethische Wertanforderung (EVR)   | 10-01                                                                       |
+| Ethisches Designdokument         | 09-02, 09-03                                                                |
+| Eudaimonismus                    | 03-03                                                                       |
+| Faktenaussage                    | 02-03                                                                       |
+| Fallanalyse                      | 09-01                                                                       |
+| Five Paragraph-Essay             | 02-04                                                                       |
+| Folgenabschätzung                | 09-02, 09-03, 09-04, 11-03                                                  |
+| Gamification                     | 10-02                                                                       |
+| Gedankenexperimente              | 03-01, 03-03                                                                |
+| GERD-Modell                      | 10-01                                                                       |
+| Gesellschaft für Informatik      | 08-01, 09-02, 09-03, 11-01                                                  |
+| Gesinnungsethik                  | 05-01                                                                       |
+| Gewissen                         | 05-01, 05-02, 12-01                                                         |
+| Ghost Work                       | 07-02                                                                       |
+| Haltung                          | 05-01, 12-01                                                                |
+| Impact Statement                 | 09-02, 09-04, 11-03                                                         |
+| Infantilisierung                 | 10-02                                                                       |
+| Interesse                        | 04-03, 06-03, 07-04, 09-01                                                  |
+| Interessenskonflikt              | 04-03, 06-03, 12-03                                                         |
+| In-the-Loop                      | 05-02                                                                       |
+| Kahnemann System                 | 10-02                                                                       |
+| Kategorischer Imperativ          | 03-03                                                                       |
+| Konsequentialismus               | 03-03                                                                       |
+| Konservativismus                 | 07-03                                                                       |
+| Kontextanalyse                   | 09-01, 09-02, 09-03, 09-04                                                  |
+| Kontraktualismus                 | 03-03                                                                       |
+| Konzepte                         | 04-01, 04-02                                                                |
+| Lege artis                       | 11-01                                                                       |
+| Leichte Sprache                  | 10-03                                                                       |
+| Libertärer Paternalismus         | 10-02                                                                       |
+| Mittelanalyse                    | 09-02, 09-03, 09-04, 11-03                                                  |
+| Moral                            | 01-02, 03-01, 03-03, 04-01, 04-03, 05-01, 08-01, 12-01, 12-02, 12-03        |
+| Moralethik                       | 01-02, 04-03                                                                |
+| Naturalistischer Fehlschluss     | 02-03, 09-01                                                                |
+| NeurIPS                          | 11-03                                                                       |
+| Normen                           | 01-02, 02-02, 03-03, 04-03, 07-01, 08-01, 09-01                             |
+| Normenaussage                    | 02-03                                                                       |
+| Nudge                            | 10-02                                                                       |
+| Objektivität                     | 07-01                                                                       |
+| On-the-Loop                      | 05-02                                                                       |
+| Out-of-the-Loop                  | 05-02                                                                       |
+| Panoptismus                      | 06-01                                                                       |
+| Pflichtethik                     | 03-03, 10-01                                                                |
+| Pingpong-Argumentation           | 02-04                                                                       |
+| Plagiate                         | 11-02                                                                       |
+| Privatheit                       | 06-01, 06-02, 06-03                                                         |
+| Privatsphäre                     | 06-01, 06-02                                                                |
+| Responsibilty Gap                | 05-02                                                                       |
+| Rogerian Argument                | 02-04                                                                       |
+| Sanduhr-Argumentation            | 02-04                                                                       |
+| Schadensvermeidung               | 11-01                                                                       |
+| Schleier des Nichtwissens        | 03-03, 07-04, 09-02                                                         |
+| Sicherheit                       | 04-03, 06-03                                                                |
+| Stakeholder                      | 07-04, 09-02, 09-03, 09-04, 10-01, 11-03                                    |
+| Syllogismus                      | 02-03, 07-01, 09-01                                                         |
+| System of Interest (SOI)         | 10-01                                                                       |
+| Transparenz                      | 06-02                                                                       |
+| Treuepflicht                     | 12-02                                                                       |
+| Tugendethik                      | 03-03, 10-01, 12-01                                                         |
+| Überwachungskapitalismus         | 07-02                                                                       |
+| UN-Behindertenrechtskonvention   | 10-03                                                                       |
+| Urteilsfindung                   | 09-01                                                                       |
+| Urzustand                        | 03-03                                                                       |
+| Utilitarismus                    | 03-03,  10-01                                                               |
+| Value-based Engineering (VbE)    | 10-01                                                                       |
+| Varianz                          | 09-01                                                                       |
+| Verantwortung                    | 05-01, 05-02, 06-02, 06-03, 08-01, 11-01, 12-02                             |
+| Verantwortungsethik              | 05-01                                                                       |
+| Verantwortungslücke              | 05-02                                                                       |
+| Werte                            | 01-02, 02-04, 03-03, 04-03, 06-03, 07-01, 08-01, 10-01, 12-01, 12-03        |
+| Werteanalyse                     | 09-01, 09-02, 09-03, 09-04, 10-01, 11-03                                    |
+| Wertecluster                     | 10-01                                                                       |
+| Wertekonflikt                    | 04-03, 06-03, 09-02, 09-03, 09-04, 11-03                                    |
+| Wertidealismus                   | 04-03, 07-01, 10-01                                                         |
+| Wertkonstruktivismus             | 04-03, 07-01                                                                |
+| Wertnaturalismus                 | 04-03, 07-01                                                                |
+| Wertqualität (WQ)                | 10-01                                                                       |
+| Wertstrategie                    | 10-01                                                                       |
+| Wertsubjektivismus               | 04-03, 07-01                                                                |
+| Wert-Typen                       | 04-03, 07-01                                                                |
+| Whistleblowing                   | 12-02                                                                       |
+| Zielanalyse                      | 09-02, 09-03, 09-04, 11-03                                                  |
+| Zivilklausel                     | 11-04                                                                       |
