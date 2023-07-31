@@ -1288,6 +1288,27 @@ Kreuzen Sie die richtigen Aussagen an!
 
 ## 07 Daten und Maschinelles Lernen
 
+Im siebten Abschnitt werden Daten aus einer ethischen Perspektive betrachtet. Insbesondere geht es darum, welche Folgen der unachtsame Gebrauch von Daten im Kontext des maschinellen Lernens haben kann.#
+
+Dafür wird im ersten Kapitel der Begriff _Objektivität_ mit seinen verschiedenen Verständnisweisen vorgestellt.
+
+Im zweiten Kapitel wird untersucht, woher die Daten eigentlich kommen. Dabei geht es weniger um die legalen und moralischen Arten, an Daten zu gelangen, sondern vielmehr um die problematischen Wege wie z.B. _Ghost Work_.
+
+Wenn analoge Daten in digitale Daten umgewandelt werden, ist damit meist ein Informationsverlust verbunden. Dieser Verlust wirkt häufig unproblematisch. Das Kapitel 3 beschäftigt sich genauer mit Reduktion, Verzerrungen und Präferenzenstarrheit in Daten und zeigt, warum und welche Probleme entstehen können.
+
+![Ignorante Person mit Stöpseln im Ohr](img/Daten.png "Bildquelle: von Rilson S. Avelar auf Pixabay, https://pixabay.com/de/illustrations/ignoranz-hoffart-befangenheit-1993615/")
+
+Das letzte Kapitel dieses Abschnitts betrachtet Möglichkeiten und Ideen, wie der Umgang mit Daten verbessert werden kann.
+
+**Lernziele** des Abschnitts _07 Daten und Maschinelles Lernen_:
+
++ Sie können verschiedene Verständnisweisen des Begriffs _Objektivität_ nennen.
++ Sie wissen, warum objektiv-ethisch urteilende Maschinen und Algorithmen nicht möglich sind und können es begründen.
++ Sie kennen mehrere (ethisch) problematische Aspekte von _Ghost Work_.
++ Sie haben Verstanden, was unter dem Begriff _Bias_ verstanden wird.
++ Sie können folgenden Satz erläutern: "Maschinelles Lernen ist konservativ."
++ Sie sind in der Lage rauszufinden, ob eine datengetriebene Lösung für ein Problem Sinn ergibt.
+
 ### Vorbereitungsaufgabe
 
 * [negativewords.txt](https://cloud.rz.uni-kiel.de/index.php/s/RW45JTFXj3qdqJG)
@@ -1567,6 +1588,19 @@ In der Tat, als sie endlich diese Frage zu hören bekommt, wird „Katze“ als 
 
 ## 08 Leitlinien und ethische Codes
 
+Der 8. Abschnitt ist der letzte Abschnitt des Kontextbereichs und behandelt _ethische Leitlinien_ und _Code of Conducts_ für Informatiker:innen.
+
+![Klemmbrett mit Liste an Regeln](img/leitlinien.jpg "Bildquelle: vonpch.vector auf Freepik, https://de.freepik.com/vektoren-kostenlos/kleine-geschaeftsleute-die-eine-liste-von-regeln-lesen-mann-und-frau-die-eine-checkliste-fuer-die-kontrolle-des-unternehmensmanagements-auf-einer-riesigen-flachen-vektorillustration-des-klemmbretts-erstellen-fuehrungskonzept_24644903.htm")
+
+Der Abschnitt ist in zwei Kapitel unterteilt. Kapitel 1 stellt die _Gesellschaft für Informatik_ vor. Es ist eine gemeinnützige Fachgesellschaft, die u.a. _ethische Leitlinien_ für Informatikfachpersonen ausgearbeitet haben. Das zweite Kapitel erklärt Arten, Verwendung und Aufbau von _Code of Conducts_.
+
+**Lernziele** des Abschnitts _08 Leitlinien und ethische Codes_:
+
++ Sie können _ethische Leitlinien_ von _Codes of Conducts_ unterscheiden.
++ Sie wissen, in welche vier Themengebiete die 12 Artikel der _ethischen Leitlinien der GI_ eingeteilt werden können.
++ Sie haben die Inhalte der _ethischen Leitlinien der GI_ verstanden und sind in der Lage diese zusammenfassend wiederzugeben.
++ Sie kennen verschiedene Verwendungen von _Code of Conducts_.
+
 ### Vorbereitungsaufgabe
 
 Lesen Sie zur Vorbereitung auf die nächste Woche den ["Ethischen Kompass für Informatik-Fachleute"](https://gi.de/fileadmin/GI/Allgemein/PDF/GI_Ethischer_Kompass.pdf) der GI, sowie die ["Stable Diffusion v1 Model Card"](https://github.com/CompVis/stable-diffusion/blob/main/Stable_Diffusion_v1_Model_Card.md).
@@ -1582,7 +1616,7 @@ Lesen Sie zur Vorbereitung auf die nächste Woche den ["Ethischen Kompass für I
                            {{1}}
 **Quiz**
 
-WWie unterscheiden sich "Ethischen Leitlinien" von "Codes of Conduct"?
+Wie unterscheiden sich "Ethischen Leitlinien" von "Codes of Conduct"?
 
   [[X]] Ethische Leitlinien sind allgemeine Richtlinien, während Codes of Conduct spezifische Regeln enthalten.
   [[ ]] Ethische Leitlinien sind spezifische Regeln, während Codes of Conduct allgemeine Richtlinien enthalten.
@@ -1610,7 +1644,7 @@ Welche 4 Überthemen werden in den 12 Artikeln der Ethischen Leitlinien der GI b
                            {{1}}
 **Quiz**
 
-elche Art von Verhalten wird in einem Code of Conduct erwartet?
+Welche Art von Verhalten wird in einem Code of Conduct erwartet?
 
   [[ ]] Gewalt und Belästigung
   [[ ]] Diebstahl und Betrug
