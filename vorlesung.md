@@ -612,7 +612,7 @@ Zum Bestehen müssen Sie mindestens 7 von 9 Kriterien erreichen/nicht verletzen.
 
 Der dritte Abschnitt des Grundlagenbereichs gibt eine Einführung in die Methode der Gedankenexperimente, definiert den Begriff Dilemma und beschäftigt sich mit klassischen Argumentationslinien der Ethik.
 
-![Wortwolke mit Begriffen aus dem Kapitel 3](img/Wortwolke03.jpg "Bildquelle: www.wortwolken.com")
+![Wortwolke mit Begriffen aus dem Kapitel 3](img/Wortwolke.jpg "Bildquelle: www.wortwolken.com")
 
 Im ersten Kapitel geht es um Gedankenexperimente - eine beliebte Methode der Philosophie. Sie helfen dabei, sich Szenarien vorzustellen, die der Realität nicht entsprechen. Neben einer typischen Struktur werden in diesem Kapitel auch verschiedene Arten von Gedankenexperimenten vorgestellt. Außerdem wird auch der Begriff Dilemma definiert und der Bezug zu den Gedankenexperimenten verdeutlicht.
 In Kapitel 2 sollen Sie sich mit der Internetseite [Moral Machine](https://www.moralmachine.net/) beschäftigen und selbst entscheiden, wie ein selbstfahrendes Auto handeln soll.
@@ -825,6 +825,27 @@ In dem Film "Bridge of Spies" vertritt James Donovan als Strafverteidiger Abel, 
 
 ## 04 Begriffe
 
+Der vierte und letzte Abschnitt der Grundlagen handelt von Begriffen und führt die Methode der Concept Map ein.
+
+Das erste Kapitel definiert zuerst den Begriff des Begriffs. Anschließend findet eine Begriffsdifferenzierung zwischen moralischer Akteurschaft und Autonomie stat. Dafür wird die Frage "Können Maschinen moralisch handeln?" betrachtet.
+
+Im zweiten Kapitel wird die Methode "Concept Map" eingeführt und sowohl die Regeln als auch der Sinn und Zweck dieser Methode erläutert. Im folgenden Bild sehen Sie eine Concept Map.
+
+![Concept Map Beispiel](img/Conceptmap.png "Bildquelle: ​English Wikipedia user Vicwood40, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons")
+
+Kapitel 3 stellt wichtige Begriffe vor. Neben den bereits bekannten Begriffen _Moral_, _Ethik_ und _Metaethik_ werden hier besonders die Begriffe _Werte_, _Interessen_ und _Normen_ vorgestellt. Diese werden voneinander abgegrenzt und anschließend jeweils näher erläutert.
+
+**Lernziele** des Abschnitts _04 Begriffe_:
+
++ Sie kennen die definitorischen Merkmale von Begriffen.
++ Sie wissen, was der Begriff _Ambiguität_ bedeutet und können diesen erklären.
++ Sie haben die Methode _Concept Map_ verstanden und können diese anwenden.
++ Sie kennen den Unterschied zwischen _Mittelkonflikt_ und _Zielkonflikt_ in der Ethik.
++ Sie können die Begriffe _Wert_ und _Interesse_ definieren und voneinander abgrenzen.
++ Sie haben die Unterschiede der beiden Konfliktarten _Interessenkonflikt_ und _Wertekonflikt_ verstanden und können Konflikte zuordnen.
++ Sie können die unterschiedlichen _Wert-Typen_ benennen und erklären.
++ Sie haben verstanden, was _Normen_ sind und wie diese sich von _Werten_ unterscheiden.
+
 ### Vorbereitungsaufgabe
 
 Ein wichtiger Aspekt guter Argumentation ist der korrekte Gebrauch von Begriffen. Daher betrachten wir in dieser Woche Begriffe näher und welche Schwierigkeiten es im Umgang mit Begriffen gibt. Manchmal kann der unterschiedliche Gebrauch eines Begriffs darüber entscheiden, wie ein Sachverhalt bewertet wird. Das werden wir anhand der sog. Akteurschaft (Agency) von Maschinen bzw. Softwaresystemen ins Auge nehmen.
@@ -985,6 +1006,28 @@ Um die Sicherheit unserer Daten zu schützen sollten wir große Firmen bei der E
 
 ## 05 Verantwortung
 
+Die letzten 4 Abschnitte haben wichtige ethische Grundlagen eingeführt. Mit diesem Abschnitt beginnt der Kontextbereich, in dem mit Hilfe weiterer zentraler Begriffe ein Bezug zwischen den ethischen Grundlagen und der Informatik hergestellt werden soll.
+Dieser Abschnitt beschäftigt sich dabei mit dem Begriff der _Verantwortung_.
+
+Im ersten Kapitel wird der Begriff Verantwortung definiert und das Prinzip der Verantwortung von Hans Jonas erklärt.
+
+Das zweite Kapitel betrachtet typische Probleme in der Informatik, bei denen die Verantwortung unklar oder schwierig ist. Es wird dabei die Verantwortungslücke, das Problem der vielen Hände und Dual Use als Problematik vorgestellt.
+
+![Personen an mehreren Zanrädern](img/Verantwortung.jpg "Bildquelle: von rawpixel.com auf Freepik, https://de.freepik.com/vektoren-kostenlos/illustration-von-den-charakteren-die-zahnraeder-halten_3207892.htm")
+
+Das 3. und letzte Kapitel des Abschnitts 5 ist ein Exkurs zum Thema Anthropomorphismen. Die Übertragung menschlicher Eigenschaften und Verhaltensweisen auf
+außermenschliche Gegenstände passiert im alltäglichen Sprachgebrauch häufig und oft auch unbewusst. Die Problematik dabei wird in diesem Kapitel besprochen.
+
+**Lernziele** des Abschnitts _05 Verantwortung_:
+
++ Sie kennen den Unterschied zwischen _Gesinnungs_- und _Verantwortungsethik_.
++ Sie haben den Zusammenhang zwischen Akteurschaft und Verantwortung verstanden.
++ Sie wissen, was der Begriff _Verantwortungslücke_ bedeutet und können diesen erklären.
++ Sie können Kritikpunkte am Begriff der _Verantwortungslücke_ benennen und erklären.
++ Sie wissen, worin in Bezug auf Verantwortung das _Problem der vielen Hände_ besteht.
++ Sie haben den Begriff _Dual Use_ verstanden und können diesen mit Hilfe eines Beispiels erläutern.
++ Sie können den Begriff _Anthropomorphismus_ definieren und benennen, welche Herausforderungen in Bezug auf ML und KI entstehen.
+
 ### Vorbereitungsaufgabe
 
 In der Vorlesung haben wir uns mit dem relationalen Charakter von Begriffen beschäftigt und die Methode „Concept Map“ kennengelernt, die sich sehr gut eignet, um diesen Aspekt von Begriffen deutlich zu machen.
@@ -1120,7 +1163,28 @@ Welche Aussagen zum Anthropomorphismus sind korrekt?
 * Prechtl, Peter, and Franz-Peter Burkard. 2015. Metzler Lexikon Philosophie: Begriffe und Definitionen. Springer-Verlag.
 * Westerkamp, Dirk. 2019. Das schweigende Tier: Sprachphilosophie und Ethologie. Hamburg: Felix Meiner Verlag.
 
-## 06 Privat, Sicherheit und Transparenz
+## 06 Privatheit, Sicherheit und Transparenz
+
+Der Abschnitt 6 gehört wie der Abschnitt 5 zu dem Kontextbereich. Auch hier wird ein Bezug zwischen den ethischen Grundlagen und der Informatik hergestellt.
+Diesmal mit den Begriffen _Privatheit_, _Transparenz_ und _Sicherheit_.
+
+In Kapitel 1 wird der Begriff _Privatheit_ einführend definiert und die zeitliche Veränderung von der Antike bis zur Gegenwart veranschaulicht. Auch die Verankerung im Recht und die Funktionen der Privatsphäre werden betrachtet.
+
+Das zweite Kapitel behandelt den Begriff _Transparenz_ und startet ebenfalls mit einer Begriffsdefinition. Anschließend werden Funktionen, Probleme und technische Grenzen genauer erläutert.
+
+Im dritten Kapitel geht es um den Begriff _Sicherheit_ und mögliche _Wertekonflikte_ dabei.
+
+![Überwachungskameras](img/Sicherheit.jpg "Bildquelle: von Joseph Mucira auf Pixabay, https://pixabay.com/de/photos/cctv-%C3%BCberwachungskamera-cctv-7267551/")
+
+**Lernziele** des Abschnitts _06 Privatheit, Transparenz und Sicherheit_:
+
++ Sie können die Begriffe _Privatheit_, _Transparenz_ und _Sicherheit_ definieren und voneinander abgrenzen.
++ Sie haben Grimms Zwiebelmodell der Privatsphäre verstanden.
++ Sie sind in der Lage mehrere Beispiele für die Verankerung der Privatheit in den bundesdeutschen Grundrechten zu nennen.
++ Sie haben die Funktionen der Privatsphäre verstanden und können die einzelnen Funktionen erklären.
++ Sie kennen die Begriffe _Panoptismus_, _Machtasymmetrie_ und _chilling effects_ und können die Zusammenhänge erklären.
++ Sie können erklären, warum der Begriff _Transparenz_ positiv und negativ verstanden werden kann.
++ Sie wissen, welche Wertekonflikte in Bezug auf _Sicherheit_ entstehen können.
 
 ### Vorbereitungsaufgabe
 
