@@ -1588,7 +1588,7 @@ In der Tat, als sie endlich diese Frage zu hören bekommt, wird „Katze“ als 
 
 ## 08 Leitlinien und ethische Codes
 
-Der 8. Abschnitt ist der letzte Abschnitt des Kontextbereichs und behandelt _ethische Leitlinien_ und _Code of Conducts_ für Informatiker:innen.
+Der achte Abschnitt ist der letzte Abschnitt des Kontextbereichs und behandelt _ethische Leitlinien_ und _Code of Conducts_ für Informatiker:innen.
 
 ![Klemmbrett mit Liste an Regeln](img/leitlinien.jpg "Bildquelle: vonpch.vector auf Freepik, https://de.freepik.com/vektoren-kostenlos/kleine-geschaeftsleute-die-eine-liste-von-regeln-lesen-mann-und-frau-die-eine-checkliste-fuer-die-kontrolle-des-unternehmensmanagements-auf-einer-riesigen-flachen-vektorillustration-des-klemmbretts-erstellen-fuehrungskonzept_24644903.htm")
 
@@ -1683,9 +1683,25 @@ Was können Unternehmen tun, um sicherzustellen, dass ihr Code of Conduct eingeh
 
 ## 09 Fallstudien
 
-In diesem Kapitel geht es im ersten Teil um die Ethische Fallanalyse nach Pfeifer. Diese ist eine Methode zur Untersuchung ethischer Probleme, die von dem Ethiker und Philosophen Thomas Pfeiffer entwickelt wurde. Es ist ein systematisches Vorgehen, das darauf abzielt, ethische Probleme in einer bestimmten Situation oder einem bestimmten Fall zu identifizieren und zu lösen. Es umfasst die Analyse der betroffenen Personen, Interessen und Werte, sowie die Identifizierung von Handlungsalternativen und deren Auswirkungen.
+Nachdem im Kontextbereich einige problematische Bereiche der Informatik vorgestellt wurden, beginnt nun der Anwendungsbereich, in dem Auswirkungen ethischer Entscheidungen in wirtschaftlichen und akademischen Projekten beleuchtet werden.
 
-Im zweiten Teil geht es um das Erstellen eines ethischen Designdokuments oder Impact Statements. Diese beschreiben die ethischen Überlegungen, die bei der Entwicklung eines Produkts, einer Dienstleistung, eines Projekts oder im Falle eines Impact Statements, einer Forschung berücksichtigt wurden. Dies kann die Auswirkungen auf die Umwelt, die Gesellschaft und die Individuen umfassen. Es dient dazu, die Verantwortung des Unternehmens oder des Entwicklers für die Auswirkungen ihrer Arbeit darzustellen und sicherzustellen, dass diese Auswirkungen so positiv wie möglich gestaltet werden.
+![Reaktion mehrerer Kugeln](img/Fallstudien.jpg "Bildquelle: von pch.vector auf Freepik, https://de.freepik.com/vektoren-kostenlos/winzige-leute-die-nahe-pendel-stehen-isolierte-flache-illustration_11235946.htm")
+
+Der Abschnitt 9 befasst sich dafür mit verschiedenen Methoden, die helfen können, mit diesen ethischen Problemen umzugehen.
+Das erste Kapitel handelt von der _ethischen Fallanalyse_ nach Pfeifer. Dies ist ein systematisches Vorgehen, das darauf abzielt, ethische Probleme in einer bestimmten Situation oder einem bestimmten Fall zu identifizieren und zu lösen. Es umfasst die Analyse der betroffenen Personen, Interessen und Werte, sowie die Identifizierung von Handlungsalternativen und deren Auswirkungen.
+
+Im zweiten Kapitel geht es um das Erstellen eines _ethischen Designdokuments_ oder _Impact Statements_. Diese beschreiben die ethischen Überlegungen, die bei der Entwicklung eines Produkts, einer Dienstleistung, eines Projekts oder im Falle eines Impact Statements, einer Forschung berücksichtigt wurden. Dies kann die Auswirkungen auf die Umwelt, die Gesellschaft und die Individuen umfassen. Es dient dazu, die Verantwortung des Unternehmens oder des Entwicklers für die Auswirkungen ihrer Arbeit darzustellen und sicherzustellen, dass diese Auswirkungen so positiv wie möglich gestaltet werden.
+
+Das drittel Kapitel ist eine ausführliche Schritt für Schritt Anleitung zum Verfassen eines _ethischen Designdokuments_ zu finden.
+
+Kapitel vier enthält eine ebenso ausführliche Anleitung zum Verfassen eines _Impact Statements_.
+
+**Lernziele** des Abschnitts _09 Fallstudien_:
+
++ Sie kennen die einzelnen Schritte der _ethischen Fallanalyse_ nach Pfeifer und können diese anwenden.
++ Sie wissen, welche Zwecke ein _ethisches Designdokument_ und ein _Impact Statement_ haben.
++ Sie können die Unterschiede zwischen einem _ethischen Designdokument_ und einem _Impact Statement_ benennen.
++ Sie haben das Vorgehen zum Verfassen eines _ethischen Designdokuments_ oder _Impact Statements_ verstanden und können dieses anwenden.
 
 ### Vorbereitungsaufgabe
 
@@ -1859,6 +1875,27 @@ Am Ende sollten die Ergebnisse der Analyse noch einmal in aller Kürze zusammeng
 An dieser Stelle können außerdem allgemeine Beobachtungen Platz finden, für die an anderer Stelle kein Raum war.
 
 ## 10 Ethisches Design
+
+Der zehnte Abschnitt, der ebenfalls zum Anwendungsbereich gehört, stellt vor, wie Software und Applikationen allgemein ethisch gestaltbar sind und wieso das nicht immer machbar ist.
+
+Im ersten Kapitel geht es daher um zwei Verfahren zum Design ethischer Systeme: Das _Value-based Engineering_ und das _GERD-Modell_.
+
+Kapitel 2 handelt von dem ethischen Design im Kleinen. Hier wird vorgestellt, wie bspw. durch _Nudging_, _Dark Pattern_ und _Gamification_ in Benutzeroberflächen ethisch oder unethisch agieret werden kann.
+
+Das dritte Kapitel behandelt das Thema _Barrierefreiheit_. Es geht vor allem um digitale _Barrierefreiheit_ und die minimalen Anforderungen dafür.
+
+![Digitale Zugänglichkeit für alle](img/Barrierefreiheit.jpg "Bildquelle: von vectorjuice auf Freepik, https://de.freepik.com/vektoren-kostenlos/elektronische-zugaenglichkeit-abstraktes-konzept-vektordarstellung-zugaenglichkeit-zu-websites-elektronisches-geraet-fuer-menschen-mit-behinderungen-kommunikationstechnologie-anpassbare-webseiten-abstrakte-metapher_24122185.htm")
+
+
+**Lernziele** des Abschnitts _10 Ethisches Design_:
+
++ Sie können die Verfahren _Value-based Engineering_ und _GERD-Modell_ erkären.
++ Sie wissen, aus welchen Bereichen beim _Value-based Engineering_ Fragen in Bezug auf das jeweilige _System of Interest_ gestellt werden.
++ Sie können den Zusammenhang zwischen Nudges und der Theorie von Kahnemann erklären.
++ Sie können die Begriffe _Nudging_, _Dark Pattern_ und _Gamification_ erläutern und jeweils passende Beispiele dazu nennen.
++ Sie sind in der Lage zu erläutern, was unter (digitaler) _Barrierefreiheit_ verstanden wird.
++ Sie kennen einige Anforderungen, um digitale _Barrierefreiheit_ zu gewährleisten.
+
 
 ### Vorbereitungsaufgabe
 
@@ -2075,6 +2112,26 @@ Die App wird mit einem hochpreisigen Abo-Modell finanziert. Der Grund für den h
 
 ## 11 Ethik in der Wissenschaft
 
+Der elfte Abschnitt beschäftigt sich mit den ethischen Ansprüchen, die an Informatiker:innen als Forscher:innen gestellt werden.
+
+Dafür wird im ersten Kapitel erklärt, wie die eigene Forschung reflektiert werden kann. Es werden u.a. Grundsätze vorgestellt, wie mit Software und Daten umgegangen werden sollte.
+
+Das zweite Kapitel handelt von geistigem Eigentum, _Plagiaten_ und wie man diese verhindern kann.
+
+![Schriftrolle mit Text, dass man nicht plagiert.](img/Plagiat.png "Bildquelle: von Evangelos Evangelou auf Pixabay, https://pixabay.com/de/illustrations/plagiat-nicht-kopieren-cheat-7597846/")
+
+Im dritten Kapitel rückt die Methode _Impact Statement_ erneut in den Vordergrund. In Abschnitt 9 wurde bereits ausführlich das Vorgehen zum Verfassen eines _Impact Statements_ erläutert. Nun wird genauer betrachtet, wieso ein _Impact Statement_ verfasst werden sollte und welche Folgen dies haben kann.
+
+Das letzte Kapitel von Abschnitt 11 befasst sich mit dem Thema _Zivilklausel_ und militärischer Forschung an Hochschulen. Eine _Zivilklausel_ schließt u.a. die Forschung für militärische Zwecke an Universitäten aus. Wieso dieser Weg auch problematisch sein kann und wie die CAU Kiel damit umgeht, wird in Kapitel 4 dargestellt.
+
+**Lernziele** des Abschnitts _11 Ethik in der Wissenschaft_:
+
++ Sie wissen, welche Aspekte bei der Reflektion von Forschungsergebnissen berücksichtigt werden sollten.
++ Sie haben verstanden, was das Prinzip _lege artis_ ist.
++ Sie können erklären, warum _Plagiate_ ethisch problematisch sind.
++ Sie wissen, wofür Impact Statements sinnvoll sind und was beim Schreiben beachtet werden sollte.
++ Sie kennen den Umgang der CAU mit militärischer Forschung.
+
 ### Vorbereitungsaufgabe
 
 Die in Vorlesung 09 vorgestellte Methodik zur Fallanalyse bildet die Grundlage für das Verfassen von ethischen Designdokumenten und Impact Statements, d. h. Ihrer Prüfungsleistung, und wird uns daher bis zum Ende der Veranstaltung begleiten.
@@ -2136,7 +2193,7 @@ Was sind wichtige Aspekte, die bei der Reflektion von Forschungsergebnissen ber�
                            {{1}}
 **Quiz**
 
-as gilt laut ACM Policy als Plagiat?
+Was gilt laut ACM Policy als Plagiat?
 
  [[X]] Die wortwörtliche Übernahme von Texten oder Teilen aus Texten anderer Autoren ohne entsprechende Quellenangabe.
  [[X]] Das Paraphrasieren von Texten anderer Autoren ohne entsprechende Quellenangabe.
@@ -2221,6 +2278,22 @@ Hat die CAU Kiel eine Zivilklausel?
 * [Deutschlandfunk: Eingriff in die Freiheit der Wissenschaft](https://www.deutschlandfunk.de/eingriff-in-die-freiheit-der-wissenschaft-100.html)
 
 ## 12 Individuelle Dilemmasituation
+
+Der letzte Abschnitt dieses Kurses beschäftigt sich mit individuellen Dilemmasituationen. Als Informatiker:in kann man leicht in so eine Situation geraten, wenn z.B. der Arbeitgeber etwas unmoralisches verlangt. In diesem Abschnitt soll es darum gehen, wie man sich in so einer Situation verhalten und selbst eine Lösung finden kann.
+
+![Eine Person mit einer Waage.](img/Arbeit.jpg "Bildquelle: von Freepik auf Freepik, https://de.freepik.com/vektoren-kostenlos/illustration-zur-geschaeftsethik_10841305.htm")
+
+Das erste Kapitel erklärt dafür die grundlegenden Begriffe _Haltung_ und _Gewissen_.
+
+Kapitel 2 befasst sich mit verschiedenen Varianten, wie man als Arbeitnehmer:in mit einer _individuellen Dilemmasituation_ umgehen kann. Es werden die Begriffe _Treuepflicht_ und _Whistleblowing_ erkärt und verschiedene Vereine vorgestellt, die in so einer Situation helfen können.
+
+Im Kapitel drei wird kurz darauf eingegangen, welche Gedanken man sich vor der Arbeitgeberwahl stellen sollte, um eine Arbeitsstelle zu finden, mit der man persönlich moralisch leben kann.
+
+**Lernziele** des Abschnitts _12 Individuelle Dilemmasituation_:
+
++ Sie können die Begriffe _Haltung_ und _Gewissen_ definieren.
++ Sie wissen, in welchem Zusammenhang _Haltung_ und _Gewissen_ beim Fällen einer Entscheidung stehen.
++ Sie können erklären, was die _Treuepflicht_ und was _Whistleblowing_ ist.
 
 ### Vorbereitungsaufgabe
 
