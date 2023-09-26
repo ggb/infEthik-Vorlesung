@@ -1590,7 +1590,7 @@ In der Tat, als sie endlich diese Frage zu hören bekommt, wird „Katze“ als 
 
 Der achte Abschnitt ist der letzte Abschnitt des Kontextbereichs und behandelt _ethische Leitlinien_ und _Code of Conducts_ für Informatiker:innen.
 
-![Klemmbrett mit Liste an Regeln](img/leitlinien.jpg "Bildquelle: von pch.vector auf Freepik, https://de.freepik.com/vektoren-kostenlos/kleine-geschaeftsleute-die-eine-liste-von-regeln-lesen-mann-und-frau-die-eine-checkliste-fuer-die-kontrolle-des-unternehmensmanagements-auf-einer-riesigen-flachen-vektorillustration-des-klemmbretts-erstellen-fuehrungskonzept_24644903.htm")
+![Klemmbrett mit Liste an Regeln](img/Leitlinien.jpg "Bildquelle: von pch.vector auf Freepik, https://de.freepik.com/vektoren-kostenlos/kleine-geschaeftsleute-die-eine-liste-von-regeln-lesen-mann-und-frau-die-eine-checkliste-fuer-die-kontrolle-des-unternehmensmanagements-auf-einer-riesigen-flachen-vektorillustration-des-klemmbretts-erstellen-fuehrungskonzept_24644903.htm")
 
 Der Abschnitt ist in zwei Kapitel unterteilt. Kapitel 1 stellt die _Gesellschaft für Informatik_ vor. Es ist eine gemeinnützige Fachgesellschaft, die u.a. _ethische Leitlinien_ für Informatikfachpersonen ausgearbeitet haben. Das zweite Kapitel erklärt Arten, Verwendung und Aufbau von _Code of Conducts_.
 
