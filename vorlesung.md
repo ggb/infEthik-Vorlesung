@@ -40,7 +40,7 @@ Die zwölf Themen der Vorlesung teilen sich in drei große Bereiche auf: Grundla
 
 ![Die Inhalte der Vorlesung "Ethik in der Informatik"](img/vl_inhalte.png)
 
-Im Grundlagenbereich werden Sie mit wichtigen Voraussetzungen der ethischen Argumentation vertraut gemacht. Es wird das "richtige" Argumentieren ebenso thematisiert, wie verschiedene Argumentationsschemata. Sie werden wichtige Argumentationslinien kennen lernen und anhand der Methode des Gedankenexperiments ausprobieren. Außerdem werden fundamentale Begriffe der Ethik diskutiert und die Frage in den Blick genommen, was Begriffe überhaupt sind und warum sie für die ethische Argumentation gleichermaßen schwierig wie notwendig sind.
+Im Grundlagenbereich werden Sie mit wichtigen Voraussetzungen der ethischen Argumentation vertraut gemacht. Es wird das "richtige" Argumentieren ebenso thematisiert, wie verschiedene Argumentationsschemata. Sie werden wichtige Argumentationslinien kennenlernen und unter anderem anhand der Methode des Gedankenexperiments ausprobieren. Außerdem werden fundamentale Begriffe der Ethik diskutiert und die Frage in den Blick genommen, was Begriffe überhaupt sind und warum sie für die ethische Argumentation gleichermaßen schwierig wie notwendig sind.
 
 Der Kontextbereich stellt den Bezug zwischen den ethischen Grundlagen und der Informatik anhand zentraler Begriffe her: Verantwortung, Transparenz, Sicherheit und Privatheit werden den Kern von allein zwei Vorlesungen bilden. Daneben wird das wichtige Thema diskutiert, was Daten und die Verarbeitung von Daten - beispielsweise im Bereich des Machine Learning - ethisch problematisch werden lässt. Den Abschluss dieses Bereichs bildet die Diskussion von ethischen Rahmenwerken, die gezielt für den Einsatz in informatischen Kontexten entwickelt wurden: Den ethischen Leitlinien der GI und Codes of Conduct, wie sie häufig von Open Source-Projekten verwendet werden.
 
@@ -235,8 +235,7 @@ Weitere Hinweise finden Sie bei den einzelnen Themen der Veranstaltung. Diese Li
 
 ## 01 Orientierung
 
-Dieser erste Abschnitt der Vorlesung gehört zu dem Grundlagenbereich und soll einen ersten orientierenden Überblick über Ethik geben.
-Im ersten Kapitel werden die zwei ethischen Methoden Philosophisches Staunen und Epoché (Urteilsenthaltung) eingeführt. Diese helfen, scheinbar Selbstverständliches aus einem anderen Blickwinkel zu betrachten und auch das nicht Offensichtliche zu erkennen. Sie werden beide Methoden im Laufe des Semesters immer wieder benötigen.
+Dieser erste Abschnitt der Vorlesung gehört zu dem Grundlagenbereich und soll einen ersten orientierenden Überblick über die Disziplien der Ethik geben. Im ersten Kapitel werden die zwei ethischen Methoden *Philosophisches Staunen* und *Epoché* (Urteilsenthaltung) eingeführt. Diese helfen, scheinbar Selbstverständliches aus einem anderen Blickwinkel zu betrachten und auch das nicht Offensichtliche zu erkennen. Sie werden beide Methoden im Laufe des Semesters immer wieder benötigen.
 
 Auch dieses Bild werden Sie im ersten Video erneut sehen. Nehmen Sie sich daher doch bereits jetzt einige Minuten Zeit, um es in Ruhe zu betrachten.
 
@@ -245,11 +244,11 @@ Auch dieses Bild werden Sie im ersten Video erneut sehen. Nehmen Sie sich daher 
 Im zweiten Kapitel wird der Begriff Ethik definiert und Sie lernen die Unterschiede zwischen Moral, Ethik und Metaethik kennen.
 Abschließend wird noch ein kurzer Ausblick darüber geführt, welche Probleme es im Schnittbereich zwischen Informatik und Ethik geben kann.
 
-**Lernziele** des Abschnitts _01 Orientierung_:
+**Lernziele** des Abschnitts *01 Orientierung*:
 
-+ Sie können die Methoden _Philosophisches Staunen_ und _Epoché_ beschreiben und wissen, welche Funktionen sie erfüllen.
-+ Sie kennen verschiedene Verständnisweisen des Begriffs _Ethik_ und können diese erläutern.
-+ Sie können die Definitionen der Begriffe _Moral_, _Ethik_ und _Moralethik_ nennen und Gemeinsamkeiten und Unterschiede beschreiben.
++ Sie können die Methoden *Philosophisches Staunen* und *Epoché* beschreiben und wissen, welche Funktionen sie erfüllen.
++ Sie kennen verschiedene Verständnisweisen des Begriffs *Ethik* und können diese erläutern.
++ Sie können die Definitionen der Begriffe *Moral*, *Ethik* und *Metaethik* nennen und Gemeinsamkeiten und Unterschiede beschreiben.
 
 ### 01-01 Philosophisches Staunen, Epoché (Urteilsenthaltung)
 
@@ -332,20 +331,19 @@ Wie kann die „Natürlichkeit“ und Wertfreiheit von genommenen Daten bewertet
 
 ## 02 Argumentation
 
-Der zweite Abschnitt gehört ebenfalls zu den Grundlagen und handelt von Argumentation. Argumentieren ist in der Ethik sehr wichtig und wird Sie das gesamte Semester begleiten. Durch richtiges Argumentieren können unterschiedliche Standpunkte erkannt, analysiert und diskutiert werden. Sie ermöglicht Ihnen eine kritische, rationale und reflektierte Auseinandersetzung mit moralischen Problemen und unterschiedlichen Perspektiven. Sie werden bestenfalls neue Erkenntnisse erlangen und in der Lage sein, ausgewählte Argumente zu stärken oder abzuschwächen.
+Der zweite Abschnitt gehört ebenfalls zu den Grundlagen und handelt von Argumentation. Argumentieren ist in der Ethik sehr wichtig und wird Sie das gesamte Semester begleiten. Durch richtiges Argumentieren können unterschiedliche Standpunkte erkannt, analysiert und diskutiert werden. Es ermöglicht Ihnen eine kritische, rationale und reflektierte Auseinandersetzung mit moralischen Problemen und unterschiedlichen Perspektiven. Sie werden bestenfalls neue Erkenntnisse erlangen und in der Lage sein, ausgewählte Argumente zu stärken oder abzuschwächen.
 
 ![Argumentation](img/argumentation.jpg "Bildquelle: von Mohamed_hassan über pixabay, https://pixabay.com/de/vectors/streiten-konflikt-debatte-7218071/")
 
-Das erste Kapitel erklärt wie ethische Texte am besten zu lesen sind und welche Fragen Sie sich dabei stellen sollten. Im zweiten Kapitel wird der grundlegende Aufbau eines Arguments durch These, Argument und Beleg durchgegangen und verschiedene Argumenttypen werden besprochen.
-In Kapitel 3 lernen Sie, wie Sie richtige Schlüsse ziehen und was Fakten- und Normenaussagen sind. Das Wissen hilft, Ihre Argumentationen überzeugend zu formulieren. Das letzte Kapitel des zweiten Abschnitts handelt davon, wie Sie Argumente strukturieren und verknüpfen können, um einen schlüssigen Gesamttext zu erhalten.
+Das erste Kapitel erklärt, wie ethische Texte am besten zu lesen sind und welche Fragen Sie sich dabei stellen sollten. Im zweiten Kapitel wird der grundlegende Aufbau eines Arguments durch These, Argument und Beleg durchgegangen und verschiedene Argumenttypen werden besprochen. In Kapitel 3 lernen Sie, wie Sie richtige Schlüsse ziehen und was Fakten- und Normenaussagen sind. Das Wissen hilft, Ihre Argumentationen überzeugend zu formulieren. Das letzte Kapitel des zweiten Abschnitts handelt davon, wie Sie Argumente strukturieren und verknüpfen können, um einen schlüssigen Gesamttext zu erhalten.
 
-**Lernziele** des Abschnitts _02 Argumentation_:
+**Lernziele** des Abschnitts *02 Argumentation*:
 
 + Sie haben ein grundlegendes Verständnis erlangt, wie ethische Texte zu lesen sind und können die grobe Vorgehensweise beschreiben.
-+ Sie wissen, was eine _These_, ein _Argument_ und ein _Beleg_ sind und wie diese sich unterscheiden.
-+ Sie kennen die beiden Argumenttypen _seriös_ und _unseriös_ und ihre Unterschiede.
-+ Sie können wesentlichen Merkmale von _Fakten- und Normenaussagen_ nennen und den Unterschied erklären.
-+ Sie kennen den formalen Aufbau sowie Vor- und Nachteile von _Five Paragraph-Essay_, _Pingpong_, _Sanduhr_ und _Rogerian Argument_.
++ Sie wissen, was eine *These*, ein *Argument* und ein *Beleg* ist und wie diese sich unterscheiden.
++ Sie kennen die beiden Argumenttypen *seriös* und *unseriös* und ihre Unterschiede.
++ Sie können wesentlichen Merkmale von *Fakten- und Normenaussagen* nennen und den Unterschied erklären.
++ Sie kennen den formalen Aufbau sowie Vor- und Nachteile von *Five Paragraph-Essay*, *Pingpong*, *Sanduhr* und *Rogerian Argument*.
 
 ### Vorbereitungsaufgabe
 
@@ -610,22 +608,21 @@ Zum Bestehen müssen Sie mindestens 7 von 9 Kriterien erreichen/nicht verletzen.
 
 ## 03 Argumentationslinien
 
-Der dritte Abschnitt des Grundlagenbereichs gibt eine Einführung in die Methode der Gedankenexperimente, definiert den Begriff Dilemma und beschäftigt sich mit klassischen Argumentationslinien der Ethik.
+Der dritte Abschnitt des Grundlagenbereichs gibt eine Einführung in die Methode der Gedankenexperimente, definiert den Begriff *Dilemma* und beschäftigt sich mit klassischen Argumentationslinien der Ethik.
 
 ![Wortwolke mit Begriffen aus dem Kapitel 3](img/Wortwolke.jpg "Bildquelle: www.wortwolken.com")
 
-Im ersten Kapitel geht es um Gedankenexperimente - eine beliebte Methode der Philosophie. Sie helfen dabei, sich Szenarien vorzustellen, die der Realität nicht entsprechen. Neben einer typischen Struktur werden in diesem Kapitel auch verschiedene Arten von Gedankenexperimenten vorgestellt. Außerdem wird auch der Begriff Dilemma definiert und der Bezug zu den Gedankenexperimenten verdeutlicht.
-In Kapitel 2 sollen Sie sich mit der Internetseite [Moral Machine](https://www.moralmachine.net/) beschäftigen und selbst entscheiden, wie ein selbstfahrendes Auto handeln soll.
-Das dritte Kapitel gibt einen Überblick über die klassischen Argumentationslinien und ethischen Denkschulen. Ethische Denkschulen sind Gegenstand jahrtausendlanger Auseinandersetzungen und geprägt von verschiedenen Ethiker*innen, die im Laufe dieses Kapitels genauer vorgestellt werden. Die verschiedenen Argumentationslinie sollen unterschiedliche Blickwinkel auf einen Sachverhalt zeigen und Begründungsrahmen für ethische Diskussionen bieten.
+Im ersten Kapitel geht es um Gedankenexperimente - eine beliebte Methode der Philosophie. Sie helfen dabei, sich Szenarien vorzustellen, die der Realität nicht entsprechen. Neben einer typischen Struktur werden in diesem Kapitel auch verschiedene Arten von Gedankenexperimenten vorgestellt. Außerdem wird auch der Begriff *Dilemma* definiert und der Bezug zu den Gedankenexperimenten verdeutlicht.
+In Kapitel 2 sollen Sie sich mit der Internetseite [Moral Machine](https://www.moralmachine.net/) beschäftigen und selbst entscheiden, wie ein selbstfahrendes Auto handeln soll. Das dritte Kapitel gibt einen Überblick über die klassischen Argumentationslinien und ethischen Denkschulen. Ethische Denkschulen sind Gegenstand jahrtausendelanger Auseinandersetzungen und geprägt von verschiedenen Ethiker*innen, die im Laufe dieses Kapitels genauer vorgestellt werden. Die verschiedenen Argumentationslinien sollen unterschiedliche Blickwinkel auf einen Sachverhalt zeigen und Begründungsrahmen für ethische Diskussionen bieten.
 
-**Lernziele** des Abschnitts _03 Argumentationslinien_:
+**Lernziele** des Abschnitts *03 Argumentationslinien*:
 
 + Sie haben die Methode des Gedankenexperiments verstanden und können diese anwenden.
-+ Sie können den Begriff _Dilemma_ definieren und wichtige Eigenschaften benennen.
-+ Sie haben verstanden, warum das _Trolley Dilemma_ ein Dilemma und ein Gedankenexperiment ist und können beides erklären.
++ Sie können den Begriff *Dilemma* definieren und wichtige Eigenschaften benennen.
++ Sie haben verstanden, warum das *Trolley Dilemma* ein Dilemma und ein Gedankenexperiment ist und können beides erklären.
 + Sie kennen die verschiedenen Argumentationslinien und können diese unterscheiden.
-+ Sie haben verstanden, warum der _Utilitarismus_ auch als _ethische Arithmetik_ bezeichnet werden kann.
-+ Sie kennen den Begriff des _Urzustands_ und des _Schleiers des Nichtwissens_ in der Gerechtigkeitstheorie von John Rawls und können diese erläutern.
++ Sie haben verstanden, warum der *Utilitarismus* auch als *ethische Arithmetik* bezeichnet werden kann.
++ Sie kennen den Begriff des *Urzustands* und des *Schleiers des Nichtwissens* in der Gerechtigkeitstheorie von John Rawls und können diese erläutern.
 
 ### Vorbereitungsaufgabe
 
@@ -825,7 +822,7 @@ In dem Film "Bridge of Spies" vertritt James Donovan als Strafverteidiger Abel, 
 
 ## 04 Begriffe
 
-Der vierte und letzte Abschnitt der Grundlagen handelt von Begriffen und führt die Methode der Concept Map ein.
+Der vierte und letzte Abschnitt der Grundlagen handelt vom Begriff des *Begriffs* und führt die Methode der Concept Map ein.
 
 Das erste Kapitel definiert zuerst den Begriff des Begriffs. Anschließend findet eine Begriffsdifferenzierung zwischen moralischer Akteurschaft und Autonomie stat. Dafür wird die Frage "Können Maschinen moralisch handeln?" betrachtet.
 
@@ -833,18 +830,18 @@ Im zweiten Kapitel wird die Methode "Concept Map" eingeführt und sowohl die Reg
 
 ![Concept Map Beispiel](img/Conceptmap.png "Bildquelle: ​English Wikipedia user Vicwood40, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons")
 
-Kapitel 3 stellt wichtige Begriffe vor. Neben den bereits bekannten Begriffen _Moral_, _Ethik_ und _Metaethik_ werden hier besonders die Begriffe _Werte_, _Interessen_ und _Normen_ vorgestellt. Diese werden voneinander abgegrenzt und anschließend jeweils näher erläutert.
+Kapitel 3 stellt wichtige Begriffe vor. Neben den bereits bekannten Begriffen *Moral*, *Ethik* und *Metaethik* werden hier besonders die Begriffe *Werte*, *Interessen* und *Normen* vorgestellt. Diese werden voneinander abgegrenzt und anschließend jeweils näher erläutert.
 
-**Lernziele** des Abschnitts _04 Begriffe_:
+**Lernziele** des Abschnitts *04 Begriffe*:
 
 + Sie kennen die definitorischen Merkmale von Begriffen.
-+ Sie wissen, was der Begriff _Ambiguität_ bedeutet und können diesen erklären.
-+ Sie haben die Methode _Concept Map_ verstanden und können diese anwenden.
-+ Sie kennen den Unterschied zwischen _Mittelkonflikt_ und _Zielkonflikt_ in der Ethik.
-+ Sie können die Begriffe _Wert_ und _Interesse_ definieren und voneinander abgrenzen.
-+ Sie haben die Unterschiede der beiden Konfliktarten _Interessenkonflikt_ und _Wertekonflikt_ verstanden und können Konflikte zuordnen.
-+ Sie können die unterschiedlichen _Wert-Typen_ benennen und erklären.
-+ Sie haben verstanden, was _Normen_ sind und wie diese sich von _Werten_ unterscheiden.
++ Sie wissen, was *Ambiguität,* besonders in Bezug zu Begriffen, bedeutet.
++ Sie haben die Methode *Concept Map* verstanden und können diese anwenden.
++ Sie kennen den Unterschied zwischen *Mittelkonflikt* und *Zielkonflikt* in der Ethik.
++ Sie können die Begriffe *Wert* und *Interesse* definieren und voneinander abgrenzen.
++ Sie haben die Unterschiede der beiden Konfliktarten *Interessenkonflikt* und *Wertekonflikt* verstanden und können Konflikte zuordnen.
++ Sie können die unterschiedlichen *Wert-Typen* benennen und erklären.
++ Sie haben verstanden, was *Normen* sind und wie diese sich von *Werten* unterscheiden.
 
 ### Vorbereitungsaufgabe
 
@@ -1007,9 +1004,9 @@ Um die Sicherheit unserer Daten zu schützen sollten wir große Firmen bei der E
 ## 05 Verantwortung
 
 Die letzten 4 Abschnitte haben wichtige ethische Grundlagen eingeführt. Mit diesem Abschnitt beginnt der Kontextbereich, in dem mit Hilfe weiterer zentraler Begriffe ein Bezug zwischen den ethischen Grundlagen und der Informatik hergestellt werden soll.
-Dieser Abschnitt beschäftigt sich dabei mit dem Begriff der _Verantwortung_.
+Dieser Abschnitt beschäftigt sich dabei mit dem Begriff der *Verantwortung*.
 
-Im ersten Kapitel wird der Begriff Verantwortung definiert und das Prinzip der Verantwortung von Hans Jonas erklärt.
+Im ersten Kapitel wird der Begriff Verantwortung definiert und das *Prinzip Verantwortung* von Hans Jonas erklärt.
 
 Das zweite Kapitel betrachtet typische Probleme in der Informatik, bei denen die Verantwortung unklar oder schwierig ist. Es wird dabei die Verantwortungslücke, das Problem der vielen Hände und Dual Use als Problematik vorgestellt.
 
@@ -1018,15 +1015,15 @@ Das zweite Kapitel betrachtet typische Probleme in der Informatik, bei denen die
 Das 3. und letzte Kapitel des Abschnitts 5 ist ein Exkurs zum Thema Anthropomorphismen. Die Übertragung menschlicher Eigenschaften und Verhaltensweisen auf
 außermenschliche Gegenstände passiert im alltäglichen Sprachgebrauch häufig und oft auch unbewusst. Die Problematik dabei wird in diesem Kapitel besprochen.
 
-**Lernziele** des Abschnitts _05 Verantwortung_:
+**Lernziele** des Abschnitts *05 Verantwortung*:
 
-+ Sie kennen den Unterschied zwischen _Gesinnungs_- und _Verantwortungsethik_.
++ Sie kennen den Unterschied zwischen *Gesinnungs*\- und *Verantwortungsethik*.
 + Sie haben den Zusammenhang zwischen Akteurschaft und Verantwortung verstanden.
-+ Sie wissen, was der Begriff _Verantwortungslücke_ bedeutet und können diesen erklären.
-+ Sie können Kritikpunkte am Begriff der _Verantwortungslücke_ benennen und erklären.
-+ Sie wissen, worin in Bezug auf Verantwortung das _Problem der vielen Hände_ besteht.
-+ Sie haben den Begriff _Dual Use_ verstanden und können diesen mit Hilfe eines Beispiels erläutern.
-+ Sie können den Begriff _Anthropomorphismus_ definieren und benennen, welche Herausforderungen in Bezug auf ML und KI entstehen.
++ Sie wissen, was der Begriff *Verantwortungslücke* bedeutet und können diesen erklären.
++ Sie können Kritikpunkte am Begriff der *Verantwortungslücke* benennen und erklären.
++ Sie wissen, worin in Bezug auf Verantwortung das *Problem der vielen Hände* besteht.
++ Sie haben den Begriff *Dual Use* verstanden und können diesen mit Hilfe eines Beispiels erläutern.
++ Sie können den Begriff *Anthropomorphismus* definieren und benennen, welche Herausforderungen in Bezug auf ML und KI entstehen.
 
 ### Vorbereitungsaufgabe
 
@@ -1165,26 +1162,25 @@ Welche Aussagen zum Anthropomorphismus sind korrekt?
 
 ## 06 Privatheit, Sicherheit und Transparenz
 
-Der Abschnitt 6 gehört wie der Abschnitt 5 zu dem Kontextbereich. Auch hier wird ein Bezug zwischen den ethischen Grundlagen und der Informatik hergestellt.
-Diesmal mit den Begriffen _Privatheit_, _Transparenz_ und _Sicherheit_.
+Der Abschnitt 6 gehört wie der Abschnitt 5 zu dem Kontextbereich. Auch hier wird ein Bezug zwischen den ethischen Grundlagen und der Informatik hergestellt, diesmal mit den Begriffen *Privatheit*, *Transparenz* und *Sicherheit*.
 
-In Kapitel 1 wird der Begriff _Privatheit_ einführend definiert und die zeitliche Veränderung von der Antike bis zur Gegenwart veranschaulicht. Auch die Verankerung im Recht und die Funktionen der Privatsphäre werden betrachtet.
+In Kapitel 1 wird der Begriff *Privatheit* einführend definiert und die zeitliche Veränderung von der Antike bis zur Gegenwart veranschaulicht. Auch die Verankerung im Recht und die Funktionen der Privatsphäre werden betrachtet.
 
-Das zweite Kapitel behandelt den Begriff _Transparenz_ und startet ebenfalls mit einer Begriffsdefinition. Anschließend werden Funktionen, Probleme und technische Grenzen genauer erläutert.
+Das zweite Kapitel behandelt den Begriff *Transparenz* und startet ebenfalls mit einer Begriffsdefinition. Anschließend werden Funktionen, Probleme und technische Grenzen genauer erläutert.
 
-Im dritten Kapitel geht es um den Begriff _Sicherheit_ und mögliche _Wertekonflikte_ dabei.
+Im dritten Kapitel geht es um den Begriff *Sicherheit* und mögliche *Wertekonflikte* dabei.
 
 ![Überwachungskameras](img/Sicherheit.jpg "Bildquelle: von Joseph Mucira auf Pixabay, https://pixabay.com/de/photos/cctv-%C3%BCberwachungskamera-cctv-7267551/")
 
-**Lernziele** des Abschnitts _06 Privatheit, Transparenz und Sicherheit_:
+**Lernziele** des Abschnitts *06 Privatheit, Transparenz und Sicherheit*:
 
-+ Sie können die Begriffe _Privatheit_, _Transparenz_ und _Sicherheit_ definieren und voneinander abgrenzen.
++ Sie können die Begriffe *Privatheit*, *Transparenz* und *Sicherheit* definieren und voneinander abgrenzen.
 + Sie haben Grimms Zwiebelmodell der Privatsphäre verstanden.
 + Sie sind in der Lage mehrere Beispiele für die Verankerung der Privatheit in den bundesdeutschen Grundrechten zu nennen.
 + Sie haben die Funktionen der Privatsphäre verstanden und können die einzelnen Funktionen erklären.
-+ Sie kennen die Begriffe _Panoptismus_, _Machtasymmetrie_ und _chilling effects_ und können die Zusammenhänge erklären.
-+ Sie können erklären, warum der Begriff _Transparenz_ positiv und negativ verstanden werden kann.
-+ Sie wissen, welche Wertekonflikte in Bezug auf _Sicherheit_ entstehen können.
++ Sie kennen die Begriffe *Panoptismus*, *Machtasymmetrie* und *chilling effects* und können die Zusammenhänge erklären.
++ Sie können erklären, warum der Begriff *Transparenz* positiv und negativ verstanden werden kann.
++ Sie wissen, welche Wertekonflikte in Bezug auf *Sicherheit* entstehen können.
 
 ### Vorbereitungsaufgabe
 
@@ -1288,24 +1284,24 @@ Kreuzen Sie die richtigen Aussagen an!
 
 ## 07 Daten und Maschinelles Lernen
 
-Im siebten Abschnitt werden Daten aus einer ethischen Perspektive betrachtet. Insbesondere geht es darum, welche Folgen der unachtsame Gebrauch von Daten im Kontext des maschinellen Lernens haben kann.#
+Im siebten Abschnitt werden Daten aus einer ethischen Perspektive betrachtet. Insbesondere geht es darum, welche Folgen der unachtsame Gebrauch von Daten im Kontext des maschinellen Lernens haben kann.
 
-Dafür wird im ersten Kapitel der Begriff _Objektivität_ mit seinen verschiedenen Verständnisweisen vorgestellt.
+Dafür wird im ersten Kapitel der Begriff *Objektivität* mit seinen verschiedenen Verständnisweisen vorgestellt.
 
-Im zweiten Kapitel wird untersucht, woher die Daten eigentlich kommen. Dabei geht es weniger um die legalen und moralischen Arten, an Daten zu gelangen, sondern vielmehr um die problematischen Wege wie z.B. _Ghost Work_.
+Im zweiten Kapitel wird untersucht, woher die Daten eigentlich kommen. Dabei geht es weniger um die legalen und moralischen Arten, an Daten zu gelangen, sondern vielmehr um die problematischen Wege wie z.B. *Ghost Work*.
 
-Wenn analoge Daten in digitale Daten umgewandelt werden, ist damit meist ein Informationsverlust verbunden. Dieser Verlust wirkt häufig unproblematisch. Das Kapitel 3 beschäftigt sich genauer mit Reduktion, Verzerrungen und Präferenzenstarrheit in Daten und zeigt, warum und welche Probleme entstehen können.
+Wenn analoge Daten in digitale Daten umgewandelt werden, ist damit meist ein Informationsverlust verbunden. Das Kapitel 3 beschäftigt sich genauer mit Reduktion, Verzerrungen und Präferenzenstarrheit in Daten und zeigt, warum und welche Probleme entstehen können.
 
 ![Ignorante Person mit Stöpseln im Ohr](img/Daten.png "Bildquelle: von Rilson S. Avelar auf Pixabay, https://pixabay.com/de/illustrations/ignoranz-hoffart-befangenheit-1993615/")
 
 Das letzte Kapitel dieses Abschnitts betrachtet Möglichkeiten und Ideen, wie der Umgang mit Daten verbessert werden kann.
 
-**Lernziele** des Abschnitts _07 Daten und Maschinelles Lernen_:
+**Lernziele** des Abschnitts *07 Daten und Maschinelles Lernen*:
 
-+ Sie können verschiedene Verständnisweisen des Begriffs _Objektivität_ nennen.
++ Sie können verschiedene Verständnisweisen des Begriffs *Objektivität* nennen.
 + Sie wissen, warum objektiv-ethisch urteilende Maschinen und Algorithmen nicht möglich sind und können es begründen.
-+ Sie kennen mehrere (ethisch) problematische Aspekte von _Ghost Work_.
-+ Sie haben Verstanden, was unter dem Begriff _Bias_ verstanden wird.
++ Sie kennen mehrere (ethisch) problematische Aspekte von *Ghost Work*.
++ Sie haben Verstanden, was unter dem Begriff *Bias* verstanden wird.
 + Sie können folgenden Satz erläutern: "Maschinelles Lernen ist konservativ."
 + Sie sind in der Lage rauszufinden, ob eine datengetriebene Lösung für ein Problem Sinn ergibt.
 
@@ -1588,18 +1584,18 @@ In der Tat, als sie endlich diese Frage zu hören bekommt, wird „Katze“ als 
 
 ## 08 Leitlinien und ethische Codes
 
-Der achte Abschnitt ist der letzte Abschnitt des Kontextbereichs und behandelt _ethische Leitlinien_ und _Code of Conducts_ für Informatiker:innen.
+Der achte Abschnitt ist der letzte Abschnitt des Kontextbereichs und behandelt *ethische Leitlinien* und *Code of Conducts* für Informatiker:innen.
 
 ![Klemmbrett mit Liste an Regeln](img/Leitlinien.jpg "Bildquelle: von pch.vector auf Freepik, https://de.freepik.com/vektoren-kostenlos/kleine-geschaeftsleute-die-eine-liste-von-regeln-lesen-mann-und-frau-die-eine-checkliste-fuer-die-kontrolle-des-unternehmensmanagements-auf-einer-riesigen-flachen-vektorillustration-des-klemmbretts-erstellen-fuehrungskonzept_24644903.htm")
 
-Der Abschnitt ist in zwei Kapitel unterteilt. Kapitel 1 stellt die _Gesellschaft für Informatik_ vor. Es ist eine gemeinnützige Fachgesellschaft, die u.a. _ethische Leitlinien_ für Informatikfachpersonen ausgearbeitet haben. Das zweite Kapitel erklärt Arten, Verwendung und Aufbau von _Code of Conducts_.
+Der Abschnitt ist in zwei Kapitel unterteilt. Kapitel 1 stellt die *Gesellschaft für Informatik* vor. Es ist eine gemeinnützige Fachgesellschaft, die u.a. *ethische Leitlinien* für Informatikfachpersonen ausgearbeitet hat. Das zweite Kapitel erklärt Arten, Verwendung und Aufbau von *Code of Conducts*.
 
-**Lernziele** des Abschnitts _08 Leitlinien und ethische Codes_:
+**Lernziele** des Abschnitts *08 Leitlinien und ethische Codes*:
 
-+ Sie können _ethische Leitlinien_ von _Codes of Conducts_ unterscheiden.
-+ Sie wissen, in welche vier Themengebiete die 12 Artikel der _ethischen Leitlinien der GI_ eingeteilt werden können.
-+ Sie haben die Inhalte der _ethischen Leitlinien der GI_ verstanden und sind in der Lage diese zusammenfassend wiederzugeben.
-+ Sie kennen verschiedene Verwendungen von _Code of Conducts_.
++ Sie können *ethische Leitlinien* von *Codes of Conducts* unterscheiden.
++ Sie wissen, in welche vier Themengebiete die 12 Artikel der *ethischen Leitlinien der GI* eingeteilt werden können.
++ Sie haben die Inhalte der *ethischen Leitlinien der GI* verstanden und sind in der Lage diese zusammenfassend wiederzugeben.
++ Sie kennen verschiedene Verwendungen von *Codes of Conduct*.
 
 ### Vorbereitungsaufgabe
 
@@ -1683,25 +1679,24 @@ Was können Unternehmen tun, um sicherzustellen, dass ihr Code of Conduct eingeh
 
 ## 09 Fallstudien
 
-Nachdem im Kontextbereich einige problematische Bereiche der Informatik vorgestellt wurden, beginnt nun der Anwendungsbereich, in dem Auswirkungen ethischer Entscheidungen in wirtschaftlichen und akademischen Projekten beleuchtet werden.
+Nachdem im Kontextteil einige problematische Bereiche der Informatik vorgestellt wurden, beginnt nun der Anwendungsteil, in dem Auswirkungen ethischer Entscheidungen in wirtschaftlichen und akademischen Projekten beleuchtet und abgeschätzt werden sollen.
 
 ![Reaktion mehrerer Kugeln](img/Fallstudien.jpg "Bildquelle: von pch.vector auf Freepik, https://de.freepik.com/vektoren-kostenlos/winzige-leute-die-nahe-pendel-stehen-isolierte-flache-illustration_11235946.htm")
 
-Der Abschnitt 9 befasst sich dafür mit verschiedenen Methoden, die helfen können, mit diesen ethischen Problemen umzugehen.
-Das erste Kapitel handelt von der _ethischen Fallanalyse_ nach Pfeifer. Dies ist ein systematisches Vorgehen, das darauf abzielt, ethische Probleme in einer bestimmten Situation oder einem bestimmten Fall zu identifizieren und zu lösen. Es umfasst die Analyse der betroffenen Personen, Interessen und Werte, sowie die Identifizierung von Handlungsalternativen und deren Auswirkungen.
+Der Abschnitt 9 befasst sich dafür mit verschiedenen Methoden, die helfen können, mit diesen ethischen Problemen umzugehen. Das erste Kapitel stellt die *ethische Fallanalyse* nach Pfeifer vor. Dies ist ein systematisches Vorgehen, das darauf abzielt, ethische Probleme in einer bestimmten Situation oder einem bestimmten Fall zu identifizieren und zu lösen. Es umfasst die Analyse der betroffenen Personen, Interessen und Werte, sowie die Identifizierung von Handlungsalternativen und deren Auswirkungen.
 
-Im zweiten Kapitel geht es um das Erstellen eines _ethischen Designdokuments_ oder _Impact Statements_. Diese beschreiben die ethischen Überlegungen, die bei der Entwicklung eines Produkts, einer Dienstleistung, eines Projekts oder im Falle eines Impact Statements, einer Forschung berücksichtigt wurden. Dies kann die Auswirkungen auf die Umwelt, die Gesellschaft und die Individuen umfassen. Es dient dazu, die Verantwortung des Unternehmens oder des Entwicklers für die Auswirkungen ihrer Arbeit darzustellen und sicherzustellen, dass diese Auswirkungen so positiv wie möglich gestaltet werden.
+Im zweiten Kapitel geht es um das Erstellen eines *ethischen Designdokuments* oder *Impact Statements*. Diese beiden Dokumenttypen beschreiben die ethischen Überlegungen, die bei der Entwicklung eines Produkts, einer Dienstleistung, eines Projekts oder, im Falle eines Impact Statements, einer Forschung berücksichtigt wurden. Dies kann die Auswirkungen auf die Umwelt, die Gesellschaft und die Individuen umfassen. Es dient dazu, die Verantwortung des Unternehmens oder des Entwicklers für die Auswirkungen ihrer Arbeit darzustellen und sicherzustellen, dass diese Auswirkungen so positiv wie möglich gestaltet werden.
 
-Das drittel Kapitel ist eine ausführliche Schritt für Schritt Anleitung zum Verfassen eines _ethischen Designdokuments_ zu finden.
+Das drittel Kapitel umfastt eine ausführliche Schritt für Schritt Anleitung zum Verfassen eines *ethischen Designdokuments*.
 
-Kapitel vier enthält eine ebenso ausführliche Anleitung zum Verfassen eines _Impact Statements_.
+Kapitel vier enthält eine ebenso ausführliche Anleitung zum Verfassen eines *Impact Statements*.
 
-**Lernziele** des Abschnitts _09 Fallstudien_:
+**Lernziele** des Abschnitts *09 Fallstudien*:
 
-+ Sie kennen die einzelnen Schritte der _ethischen Fallanalyse_ nach Pfeifer und können diese anwenden.
-+ Sie wissen, welche Zwecke ein _ethisches Designdokument_ und ein _Impact Statement_ haben.
-+ Sie können die Unterschiede zwischen einem _ethischen Designdokument_ und einem _Impact Statement_ benennen.
-+ Sie haben das Vorgehen zum Verfassen eines _ethischen Designdokuments_ oder _Impact Statements_ verstanden und können dieses anwenden.
++ Sie kennen die einzelnen Schritte der *ethischen Fallanalyse* nach Pfeifer und können diese anwenden.
++ Sie wissen, welche Zwecke ein *ethisches Designdokument* und ein *Impact Statement* haben.
++ Sie können die Unterschiede zwischen einem *ethischen Designdokument* und einem *Impact Statement* benennen.
++ Sie haben das Vorgehen zum Verfassen eines *ethischen Designdokuments* oder *Impact Statements* verstanden und können dieses anwenden.
 
 ### Vorbereitungsaufgabe
 
@@ -1806,7 +1801,7 @@ Ein einfaches und vermutlich häufig auftretendes Beispiel: (Personenbezogene) D
 
 Weiteres Beispiel: Es werden Softwareentwickler benötigt (in diesem Fall das „Mittel“), aber es ist von vornherein bekannt, dass die zur Verfügung stehenden Personenstunden nicht ausreichen werden, sodass die Entwickler zu Überstunden gezwungen sein werden. Wie lässt sich das im Kontext eines konkreten Softwareentwicklungsprozesses rechtfertigen (evtl. bspw. dadurch, dass es Arbeit für eine NGO ist und die Entwickler sich von vornherein dazu bereit erklären, Überstunden für einen guten Zweck zu leisten)?
 
-**2.4 Zielanalyse („yeah, but why?“)**
+**2.4 Zielanalyse**
 
 Ein zentraler Abschnitt, der darin besteht zu diskutieren, worin das Ziel der zu entwickelnden Software besteht und warum gerade diese neue Software dazu benötigt wird. Was rechtfertigt den Einsatz von Ressourcen (Arbeitskraft, Geld, Energie etc.), das heißt, welchen Vorteil bringt das neue gegenüber eventuell bereits bestehenden (analogen und digitalen) Systemen? Was rechtfertigt gerade den im aktuellen Fall gewählten Weg, um das Ziel zu erreichen? Gibt es eventuell ethisch vertretbarere Wege das gleiche Ziel zu erreichen? Ist die Entwicklung angesichts zu erwartender gesellschaftlicher Folgen zu rechtfertigen? An dieser Stelle kann sich auch ein Abgleich der Ziele mit den [Ethischen Leitlinien der GI](https://gi.de/ueber-uns/organisation/unsere-ethischen-leitlinien) anbieten.
 
@@ -1876,26 +1871,24 @@ An dieser Stelle können außerdem allgemeine Beobachtungen Platz finden, für d
 
 ## 10 Ethisches Design
 
-Der zehnte Abschnitt, der ebenfalls zum Anwendungsbereich gehört, stellt vor, wie Software und Applikationen allgemein ethisch gestaltbar sind und wieso das nicht immer machbar ist.
+Der zehnte Abschnitt, der ebenfalls zum Anwendungsbereich gehört, stellt vor, inwiefern Software und Applikationen ethisch gestaltbar sind und wieso das nicht immer machbar ist.
 
-Im ersten Kapitel geht es daher um zwei Verfahren zum Design ethischer Systeme: Das _Value-based Engineering_ und das _GERD-Modell_.
+Im ersten Kapitel geht es daher um zwei Verfahren zum Design ethischer Systeme: Das *Value-based Engineering* und das *GERD-Modell*.
 
-Kapitel 2 handelt von dem ethischen Design im Kleinen. Hier wird vorgestellt, wie bspw. durch _Nudging_, _Dark Pattern_ und _Gamification_ in Benutzeroberflächen ethisch oder unethisch agieret werden kann.
+Kapitel 2 handelt von dem ethischen Design im Kleinen. Hier wird vorgestellt, wie bspw. durch *Nudging*, *Dark Pattern* und *Gamification* in Benutzeroberflächen ethisch oder unethisch agiert werden kann.
 
-Das dritte Kapitel behandelt das Thema _Barrierefreiheit_. Es geht vor allem um digitale _Barrierefreiheit_ und die minimalen Anforderungen dafür.
+Das dritte Kapitel behandelt das Thema *Barrierefreiheit*. Es geht vor allem um digitale *Barrierefreiheit* und die minimalen Anforderungen dafür.
 
 ![Digitale Zugänglichkeit für alle](img/Barrierefreiheit.jpg "Bildquelle: von vectorjuice auf Freepik, https://de.freepik.com/vektoren-kostenlos/elektronische-zugaenglichkeit-abstraktes-konzept-vektordarstellung-zugaenglichkeit-zu-websites-elektronisches-geraet-fuer-menschen-mit-behinderungen-kommunikationstechnologie-anpassbare-webseiten-abstrakte-metapher_24122185.htm")
 
+**Lernziele** des Abschnitts *10 Ethisches Design*:
 
-**Lernziele** des Abschnitts _10 Ethisches Design_:
-
-+ Sie können die Verfahren _Value-based Engineering_ und _GERD-Modell_ erkären.
-+ Sie wissen, aus welchen Bereichen beim _Value-based Engineering_ Fragen in Bezug auf das jeweilige _System of Interest_ gestellt werden.
++ Sie können die Verfahren *Value-based Engineering* und *GERD-Modell* erkären.
++ Sie wissen, aus welchen Bereichen beim *Value-based Engineering* Fragen in Bezug auf das jeweilige *System of Interest* gestellt werden.
 + Sie können den Zusammenhang zwischen Nudges und der Theorie von Kahnemann erklären.
-+ Sie können die Begriffe _Nudging_, _Dark Pattern_ und _Gamification_ erläutern und jeweils passende Beispiele dazu nennen.
-+ Sie sind in der Lage zu erläutern, was unter (digitaler) _Barrierefreiheit_ verstanden wird.
-+ Sie kennen einige Anforderungen, um digitale _Barrierefreiheit_ zu gewährleisten.
-
++ Sie können die Begriffe *Nudging*, *Dark Pattern* und *Gamification* erläutern und jeweils passende Beispiele dazu nennen.
++ Sie sind in der Lage zu erläutern, was unter (digitaler) *Barrierefreiheit* verstanden wird.
++ Sie kennen einige Anforderungen, um digitale *Barrierefreiheit* zu gewährleisten.
 
 ### Vorbereitungsaufgabe
 
@@ -2116,19 +2109,19 @@ Der elfte Abschnitt beschäftigt sich mit den ethischen Ansprüchen, die an Info
 
 Dafür wird im ersten Kapitel erklärt, wie die eigene Forschung reflektiert werden kann. Es werden u.a. Grundsätze vorgestellt, wie mit Software und Daten umgegangen werden sollte.
 
-Das zweite Kapitel handelt von geistigem Eigentum, _Plagiaten_ und wie man diese verhindern kann.
+Das zweite Kapitel handelt von geistigem Eigentum, *Plagiaten* und wie man diese verhindern kann.
 
 ![Schriftrolle mit Text, dass man nicht plagiert.](img/Plagiat.png "Bildquelle: von Evangelos Evangelou auf Pixabay, https://pixabay.com/de/illustrations/plagiat-nicht-kopieren-cheat-7597846/")
 
-Im dritten Kapitel rückt die Methode _Impact Statement_ erneut in den Vordergrund. In Abschnitt 9 wurde bereits ausführlich das Vorgehen zum Verfassen eines _Impact Statements_ erläutert. Nun wird genauer betrachtet, wieso ein _Impact Statement_ verfasst werden sollte und welche Folgen dies haben kann.
+Im dritten Kapitel rückt die Methode *Impact Statement* erneut in den Vordergrund. In Abschnitt 9 wurde bereits ausführlich das Vorgehen zum Verfassen eines *Impact Statements* erläutert. Nun wird genauer betrachtet, wieso ein *Impact Statement* verfasst werden sollte und welche Folgen dies haben kann.
 
-Das letzte Kapitel von Abschnitt 11 befasst sich mit dem Thema _Zivilklausel_ und militärischer Forschung an Hochschulen. Eine _Zivilklausel_ schließt u.a. die Forschung für militärische Zwecke an Universitäten aus. Wieso dieser Weg auch problematisch sein kann und wie die CAU Kiel damit umgeht, wird in Kapitel 4 dargestellt.
+Das letzte Kapitel von Abschnitt 11 befasst sich mit dem Thema *Zivilklausel* und militärische Forschung an Hochschulen. Eine *Zivilklausel* schließt u.a. die Forschung für militärische Zwecke an Universitäten aus. Wieso dieser Weg auch problematisch sein kann und wie die CAU Kiel damit umgeht, wird in Kapitel 4 dargestellt.
 
-**Lernziele** des Abschnitts _11 Ethik in der Wissenschaft_:
+**Lernziele** des Abschnitts *11 Ethik in der Wissenschaft*:
 
 + Sie wissen, welche Aspekte bei der Reflektion von Forschungsergebnissen berücksichtigt werden sollten.
-+ Sie haben verstanden, was das Prinzip _lege artis_ ist.
-+ Sie können erklären, warum _Plagiate_ ethisch problematisch sind.
++ Sie haben verstanden, was das Prinzip *lege artis* ist.
++ Sie können erklären, warum *Plagiate* ethisch problematisch sind.
 + Sie wissen, wofür Impact Statements sinnvoll sind und was beim Schreiben beachtet werden sollte.
 + Sie kennen den Umgang der CAU mit militärischer Forschung.
 
@@ -2279,21 +2272,21 @@ Hat die CAU Kiel eine Zivilklausel?
 
 ## 12 Individuelle Dilemmasituation
 
-Der letzte Abschnitt dieses Kurses beschäftigt sich mit individuellen Dilemmasituationen. Als Informatiker:in kann man leicht in so eine Situation geraten, wenn z.B. der Arbeitgeber etwas unmoralisches verlangt. In diesem Abschnitt soll es darum gehen, wie man sich in so einer Situation verhalten und selbst eine Lösung finden kann.
+Der letzte Abschnitt dieses Kurses beschäftigt sich mit individuellen Dilemmasituationen. Als Informatiker:in kann man leicht in so eine Dilemmasituation geraten, wenn z.B. der Arbeitgeber etwas unmoralisches verlangt. In diesem Abschnitt soll es darum gehen, wie man sich in so einer Situation verhalten und selbst eine Lösung finden kann.
 
 ![Eine Person mit einer Waage.](img/Arbeit.jpg "Bildquelle: von Freepik auf Freepik, https://de.freepik.com/vektoren-kostenlos/illustration-zur-geschaeftsethik_10841305.htm")
 
-Das erste Kapitel erklärt dafür die grundlegenden Begriffe _Haltung_ und _Gewissen_.
+Das erste Kapitel erklärt dafür die grundlegenden Begriffe *Haltung* und *Gewissen*.
 
-Kapitel 2 befasst sich mit verschiedenen Varianten, wie man als Arbeitnehmer:in mit einer _individuellen Dilemmasituation_ umgehen kann. Es werden die Begriffe _Treuepflicht_ und _Whistleblowing_ erkärt und verschiedene Vereine vorgestellt, die in so einer Situation helfen können.
+Kapitel 2 befasst sich mit verschiedenen Varianten, wie man als Arbeitnehmer:in mit einer *individuellen Dilemmasituation* umgehen kann. Es werden die Begriffe *Treuepflicht* und *Whistleblowing* erkärt und verschiedene Vereine vorgestellt, die in so einer Situation helfen können.
 
 Im Kapitel drei wird kurz darauf eingegangen, welche Gedanken man sich vor der Arbeitgeberwahl stellen sollte, um eine Arbeitsstelle zu finden, mit der man persönlich moralisch leben kann.
 
-**Lernziele** des Abschnitts _12 Individuelle Dilemmasituation_:
+**Lernziele** des Abschnitts *12 Individuelle Dilemmasituation*:
 
-+ Sie können die Begriffe _Haltung_ und _Gewissen_ definieren.
-+ Sie wissen, in welchem Zusammenhang _Haltung_ und _Gewissen_ beim Fällen einer Entscheidung stehen.
-+ Sie können erklären, was die _Treuepflicht_ und was _Whistleblowing_ ist.
++ Sie können die Begriffe *Haltung* und *Gewissen* definieren.
++ Sie wissen, in welchem Zusammenhang *Haltung* und *Gewissen* beim Fällen einer Entscheidung stehen.
++ Sie können erklären, was die *Treuepflicht* und was *Whistleblowing* ist.
 
 ### Vorbereitungsaufgabe
 
@@ -2397,7 +2390,7 @@ Werden Whistleblower geschützt und wenn ja wie?
 
 ## Anhang
 
-### Glossar
+### Index
 
 Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit den/dem Kapitel/n auf, in denen sie vorkommen. Die Tabelle erhebt keinen Anspruch auf Vollständigkeit.
 
