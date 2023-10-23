@@ -1817,7 +1817,7 @@ Welche Aussagen zum GERD-Modell sind korrekt?
 * Spiekermann, Sarah. 2019. Digitale Ethik: ein Wertesystem für das 21. Jahrhundert. Droemer eBook.
 * ———. 2021. “Value-based Engineering: Prinzipien und Motivation für bessere IT-Systeme.” Informatik Spektrum. Springer Science and Business Media LLC. https://doi.org/10.1007/s00287-021-01378-4.
 * [GERD Model](https://www.gerd-model.com/)
-* <https://www.humanetech.com/technologists>
+* [https://www.humanetech.com/technologists](https://www.humanetech.com/technologists)
 
 ### 10-02 Ethisches Design im Kleinen
 
@@ -1889,6 +1889,7 @@ Dark Pattern:
 * https://www.darkpatterns.org
 * https://ethicaldesignhandbook.com/
 * https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/
+* [Interaktive Bespiele für Dark Patterns von neal.fun](https://neal.fun/dark-patterns/)
 
 Gamification:
 
