@@ -109,7 +109,7 @@ Die Aufgaben sollten in etwa 30 Minuten bearbeitet werden und bearbeitbar sein. 
 
 #### Formalia
 
-Bitte geben Sie auf der ersten Seite Ihren vollen Namen, Matrikelnummer und (für die Abschlussprüfung) die von Ihnen gewählte Aufgabe an. Verwenden Sie am besten [diese Vorlage](https://cloud.rz.uni-kiel.de/index.php/s/jnECr3q3GP5T64j).
+Bitte geben Sie auf der ersten Seite Ihren vollen Namen, Matrikelnummer und (für die Abschlussprüfung) die von Ihnen gewählte Aufgabe an. Verwenden Sie am besten unsere Vorlage ([pdf](https://cloud.rz.uni-kiel.de/index.php/s/pijYL4xS9wqt32J) / [docx](https://cloud.rz.uni-kiel.de/index.php/s/DS2Xd5ZfsnnnHmY)).
 
 **Weitere Formalia**
 
