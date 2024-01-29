@@ -109,7 +109,7 @@ Die Aufgaben sollten in etwa 30 Minuten bearbeitet werden und bearbeitbar sein. 
 
 #### Formalia
 
-Bitte geben Sie auf der ersten Seite Ihren vollen Namen, Matrikelnummer und (für die Abschlussprüfung) die von Ihnen gewählte Aufgabe an. Verwenden Sie am besten [diese Vorlage](https://cloud.rz.uni-kiel.de/index.php/s/jnECr3q3GP5T64j).
+Bitte geben Sie auf der ersten Seite Ihren vollen Namen, Matrikelnummer und (für die Abschlussprüfung) die von Ihnen gewählte Aufgabe an. Verwenden Sie am besten unsere Vorlage ([pdf](https://cloud.rz.uni-kiel.de/index.php/s/pijYL4xS9wqt32J) / [docx](https://cloud.rz.uni-kiel.de/index.php/s/DS2Xd5ZfsnnnHmY)).
 
 **Weitere Formalia**
 
@@ -580,7 +580,7 @@ Diese Auseinandersetzung mit und die Formulierung eigener Argumente soll Ihr Ver
 
 **Aufgabe 1**
 
-Halten Sie in einer Tabelle (s. [Vorlage](https://cloud.rz.uni-kiel.de/index.php/s/xPqLaekabFGPHqd)) fest:
+Halten Sie in einer Tabelle (s. [Vorlage](https://cloud.rz.uni-kiel.de/index.php/s/xPqLaekabFGPHqd); es ist nicht unbedingt sinnvoll alle Felder in der Tabelle auszufüllen: Wenn es nur eine These gibt, dann muss auch nur eine These angegeben werden) fest:
 
 Welche These bzw. Thesen vertritt Vardi, welche Argumente bringt er für die These bzw. Thesen vor? Welche Argumenttypen benutzt er? Welche Belege und Beispiele liefert er für seine Argumentation? Sind die Beispiele treffend? Bewerten Sie in ein bis zwei Sätzen die Schlüssigkeit und Überzeugungskraft der einzelnen Argumente.
 
