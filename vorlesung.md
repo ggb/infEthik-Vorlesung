@@ -22,7 +22,7 @@ Längst haben Informatiksysteme in den unterschiedlichsten Facetten den Alltag e
 
 Damit kommt Informatiker:innen eine besondere Verantwortung als Entwickler:innen dieser Systeme zu: Sie müssen absehen und bewerten können, welche Personengruppen ein von ihnen entwickeltes System betrifft und was mögliche Folgen sind. Der damit verbundene Diskurs erfolgt im Anschluss an das philosophische Arbeitsfeld der Ethik, so dass als besondere Erschwernis für Informatiker:innen der solide Umgang mit Begriffen und Praktiken aus einem anderen Fach zu erlernen ist.
 
-**Lerninhalte**
+**Inhalte**
 
 * Einführung in das Thema und Verhältnis zu bzw. Verortung in anderen Bereichsethiken
 * Grundsätzliche Positionen in der Ethik und wichtige Begriffe
