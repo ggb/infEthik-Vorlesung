@@ -1799,7 +1799,7 @@ Welche Aussagen zum GERD-Modell sind korrekt?
 * Spiekermann, Sarah. 2019. Digitale Ethik: ein Wertesystem für das 21. Jahrhundert. Droemer eBook.
 * ———. 2021. “Value-based Engineering: Prinzipien und Motivation für bessere IT-Systeme.” Informatik Spektrum. Springer Science and Business Media LLC. https://doi.org/10.1007/s00287-021-01378-4.
 * [GERD Model](https://www.gerd-model.com/)
-* <https://www.humanetech.com/technologists>
+* [https://www.humanetech.com/technologists](https://www.humanetech.com/technologists)
 
 ### 10-02 Ethisches Design im Kleinen
 
@@ -1873,6 +1873,7 @@ Dark Pattern:
 * https://www.darkpatterns.org
 * https://ethicaldesignhandbook.com/
 * https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/
+* [Interaktive Bespiele für Dark Patterns von neal.fun](https://neal.fun/dark-patterns/)
 
 Gamification:
 
@@ -1916,6 +1917,8 @@ Wie können Unternehmen ihre Website barrierefrei gestalten?
 * [Aktion Mensch über barrierefreie Webseiten](https://www.einfach-fuer-alle.de/vorteile-barrierefreie-website/)
 * [WAVE: web accessibility evaluation tool](https://wave.webaim.org/)
 * [Online-Kurs von W3C und UNESCO](https://www.edx.org/course/web-accessibility-introduction)
+* [Barrierefreiheit im Gaming](https://youtu.be/-baRJ5L4hh4): Microsoft und Sony releasen barrierefreie Controller - Was taugen die und ist das ausreichend?
+* [Colorblind-Modus in Diablo 2 Resurrected ist in Wirklichkeit nur Colorblind-Simulator-Modus](https://www.reddit.com/r/Diablo_2_Resurrected/comments/qbwr1y/10_of_men_are_colorblind_yet_blizzard_doesnt/): Statt Menschen mit Rot-Grün-Schwäche zu helfen, simuliert das Spiel nur diese Farbschwäche, was Betroffenen offensichtlich nicht hilft.
 
 
 ## 11 Ethik in der Wissenschaft
