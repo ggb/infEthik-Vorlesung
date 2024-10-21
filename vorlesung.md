@@ -135,20 +135,23 @@ Weitere Hinweise finden Sie bei den einzelnen Themen der Veranstaltung. Diese Li
 
 ## 01 Orientierung
 
-Dieser erste Abschnitt der Vorlesung gehört zu dem Grundlagenbereich und soll einen ersten orientierenden Überblick über die Disziplien der Ethik geben. Im ersten Kapitel werden die zwei ethischen Methoden *Philosophisches Staunen* und *Epoché* (Urteilsenthaltung) eingeführt. Diese helfen, scheinbar Selbstverständliches aus einem anderen Blickwinkel zu betrachten und auch das nicht Offensichtliche zu erkennen. Sie werden beide Methoden im Laufe des Semesters immer wieder benötigen.
+Dieser erste Abschnitt der Vorlesung gehört zm Grundlagenbereich und gibt einen ersten orientierenden Überblick über die Disziplien *Ethik*. Im ersten Kapitel werden die zwei philosophischen Methoden *Philosophisches Staunen* und *Epoché* (Urteilsenthaltung) vorgestellt. Diese helfen, scheinbar Selbstverständliches aus einem anderen Blickwinkel zu betrachten und auch das nicht Offensichtliche zu erkennen. Beide Methoden werden im Laufe des Semesters immer wieder benötigt.
 
-Auch dieses Bild werden Sie im ersten Video erneut sehen. Nehmen Sie sich daher doch bereits jetzt einige Minuten Zeit, um es in Ruhe zu betrachten.
+Das folgende Bild werden Sie im ersten Video erneut sehen. Nehmen Sie sich daher doch bereits jetzt einige Minuten Zeit, um es in Ruhe zu betrachten.
 
 ![Flammarion](img/Flammarion-3.jpg "Bildquelle: Heikenwaelder Hugo, Austria, Email : heikenwaelder@aon.at, www.heikenwaelder.at, CC BY-SA 2.5, via Wikimedia Commons")
 
-Im zweiten Kapitel wird der Begriff Ethik definiert und Sie lernen die Unterschiede zwischen Moral, Ethik und Metaethik kennen.
-Abschließend wird noch ein kurzer Ausblick darüber geführt, welche Probleme es im Schnittbereich zwischen Informatik und Ethik geben kann.
+Im zweiten Kapitel wird der Begriff *Ethik* definiert und Sie lernen die Unterschiede zwischen Moral, Ethik und Metaethik kennen. Abschließend gibt es noch einen kurzen Überblick, welche Probleme es im Schnittbereich zwischen Informatik und Ethik geben kann.
 
 **Lernziele** des Abschnitts *01 Orientierung*:
 
 + Sie können die Methoden *Philosophisches Staunen* und *Epoché* beschreiben und wissen, welche Funktionen sie erfüllen.
 + Sie kennen verschiedene Verständnisweisen des Begriffs *Ethik* und können diese erläutern.
 + Sie können die Definitionen der Begriffe *Moral*, *Ethik* und *Metaethik* nennen und Gemeinsamkeiten und Unterschiede beschreiben.
+
+### Vorbereitungsaufgabe
+
+Wo begegnen Ihnen ethisch oder gesellschaftlich problematische Software-Anwendungen in den Medien? Sammeln Sie Beispiele und teilen Sie News-Artikel oder YouTube-Videos über den infEthik-Mattermost-Kanal. Schreiben Sie einen kurzen Kommentar (1 Satz!), warum es sich um eine problematische Anwendung handelt.
 
 ### 01-01 Philosophisches Staunen, Epoché (Urteilsenthaltung)
 
@@ -235,11 +238,11 @@ Wie kann die „Natürlichkeit“ und Wertfreiheit von genommenen Daten bewertet
 
 ## 02 Argumentation
 
-Der zweite Abschnitt gehört ebenfalls zu den Grundlagen und handelt von Argumentation. Argumentieren ist in der Ethik sehr wichtig und wird Sie das gesamte Semester begleiten. Durch richtiges Argumentieren können unterschiedliche Standpunkte erkannt, analysiert und diskutiert werden. Es ermöglicht Ihnen eine kritische, rationale und reflektierte Auseinandersetzung mit moralischen Problemen und unterschiedlichen Perspektiven. Sie werden bestenfalls neue Erkenntnisse erlangen und in der Lage sein, ausgewählte Argumente zu stärken oder abzuschwächen.
+Der zweite Abschnitt gehört weiter zu den philosophischen Grundlagen und behandelt *Argumentation*. Argumentieren ist in der Ethik sehr wichtig und wird Sie das gesamte Semester begleiten. Durch richtiges Argumentieren können unterschiedliche Standpunkte erkannt, analysiert und diskutiert werden. Es ermöglicht eine kritische, rationale und reflektierte Auseinandersetzung mit moralischen Problemen und unterschiedlichen Perspektiven. Sie werden bestenfalls neue Erkenntnisse erlangen und in der Lage sein, eigene Argumente zu stärken oder abzuschwächen.
 
 ![Argumentation](img/argumentation.jpg "Bildquelle: von Mohamed_hassan über pixabay, https://pixabay.com/de/vectors/streiten-konflikt-debatte-7218071/")
 
-Das erste Kapitel erklärt, wie ethische Texte am besten zu lesen sind und welche Fragen Sie sich dabei stellen sollten. Im zweiten Kapitel wird der grundlegende Aufbau eines Arguments durch These, Argument und Beleg durchgegangen und verschiedene Argumenttypen werden besprochen. In Kapitel 3 lernen Sie, wie Sie richtige Schlüsse ziehen und was Fakten- und Normenaussagen sind. Das Wissen hilft, Ihre Argumentationen überzeugend zu formulieren. Das letzte Kapitel des zweiten Abschnitts handelt davon, wie Sie Argumente strukturieren und verknüpfen können, um einen schlüssigen Gesamttext zu erhalten.
+Das erste Kapitel erklärt, wie ethische Texte am besten zu lesen sind und welche Fragen Sie sich dabei stellen sollten. Im zweiten Kapitel wird der grundlegende Aufbau eines Arguments durch These, Argument und Beleg durchgegangen und verschiedene Argumenttypen besprochen. In Kapitel 3 lernen Sie, wie Sie richtige Schlüsse ziehen und was Fakten- und Normenaussagen sind. Dieses Wissen hilft, Ihre Argumentationen überzeugend zu formulieren. Das letzte Kapitel des zweiten Abschnitts handelt davon, wie Sie Argumente strukturieren und verknüpfen können, um einen schlüssigen Gesamttext zu erhalten.
 
 **Lernziele** des Abschnitts *02 Argumentation*:
 
@@ -489,8 +492,9 @@ Der dritte Abschnitt des Grundlagenbereichs gibt eine Einführung in die Methode
 
 ![Wortwolke mit Begriffen aus dem Kapitel 3](img/Wortwolke.jpg "Bildquelle: www.wortwolken.com")
 
-Im ersten Kapitel geht es um Gedankenexperimente - eine beliebte Methode der Philosophie. Sie helfen dabei, sich Szenarien vorzustellen, die der Realität nicht entsprechen. Neben einer typischen Struktur werden in diesem Kapitel auch verschiedene Arten von Gedankenexperimenten vorgestellt. Außerdem wird auch der Begriff *Dilemma* definiert und der Bezug zu den Gedankenexperimenten verdeutlicht.
-In Kapitel 2 sollen Sie sich mit der Internetseite [Moral Machine](https://www.moralmachine.net/) beschäftigen und selbst entscheiden, wie ein selbstfahrendes Auto handeln soll. Das dritte Kapitel gibt einen Überblick über die klassischen Argumentationslinien und ethischen Denkschulen. Ethische Denkschulen sind Gegenstand jahrtausendelanger Auseinandersetzungen und geprägt von verschiedenen Ethiker*innen, die im Laufe dieses Kapitels genauer vorgestellt werden. Die verschiedenen Argumentationslinien sollen unterschiedliche Blickwinkel auf einen Sachverhalt zeigen und Begründungsrahmen für ethische Diskussionen bieten.
+Im ersten Kapitel geht es um Gedankenexperimente, eine beliebte Methode der Philosophie. Sie helfen dabei, sich Szenarien vorzustellen, die der Realität nicht entsprechen. Neben einer typischen Struktur werden in diesem Kapitel auch verschiedene Arten von Gedankenexperimenten vorgestellt. Außerdem wird der Begriff *Dilemma* definiert und der Bezug zu den Gedankenexperimenten verdeutlicht.
+
+In Kapitel 2 sollen Sie sich mit dem Forschungsprojekt der [Moral Machine](https://www.moralmachine.net/) beschäftigen und selbst entscheiden, wie ein selbstfahrendes Auto handeln soll. Das dritte Kapitel gibt einen Überblick über die klassischen Argumentationslinien und ethischen Denkschulen. Ethische Denkschulen sind Gegenstand jahrtausendelanger Auseinandersetzungen und geprägt von verschiedenen Ethiker:innen, die im Laufe dieses Kapitels genauer vorgestellt werden. Die verschiedenen Argumentationslinien geben unterschiedliche Blickwinkel auf einen Sachverhalt und bieten einen Begründungsrahmen für ethische Diskussionen.
 
 **Lernziele** des Abschnitts *03 Argumentationslinien*:
 
@@ -705,13 +709,13 @@ In dem Film "Bridge of Spies" vertritt James Donovan als Strafverteidiger Abel, 
 
 Der vierte und letzte Abschnitt der Grundlagen handelt vom Begriff des *Begriffs* und führt die Methode der Concept Map ein.
 
-Das erste Kapitel definiert zuerst den Begriff des Begriffs. Anschließend findet eine Begriffsdifferenzierung zwischen moralischer Akteurschaft und Autonomie stat. Dafür wird die Frage "Können Maschinen moralisch handeln?" betrachtet.
+Das erste Kapitel definiert zuerst den Begriff des Begriffs. Begriffe und ihre spezifischen Probleme werden anschließend anhand der  Begriffsdifferenzierung zwischen moralischer Akteurschaft und Autonomie verdeutlicht; dafür wird die Frage "Können Maschinen moralisch handeln?" betrachtet.
 
 Im zweiten Kapitel wird die Methode "Concept Map" eingeführt und sowohl die Regeln als auch der Sinn und Zweck dieser Methode erläutert. Im folgenden Bild sehen Sie eine Concept Map.
 
 ![Concept Map Beispiel](img/Conceptmap.png "Bildquelle: ​English Wikipedia user Vicwood40, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons")
 
-Kapitel 3 stellt wichtige Begriffe vor. Neben den bereits bekannten Begriffen *Moral*, *Ethik* und *Metaethik* werden hier besonders die Begriffe *Werte*, *Interessen* und *Normen* vorgestellt. Diese werden voneinander abgegrenzt und anschließend jeweils näher erläutert.
+Kapitel 3 stellt wichtige Begriffe vor. Neben einer Wiederholung der bereits bekannten Begriffe *Moral*, *Ethik* und *Metaethik* werden hier besonders die Begriffe *Werte*, *Interessen* und *Normen* vorgestellt. Diese werden voneinander abgegrenzt und näher erläutert.
 
 **Lernziele** des Abschnitts *04 Begriffe*:
 
