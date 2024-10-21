@@ -1293,7 +1293,7 @@ Objektiv (moralisch)- urteilende Maschinen oder Algorithmen sind möglich, da si
   [( )] Wahr
   [(X)] Falsch
 
-Normative Prämissen sind niemals objektiv, da sie normative Prämissen und damit auch Werteurteile erfordern.
+Normative Schlüsse sind niemals objektiv, da sie normative Prämissen und damit auch Werteurteile erfordern.
 
   [(X)] Wahr
   [( )] Falsch
