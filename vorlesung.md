@@ -1248,7 +1248,7 @@ Um die Stimmung zu berechnen, berechnen Sie zunächst nur die positive Stimmung.
 
 Beispiel 1: In einer Review tauchen 3 positive und 2 negative Wörter auf. Der Wert für die positive Stimmung wäre dann Anzahl der positiven Wörter / Anzahl der positiven + negativen Wörter --> 3/5 --> 0.6
 
-Beispiel 2: In einer Review tauchen 12 positive und 6 negative Wörter auf. Der Wert für die positive Stimmung wäre dann Anzahl der positiven Wörter / Anzahl der positiven + negativen Wörter --> 6/18 --> 0.33
+Beispiel 2: In einer Review tauchen 6 positive und 12 negative Wörter auf. Der Wert für die positive Stimmung wäre dann Anzahl der positiven Wörter / Anzahl der positiven + negativen Wörter --> 6/18 --> 0.33
 
 (Daraus ergibt sich, dass der Wert für die negative Stimmung 1 - positive Stimmung ist.)
 
