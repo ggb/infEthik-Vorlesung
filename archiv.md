@@ -186,3 +186,180 @@ Die FriendlyHelper-App soll genau das sein: eine freundliche Hilfe, um durch den
 Damit die Tagebucheinträge mit dem mittels Machine Learning gewonnenen Modell analysiert werden können, werden sie (wie auch die übrige Infrastruktur der App) in der Cloud gespeichert. Als Anbieter wurde ein großes amerikanisches Unternehmen ausgewählt, das jedoch (aus Datenschutzgründen) die vollständige Speicherung auf Servern in der EU zugesichert hat. Die App soll nach Vorgabe von FriendlyHelper möglichst wenige Berechtigungen verlangen, um ihren „datensparsamen“ Charakter deutlich zu machen. Aus diesem Grund ist auch eine Integration in andere soziale Dienste und Netzwerke derzeit nicht vorgesehen.
 
 Die App wird mit einem hochpreisigen Abo-Modell finanziert. Der Grund für den hohen Preis ist der besondere Fokus auf Datenschutz, sowie die Bereitstellung von professionellen Berater:innen.  FriendlyHelper ist vertraglich dazu verpflichtet, einen Teil seiner Einnahmen an CallMe zu spenden, sodass der Erfolg des StartUps direkt einem guten Zweck dient. Wegen des vielversprechenden Datensatzes, der die Grundlage des Geschäftsmodells bildet, und dem daraus folgenden Potential für weitere Anwendungen, konnten bereits einige hochkarätige Financiers gewonnen werden.
+
+
+## 11 Ethik in der Wissenschaft
+
+Der elfte Abschnitt beschäftigt sich mit den ethischen Ansprüchen, die an Informatiker:innen als Forscher:innen gestellt werden.
+
+Dafür wird im ersten Kapitel erklärt, wie die eigene Forschung reflektiert werden kann. Es werden u.a. Grundsätze vorgestellt, wie mit Software und Daten umgegangen werden sollte.
+
+Das zweite Kapitel handelt von geistigem Eigentum, *Plagiaten* und wie man diese verhindern kann.
+
+![Schriftrolle mit Text, dass man nicht plagiert.](img/Plagiat.png "Bildquelle: von Evangelos Evangelou auf Pixabay, https://pixabay.com/de/illustrations/plagiat-nicht-kopieren-cheat-7597846/")
+
+Im dritten Kapitel rückt die Methode *Impact Statement* erneut in den Vordergrund. In Abschnitt 9 wurde bereits ausführlich das Vorgehen zum Verfassen eines *Impact Statements* erläutert. Nun wird genauer betrachtet, wieso ein *Impact Statement* verfasst werden sollte und welche Folgen dies haben kann.
+
+Das letzte Kapitel von Abschnitt 11 befasst sich mit dem Thema *Zivilklausel* und militärische Forschung an Hochschulen. Eine *Zivilklausel* schließt u.a. die Forschung für militärische Zwecke an Universitäten aus. Wieso dieser Weg auch problematisch sein kann und wie die CAU Kiel damit umgeht, wird in Kapitel 4 dargestellt.
+
+**Lernziele** des Abschnitts *11 Ethik in der Wissenschaft*:
+
++ Sie wissen, welche Aspekte bei der Reflektion von Forschungsergebnissen berücksichtigt werden sollten.
++ Sie haben verstanden, was das Prinzip *lege artis* ist.
++ Sie können erklären, warum *Plagiate* ethisch problematisch sind.
++ Sie wissen, wofür Impact Statements sinnvoll sind und was beim Schreiben beachtet werden sollte.
++ Sie kennen den Umgang der CAU mit militärischer Forschung.
+
+### Vorbereitungsaufgabe
+
+Die in Vorlesung 09 vorgestellte Methodik zur Fallanalyse bildet die Grundlage für das Verfassen von ethischen Designdokumenten und Impact Statements, d. h. Ihrer Prüfungsleistung, und wird uns daher bis zum Ende der Veranstaltung begleiten.
+
+Die Methode bildet eine hervorragende Grundlage, um sich mit dem Kontext einer ethisch problematischen Entwicklung vertraut zu machen. In der kommenden Woche beschäftigen wir uns mit „Ethik in der Wissenschaft“, d. h. der ethischen Verantwortung, die Informatiker:innen als Wissenschaftler:innen haben. Zur Vorbereitung bitte ich Sie die nachfolgende Fallbeschreibung zu lesen und in Stichpunkten zu analysieren.
+
+Bitte legen Sie bei der Analyse besonderes Gewicht auf die Kontext- und Werteanalyse.
+
+#### Fallbeschreibung
+
+Sie haben kürzlich eine Stelle in einer Bioinformatik-Arbeitsgruppe einer großen, deutschen Universität angetreten. Die Arbeitsgruppe beschäftigt sich damit, wie mittels Machine Learning Moleküle für die pharmazeutische Nutzung gewonnen werden können. Der Hintergrund ist dabei wie folgt: Die Synthetisierung neuartiger Moleküle für die pharmazeutische Nutzung ist teuer und zeitintensiv, es gibt aber einen sehr großen Suchraum möglicher, geeigneter Moleküle. Machine Learning hilft dabei, den zur Verfügung stehenden Suchraum durch die Berücksichtigung bisheriger Erfahrungen zu verkleinern und die Suche auf vielversprechende Kandidaten einzugrenzen. Diese können in der Folge synthetisiert und erprobt werden. Das spart Kosten und Ressourcen. Eine Gefahr ist dabei immer, dass man „aus Versehen“ hochgiftige Präparate herstellt. Daher wird beim Machine Learning darauf geachtet, möglichst Molekülverbindungen zu vermeiden, die bekanntermaßen giftig sind. Dafür werden offen zugängliche, von anderen Forschern zur Verfügung gestellte Datensätze zu Giftstoffen verwendet. Diese Datensätze enthalten Informationen über Moleküle, ihre Giftigkeit und weitere Auffälligkeiten.
+
+Die Arbeitsgruppe wurde von einer internationalen Organisation kontaktiert, die sich für den Bann von biologischen und chemischen Waffen ausspricht. Diese Organisation veranstaltet eine Konferenz und hat um einen Beitrag gebeten, der darstellt, wie einfach es ist, das in Ihrer Arbeitsgruppe entwickelte Verfahren „umzudrehen“ und besonders giftige Stoffe zu erzeugen. Da diese Anfrage für die Chefin der Arbeitsgruppe, Fr. Prof. Flamel, keine große Priorität besitzt, hat sie das Thema als Bachelorarbeit vergeben. Die Bachelorstudentin, die das Thema übernommen hat, hat ihre Zwischenergebnisse kürzlich im internen Oberseminar der Arbeitsgruppe vorgestellt und alle Anwesenden schockiert: Sie konnte mit einfachsten Mitteln innerhalb kürzester Zeit mehrere zehntausend hochgiftige (teils um ein vielfaches giftiger als die bekannten Kampfstoffe) und potentiell waffentaugliche Stoffe identifizieren. Dabei ist sie wie folgt vorgegangen:
+
+Sie hat zunächst mit einer Suchmaschine eine Reihe frei verfügbarer Datensätze zu Giftstoffen ausfindig gemacht (alle seriös und von anderen Forschern öffentlich zur Verfügung gestellt). Sie hat dann ein generatives neuronales Netz trainiert, mit dem Ziel, möglichst giftige Stoffe neu zu erzeugen. Da sie vorher wenig Kontakt mit dieser Technologie hatte, hat sie ein kurzes Python-Skript aus verschiedenen Stackoverflow-Artikeln zusammenkopiert. Sie selbst und zwei weitere Kolleg*innen hatten inzwischen Gelegenheit, das Vorgehen der Studentin nachzuvollziehen und zu überprüfen: Trotz der einfachen Mittel und des amateurhaften Vorgehens, ist der von ihr verwendete Prozess solide und die Ergebnisse glaubwürdig. Die Ergebnisse lassen sich außerdem weiter filtern, sodass besonders einfach zu generierende Gifte in einer eigenen Liste angezeigt werden.
+
+Prof. Flamel hat inzwischen mit der Studentin ein Paper als Beitrag für die Konferenz verfasst, hadert aber damit, es einzureichen, weil sie unsicher darüber ist, ob das ein verantwortungsvoller Umgang mit den gewonnenen Erkenntnissen ist. Sie hat daher alle Mitglieder der Arbeitsgruppe um eine Stellungnahme gebeten.
+
+### 11-01 Eigene Forschung reflektieren
+
+<iframe title="11-01 Eigene Forschung reflektieren" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/d8cff9ba892e455195962bd0b61a752f1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/d8cff9ba892e455195962bd0b61a752f1d)
+
+[Folien: Eigene Forschung reflektieren](https://cloud.rz.uni-kiel.de/index.php/s/DsXHripa6Jey5ta)
+
+---
+
+                           {{1}}
+**Quiz**
+
+Was sind wichtige Aspekte, die bei der Reflektion von Forschungsergebnissen berücksichtigt werden müssen?
+
+ [[X]] Die Berücksichtigung der eigenen Vorurteile und Voreingenommenheit
+ [[ ]] Die Identifikation von Fehlern anderer Forschungsgruppen
+ [[X]] Die ausreichende Anonymisierung der Probandendaten
+ [[X]] Die Gewährleistung der Validität der Forschungsergebnisse
+ [[X]] Das Prinzip "lege artis" wurde für die Forschung verwendet.
+
+---
+
+                           {{2}}
+**Quellen und vertiefende Literatur**
+
+* Breuer, Franz, Petra Muckel, and Barbara Dieris. 2019. [“Gütekriterien und ethische Fragen.”](https://doi.org/10.1007/978-3-658-22219-2_7) In Reflexive Grounded Theory: Eine Einführung für die Forschungspraxis, 355–93. Wiesbaden: Springer Fachmedien Wiesbaden
+* [CARE Prinzipien des VAD](https://www.vad-ev.de/care-principles/)
+* [Softwareentwicklung in der Wissenschaft](https://www.forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/softwareentwicklung-und-gute-wissenschaftliche-praxis/)
+* [Integrität und Ethik in der Wissenschaft: Portal der CAU](https://www.uni-kiel.de/de/forschung/integritaet-ethik)
+* [Zertifikatsstudiengang Forschungsethik an der CAU](https://www.forschungsethik.uni-kiel.de/de)
+* [Richtlinie der CAU zu Guter Wissenschaftlicher Praxis](https://www.uni-kiel.de/fileadmin/user_upload/forschung/integritaet-ethik/downloads/CAU-Richtlinie_Gute_wissenschaftliche_Praxis.pdf)
+* [Richtlinie der DFG zu Guter Wissenschaftlicher Praxis](https://www.dfg.de/download/pdf/foerderung/rechtliche_rahmenbedingungen/gute_wissenschaftliche_praxis/kodex_gwp.pdf)
+
+### 11-02 Geistiges Eigentum und Plagiate
+
+<iframe title="11-02 Geistiges Eigentum und Plagiate" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/d1121a020e004e0b9b22ee5e7752452a1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/d1121a020e004e0b9b22ee5e7752452a1d)
+
+[Folien: Geistiges Eigentum und Plagiate](https://cloud.rz.uni-kiel.de/index.php/s/ZwAeeP8ERx2L7S6)
+
+---
+
+                           {{1}}
+**Quiz**
+
+Was gilt laut ACM Policy als Plagiat?
+
+ [[X]] Die wortwörtliche Übernahme von Texten oder Teilen aus Texten anderer Autoren ohne entsprechende Quellenangabe.
+ [[X]] Das Paraphrasieren von Texten anderer Autoren ohne entsprechende Quellenangabe.
+ [[X]] Das Kopieren von Grafiken, Tabellen oder Bildern anderer Autoren ohne entsprechende Quellenangabe.
+ [[X]] Das Abschreiben von Programmen oder Programmteilen anderer Autoren ohne entsprechende Quellenangabe.
+
+Was sollte man tun, um Plagiate zu vermeiden?
+
+ [[ ]] Alle Texte, Grafiken oder Tabellen selbst erstellen und keine fremden Quellen verwenden.
+ [[X]] Alle verwendeten Quellen korrekt zitieren und angeben.
+ [[ ]] Sich auf die Verwendung von Texten anderer Autoren beschränken, die älter als 50 Jahre sind.
+ [[ ]] Sich auf die Verwendung von Quellen beschränken, die nicht im Internet verfügbar sind.
+
+---
+
+                           {{2}}
+**Quellen und vertiefende Literatur**
+
+* [ACM Policy on Plagiarism, Misrepresentation, and Falsification](https://www.acm.org/publications/policies/plagiarism-overview)
+
+### 11-03 Impact Statements
+
+<iframe title="11-03 Impact Statements" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/fcfffb7486684b7e97fc9d684fd269901d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/fcfffb7486684b7e97fc9d684fd269901d)
+
+[Folien: Impact Statements](https://cloud.rz.uni-kiel.de/index.php/s/X8CQ587DegwLeqa)
+
+---
+
+                           {{1}}
+**Quiz**
+
+Was sollte beim Schreiben eines Impact Statements beachtet werden?
+
+ [[X]] Die Verwendung von klarer und präziser Sprache.
+ [[ ]] Es sollen nur die Nachteile und Probleme ihrer Forschung behandelt werden.
+ [[ ]] Es sollte versucht werden, Unsicherheiten zu kaschieren.
+ [[X]] Die Verwendung von ethischen Fachbegriffen.
+ [[X]] Die Verwendung von weiterführender Literatur, wenn sie sinnvoll oder nötig ist.  
+ [[ ]] Bei theoretischen Arbeiten ist ein Impact Statement unnötig.
+
+---
+
+                           {{2}}
+**Quellen und vertiefende Literatur**
+
+* Nanayakkara, Priyanka, Jessica Hullman, and Nicholas Diakopoulos. 2021. [“Unpacking the Expressed Consequences of AI Research in Broader Impact Statements.”](https://doi.org/10.1145/3461702.3462608) In Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society, 795–806. New York, NY, USA: Association for Computing Machinery
+* Prunkl, Carina E. A., Carolyn Ashurst, Markus Anderljung, Helena Webb, Jan Leike, and Allan Dafoe. 2021. [“Institutionalizing ethics in AI through broader impact requirements.”](https://doi.org/10.1038/s42256-021-00298-y) Nature Machine Intelligence
+* [A Guide to Writing the NeurIPS Impact Statement](https://medium.com/@GovAI/a-guide-to-writing-the-neurips-impact-statement-4293b723f832)
+
+### 11-04 Zivilklausel
+
+<iframe title="11-04 Zivilklausel" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/2116710c6fb04bc7878888fe5617566c1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/2116710c6fb04bc7878888fe5617566c1d)
+
+[Folien : Zivilklausel](https://cloud.rz.uni-kiel.de/index.php/s/2LMP5gn29rE4eqW)
+
+---
+
+                           {{1}}
+**Quiz**
+
+Was legt eine Zivilklausel an Universitäten fest?
+
+ [[ ]] Sie schreibt den Studierenden das Tragen von Militärkleidung vor.
+ [[ ]] Sie erlaubt die Nutzung von zivilen Technologien und Materialien in der Forschung und Lehre an der Universität.
+ [[ ]] Sie reguliert die Zusammenarbeit zwischen der Universität und zivilen Organisationen.
+ [[ ]] Sie fördert die Durchführung von zivilgesellschaftlichen Projekten an der Universität.
+ [[X]] Sie schreibt den Verzicht auf militärische Forschung und Lehre an der Universität vor.
+
+Hat die CAU Kiel eine Zivilklausel?
+
+  [( )] Ja
+  [(X)] Nein
+
+---
+
+                           {{2}}
+**Quellen und vertiefende Literatur**
+
+* [Richtlinie der CAU zu "Forschungsfreiheit und Forschungsrisiken"](http://www.uni-kiel.de/gf-praesidium/de/recht/interne-richtlinien/forschungsfreiheit-und-forschungsrisiken.pdf)
+* [FragDenStaat: Kooperation der CAU mit der Bundeswehr](https://fragdenstaat.de/anfrage/kooperation-der-christian-albrechts-universitat-mit-der-bundeswehr/)
+* [Spiegel Online: Nie wieder Kriegesforschung!](https://www.spiegel.de/lebenundlernen/uni/militaerforschung-in-kiel-studenten-fordern-zivilklausel-a-907623.html)
+* [Deutschlandfunk: Eingriff in die Freiheit der Wissenschaft](https://www.deutschlandfunk.de/eingriff-in-die-freiheit-der-wissenschaft-100.html)
+

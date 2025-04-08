@@ -135,68 +135,35 @@ Weitere Hinweise finden Sie bei den einzelnen Themen der Veranstaltung. Diese Li
 
 ## 01 Orientierung
 
-Dieser erste Abschnitt der Vorlesung gehört zm Grundlagenbereich und gibt einen ersten orientierenden Überblick über die Disziplien *Ethik*. Im ersten Kapitel werden die zwei philosophischen Methoden *Philosophisches Staunen* und *Epoché* (Urteilsenthaltung) vorgestellt. Diese helfen, scheinbar Selbstverständliches aus einem anderen Blickwinkel zu betrachten und auch das nicht Offensichtliche zu erkennen. Beide Methoden werden im Laufe des Semesters immer wieder benötigt.
-
-Das folgende Bild werden Sie im ersten Video erneut sehen. Nehmen Sie sich daher doch bereits jetzt einige Minuten Zeit, um es in Ruhe zu betrachten.
-
 ![Flammarion](img/Flammarion-3.jpg "Bildquelle: Heikenwaelder Hugo, Austria, Email : heikenwaelder@aon.at, www.heikenwaelder.at, CC BY-SA 2.5, via Wikimedia Commons")
 
-Im zweiten Kapitel wird der Begriff *Ethik* definiert und Sie lernen die Unterschiede zwischen Moral, Ethik und Metaethik kennen. Abschließend gibt es noch einen kurzen Überblick, welche Probleme es im Schnittbereich zwischen Informatik und Ethik geben kann.
+In dieser ersten Vorlesung heißt es: Ankommen und durchatmen! Worum geht es überhaupt in dieser Veranstaltung und was sind die Rahmenbedingungen? Machen Sie sich mit den Informationen im Moodle vertraut, finden Sie eine Übungsgruppe und lesen Sie sich die allgemeinen Informationen in diesem Dokument durch. 
 
-**Lernziele** des Abschnitts *01 Orientierung*:
+Wenn sie soweit sind, kommen Sie hierher zurück und schauen Sie sich die Videos der ersten Woche an. Wir starten langsam mit einem Video-Essay, der die intensive Nutzung von Smartphones und die damit verbundenen, unsichtbaren Kosten hinterfragt. Weiter geht es mit einigen Definitionen: Was ist Ethik? Was ist Informatik? Und wie hängen die beiden zusammen? Unter allen Videos (außer dem ersten) finden Sie ein Quiz, mit dem Sie ihr Verständnis überprüfen können, sowie weiterführende Informationen. Machen Sie sich außerdem bitte Gedanken über die Vobereitungsaufgabe. 
 
-+ Sie können die Methoden *Philosophisches Staunen* und *Epoché* beschreiben und wissen, welche Funktionen sie erfüllen.
-+ Sie kennen verschiedene Verständnisweisen des Begriffs *Ethik* und können diese erläutern.
-+ Sie können die Definitionen der Begriffe *Moral*, *Ethik* und *Metaethik* nennen und Gemeinsamkeiten und Unterschiede beschreiben.
+Wir freuen uns auf die ersten Übungssitzungen mit Ihnen!
 
 ### Vorbereitungsaufgabe
 
 Wo begegnen Ihnen ethisch oder gesellschaftlich problematische Software-Anwendungen in den Medien? Sammeln Sie Beispiele und teilen Sie News-Artikel oder YouTube-Videos über den infEthik-Mattermost-Kanal. Schreiben Sie einen kurzen Kommentar (1 Satz!), warum es sich um eine problematische Anwendung handelt.
 
-### 01-01 Philosophisches Staunen, Epoché (Urteilsenthaltung)
+### 01-01 Technologie(n) und ihre Folgen
 
-<iframe title="01-01 Philosophisches Staunen und Epoché" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/fa48ebd4695044469dcb68dd8504b0651d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+Technologie beeinflusst unser individuelles und gesellschaftliches Leben – zum Guten und zum Schlechten. Dabei sind wir weder als Nutzer:innen und noch weniger als Entwickler:innen hilflos der technologischen Entwicklung ausgeliefert: Wir haben immer die Möglichkeit tätig zu werden und zu versuchen es besser zu machen. Der folgende Video-Essay gibt dafür ein Beispiel, der insbesondere die Nutzer:innen-Perspektive anspricht, bevor wir uns im Laufe des Semesters immer mehr der professionellen Informatiker:innen-Perspektive annähern. 
 
-[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/fa48ebd4695044469dcb68dd8504b0651d)
+<iframe width="900" height="600" src="https://www.youtube-nocookie.com/embed/ad-skW0SWeE?si=YMZG0WVP6UblqZ3u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Folien: Philosophisches Staunen und Epoché](https://cloud.rz.uni-kiel.de/index.php/s/EWbfr4Ro3wDrsgS)
+### 01-02 Was ist Informatik?
 
----
+<iframe title="01-02 Was ist Informatik?" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/bf0855f14e974e84af4002851d9cd6ab1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/bf0855f14e974e84af4002851d9cd6ab1d)
 
-                           {{1}}
-**Quiz**
+### 01-03 Was ist Ethik?
 
-Was bedeutet Epoché?
+<iframe title="01-03 Was ist Ethik?" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/c2d02a1bdbba4f2d873bfea013072b221d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-  [[ ]] Urzustand
-  [[X]] Urteilsenthaltung
-  [[ ]] Urteilsbildung
-
-Welche der folgenden Aspekte sind nicht Teil der Epoché?
-
-  [[ ]] Alle Perspektiven eines Problems unvoreingenommen offen legen
-  [[ ]] Meinungen und Gefühle zum Thema zurückhalten und rein faktenbasiert urteilen
-  [[x]] Erst ein Urteil bilden und dieses später hinterfragen
-  [[ ]] Empathie für andere Positionen haben/entwickeln
-  [[ ]] Nicht urteilen, solange man kein klares Bild aller Umstände entwickelt hat
-
----
-
-                          {{2}}
-**Quellen und vertiefende Literatur**
-
-* Aßmann, Lothar, Reiner Bergmann, Roland W. Henke, Matthias Schulze, and Eva-Maria Sewing. 2020. Zugänge zur Philosophie. Einführungsphase. Cornelsen Schulverlage.
-* Engstler, Achim. 1995. [“Urteilsenthaltung und Glück. Eine Verteidigung ethisch motivierter Skepsis.”](http://www.jstor.org/stable/20483706) Zeitschrift für philosophische Forschung. Vittorio Klostermann GmbH.
-* Vogt, Katja. 2021. [“Ancient Skepticism.”](https://plato.stanford.edu/archives/sum2021/entries/skepticism-ancient/) In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Summer 2021. Metaphysics Research Lab, Stanford University.
-* Morison, Benjamin. 2019. [“Sextus Empiricus.”](Https://plato.stanford.edu/archives/fall2019/entries/sextus-empiricus/) In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Fall 2019. Metaphysics Research Lab, Stanford University.
-* Bett, Richard. 2018. [“Pyrrho.”](Https://plato.stanford.edu/archives/win2018/entries/pyrrho/) In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Winter 2018. Metaphysics Research Lab, Stanford University.
-
-### 01-02 Was ist Ethik?
-
-<iframe title="01-02 Was ist Ethik?" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/67fb3a20737148a2af9b6ba0d84a377e1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
-
-[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/67fb3a20737148a2af9b6ba0d84a377e1d)
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/c2d02a1bdbba4f2d873bfea013072b221d)
 
 [Folien: Was ist Ethik?](https://cloud.rz.uni-kiel.de/index.php/s/Z5J7AoSQe6Gs8FW)
 
@@ -256,12 +223,17 @@ Das erste Kapitel erklärt, wie ethische Texte am besten zu lesen sind und welch
 
 In dieser Woche beschäftigen wir uns mit dem Lesen und Verfassen von Argumentationen, einem Thema, dass uns die gesamte Veranstaltung über beschäftigen wird. Gut zu argumentieren ist zudem Voraussetzung für das Bestehen der Prüfungsleistung.
 
-Lesen Sie dazu bitte zunächst den folgenden Text: [Moshe Y. Vardi: Are We Having An Ethics Crisis in Computing?](https://dl.acm.org/doi/10.1145/3292822)
+Lesen Sie dazu bitte zunächst den folgenden Text: [Moshe Y. Vardi: I Was Wrong about the Ethics Crisis](https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/)
 
 Beantworten Sie außerdem die beiden Fragen:
 
 1. Welche Argumente benennt der Text, um seine Position zu belegen? Versuchen Sie, die Argumente in eigenen Worten, in Stichpunkten oder als Fließtext aufzuschreiben.
 2. Wie haben Sie den Text gelesen, um sich dessen Sinn (argumentative Struktur etc.) zu erschließen? Verfassen Sie eine kurze Beschreibung Ihres Vorgehens.
+
+**Bonus**: 
+
+* Lesen Sie die Kommentare: Welche Argumente finden Sie überzeugend? Wie würden Sie selbst den Text kommentieren?
+* Moshe Vardi antwortet in dem Text auf einen früheren Text von sich selbst, [Moshe Y. Vardi: Are We Having An Ethics Crisis in Computing?](https://dl.acm.org/doi/10.1145/3292822). Lesen Sie auch diesen Text.
 
 ### 02-01 Ethische Texte lesen
 
@@ -1924,181 +1896,9 @@ Wie können Unternehmen ihre Website barrierefrei gestalten?
 * [Barrierefreiheit im Gaming](https://youtu.be/-baRJ5L4hh4): Microsoft und Sony releasen barrierefreie Controller - Was taugen die und ist das ausreichend?
 * [Colorblind-Modus in Diablo 2 Resurrected ist in Wirklichkeit nur Colorblind-Simulator-Modus](https://www.reddit.com/r/Diablo_2_Resurrected/comments/qbwr1y/10_of_men_are_colorblind_yet_blizzard_doesnt/): Statt Menschen mit Rot-Grün-Schwäche zu helfen, simuliert das Spiel nur diese Farbschwäche, was Betroffenen offensichtlich nicht hilft.
 
-
 ## 11 Ethik in der Wissenschaft
 
-Der elfte Abschnitt beschäftigt sich mit den ethischen Ansprüchen, die an Informatiker:innen als Forscher:innen gestellt werden.
-
-Dafür wird im ersten Kapitel erklärt, wie die eigene Forschung reflektiert werden kann. Es werden u.a. Grundsätze vorgestellt, wie mit Software und Daten umgegangen werden sollte.
-
-Das zweite Kapitel handelt von geistigem Eigentum, *Plagiaten* und wie man diese verhindern kann.
-
-![Schriftrolle mit Text, dass man nicht plagiert.](img/Plagiat.png "Bildquelle: von Evangelos Evangelou auf Pixabay, https://pixabay.com/de/illustrations/plagiat-nicht-kopieren-cheat-7597846/")
-
-Im dritten Kapitel rückt die Methode *Impact Statement* erneut in den Vordergrund. In Abschnitt 9 wurde bereits ausführlich das Vorgehen zum Verfassen eines *Impact Statements* erläutert. Nun wird genauer betrachtet, wieso ein *Impact Statement* verfasst werden sollte und welche Folgen dies haben kann.
-
-Das letzte Kapitel von Abschnitt 11 befasst sich mit dem Thema *Zivilklausel* und militärische Forschung an Hochschulen. Eine *Zivilklausel* schließt u.a. die Forschung für militärische Zwecke an Universitäten aus. Wieso dieser Weg auch problematisch sein kann und wie die CAU Kiel damit umgeht, wird in Kapitel 4 dargestellt.
-
-**Lernziele** des Abschnitts *11 Ethik in der Wissenschaft*:
-
-+ Sie wissen, welche Aspekte bei der Reflektion von Forschungsergebnissen berücksichtigt werden sollten.
-+ Sie haben verstanden, was das Prinzip *lege artis* ist.
-+ Sie können erklären, warum *Plagiate* ethisch problematisch sind.
-+ Sie wissen, wofür Impact Statements sinnvoll sind und was beim Schreiben beachtet werden sollte.
-+ Sie kennen den Umgang der CAU mit militärischer Forschung.
-
-### Vorbereitungsaufgabe
-
-Die in Vorlesung 09 vorgestellte Methodik zur Fallanalyse bildet die Grundlage für das Verfassen von ethischen Designdokumenten und Impact Statements, d. h. Ihrer Prüfungsleistung, und wird uns daher bis zum Ende der Veranstaltung begleiten.
-
-Die Methode bildet eine hervorragende Grundlage, um sich mit dem Kontext einer ethisch problematischen Entwicklung vertraut zu machen. In der kommenden Woche beschäftigen wir uns mit „Ethik in der Wissenschaft“, d. h. der ethischen Verantwortung, die Informatiker:innen als Wissenschaftler:innen haben. Zur Vorbereitung bitte ich Sie die nachfolgende Fallbeschreibung zu lesen und in Stichpunkten zu analysieren.
-
-Bitte legen Sie bei der Analyse besonderes Gewicht auf die Kontext- und Werteanalyse.
-
-#### Fallbeschreibung
-
-Sie haben kürzlich eine Stelle in einer Bioinformatik-Arbeitsgruppe einer großen, deutschen Universität angetreten. Die Arbeitsgruppe beschäftigt sich damit, wie mittels Machine Learning Moleküle für die pharmazeutische Nutzung gewonnen werden können. Der Hintergrund ist dabei wie folgt: Die Synthetisierung neuartiger Moleküle für die pharmazeutische Nutzung ist teuer und zeitintensiv, es gibt aber einen sehr großen Suchraum möglicher, geeigneter Moleküle. Machine Learning hilft dabei, den zur Verfügung stehenden Suchraum durch die Berücksichtigung bisheriger Erfahrungen zu verkleinern und die Suche auf vielversprechende Kandidaten einzugrenzen. Diese können in der Folge synthetisiert und erprobt werden. Das spart Kosten und Ressourcen. Eine Gefahr ist dabei immer, dass man „aus Versehen“ hochgiftige Präparate herstellt. Daher wird beim Machine Learning darauf geachtet, möglichst Molekülverbindungen zu vermeiden, die bekanntermaßen giftig sind. Dafür werden offen zugängliche, von anderen Forschern zur Verfügung gestellte Datensätze zu Giftstoffen verwendet. Diese Datensätze enthalten Informationen über Moleküle, ihre Giftigkeit und weitere Auffälligkeiten.
-
-Die Arbeitsgruppe wurde von einer internationalen Organisation kontaktiert, die sich für den Bann von biologischen und chemischen Waffen ausspricht. Diese Organisation veranstaltet eine Konferenz und hat um einen Beitrag gebeten, der darstellt, wie einfach es ist, das in Ihrer Arbeitsgruppe entwickelte Verfahren „umzudrehen“ und besonders giftige Stoffe zu erzeugen. Da diese Anfrage für die Chefin der Arbeitsgruppe, Fr. Prof. Flamel, keine große Priorität besitzt, hat sie das Thema als Bachelorarbeit vergeben. Die Bachelorstudentin, die das Thema übernommen hat, hat ihre Zwischenergebnisse kürzlich im internen Oberseminar der Arbeitsgruppe vorgestellt und alle Anwesenden schockiert: Sie konnte mit einfachsten Mitteln innerhalb kürzester Zeit mehrere zehntausend hochgiftige (teils um ein vielfaches giftiger als die bekannten Kampfstoffe) und potentiell waffentaugliche Stoffe identifizieren. Dabei ist sie wie folgt vorgegangen:
-
-Sie hat zunächst mit einer Suchmaschine eine Reihe frei verfügbarer Datensätze zu Giftstoffen ausfindig gemacht (alle seriös und von anderen Forschern öffentlich zur Verfügung gestellt). Sie hat dann ein generatives neuronales Netz trainiert, mit dem Ziel, möglichst giftige Stoffe neu zu erzeugen. Da sie vorher wenig Kontakt mit dieser Technologie hatte, hat sie ein kurzes Python-Skript aus verschiedenen Stackoverflow-Artikeln zusammenkopiert. Sie selbst und zwei weitere Kolleg*innen hatten inzwischen Gelegenheit, das Vorgehen der Studentin nachzuvollziehen und zu überprüfen: Trotz der einfachen Mittel und des amateurhaften Vorgehens, ist der von ihr verwendete Prozess solide und die Ergebnisse glaubwürdig. Die Ergebnisse lassen sich außerdem weiter filtern, sodass besonders einfach zu generierende Gifte in einer eigenen Liste angezeigt werden.
-
-Prof. Flamel hat inzwischen mit der Studentin ein Paper als Beitrag für die Konferenz verfasst, hadert aber damit, es einzureichen, weil sie unsicher darüber ist, ob das ein verantwortungsvoller Umgang mit den gewonnenen Erkenntnissen ist. Sie hat daher alle Mitglieder der Arbeitsgruppe um eine Stellungnahme gebeten.
-
-### 11-01 Eigene Forschung reflektieren
-
-<iframe title="11-01 Eigene Forschung reflektieren" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/d8cff9ba892e455195962bd0b61a752f1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
-
-[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/d8cff9ba892e455195962bd0b61a752f1d)
-
-[Folien: Eigene Forschung reflektieren](https://cloud.rz.uni-kiel.de/index.php/s/DsXHripa6Jey5ta)
-
----
-
-                           {{1}}
-**Quiz**
-
-Was sind wichtige Aspekte, die bei der Reflektion von Forschungsergebnissen berücksichtigt werden müssen?
-
- [[X]] Die Berücksichtigung der eigenen Vorurteile und Voreingenommenheit
- [[ ]] Die Identifikation von Fehlern anderer Forschungsgruppen
- [[X]] Die ausreichende Anonymisierung der Probandendaten
- [[X]] Die Gewährleistung der Validität der Forschungsergebnisse
- [[X]] Das Prinzip "lege artis" wurde für die Forschung verwendet.
-
----
-
-                           {{2}}
-**Quellen und vertiefende Literatur**
-
-* Breuer, Franz, Petra Muckel, and Barbara Dieris. 2019. [“Gütekriterien und ethische Fragen.”](https://doi.org/10.1007/978-3-658-22219-2_7) In Reflexive Grounded Theory: Eine Einführung für die Forschungspraxis, 355–93. Wiesbaden: Springer Fachmedien Wiesbaden
-* [CARE Prinzipien des VAD](https://www.vad-ev.de/care-principles/)
-* [Softwareentwicklung in der Wissenschaft](https://www.forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/softwareentwicklung-und-gute-wissenschaftliche-praxis/)
-* [Integrität und Ethik in der Wissenschaft: Portal der CAU](https://www.uni-kiel.de/de/forschung/integritaet-ethik)
-* [Zertifikatsstudiengang Forschungsethik an der CAU](https://www.forschungsethik.uni-kiel.de/de)
-* [Richtlinie der CAU zu Guter Wissenschaftlicher Praxis](https://www.uni-kiel.de/fileadmin/user_upload/forschung/integritaet-ethik/downloads/CAU-Richtlinie_Gute_wissenschaftliche_Praxis.pdf)
-* [Richtlinie der DFG zu Guter Wissenschaftlicher Praxis](https://www.dfg.de/download/pdf/foerderung/rechtliche_rahmenbedingungen/gute_wissenschaftliche_praxis/kodex_gwp.pdf)
-
-### 11-02 Geistiges Eigentum und Plagiate
-
-<iframe title="11-02 Geistiges Eigentum und Plagiate" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/d1121a020e004e0b9b22ee5e7752452a1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
-
-[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/d1121a020e004e0b9b22ee5e7752452a1d)
-
-[Folien: Geistiges Eigentum und Plagiate](https://cloud.rz.uni-kiel.de/index.php/s/ZwAeeP8ERx2L7S6)
-
----
-
-                           {{1}}
-**Quiz**
-
-Was gilt laut ACM Policy als Plagiat?
-
- [[X]] Die wortwörtliche Übernahme von Texten oder Teilen aus Texten anderer Autoren ohne entsprechende Quellenangabe.
- [[X]] Das Paraphrasieren von Texten anderer Autoren ohne entsprechende Quellenangabe.
- [[X]] Das Kopieren von Grafiken, Tabellen oder Bildern anderer Autoren ohne entsprechende Quellenangabe.
- [[X]] Das Abschreiben von Programmen oder Programmteilen anderer Autoren ohne entsprechende Quellenangabe.
-
-Was sollte man tun, um Plagiate zu vermeiden?
-
- [[ ]] Alle Texte, Grafiken oder Tabellen selbst erstellen und keine fremden Quellen verwenden.
- [[X]] Alle verwendeten Quellen korrekt zitieren und angeben.
- [[ ]] Sich auf die Verwendung von Texten anderer Autoren beschränken, die älter als 50 Jahre sind.
- [[ ]] Sich auf die Verwendung von Quellen beschränken, die nicht im Internet verfügbar sind.
-
----
-
-                           {{2}}
-**Quellen und vertiefende Literatur**
-
-* [ACM Policy on Plagiarism, Misrepresentation, and Falsification](https://www.acm.org/publications/policies/plagiarism-overview)
-
-### 11-03 Impact Statements
-
-<iframe title="11-03 Impact Statements" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/fcfffb7486684b7e97fc9d684fd269901d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
-
-[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/fcfffb7486684b7e97fc9d684fd269901d)
-
-[Folien: Impact Statements](https://cloud.rz.uni-kiel.de/index.php/s/X8CQ587DegwLeqa)
-
----
-
-                           {{1}}
-**Quiz**
-
-Was sollte beim Schreiben eines Impact Statements beachtet werden?
-
- [[X]] Die Verwendung von klarer und präziser Sprache.
- [[ ]] Es sollen nur die Nachteile und Probleme ihrer Forschung behandelt werden.
- [[ ]] Es sollte versucht werden, Unsicherheiten zu kaschieren.
- [[X]] Die Verwendung von ethischen Fachbegriffen.
- [[X]] Die Verwendung von weiterführender Literatur, wenn sie sinnvoll oder nötig ist.  
- [[ ]] Bei theoretischen Arbeiten ist ein Impact Statement unnötig.
-
----
-
-                           {{2}}
-**Quellen und vertiefende Literatur**
-
-* Nanayakkara, Priyanka, Jessica Hullman, and Nicholas Diakopoulos. 2021. [“Unpacking the Expressed Consequences of AI Research in Broader Impact Statements.”](https://doi.org/10.1145/3461702.3462608) In Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society, 795–806. New York, NY, USA: Association for Computing Machinery
-* Prunkl, Carina E. A., Carolyn Ashurst, Markus Anderljung, Helena Webb, Jan Leike, and Allan Dafoe. 2021. [“Institutionalizing ethics in AI through broader impact requirements.”](https://doi.org/10.1038/s42256-021-00298-y) Nature Machine Intelligence
-* [A Guide to Writing the NeurIPS Impact Statement](https://medium.com/@GovAI/a-guide-to-writing-the-neurips-impact-statement-4293b723f832)
-
-### 11-04 Zivilklausel
-
-<iframe title="11-04 Zivilklausel" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/2116710c6fb04bc7878888fe5617566c1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
-
-[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/2116710c6fb04bc7878888fe5617566c1d)
-
-[Folien : Zivilklausel](https://cloud.rz.uni-kiel.de/index.php/s/2LMP5gn29rE4eqW)
-
----
-
-                           {{1}}
-**Quiz**
-
-Was legt eine Zivilklausel an Universitäten fest?
-
- [[ ]] Sie schreibt den Studierenden das Tragen von Militärkleidung vor.
- [[ ]] Sie erlaubt die Nutzung von zivilen Technologien und Materialien in der Forschung und Lehre an der Universität.
- [[ ]] Sie reguliert die Zusammenarbeit zwischen der Universität und zivilen Organisationen.
- [[ ]] Sie fördert die Durchführung von zivilgesellschaftlichen Projekten an der Universität.
- [[X]] Sie schreibt den Verzicht auf militärische Forschung und Lehre an der Universität vor.
-
-Hat die CAU Kiel eine Zivilklausel?
-
-  [( )] Ja
-  [(X)] Nein
-
----
-
-                           {{2}}
-**Quellen und vertiefende Literatur**
-
-* [Richtlinie der CAU zu "Forschungsfreiheit und Forschungsrisiken"](http://www.uni-kiel.de/gf-praesidium/de/recht/interne-richtlinien/forschungsfreiheit-und-forschungsrisiken.pdf)
-* [FragDenStaat: Kooperation der CAU mit der Bundeswehr](https://fragdenstaat.de/anfrage/kooperation-der-christian-albrechts-universitat-mit-der-bundeswehr/)
-* [Spiegel Online: Nie wieder Kriegesforschung!](https://www.spiegel.de/lebenundlernen/uni/militaerforschung-in-kiel-studenten-fordern-zivilklausel-a-907623.html)
-* [Deutschlandfunk: Eingriff in die Freiheit der Wissenschaft](https://www.deutschlandfunk.de/eingriff-in-die-freiheit-der-wissenschaft-100.html)
+In Überarbeitung... 
 
 ## 12 Individuelle Dilemmasituation
 
