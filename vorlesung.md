@@ -159,6 +159,38 @@ Technologie beeinflusst unser individuelles und gesellschaftliches Leben – zum
 
 [Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/bf0855f14e974e84af4002851d9cd6ab1d)
 
+---
+
+
+                           {{1}}
+**Quiz**
+
+Welche Aussagen über **Informatik** sind korrekt? 
+
+  [[ ]] Informatik als Disziplin ist eindeutig definiert.
+  [[X]] Informatik als Disziplin kann ganz unterschiedlich verstanden werden. 
+  [[ ]] Informatik ist ein einfaches Konzept.
+  [[X]] Informatik als Strukturwissenschaft versucht Phänomene der Wirklichkeit in Strukturen zu überführen, die dann digital verarbeitet werden können.
+  [[ ]] Die drei Paradigmen der Informatik nach Eden (2009) lauten: *Rationalist*, *Pragmatist* und *Scientific*.
+
+Welche Aussagen über **Wissenschaft** sind korrekt? 
+
+  [[X]] Etwas ist nur dann wissenschaftlich, wenn andere die Möglichkeit haben, die Ergebnisse und das Vorgehen zu überprüfen. 
+  [[ ]] Wissenschaftliche Argumentation zeichnet sich durch die Verwendung von Behauptungen aus. 
+  [[ ]] Wissenschaft beschränkt sich auf das Feststellen beobachtbarer Tatsachen.
+  [[X]] Wissenschaft versucht aus den beobachtbaren Tatsachen allgemeine Strukturen und Beziehungen abzuleiten. 
+  [[X]] Die wissenschaftliche Methode ist ohne Transparenz nicht denkbar.
+
+---
+
+                           {{2}}                   
+**Quellen und vertiefende Literatur**
+
+* Denning, P. J. (2005). Is Computer Science Science? Commun. ACM, 48(4), 27–31. https://doi.org/10.1145/1053291.1053309
+* Eden, A. H. (2007). Three paradigms of computer science. Minds and Machines, 17(2), 135–167.
+* Forneck, H.-J. (1990). Entwicklungstendenzen und Problemlinien der Didaktik der Informatik. Beiträge Zur Didaktik Der Informatik, G. Cyranek, HJ Forneck and H. Goorhuis, Eds. Diesterweg, Frankfurt Am Main, 18–53.
+* Prechtl, P., & Burkard, F.-P. (2015). Metzler Lexikon Philosophie: Begriffe und Definitionen. Springer-Verlag.
+
 ### 01-03 Was ist Ethik?
 
 <iframe title="01-03 Was ist Ethik?" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/c2d02a1bdbba4f2d873bfea013072b221d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
