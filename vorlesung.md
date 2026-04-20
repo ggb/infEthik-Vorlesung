@@ -221,6 +221,78 @@ Sollte ich meine Benutzerdaten an die Hersteller des Programms weitergeben?
 * Prechtl, Peter, and Franz-Peter Burkard. 2015. Metzler Lexikon Philosophie: Begriﬀe und Definitionen. Springer-Verlag.
 * Schneider, Yannick, and Andreas Mühling. 2017. “Das Konzept Nature of Computer Science.” In Informatische Bildung zum Verstehen und Gestalten der digitalen Welt, 123–26. Gesellschaft für Informatik, Bonn.
 
+## 02 Ethik
+
+In dieser Vorlesung soll ein präziseres Bild davon vermittelt werden, was Ethik *in der* Informatik ausmacht und wie wir grundsätzlich methodisch vorgehen, um als Informatiker:innen zu ethischen Einschätzungen zu gelangen. 
+
+### Vorbereitungsaufgabe
+
+Die Vorbereitungsaufgabe folgt in Kürze... 
+
+
+### 02-01 ... *in* der Informatik
+
+<iframe title="02-01 ... *in* der Informatik" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/43a08c74487f4b45bf1b8113af38a2451d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/43a08c74487f4b45bf1b8113af38a2451d)
+
+[Folien: ... *in* der Informatik](https://cloud.rz.uni-kiel.de/index.php/s/fCCHMXGAzaSseQ8)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+Quiz folgt in Kürze...
+
+### 02-02 Disclosive ethics
+
+<iframe title="02-02 Disclosive ethics" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/ce47f4d671d541a48e7fde2ec4e7bca81d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/ce47f4d671d541a48e7fde2ec4e7bca81d)
+
+[Folien: Disclosive ethics](https://cloud.rz.uni-kiel.de/index.php/s/t5DEAsMqzaFSAmX)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+Quiz folgt in Kürze...
+
+
+### 02-03 Technologie analysieren
+
+<iframe title="02-03 Technologie analysieren" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/b3d870992a914a4596356b2d9506d7881d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/b3d870992a914a4596356b2d9506d7881d)
+
+[Folien: Technologie analysieren](https://cloud.rz.uni-kiel.de/index.php/s/Bo22BJdmdQs8R2Y)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+Quiz folgt in Kürze...
+
+### Quellen und vertiefende Literatur
+
+* Brey, Philip. 2000. “Disclosive Computer Ethics.” ACM SIGCAS Computers and Society 30 (4): 10–16. 
+* ———. 2010. “Values in Technology and Disclosive Computer Ethics.” In The Cambridge Handbook of Information and Computer Ethics, edited by Luciano Floridi, 41–58. Cambridge University Press.
+* Crawford, Kate. 2021. The Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. Yale University Press.
+* Fenner, Dagmar, ed. 2022. Einführung in Die Angewandte Ethik. 2. vollst. überarb. u. erw. Aufl. Stuttgart: utb GmbH.
+* Hao, Karen. 2025. Empire of AI: Dreams and Nightmares in Sam Altman’s OpenAI. New York: Penguin Press.
+* Herkert, Joseph R. 2005. “Ways of Thinking about and Teaching Ethical Problem Solving: Microethics and Macroethics in Engineering.” Science and Engineering Ethics 11 (3): 373–85. 
+* Introna, Lucas D. 2006. “Maintaining the Reversibility of Foldings: Making the Ethics (Politics) of Information Technology Visible.” Ethics and Information Technology 9 (1): 11–25.
+* Midgley, Mary. 1992. “Philosophical Plumbing.” Royal Institute of Philosophy Supplement 33 (September): 139–51.
+* Preston, Beth. 2022. “Artifact.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta and Uri Nodelman, Winter 2022. Metaphysics Research Lab, Stanford University.
+* Winner, Langdon. 1980. “Do Artifacts Have Politics?”. Daedalus 109 (1): 121–36.
+
+
 ## Anhang
 
 ### Index
@@ -229,11 +301,25 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 
 | Begriff                          | Kapitel                                                                     |
 |----------------------------------|-----------------------------------------------------------------------------|
-| Ethik                            | 01-03                                                                       |
+| Artefakt                         | 02-02                                                                       |
+| Ethik                            | 01-03, 02-01                                                                |
+| – Angewandte Ethik               | 02-01                                                                       |
+| – Bereichsethik                  | 02-01                                                                       |
+| – Disclosive ethics              | 02-02                                                                       |
+| – Micro and macro ethics         | 02-01                                                                       |
+| Fallstudien                      | 02-03                                                                       |
 | Informatik                       | 01-02                                                                       |
+| large language models (LLMs)     | 02-02                                                                       |
 | Meta-Ethik                       | 01-03                                                                       |
 | Moral                            | 01-03                                                                       |
+| Stakeholder                      | 02-02                                                                       |
+| – direkte/indirekte Stakeholder  | 02-02                                                                       |
+| – Stakeholderanalyse             | 02-03                                                                       |
 | Strukturwissenschaft             | 01-02                                                                       |
+| Werte                            | 02-02                                                                       |
+| – eingebettete Werte             | 02-02                                                                       |
+| – value sensitive design         | 02-03                                                                       |
+| – Werteanalyse                   | 02-03                                                                       |
 | Wissenschaft                     | 01-02                                                                       |
 |                                  |                                                                             |
 
