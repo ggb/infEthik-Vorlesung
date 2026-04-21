@@ -227,7 +227,11 @@ In dieser Vorlesung soll ein präziseres Bild davon vermittelt werden, was Ethik
 
 ### Vorbereitungsaufgabe
 
-Die Vorbereitungsaufgabe folgt in Kürze... 
+Wenden Sie die ersten drei Schritte (*disclosure level*) der Methode zum Analysieren von Technologie auf einen Alltagsgegenstand oder -software an. Nehmen Sie sich etwas Einfaches vor, dass Sie jeden Tag verwenden und bei dem der ethische Gehalt nicht auf den ersten Blick klar ist. 
+
+Notieren Sie sich in maximal drei Sätzen Ihre ethische Intuition. Erstellen Sie ein einfaches Schaubild mit Stakeholdern, Werten und den *eingebauten Konsequenzen* des Artefakts selbst. 
+
+Notieren Sie sich schließlich, ob Sie eine ethische Problemstellung identifizieren konnten, die Ihnen vor der Analyse nicht klar war. Falls Sie nichts dergleichen finden konnten: Können Sie beschreiben, woran das liegt?
 
 
 ### 02-01 ... *in* der Informatik
