@@ -244,7 +244,28 @@ Die Vorbereitungsaufgabe folgt in Kürze...
                            {{1}}
 **Quiz**
 
-Quiz folgt in Kürze...
+
+Angewandte Ethik beinhaltet: 
+
+  [[X]] konkrete Hilfestellungen zur Urteilsfindung
+  [[ ]] den Vergleich verschiedener Ethiken
+  [[ ]] Ethik für allgemeine Bereiche/Sachverhalte
+  [[X]] verschiedene gesonderte Bereiche (wie z.B. die Medizin)
+  [[X]] Analyse und Kritik von Praktiken
+
+---
+
+Welcher Fall beschreibt ein Bottom-Up Vorgehen und welcher ein Top-Down Vorgehen?
+
+Ethische Prinzipien der allgemeinen Ethik werden in einem Bereich angewandt.
+
+  [[Top-Down]]
+
+Aus konkrete Praktiken eines Bereiches werden Handlungsnormen abgeleitet.
+
+  [[Bottom-Up]]
+
+
 
 ### 02-02 Disclosive ethics
 
@@ -260,7 +281,18 @@ Quiz folgt in Kürze...
                            {{1}}
 **Quiz**
 
-Quiz folgt in Kürze...
+Die "Toolview" (im Unterschied zu den "Disclosive Ethics") sagt, 
+
+  [[ ]] ...dass Technik gut oder böse ist
+  [[X]] ...dass erst der/die Nutzende entscheidet, ob Technik gut oder böse ist
+
+---
+
+Der "Disclosure" Schritt wird definiert als:
+
+  [[ ]] Eine Technologie wird anhand der Bedürfnisse der Stakeholder analysiert. Erfüllt die Technologie alle Bedürfnisse?
+  [[X]] Eine Technologie wird unter Einbeziehung der relevanten, moralischen Werte der Stakeholder analysiert. Werden Werte von der Technologie untergraben?
+  [[ ]] Durch die relevanten, moralischen Werte der Stakeholder wird eine Technologie analysiert. Werden alle Werte gestärkt?
 
 
 ### 02-03 Technologie analysieren
