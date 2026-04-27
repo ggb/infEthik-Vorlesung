@@ -225,6 +225,14 @@ Sollte ich meine Benutzerdaten an die Hersteller des Programms weitergeben?
 
 In dieser Vorlesung soll ein präziseres Bild davon vermittelt werden, was Ethik *in der* Informatik ausmacht und wie wir grundsätzlich methodisch vorgehen, um als Informatiker:innen zu ethischen Einschätzungen zu gelangen. 
 
+**Lernziele** des Abschnitts *02 Ethik*:
+
+* Sie können die Art der Ethik dieser Veranstaltung im Verhältnis zur Ethik allgemein und zum Begriff der angewandten Ethik einordnen. 
+* Sie können den Begriff des Artefakts definieren und seine Schwierigkeiten in der Anwendung auf die Informatik darstellen. 
+* Sie kennen den Unterschied zwischen direkten und indirekten Stakeholdern. 
+* Sie können die *disclosive ethics* auf eine gegebene Technologie oder Fallstudie anwenden.
+* Sie kennen die Werte nach Brey (2000) und können sie auf die Diskussion von Artefakten anwenden.
+
 ### Vorbereitungsaufgabe
 
 Wenden Sie die ersten drei Schritte (*disclosure level*) der Methode zum Analysieren von Technologie auf einen Alltagsgegenstand oder -software an. Nehmen Sie sich etwas Einfaches vor, dass Sie jeden Tag verwenden und bei dem der ethische Gehalt nicht auf den ersten Blick klar ist. 
@@ -328,6 +336,156 @@ Quiz folgt in Kürze...
 * Preston, Beth. 2022. “Artifact.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta and Uri Nodelman, Winter 2022. Metaphysics Research Lab, Stanford University.
 * Winner, Langdon. 1980. “Do Artifacts Have Politics?”. Daedalus 109 (1): 121–36.
 
+## 03 Argumentation
+
+Mit dem Thema *Argumentation* führt die dritte Vorlesung die Beschäftigung mit ethischen Grundlagen fort. Argumentieren ist in der Ethik sehr wichtig und wird uns das gesamte Semester begleiten. Durch richtiges Argumentieren können unterschiedliche Standpunkte erkannt, analysiert und diskutiert werden. Es ermöglicht eine kritische, rationale und reflektierte Auseinandersetzung mit moralischen Problemen und unterschiedlichen Perspektiven. 
+
+![Argumentation](img/argumentation.jpg "Bildquelle: von Mohamed_hassan über pixabay, https://pixabay.com/de/vectors/streiten-konflikt-debatte-7218071/")
+
+Im ersten Abschnitt wird die Frage erläutert, *warum* Argumentation wichtig ist und was eine konstruktive Argumentationshaltung ausmacht. Anschließend werden im zweiten Abschnitt einige Grundbegriffe und -methoden eingeführt, insbesondere das Toulmin-Schema zur Strukturierung von Argumenten. Dieses wird dann in den Abschnitten drei und vier zur Anwendung gebracht, die sich mit der Formulierung und dem Verstehen von schriftlichen Argumenten beschäftigen. 
+
+**Lernziele** des Abschnitts *03 Argumentation*:
+
+* Sie haben ein grundlegendes Verständnis erlangt, wie ethische Texte zu lesen sind und können die grobe Vorgehensweise beschreiben.
+* Sie wissen, was eine *These*, ein *Argument* und ein *Beleg* ist und wie diese sich unterscheiden.
+* Sie können die wesentlichen Merkmale von *Fakten- und Normenaussagen* nennen und den Unterschied erklären.
+* Sie können das Toulmin-Schema anwenden, um gegebene Argumente zur analysieren oder um selbst eigene Argumente zu formulieren.
+* Sie können erläutern, warum Argumentation in der Ethik so einen hohen Stellenwert hat, dass dem Thema eine eigene Vorlesung gewidmet ist. 
+
+### Vorbereitungsaufgabe
+
+In dieser Woche beschäftigen wir uns mit dem Lesen und Verfassen von Argumentationen, einem Thema, dass uns die gesamte Veranstaltung über beschäftigen wird. Gut zu argumentieren ist zudem Voraussetzung für das Bestehen der Prüfungsleistung.
+
+Lesen Sie dazu bitte den folgenden Text: [Moshe Y. Vardi: I Was Wrong about the Ethics Crisis](https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/)
+
+Beantworten Sie außerdem die beiden Fragen:
+
+1. Welche Argumente benennt der Text, um seine Position zu belegen? Versuchen Sie, die Argumente in eigenen Worten, in Stichpunkten oder als Fließtext aufzuschreiben.
+2. Wie haben Sie den Text gelesen, um sich dessen Sinn (argumentative Struktur etc.) zu erschließen? Verfassen Sie eine kurze Beschreibung Ihres Vorgehens.
+
+**Bonus**: 
+
+* Lesen Sie die Kommentare: Welche Argumente finden Sie überzeugend? Wie würden Sie selbst den Text kommentieren?
+* Moshe Vardi antwortet in dem Text auf einen früheren Text von sich selbst, [Moshe Y. Vardi: Are We Having An Ethics Crisis in Computing?](https://dl.acm.org/doi/10.1145/3292822). Lesen Sie auch diesen Text.
+
+### 03-01 Warum argumentieren?
+
+<iframe title="03-01 Warum argumentieren?" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/bc304ba080a2466dafef68519a3715881d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/bc304ba080a2466dafef68519a3715881d)
+
+[Folien: Warum argumentieren?](https://cloud.rz.uni-kiel.de/index.php/s/MB9s3mqSa3k8B2j)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+Quiz folgt in Kürze...
+
+### 03-02 Strukturiertes denken
+
+<iframe title="03-02 Strukturiertes denken" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/088bc05bde274eefa89a8681ea1d90ac1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/088bc05bde274eefa89a8681ea1d90ac1d)
+
+[Folien: Strukturiertes denken](https://cloud.rz.uni-kiel.de/index.php/s/jAjjZAzrJDCSd7t)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+Welche Aussagen zu Fakten- und Normenaussagen sind korrekt?
+
+  [[X]] Faktenaussagen sind beschreibend.
+  [[ ]] Faktenaussagen bringen eine Norm zum Ausdruck.
+  [[ ]] Faktenaussagen lassen sich nicht auf "Wahr" oder "Falsch" überprüfen.
+  [[X]] Faktenaussagen lassen sich überprüfen.
+  [[ ]] Faktenaussagen beinhalten Forderungen.
+  [[X]] Faktenaussagen richten sich auf eine Tatsache.
+  [[ ]] Normenaussagen richten sich auf eine Tatsache.
+  [[X]] Normenaussagen beinhalten Forderungen.
+  [[X]] Normenaussagen bringen eine Norm zum Ausdruck.
+  [[ ]] Normenaussagen sind beschreibend.
+  [[X]] Normenaussagen lassen sich nicht auf "Wahr" oder "Falsch" überprüfen.
+  [[ ]] Normenaussagen lassen sich überprüfen.
+
+Liegt in den folgenden Fällen ein naturalistischer Fehlschluss vor?
+
+Das Klonen von Tieren ist technisch möglich. Die Natur klont alle Tage. Das heißt das Klonen von Tieren ist moralisch in Ordnung.
+
+  [(X)] Ja
+  [( )] Nein
+
+Wir wollen die Zahl der Verkehrsunfälle verringern. Durch ein Verbot von Handys ohne Freisprecheinrichtung geht die Anzahl der Unfälle um x % zurück. Also sollte man ein Verbot von Handys ohne Freisprecheinrichtung beim Fahren einführen.
+
+  [( )] Ja
+  [(X)] Nein
+
+### 03-03 Argumente und Argumentationen formulieren
+
+**Dieses Video wird in Kürze zur Verfügung gestellt**
+
+
+[Videolink]()
+
+[Folien: Argumente und Argumentationen formulieren](https://cloud.rz.uni-kiel.de/index.php/s/gT9cnk4bbajW9iJ)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+Welche der folgenden Vorteile bietet das Rogerian Argument gegenüber anderen Argumentationsstrukturen?
+
+  [[X]] Es hilft die eigene Position zu reflektieren.
+  [[ ]] Es ist leichter die Gegenseite immer wieder falsch dazustellen.
+  [[X]] Konsensorientierung hilft verschiedene Positionen anzunähern.
+  [[ ]] Es ist besonders geeignet für kürzere Meinungsbeiträge.
+  [[X]] Es erleichtert das Einnehmen der Gegenposition durch vorherige Annäherung.
+
+### 03-04 Ethische Texte lesen und verstehen
+
+**Dieses Video wird in Kürze zur Verfügung gestellt**
+
+
+[Videolink]()
+
+[Folien: Ethische Texte lesen und verstehen]()
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+Welche der folgenden Fragen sind für den ersten Zugang zu einem Text relevant?
+
+  [[X]] Wer ist der Autor des Textes?
+  [[X]] Bezieht sich der Text auf Aktuelles oder Vergangenes?
+  [[X]] In welchem Land wurde der Text veröffentlicht?
+  [[ ]] Wie fühle ich mich beim Lesen des Textes?
+  [[X]] Welches Fazit kann man aus dem Text ziehen?
+  [[ ]] Wie lang ist der Text?
+  [[ ]] Welche Wörter nutzt der Autor besonders häufig?
+  [[X]] Wann ist der Text erschienen?
+  [[X]] Was ist das (Haupt-)Thema des Textes?
+
+### Quellen und vertiefende Literatur
+
+* Groff, Jennifer. 2018. “Reengineering Education: Systems Engineering and the LearningGraph as a Means to Develop a Coherent Learning Data Architecture.” PhD thesis.
+* Haber, Jonathan. 2020. Critical Thinking. 1st ed. The MIT Press Essential Knowledge Series. Bielefeld: MIT Press.
+* Kruse, Otto. 2017. Kritisches Denken Und Argumentieren: Eine Einführung Für Studierende. Studieren, Aber Richtig. Konstanz: UVK Verlagsgesellschaft.
+* Midgley, Mary. 2001. Wickedness: A Philosophical Essay. Routledge Classics. London: Routledge.
+* Pfeifer, V. 2009. Ethisch Argumentieren: Eine Anleitung Anhand von Aktuellen Fallanalysen. Ethisch Argumentieren / Eine Anleitung Anhand von Aktuellen Fallanalysen. Schöningh.
+* Raji, Inioluwa Deborah, Timnit Gebru, Margaret Mitchell, Joy Buolamwini, Joonseok Lee, and Emily Denton. 2020. “Saving Face: Investigating the Ethical Concerns of Facial Recognition Auditing.” In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 145–51. AIES ’20. New York, NY, USA: Association for Computing Machinery. https://doi.org/10.1145/3375627.3375820.
+* Regenbogen, Arnim, and Uwe Meyer, eds. 2013. Wörterbuch Der Philosophischen Begriffe. Philosophische Bibliothek. Felix Meiner Verlag.
+* Strawson, P. F. 1961. “Social Morality and Individual Ideal.” Philosophy 36 (136): 1–17. https://doi.org/10.1017/s003181910005779x.
+* Tetens, Holm. 2022. Philosophisches Argumentieren: Eine Einführung. Originalausgabe, 5., unveränderte Auflage. C.h. Beck Paperback 1607. München: C.H. Beck.
 
 ## Anhang
 
@@ -338,6 +496,11 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Begriff                          | Kapitel                                                                     |
 |----------------------------------|-----------------------------------------------------------------------------|
 | Artefakt                         | 02-02                                                                       |
+| Aussagen                         | 03-02                                                                       |
+| – Faktenaussage                  | 03-02                                                                       |
+| – Normenaussage                  | 03-02                                                                       |
+| Begriffe                         | 03-04                                                                       |
+| *critical thinking*              | 03-01, 03-02                                                                |
 | Ethik                            | 01-03, 02-01                                                                |
 | – Angewandte Ethik               | 02-01                                                                       |
 | – Bereichsethik                  | 02-01                                                                       |
@@ -348,14 +511,21 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | large language models (LLMs)     | 02-02                                                                       |
 | Meta-Ethik                       | 01-03                                                                       |
 | Moral                            | 01-03                                                                       |
+| Naturalistischer Fehlschluss     | 03-02                                                                       |
+| Paragraphing                     | 03-03                                                                       |
+| *principle of charity*           | 03-01                                                                       |
 | Stakeholder                      | 02-02                                                                       |
 | – direkte/indirekte Stakeholder  | 02-02                                                                       |
 | – Stakeholderanalyse             | 02-03                                                                       |
-| Strukturwissenschaft             | 01-02                                                                       |
+| Syllogismus                      | 03-02                                                                       |
+| – praktischer Syllogismus        | 03-02                                                                       |
+| Toulmin-Schema                   | 03-02                                                                       |
+| Wahrheit(en)                     | 03-01                                                                       |
 | Werte                            | 02-02                                                                       |
 | – eingebettete Werte             | 02-02                                                                       |
 | – value sensitive design         | 02-03                                                                       |
 | – Werteanalyse                   | 02-03                                                                       |
 | Wissenschaft                     | 01-02                                                                       |
+| – Strukturwissenschaft           | 01-02                                                                       |
 |                                  |                                                                             |
 
