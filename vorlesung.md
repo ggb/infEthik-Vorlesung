@@ -225,6 +225,8 @@ Sollte ich meine Benutzerdaten an die Hersteller des Programms weitergeben?
 
 In dieser Vorlesung soll ein präziseres Bild davon vermittelt werden, was Ethik *in der* Informatik ausmacht und wie wir grundsätzlich methodisch vorgehen, um als Informatiker:innen zu ethischen Einschätzungen zu gelangen. 
 
+![Eine Brücke außerhalb von New York](img/02-02_Long_Pond_Road_overpass.jpg "Bildquelle: Andre Carrotflower, lizensiert als CC-BY SA 4.0")
+
 **Lernziele** des Abschnitts *02 Ethik*:
 
 * Sie können die Art der Ethik dieser Veranstaltung im Verhältnis zur Ethik allgemein und zum Begriff der angewandten Ethik einordnen. 
