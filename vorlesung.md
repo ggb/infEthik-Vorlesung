@@ -384,7 +384,12 @@ Beantworten Sie außerdem die beiden Fragen:
                            {{1}}
 **Quiz**
 
-Quiz folgt in Kürze...
+Wir argumentieren um...
+
+  [[X]] meinen Standpunkt zu erklären
+  [[ ]] recht zu haben 
+  [[X]] den Weg zu ethischen Schlüssen zu erläutern 
+  [[ ]] Pluralität aus dem Weg zu gehen 
 
 ### 03-02 Strukturiertes denken
 
@@ -415,7 +420,7 @@ Welche Aussagen zu Fakten- und Normenaussagen sind korrekt?
   [[X]] Normenaussagen lassen sich nicht auf "Wahr" oder "Falsch" überprüfen.
   [[ ]] Normenaussagen lassen sich überprüfen.
 
-Liegt in den folgenden Fällen ein naturalistischer Fehlschluss vor?
+**Liegt in den folgenden Fällen ein naturalistischer Fehlschluss vor?**
 
 Das Klonen von Tieren ist technisch möglich. Die Natur klont alle Tage. Das heißt das Klonen von Tieren ist moralisch in Ordnung.
 
@@ -427,12 +432,39 @@ Wir wollen die Zahl der Verkehrsunfälle verringern. Durch ein Verbot von Handys
   [( )] Ja
   [(X)] Nein
 
+---
+
+Was macht das Toulmin-Schema aus?
+
+  [[ ]] Ein Claim braucht einen Modaloperator 
+  [[X]] Die Verbindung zwischen Claim und Grounds wird mit einem Warrent gesichert 
+  [[X]] Modaloperatoren ermöglichen eine differenziertere Betrachtung 
+  [[ ]] Alle Warrents brauchen mindestens zwei Backings 
+
+Syllogismen - was stimmt?
+
+  [[X]] aus einer normativen und einer deskriptiven Prämisse wird ein normativer Schluss gezogen 
+  [[ ]] aus einer normativen und einer deskriptiven Prämisse wird ein deskriptiver Schluss gezogen 
+  [[ ]] zwischen Seins- und Sollensaussagen gibt es keine analytische Beziehung 
+  [[X]] nur auf der Sollen-Ebene gibt es wahr oder falsch 
+
+---
+
+**Normative Aussage oder deskriptive Aussage?**
+
+"Studierende sollten ihre Vorbereitungsaufgaben machen."
+
+  [[normativ]]
+
+"Die Vorbereitungsaufgabe hilft beim Verstehen der Vorlesung."
+
+  [[deskriptiv]]
+
 ### 03-03 Argumente und Argumentationen formulieren
 
-**Dieses Video wird in Kürze zur Verfügung gestellt**
+<iframe title="03-03 Argumente und Argumentationen formulieren" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/fcd64136840a409eacd3009f648254f71d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-
-[Videolink]()
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/fcd64136840a409eacd3009f648254f71d)
 
 [Folien: Argumente und Argumentationen formulieren](https://cloud.rz.uni-kiel.de/index.php/s/gT9cnk4bbajW9iJ)
 
@@ -452,12 +484,11 @@ Welche der folgenden Vorteile bietet das Rogerian Argument gegenüber anderen Ar
 
 ### 03-04 Ethische Texte lesen und verstehen
 
-**Dieses Video wird in Kürze zur Verfügung gestellt**
+<iframe title="03-04 Ethische Texte lesen und verstehen" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/b1b3c31ffc864280a46b04fbf9dbf0811d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/b1b3c31ffc864280a46b04fbf9dbf0811d)
 
-[Videolink]()
-
-[Folien: Ethische Texte lesen und verstehen]()
+[Folien: Ethische Texte lesen und verstehen](https://cloud.rz.uni-kiel.de/index.php/s/36aF6opzj3B48XS)
 
 ---
 
@@ -486,6 +517,7 @@ Welche der folgenden Fragen sind für den ersten Zugang zu einem Text relevant?
 * Pfeifer, V. 2009. Ethisch Argumentieren: Eine Anleitung Anhand von Aktuellen Fallanalysen. Ethisch Argumentieren / Eine Anleitung Anhand von Aktuellen Fallanalysen. Schöningh.
 * Raji, Inioluwa Deborah, Timnit Gebru, Margaret Mitchell, Joy Buolamwini, Joonseok Lee, and Emily Denton. 2020. “Saving Face: Investigating the Ethical Concerns of Facial Recognition Auditing.” In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 145–51. AIES ’20. New York, NY, USA: Association for Computing Machinery. https://doi.org/10.1145/3375627.3375820.
 * Regenbogen, Arnim, and Uwe Meyer, eds. 2013. Wörterbuch Der Philosophischen Begriffe. Philosophische Bibliothek. Felix Meiner Verlag.
+* Rosenberg, Jay F. 2020. Philosophieren: Ein Handbuch Für Anfänger. 25. - 27. Tausend. Klostermann RoteReihe. Frankfurt am Main: Vittorio Klostermann.
 * Strawson, P. F. 1961. “Social Morality and Individual Ideal.” Philosophy 36 (136): 1–17. https://doi.org/10.1017/s003181910005779x.
 * Tetens, Holm. 2022. Philosophisches Argumentieren: Eine Einführung. Originalausgabe, 5., unveränderte Auflage. C.h. Beck Paperback 1607. München: C.H. Beck.
 
