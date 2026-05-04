@@ -521,6 +521,171 @@ Welche der folgenden Fragen sind für den ersten Zugang zu einem Text relevant?
 * Strawson, P. F. 1961. “Social Morality and Individual Ideal.” Philosophy 36 (136): 1–17. https://doi.org/10.1017/s003181910005779x.
 * Tetens, Holm. 2022. Philosophisches Argumentieren: Eine Einführung. Originalausgabe, 5., unveränderte Auflage. C.h. Beck Paperback 1607. München: C.H. Beck.
 
+## 04 Ethische Theorien
+
+![Wortwolke mit Begriffen aus dem Kapitel 3](img/Wortwolke.jpg "Bildquelle: www.wortwolken.com")
+
+**Lernziele** des Abschnitts *04 Ethische Theorien*:
+
+* 
+
+### Vorbereitungsaufgabe
+
+[CSV-Datei mit Daten](https://cloud.rz.uni-kiel.de/index.php/s/pX66t2ArMLJqnAt)
+
+**Achtung:** Sollten Sie bisher wenig Programmiererfahrung haben, konzentrieren Sie sich bitte auf Aufgabe 2 und 4. Aufgabe 1 und 3 (die eigentliche Implementierung) sind als optionale Aufgabenteile zu verstehen.
+
+> Willkommen zu Ihrem ersten Arbeitstag beim neuen, wegweisenden Unternehmen für selbstfahrende Autos: Messla. Weil wir bei Messla die Vorreiter in Sachen selbstfahrender Autos sind, müssen wir schneller Innovationen gestalten als alle anderen da draußen. Um unsere Autos bis Ende des Jahres auf die Straße zu bringen, müssen wir den besten Algorithmus finden, um ein Problem zu lösen, das allen unseren "selbstfahrenden" Konkurrenten im Weg steht: Das Trolley-Problem, also die Frage nach der Abwägung zwischen Menschenleben im Fall eines unvermeidlichen Unfalls.
+
+Ihre erste Aufgabe ist es, einen Algorithmus zu entwickeln, der festlegt, wie sich unsere selbstfahrenden Autos im Falle eines unvermeidlichen Zusammenstoßes verhalten sollen. Wir nennen unseren Algorithmus die *Moral Machine*.
+
+Dies wird in 3 Schritten geschehen:
+
+1. Verwenden Sie die Daten, die wir von früheren unvermeidbaren Zusammenstößen haben, um Ihr Modell zu erstellen.
+2. Legen Sie die Kriterien fest, nach denen unsere Autos entscheiden sollen, wer getötet und wer gerettet werden soll.
+3. Testen Sie Ihr Modell an unseren Daten und sehen Sie, wie gut es funktioniert!
+
+Das sollte doch einfach sein, … oder?
+
+**Teil 1**
+
+Die mitgelieferte CSV-Datei repräsentiert alle Personen, die an einer unvermeidlichen Kollision mit einem unserer autonomen Fahrzeuge beteiligt waren. Sie können diese Datei folgendermaßen interpretieren:
+
+Gerade Zeilen stehen für die demografischen Daten von Fußgäng:innen, der zum Zeitpunkt des Zusammenstoßes gerade die Straße überquert haben. Jede ungerade Zeile steht für die demografischen Daten der Fahrer:innen. Das bedeutet, dass alle zwei Zeilen dieser CSV-Datei einen Unfall darstellen. Bei einigen dieser Unfälle trugen Fahrer:innen die Schuld, bei anderen  Fußgänger:innen: Dies wird in der 5. Spalte eines jeden Eintrags angegeben.
+
+Die Daten sind wie folgt formatiert:
+
+RowNumber, Age, Gender, Country, Fault
+
+* Wobei *RowNumber* die Nummer der Zeile ist; gerade Zahlen sind Fußgänger:innen, ungerade Zahlen  Fahrer:innen
+* *Age* ist das Alter
+* *Gender* ist das Geschlecht
+* *Country* ist das Herkunftsland von Fahrer:innen und Fußgänger:innen
+* *Fault* gibt an, wer den Zusammenstoß verschuldet hat
+
+Lesen Sie die Daten mit einer Programmiersprache Ihrer Wahl ein (die Musterlösung wird in Python ausgegeben). Achten Sie darauf, dass die Daten mit korrekten Typen repräsentiert werden (bspw. *Age* als Ganzzahl).
+
+**Teil 2**
+
+Nehmen Sie sich ein paar Minuten Zeit, um darüber nachzudenken, nach welchen Kriterien Sie entscheiden würden, welche der beiden Personen bei jedem Unfall gerettet und welche getötet werden sollte. Schreiben Sie Ihre Gedanken und Kriterien in Stichworten auf. Sie sollten mindestens 4 Kriterien auswählen, die für die Ihnen zur Verfügung stehenden Daten relevant sind. Überlegen Sie, was Ihre Grenzfälle sind, wie würde Ihr Entscheidungsbaum aussehen?
+
+**Teil 3**
+
+Nun, da Sie die Kriterien für Ihren Algorithmus für das Trolley-Problem kennen, ist es an der Zeit, ihn zu programmieren! Erstellen Sie eine Funktion mit zwei Parametern: *pedestrian* und *driver* - die beiden Personen, die an einer bestimmten unvermeidbaren Kollision mit einem selbstfahrenden Auto beteiligt sind. Sowohl *pedestrian*, wie auch *driver* sind jeweils eine Liste mit *Age*, *Gender*, *Country* und *Fault*.
+
+Ihre Funktion soll (basierend auf Ihren Kriterien) als String zurückgeben, wen das Auto retten soll.
+
+Verwenden Sie die Funktion, um Entscheidungen für alle historischen Daten (aus der CSV-Datei) zu treffen.
+
+**Teil 4**
+
+Nachdem Sie nun Ihren eigenen Algorithmus für eine "moralische Maschine" geschrieben haben, nehmen Sie sich einen Moment Zeit, um über den Prozess nachzudenken.
+
+Wie haben Sie sich gefühlt, als Sie die Verantwortung für die Designentscheidungen und die Kriterien zur Auswahl der zu rettenden Personen hatten? Was, glauben Sie, hätten Sie anders oder besser machen können? Was hätten Sie getan, wenn Sie in einem echten Unternehmen für selbstfahrende Autos arbeiten und mit der Entwicklung dieses Algorithmus beauftragt worden wären?
+
+(In Anlehnung an: https://drive.google.com/drive/folders/1EKQNVeSCz8AWNmb2zQ65apfPUKhhG9Sq)
+
+### 04-01 Theorien
+
+Die folgenden drei Videos auf dieser Seite geben Ihnen einen Überblick darüber, wie die wichtigsten ethischen Theorien Deontologie, Konsequentialismus (bzw. Utilitarismus) und Tugendethik Handlungen rechtfertigen. Machen Sie sich über die Videos mit den entsprechenden Handlungsregeln vertraut und lesen Sie gerne den zugehörigen *Ethics Explainer* (jeweils unter den Videos verlinkt), falls nach dem Schauen der Videos Fragen offen geblieben sind.
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WoHJhwh4mVQ?si=UKWNYR-KTRF3oPec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Ethics Explainer: Deontology](https://ethics.org.au/ethics-explainer-deontology/)
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xJqO4nhmZWc?si=Xgwq7VZ7GyFwQ8Gv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Ethics Explainer: Consequentialism](https://ethics.org.au/ethics-explainer-consequentialism/)
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qs9QiczZvdU?si=CiH1Es8xdX_07Mxn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Ethics Explainer: Virtue Ethics](https://ethics.org.au/ethics-explainer-virtue-ethics/)
+
+---
+
+                           {{1}}
+**Quiz**
+
+Welche Argumentationslinie kann mit der Phrase "fake it, until you make it" beschrieben werden?
+
+  [( )] Utilitarismus
+  [(X)] Tugendethik
+  [( )] Deontologie
+
+Wie wird beim Utilitarismus eine moralisch wertvolle Handlung bestimmt?
+
+  [[X]] Es wird der moralische Wert einer Handlung allein anhand der zu erwartenden Konsequenzen bzw. Handlungsfolgen bewertet.
+  [[ ]] Es wird der moralische Wert einer Handlung anhand des Prinzips oder der Regel, der beim Handeln gefolgt wird, bewertet.
+  [[ ]] Moralisch gutes Handeln gelingt durch die eigene Charakterausbildung und durch Einübung in bzw. die Habitualisierung von guten Verhaltensweisen.
+  [[ ]] Moralisch gutes Handeln entsteht, in dem Personen des Urzustands sich für das beste der schlechtestmöglichen Resultate entscheiden.
+
+Wie wird bei der Deontologie eine moralisch wertvolle Handlung bestimmt?
+
+  [[ ]] Es wird der moralische Wert einer Handlung allein anhand der zu erwartenden Konsequenzen bzw. Handlungsfolgen bewertet.
+  [[X]] Es wird der moralische Wert einer Handlung anhand des Prinzips oder der Regel, der beim Handeln gefolgt wird, bewertet.
+  [[ ]] Moralisch gutes Handeln gelingt durch die eigene Charakterausbildung und durch Einübung in bzw. die Habitualisierung von guten Verhaltensweisen.
+  [[ ]] Moralisch gutes Handeln entsteht, in dem Personen des Urzustands sich für das beste der schlechtestmöglichen Resultate entscheiden.
+
+Wie wird bei der Tugendethik eine moralisch wertvolle Handlung bestimmt?
+
+  [[ ]] Es wird der moralische Wert einer Handlung allein anhand der zu erwartenden Konsequenzen bzw. Handlungsfolgen bewertet.
+  [[ ]] Es wird der moralische Wert einer Handlung anhand des Prinzips oder der Regel, der beim Handeln gefolgt wird, bewertet.
+  [[X]] Moralisch gutes Handeln gelingt durch die eigene Charakterausbildung und durch Einübung in bzw. die Habitualisierung von guten Verhaltensweisen.
+  [[ ]] Moralisch gutes Handeln entsteht, in dem Personen des Urzustands sich für das beste der schlechtestmöglichen Resultate entscheiden.
+
+Welcher Argumentationslinie folgen die Akteure in den folgenden Beispielen?
+
+In den Marvelfilmen will Thanos die Hälfte der gesamten Population auslöschen. Er begründet das damit, dass durch die Ressourcenknappheit sonst früher oder später der ganze Planet zugrunde geht.
+
+  [(X)] Utilitarismus
+  [( )] Tugendethik
+  [( )] Deontologie
+
+In dem Film "Bridge of Spies" vertritt James Donovan als Strafverteidiger Abel, einen russischen Spion, weil auch dieser ein verfassungsmäßiges Recht auf einen Anwalt hat.
+
+  [( )] Utilitarismus
+  [( )] Tugendethik
+  [(X)] Deontologie
+
+### 04-02 Kritik
+
+**Video folgt in Kürze...**
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+**Folgt in Kürze...**
+
+
+### 04-03 Disklosive Handlungsbewertung
+
+**Video folgt in Kürze...**
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+**Folgt in Kürze...**
+
+### Quellen und vertiefende Literatur
+
+* Brey, Philip. 2000. “Disclosive Computer Ethics.” ACM SIGCAS Computers and Society 30 (4): 10–16. https://doi.org/10.1145/572260.572264.
+* ———. 2010. “Values in Technology and Disclosive Computer Ethics.” In: The Cambridge Handbook of Information and Computer Ethics, edited by Luciano Floridi, 41–58. Cambridge University Press.
+* Kohlberg, Lawrence. 2020. Die Psychologie Der Moralentwicklung. Edited by Wolfgang Althof, Gil G. Noam, and Fritz Oser. 9. Auflage. Beiträge Zur Soziogenese Der Handlungsfähigkeit. Frankfurt am Main: Suhrkamp.
+* Midgley, Mary. 1983. “Duties Concerning Islands.” In: Environmental Philosophy: A Collection of Readings. Edited by Robert Elliot. St. Lucia, Queensland [u.a.]: Univ. of Queensland Press.
+
+
 ## Anhang
 
 ### Index
@@ -533,27 +698,40 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Aussagen                         | 03-02                                                                       |
 | – Faktenaussage                  | 03-02                                                                       |
 | – Normenaussage                  | 03-02                                                                       |
-| Begriffe                         | 03-04                                                                       |
+| Begriff(e)                       | 03-04                                                                       |
 | *critical thinking*              | 03-01, 03-02                                                                |
+| Demokratiedefizit                | 04-02                                                                       |
+| Deontologie                      | 04-01                                                                       |
+| Dilemma                          | 04-02                                                                       |
+| – Heinz-Dilemma                  | 04-03                                                                       |
+| – Trolley-Dilemma                | 04-02                                                                       |
 | Ethik                            | 01-03, 02-01                                                                |
 | – Angewandte Ethik               | 02-01                                                                       |
 | – Bereichsethik                  | 02-01                                                                       |
 | – Disclosive ethics              | 02-02                                                                       |
 | – Micro and macro ethics         | 02-01                                                                       |
+| – Theorien                       | 04-01                                                                       |
 | Fallstudien                      | 02-03                                                                       |
+| Gedankenexperiment               | 04-02                                                                       |
+| Handlungsbegründung              | 04-03                                                                       |
 | Informatik                       | 01-02                                                                       |
+| Konsequentialismus               | 04-01                                                                       |
 | large language models (LLMs)     | 02-02                                                                       |
 | Meta-Ethik                       | 01-03                                                                       |
 | Moral                            | 01-03                                                                       |
 | Naturalistischer Fehlschluss     | 03-02                                                                       |
 | Paragraphing                     | 03-03                                                                       |
+| Pflichtethik                     | s. Deontologie                                                              |
 | *principle of charity*           | 03-01                                                                       |
+| *reasonable rejection test*      | 04-03                                                                       |
 | Stakeholder                      | 02-02                                                                       |
 | – direkte/indirekte Stakeholder  | 02-02                                                                       |
 | – Stakeholderanalyse             | 02-03                                                                       |
 | Syllogismus                      | 03-02                                                                       |
 | – praktischer Syllogismus        | 03-02                                                                       |
 | Toulmin-Schema                   | 03-02                                                                       |
+| Tugendethik (Virtue ethics)      | 04-01                                                                       |
+| Utilitarismus                    | 04-01                                                                       |
 | Wahrheit(en)                     | 03-01                                                                       |
 | Werte                            | 02-02                                                                       |
 | – eingebettete Werte             | 02-02                                                                       |
