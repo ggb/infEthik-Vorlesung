@@ -533,8 +533,6 @@ Welche der folgenden Fragen sind für den ersten Zugang zu einem Text relevant?
 
 [CSV-Datei mit Daten](https://cloud.rz.uni-kiel.de/index.php/s/pX66t2ArMLJqnAt)
 
-**Achtung:** Sollten Sie bisher wenig Programmiererfahrung haben, konzentrieren Sie sich bitte auf Aufgabe 2 und 4. Aufgabe 1 und 3 (die eigentliche Implementierung) sind als optionale Aufgabenteile zu verstehen.
-
 > Willkommen zu Ihrem ersten Arbeitstag beim neuen, wegweisenden Unternehmen für selbstfahrende Autos: Messla. Weil wir bei Messla die Vorreiter in Sachen selbstfahrender Autos sind, müssen wir schneller Innovationen gestalten als alle anderen da draußen. Um unsere Autos bis Ende des Jahres auf die Straße zu bringen, müssen wir den besten Algorithmus finden, um ein Problem zu lösen, das allen unseren "selbstfahrenden" Konkurrenten im Weg steht: Das Trolley-Problem, also die Frage nach der Abwägung zwischen Menschenleben im Fall eines unvermeidlichen Unfalls.
 
 Ihre erste Aufgabe ist es, einen Algorithmus zu entwickeln, der festlegt, wie sich unsere selbstfahrenden Autos im Falle eines unvermeidlichen Zusammenstoßes verhalten sollen. Wir nennen unseren Algorithmus die *Moral Machine*.
@@ -547,43 +545,9 @@ Dies wird in 3 Schritten geschehen:
 
 Das sollte doch einfach sein, … oder?
 
-**Teil 1**
+**Aufgabe:** Entwickeln Sie ein (oder mehrere) Argument(e), um ihren fiktiven Vorgesetzten bei Messla zu verdeutlichen, warum die *Moral Machine* in ethischer Hinsicht keine gute Idee ist. Verwenden Sie für die Darstellung ihres Arguments (oder Argumente) das Toulmin-Schema. 
 
-Die mitgelieferte CSV-Datei repräsentiert alle Personen, die an einer unvermeidlichen Kollision mit einem unserer autonomen Fahrzeuge beteiligt waren. Sie können diese Datei folgendermaßen interpretieren:
-
-Gerade Zeilen stehen für die demografischen Daten von Fußgäng:innen, der zum Zeitpunkt des Zusammenstoßes gerade die Straße überquert haben. Jede ungerade Zeile steht für die demografischen Daten der Fahrer:innen. Das bedeutet, dass alle zwei Zeilen dieser CSV-Datei einen Unfall darstellen. Bei einigen dieser Unfälle trugen Fahrer:innen die Schuld, bei anderen  Fußgänger:innen: Dies wird in der 5. Spalte eines jeden Eintrags angegeben.
-
-Die Daten sind wie folgt formatiert:
-
-RowNumber, Age, Gender, Country, Fault
-
-* Wobei *RowNumber* die Nummer der Zeile ist; gerade Zahlen sind Fußgänger:innen, ungerade Zahlen  Fahrer:innen
-* *Age* ist das Alter
-* *Gender* ist das Geschlecht
-* *Country* ist das Herkunftsland von Fahrer:innen und Fußgänger:innen
-* *Fault* gibt an, wer den Zusammenstoß verschuldet hat
-
-Lesen Sie die Daten mit einer Programmiersprache Ihrer Wahl ein (die Musterlösung wird in Python ausgegeben). Achten Sie darauf, dass die Daten mit korrekten Typen repräsentiert werden (bspw. *Age* als Ganzzahl).
-
-**Teil 2**
-
-Nehmen Sie sich ein paar Minuten Zeit, um darüber nachzudenken, nach welchen Kriterien Sie entscheiden würden, welche der beiden Personen bei jedem Unfall gerettet und welche getötet werden sollte. Schreiben Sie Ihre Gedanken und Kriterien in Stichworten auf. Sie sollten mindestens 4 Kriterien auswählen, die für die Ihnen zur Verfügung stehenden Daten relevant sind. Überlegen Sie, was Ihre Grenzfälle sind, wie würde Ihr Entscheidungsbaum aussehen?
-
-**Teil 3**
-
-Nun, da Sie die Kriterien für Ihren Algorithmus für das Trolley-Problem kennen, ist es an der Zeit, ihn zu programmieren! Erstellen Sie eine Funktion mit zwei Parametern: *pedestrian* und *driver* - die beiden Personen, die an einer bestimmten unvermeidbaren Kollision mit einem selbstfahrenden Auto beteiligt sind. Sowohl *pedestrian*, wie auch *driver* sind jeweils eine Liste mit *Age*, *Gender*, *Country* und *Fault*.
-
-Ihre Funktion soll (basierend auf Ihren Kriterien) als String zurückgeben, wen das Auto retten soll.
-
-Verwenden Sie die Funktion, um Entscheidungen für alle historischen Daten (aus der CSV-Datei) zu treffen.
-
-**Teil 4**
-
-Nachdem Sie nun Ihren eigenen Algorithmus für eine "moralische Maschine" geschrieben haben, nehmen Sie sich einen Moment Zeit, um über den Prozess nachzudenken.
-
-Wie haben Sie sich gefühlt, als Sie die Verantwortung für die Designentscheidungen und die Kriterien zur Auswahl der zu rettenden Personen hatten? Was, glauben Sie, hätten Sie anders oder besser machen können? Was hätten Sie getan, wenn Sie in einem echten Unternehmen für selbstfahrende Autos arbeiten und mit der Entwicklung dieses Algorithmus beauftragt worden wären?
-
-(In Anlehnung an: https://drive.google.com/drive/folders/1EKQNVeSCz8AWNmb2zQ65apfPUKhhG9Sq)
+*Hinweis:* Wenn Sie die *Moral Machine* für eine gute Idee halten und das mit dem Toulmin-Schema verargumentieren können, ist das selbstverständlich auch möglich. 
 
 ### 04-01 Theorien
 
@@ -655,7 +619,11 @@ In dem Film "Bridge of Spies" vertritt James Donovan als Strafverteidiger Abel, 
 
 ### 04-02 Kritik
 
-**Video folgt in Kürze...**
+<iframe title="04-02 Kritik" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/69e637be6f0d49c695083e06ac4073251d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/69e637be6f0d49c695083e06ac4073251d)
+
+[Folien: Kritik](https://cloud.rz.uni-kiel.de/index.php/s/QxNdM6TcFkP5W5Q)
 
 ---
 
@@ -668,7 +636,11 @@ In dem Film "Bridge of Spies" vertritt James Donovan als Strafverteidiger Abel, 
 
 ### 04-03 Disklosive Handlungsbewertung
 
-**Video folgt in Kürze...**
+<iframe title="04-03 Disklosive Handlungsbewertung" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/a6ba1fa8df874d7899226954409f585f1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/a6ba1fa8df874d7899226954409f585f1d)
+
+[Folien: Disklosive Handlungsbewertung](https://cloud.rz.uni-kiel.de/index.php/s/bfLxaYCo3RTm9Rw)
 
 ---
 
