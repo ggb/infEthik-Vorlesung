@@ -652,11 +652,17 @@ In dem Film "Bridge of Spies" vertritt James Donovan als Strafverteidiger Abel, 
 
 ### Quellen und vertiefende Literatur
 
+* Bertram, G. W., ed. 2016. Philosophische Gedankenexperimente: Ein Lese- Und Studienbuch. Reclam-Taschenbuch. Reclam.
 * Brey, Philip. 2000. “Disclosive Computer Ethics.” ACM SIGCAS Computers and Society 30 (4): 10–16. https://doi.org/10.1145/572260.572264.
 * ———. 2010. “Values in Technology and Disclosive Computer Ethics.” In: The Cambridge Handbook of Information and Computer Ethics, edited by Luciano Floridi, 41–58. Cambridge University Press.
+* Crawford, Kate. 2021. The Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. Yale University Press. http://www.jstor.org/stable/j.ctv1ghv45t.
+* Forst, Rainer. 1999. “The Basic Right to Justification: Towards a Constructivist Conception of Human Rights.” Constellations 6 (1): 35–60. https://doi.org/10.1111/1467-8675.00119.
+* Gambelin, Olivia. 2020. “Brave: What It Means to Be an AI Ethicist.” AI and Ethics 1 (1): 87–91. https://doi.org/10.1007/s43681-020-00020-5.
 * Kohlberg, Lawrence. 2020. Die Psychologie Der Moralentwicklung. Edited by Wolfgang Althof, Gil G. Noam, and Fritz Oser. 9. Auflage. Beiträge Zur Soziogenese Der Handlungsfähigkeit. Frankfurt am Main: Suhrkamp.
 * Midgley, Mary. 1983. “Duties Concerning Islands.” In: Environmental Philosophy: A Collection of Readings. Edited by Robert Elliot. St. Lucia, Queensland [u.a.]: Univ. of Queensland Press.
-
+* Morozov, Evgeny. 2014. To Save Everything, Click Here: The Folly of Technological Solutionism. Paperback 1. publ. New York, NY: PublicAffairs.
+* Raji, Inioluwa Deborah, Morgan Klaus Scheuerman, and Razvan Amironesei. 2021. “You Can’t Sit with Us: Exclusionary Pedagogy in AI Ethics Education.” In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, 515–25. FAccT ’21. New York, NY, USA: Association for Computing Machinery. https://doi.org/10.1145/3442188.3445914.
+* Scanlon, Thomas. 2000. What We Owe to Each Other. First Harvard University Press pbk. edition. Cambridge, Mass: Belknap Press of Harvard University Press.
 
 ## Anhang
 
