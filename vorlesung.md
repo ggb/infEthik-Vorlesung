@@ -664,6 +664,186 @@ In dem Film "Bridge of Spies" vertritt James Donovan als Strafverteidiger Abel, 
 * Raji, Inioluwa Deborah, Morgan Klaus Scheuerman, and Razvan Amironesei. 2021. “You Can’t Sit with Us: Exclusionary Pedagogy in AI Ethics Education.” In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, 515–25. FAccT ’21. New York, NY, USA: Association for Computing Machinery. https://doi.org/10.1145/3442188.3445914.
 * Scanlon, Thomas. 2000. What We Owe to Each Other. First Harvard University Press pbk. edition. Cambridge, Mass: Belknap Press of Harvard University Press.
 
+## 05 Begriffe
+
+![Concept Map Beispiel](img/Conceptmap.png "Bildquelle: ​English Wikipedia user Vicwood40, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons")
+
+**Lernziele** des Abschnitts *04 Begriffe*:
+
+* Sie kennen die definitorischen Merkmale von Begriffen.
+* Sie wissen, was *Ambiguität* bedeutet.
+* Sie kennen den Unterschied zwischen *Mittelkonflikt* und *Zielkonflikt* in der Ethik.
+* Sie können die Begriffe *Wert* und *Interesse* definieren und voneinander abgrenzen.
+* Sie haben die Unterschiede der beiden Konfliktarten *Interessenkonflikt* und *Wertekonflikt* verstanden und können Konflikte zuordnen.
+* Sie können die unterschiedlichen *Wert-Typen* benennen und erklären.
+* Sie haben verstanden, was *Normen* sind und wie diese sich von *Werten* unterscheiden.
+
+### Vorbereitungsaufgabe 
+
+Beschäftigen Sie sich mit ELIZA, in dem Sie die [Wikipedia-Seite](https://de.wikipedia.org/wiki/ELIZA) des Programms lesen und es [selbst ausprobieren](https://sites.google.com/view/elizaarchaeology/try-eliza).
+
+Führen Sie anschließend die ersten Schritte einer disklosiven Analyse durch (s. 02-03), d.h. die Stakeholder- und Werteanalyse. Verwenden Sie für die Werteanalyse vor allem die in Vorlesung 05-03 vorgestellten Werte des *value sensitive design* (s. Tabelle unter dem Vorlesungsvideo). 
+
+### 05-01 Vom Begriff des Begriffs
+
+<iframe title="05-01 Vom Begriff des Begriffs" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/6965444c438c4670b0adeee2920b4ca51d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/6965444c438c4670b0adeee2920b4ca51d)
+
+[Folien: Vom Begriff des Begriffs](https://cloud.rz.uni-kiel.de/index.php/s/dZRj4EJs5WTMjNa)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+Welche Aussagen sind definitorische Merkmale von Begriffen?
+
+  [[ ]] Ein Begriff oder ein Konzept funktioniert immer ohne Bezug zu anderen Konzepten.
+  [[X]] Begriffe sind Bausteine der Gedanken.
+  [[X]] Ein Begriff oder ein Konzept funktioniert nie ohne Bezug zu anderen Konzepten.
+  [[X]] Begriffe können auch als Konzepte bezeichnet werden.
+  [[ ]] Begriffe können nicht als Konzepte bezeichnet werden.
+
+Was bedeutet der Begriff Ambiguität?
+
+  [[ ]] Geschwindigkeit
+  [[ ]] Vielfalt
+  [[ ]] Eindeutigkeit
+  [[ ]] Wahrhaftigkeit
+  [[X]] Mehrdeutigkeit
+  [[ ]] Volumen
+
+Welche der folgenden Eigenschaften muss ein System erfüllen, um (nach Floridi und Sanders) als moralischer Akteur angesehen zu werden?
+
+  [[X]] Interaktivität
+  [[ ]] Versatilität
+  [[X]] Autonomie
+  [[X]] Adaptivität
+  [[ ]] Dualität
+  [[ ]] Dignität
+
+
+### 05-02 Einige wichtige Begriffe
+
+<iframe title="05-02 Einige wichtige Begriffe" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/62ed5c8c7bc844c194b053e2f5da0a2e1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/62ed5c8c7bc844c194b053e2f5da0a2e1d)
+
+[Folien: Einige wichtige Begriffe](https://cloud.rz.uni-kiel.de/index.php/s/8zWDdKRBJc2aGib)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+Welcher der folgenden Teile ist nicht Teil eines Gedankenexperiments?
+
+  [[ ]] Einleitung durch philosophische Fragestellung
+  [[ ]] Kontrafaktisches Szenario
+  [[X]] Unterscheidung zur realen Situation
+  [[ ]] Auswertung des Szenarios in Bezug auf die Fragestellung
+
+Welche der folgenden Aussagen treffen auf ein moralisches Dilemma zu? Kreuzen Sie die richtigen Antworten an!
+
+  [[X]] Ein Dilemma ist eine Konfliktsituation für einen Akteur mit mehreren unterschiedlichen Handlungsmöglichkeiten, die sich gegenseitig ausschließen.
+  [[X]] In einer Dilemmasituation gibt es moralische Gründe für jede Handlungsmöglichkeit.
+  [[X]] Eine Dilemmasituation besteht aus einer moralischen Entscheidung.
+  [[X]] Keine einzelne Entscheidung ist moralisch zu 100% richtig.
+  [[ ]] Man ist nicht gezwungen eine unmoralische Entscheidung zu treffen.
+  [[ ]] Bei einem Dilemma geht es darum sich zwischen zwei angenehmen Optionen zu entscheiden.
+  [[ ]] Bei einem Dilemma gibt es immer eine richtige Lösung.
+  [[X]] In einer Dilemmasituation müssen alle Handlungsmöglichkeiten durchführbar sein.
+
+### 05-03 Werte, Interessen und Normen
+
+<iframe title="05-03 Werte, Interessen und Normen" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/395b9ca7d6534130ad40318cd2f704d91d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/395b9ca7d6534130ad40318cd2f704d91d)
+
+[Folien: Werte, Interessen und Normen](https://cloud.rz.uni-kiel.de/index.php/s/NsifEqzHjxXPQKN)
+
+---
+
+                           {{1}}
+
+| Human value                      | Definition                                                                     |
+|----------------------------------|-----------------------------------------------------------------------------|
+| Human welfare                    | Refers to people's physical, material, and psychological well-being         |
+| Ownership and property           | Refers to a right to possess an object (or information), use it, manage it, derive income from it and bequeath it |
+| Privacy                          | Refers to a claim, an entitlement, or a right of an individual to determine what information about himself or herself can be communicated to others |
+| Freedom from bias                | Refers to systematic unfairness perpetrated on individuals or groups, including pre-existing social bias, technical bias, and emergent social bias |
+| Universal usability              | Refers to making all people successful users of information technology      |
+| Trust                            | Refers to expectations that exist between people who can experience good will, extend good will toward others, fell vulnerable, and experience betrayal |
+| Autonomy                         | Refers to people's ability to decide, plan, and act in ways that they believe will help them to achieve their goals |
+| Informed consent                 | Refers to garnering people's agreement, encompassing criteria of disclosure and comprehension (for "informed") and voluntariness, competence and agreement (for "consent") | 
+| Accountability                   | Refers to properties that ensure that the actions of a person, people, or institution may be traced uniquely to the person, people, or institution |
+| Courtesy                         | Refers to treating people with politeness and consideration                 |
+| Identity                         | Refers to people's understanding of who they are over time, embracing both continuity and discontinuity over time |
+| Calmness                         | Refers to a peaceful and composed psychological state                       |
+| Environmental sustainability     | Refers to sustaining ecosystems such that they meet the needs of the present |
+
+Quelle: Batya Friedmann, Peter H. Kahn Jr. and Alan Borning, "Value Sensitive Design and Information Systems", in *Human-Computer Interaction in Management Information Systems: Foundations*, ed. Ping Zhang and Dennis F. Galetta (Armonk, NY: M. E. Sharpe, 2006), 364.
+
+
+---
+
+                           {{2}}
+**Quiz**
+
+Welches Wort muss bei der folgenden Aussage ergänzt werden?
+Ein/e ??? entspringt aus einem bestimmten Bedürfnis.
+
+  [[X]] Interesse
+  [[ ]] Norm
+  [[ ]] Wert
+
+Welche Konfliktart beschreibt die nachfolgende Aussage?
+Konflikte beruhen auf der Knappheit von Gütern oder Positionen, die von den Parteien gleichermaßen geschätzt werden.
+
+  [[X]] Interessenkonflikte
+  [[ ]] Wertekonflikte
+
+Was sind Werttypen?
+
+  [[ ]] Alle numerischen Datentypen. Boolean, Char und Date.
+  [[X]] Verschiedene Begründungen für unsere Wertevorstellungen.
+
+Enthalten die folgenden Aussagen Normen oder Werte? (Eingabe: Wert, Norm, Beides, Keines)
+
+Das Leben ist schützenswert.
+
+  [[Wert]]
+
+Wirf keinen Müll in die Landschaft!
+
+  [[Norm]]
+
+Um die Sicherheit unserer Daten zu schützen sollten wir große Firmen bei der Erfassung von Daten mehr einschränken.
+
+  [[Beides]]
+
+### Quellen und vertiefende Literatur
+
+* Aristoteles. 1987. Physik. Edited by Hans Günter Zekl. Vol. 1. Philosophische Bibliothek 380. Hamburg: Meiner.
+* Bauer, T. 2018. Die Vereindeutigung Der Welt: Über Den Verlust an Mehrdeutigkeit Und Vielfalt. [Was Bedeutet Das Alles?]. Reclams Universal-Bibliothek. Reclam Verlag. https://books.google.de/books?id=ddN2DwAAQBAJ.
+* Bertram, G. W., ed. 2016. Philosophische Gedankenexperimente: Ein Lese- Und Studienbuch. Reclam-Taschenbuch. Reclam.
+* Brey, Philip. 2000. “Disclosive Computer Ethics.” ACM SIGCAS Computers and Society 30 (4): 10–16. https://doi.org/10.1145/572260.572264.
+* ———. 2010. “Values in Technology and Disclosive Computer Ethics.” In The Cambridge Handbook of Information and Computer Ethics, edited by LucianoEditor Floridi, 41–58. Cambridge University Press.
+* Engels, Helmut. 2015. “Gedankenexperimente.” In Handbuch Philosophie Und Ethik. Band i: Didaktik Und Methodik, edited by Julian Nida-Rümelin, Irina Spiegel, and Markus Tiedemann, 187–96. Paderborn: Brill | Schöningh.
+* Floridi, Luciano, and J. W. Sanders. 2004. “On the Morality of Artificial Agents.” Minds and Machines 14 (August): 349–79. https://doi.org/10.1023/B:MIND.0000035461.63578.9d.
+* Friedman, Batya, and David G. Hendry. 2026. Value Sensitive Design: Shaping Technology with Moral Imagination. 2nd ed. The MIT Press.
+* Jonas, Hans. 1997. Das Prinzip Leben: Ansätze Zu Einer Philosophischen Biologie. 2nd ed. Frankfurt am Main: Suhrkamp Verlag.
+* Margolis, Eric, and Stephen Laurence. 2021. “Concepts.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Spring 2021. https://plato.stanford.edu/archives/spr2021/entries/concepts/; Metaphysics Research Lab, Stanford University.
+* McConnell, Terrance. 2018. “Moral Dilemmas.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Fall 2018. https://plato.stanford.edu/archives/fall2018/entries/moral-dilemmas/; Metaphysics Research Lab, Stanford University.
+* Pfeifer, V. 2009. Ethisch Argumentieren: Eine Anleitung Anhand von Aktuellen Fallanalysen. Ethisch Argumentieren / Eine Anleitung Anhand von Aktuellen Fallanalysen. Schöningh.
+* Regenbogen, Arnim, and Uwe Meyer, eds. 2013. Wörterbuch Der Philosophischen Begriffe. Philosophische Bibliothek. Felix Meiner Verlag.
+* Seidel, Tina, and Andreas Krapp, eds. 2014. Pädagogische Psychologie: Mit Online-Materialien Zum Download. 6., vollständig überarbeitete Aufl. Weinheim: Beltz.
+* Stahl, Bernd Carsten, Job Timmermans, and Brent Daniel Mittelstadt. 2016. “The Ethics of Computing: A Survey of the Computing-Oriented Literature.” ACM Computing Surveys 48 (4): 55:1–38. https://doi.org/10.1145/2871196.
+* Willems, Ulrich. 2015. Wertkonflikte Als Herausforderung Der Demokratie. Wiesbaden: Springer VS. https://doi.org/10.1007/978-3-658-10301-9.
+
 ## Anhang
 
 ### Index
@@ -672,15 +852,20 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 
 | Begriff                          | Kapitel                                                                     |
 |----------------------------------|-----------------------------------------------------------------------------|
+| Akteurschaft                     | 05-01                                                                       |
+| Ambiguität                       | 05-01                                                                       |
+| – Ambiguitätstoleranz            | 05-01                                                                       |
 | Artefakt                         | 02-02                                                                       |
 | Aussagen                         | 03-02                                                                       |
 | – Faktenaussage                  | 03-02                                                                       |
 | – Normenaussage                  | 03-02                                                                       |
-| Begriff(e)                       | 03-04                                                                       |
+| Autonomie                        | 05-01, 05-03                                                                |
+| Begriff(e)                       | 03-04, 05-01                                                                |
+| Bezeichner                       | 05-01                                                                       |
 | *critical thinking*              | 03-01, 03-02                                                                |
 | Demokratiedefizit                | 04-02                                                                       |
 | Deontologie                      | 04-01                                                                       |
-| Dilemma                          | 04-02                                                                       |
+| Dilemma                          | 04-02, 05-02                                                                |
 | – Heinz-Dilemma                  | 04-03                                                                       |
 | – Trolley-Dilemma                | 04-02                                                                       |
 | Ethik                            | 01-03, 02-01                                                                |
@@ -690,14 +875,22 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | – Micro and macro ethics         | 02-01                                                                       |
 | – Theorien                       | 04-01                                                                       |
 | Fallstudien                      | 02-03                                                                       |
-| Gedankenexperiment               | 04-02                                                                       |
+| Gedankenexperiment               | 04-02, 05-01                                                                |
 | Handlungsbegründung              | 04-03                                                                       |
 | Informatik                       | 01-02                                                                       |
+| Interesse                        | 05-03                                                                       |
+| Konflikt                         |                                                                             |
+| – Interessenkonflikt             | 05-03                                                                       |
+| – Mittelkonflikt                 | 05-02                                                                       |
+| – Wertekonflikt                  | 05-03                                                                       |
+| – Zielkonflikt                   | 05-02                                                                       |
 | Konsequentialismus               | 04-01                                                                       |
 | large language models (LLMs)     | 02-02                                                                       |
 | Meta-Ethik                       | 01-03                                                                       |
+| Mittel                           | 05-02                                                                       |
 | Moral                            | 01-03                                                                       |
 | Naturalistischer Fehlschluss     | 03-02                                                                       |
+| Norm                             | 05-03                                                                       |
 | Paragraphing                     | 03-03                                                                       |
 | Pflichtethik                     | s. Deontologie                                                              |
 | *principle of charity*           | 03-01                                                                       |
@@ -711,11 +904,13 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Tugendethik (Virtue ethics)      | 04-01                                                                       |
 | Utilitarismus                    | 04-01                                                                       |
 | Wahrheit(en)                     | 03-01                                                                       |
-| Werte                            | 02-02                                                                       |
+| Werte                            | 02-02, 05-03                                                                |
 | – eingebettete Werte             | 02-02                                                                       |
-| – value sensitive design         | 02-03                                                                       |
+| – value sensitive design         | 02-03, 05-03                                                                |
 | – Werteanalyse                   | 02-03                                                                       |
+| – Werturteil                     | 05-03                                                                       |
 | Wissenschaft                     | 01-02                                                                       |
 | – Strukturwissenschaft           | 01-02                                                                       |
+| Ziel(e)                          | 05-02                                                                       |
 |                                  |                                                                             |
 
