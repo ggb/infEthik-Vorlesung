@@ -323,7 +323,25 @@ Der "Disclosure" Schritt wird definiert als:
                            {{1}}
 **Quiz**
 
-Quiz folgt in Kürze...
+Was wird in der Kontextanalyse betrachtet?
+
+  [[ ]] Es geht um die Umgebung, in welcher das Problem auftritt (z.B. in einem Büro, in der Schule,...)
+  [[X]] Es werden die betroffenen Personengruppen identifiziert.
+  [[X]] Es geht darum, zu erkennen, was die Interessen der Stakeholder sind und was wir darüber noch nicht wissen.
+  [[ ]] Es sollen die Werte der einzelnen Stakeholder identifiziert werden.
+
+Wozu sollte ein Fall in eine Theorie eingeordnet werden?
+
+  [[X]] Durch das herausbilden einer neuen Theorie können in Zukunft ähnliche Fälle leichter gelöst werden.
+  [[X]] Z.B. Werte können auf verschiedene Weisen ausgelegt werden, eine Theorie macht transparent, wie er hier ausgelegt wird.
+  [[X]] Theorien helfen bei der Bewertung vom Verhalten der Stakeholder.
+
+Was passiert im Application Level?
+
+  [[ ]] Es werden passende Programme gesucht, die das Problem lösen.
+  [[X]] Verhaltensalternativen werden gesammelt und anschließend bewertet.
+  [[ ]] Es wird ein Programm geschrieben, dass die identifizierten Konflikte auflöst.
+  [[X]] In der Konsensfindung wird eine Entscheidung gewählt, die nicht von einer einzelnen Person getroffen werden sollte.
 
 ### Quellen und vertiefende Literatur
 
@@ -523,11 +541,20 @@ Welche der folgenden Fragen sind für den ersten Zugang zu einem Text relevant?
 
 ## 04 Ethische Theorien
 
+In dieser Woche führt die Vorlesung verschiedene ethische Theorien ein und betrachtet diese kritisch.
+Die Theorien können dadurch eine Grundlage bieten (etwa in einem Toulmin Schema) und neue Perspektiven eröffnen einen ethischen Sachverhalt zu betrachten. Sie sind allerdings keine Ideallösung, dank welchen die Ethik fertig und richtig gelöst ist. Wie in der Ethik üblich sind Probleme zu vielschichtig, um sie mit einem einfachen Schema zu lösen. Betrachten Sie die Theorien also immer als Grundlage weiterer Reflexion.
+
 ![Wortwolke mit Begriffen aus dem Kapitel 3](img/Wortwolke.jpg "Bildquelle: www.wortwolken.com")
+
+Für das weitere Vorgehen im Semester führt diese Woche eine Methode ein, um ein Urteil in einem ethischen Konflikt zu fällen und zu begründen. Dabei wird auf dem Disclosure Schritt (siehe Vorlesung 02-02) aufbauend mit den Werten der betroffenen Stakeholder gearbeitet. Diese Form der Handlungsbewertung führt nicht zu einem festen Ergebnis, sondern zu einem Beitrag in der Debatte, weshalb ein Schritt sich mit der Reflexion beschäftigt, da auch diese Methode blinde Flecken mit sich bringen kann.
 
 **Lernziele** des Abschnitts *04 Ethische Theorien*:
 
-* 
+* Sie haben einen Überblick über ethische Theorien gewonnen.
+* Sie kennen die grundlegenden Ideen der Deontologie, des Konsequentialismus und der Tugendethik.
+* Sie haben Probleme kennengelernt, die auftreten können, wenn ethische Probleme technisch gelöst werden.
+* Sie kennen Typen von Einwänden und können diese Argumenten zuweisen.
+* Sie können eine disklosive Handlungsbewertung schrittweise durchführen.
 
 ### Vorbereitungsaufgabe
 
@@ -631,8 +658,25 @@ In dem Film "Bridge of Spies" vertritt James Donovan als Strafverteidiger Abel, 
                            {{1}}
 **Quiz**
 
-**Folgt in Kürze...**
+Über "ethische Einhörner" lässt sich sagen, dass...
 
+  [[ ]] sie selten sind, aber anders als echte Einhörner wirklich existieren.
+  [[X]] sie eine unerfüllbare Hoffnung sind.
+  [[X]] manche Informatiker:innen scheinbar daran glauben, aber eigentlich keine Ethiker:innen sind.
+  [[X]] diese Metapher einen Anstoß geben soll, mit Ethiker:innen ins Gespräch zu kommen.
+
+Welche Aussage stimmt?
+ 
+  [[ ]] Solutionismus ist eine gute Eigenschaft, die Menschen dazu motiviert, nach Lösungen zu suchen.
+  [[X]] Solutionismus beschreibt das "lösen" von Problemen durch optimierte Algorithmen.
+
+Was sagt uns das Trolley-Dilemma?
+
+  [[ ]] Welche sozialen Beziehungen die betroffenen Menschen haben.
+  [[ ]] Welche emotionalen Folgen für den/die Zugfahrer*in folgen.
+  [[ ]] Welche Auswirkungen der Einzelfall auf die Gesellschaft hat.
+  [[ ]] Wieso die Menschen sich in der Situation befinden.
+  [[X]] Wie viele Menschen betroffen sind.
 
 ### 04-03 Disklosive Handlungsbewertung
 
@@ -648,7 +692,28 @@ In dem Film "Bridge of Spies" vertritt James Donovan als Strafverteidiger Abel, 
                            {{1}}
 **Quiz**
 
-**Folgt in Kürze...**
+Warum muss ein Prinzip formuliert werden?
+
+  [[X]] Um eine Übertragbarkeit auf andere Situationen zu erleichtern.
+  [[ ]] Damit keine lange Beschreibung verfasst werden muss.
+  [[X]] So werden sich Gedanken darüber gemacht, was vom Kontext wirklich relevant ist.
+
+Was muss für den paarweisen Vergleich beachtet werden?
+
+  [[X]] Von allen Stakeholdern werden die stärksten Argumente genutzt.
+  [[ ]] Im Vergleich müssen die betrachteten Stakeholder entgegengesetzt zu dem Prinzip stehen.
+  [[X]] Für einen besseren Vergleich werden den Argumenten Typen zugeordnet.
+  [[ ]] Wenn eine Stakeholder keine Argumente verfassen kann (etwa Tiere), müssen sie nicht gelistet werden.
+  [[ ]] Wenn die Stakeholdergruppe besonders groß ist, wirkt ihr Argument stärker.
+  [[X]] Wenn ein Stakeholder einen Einwand gegen das Prinzip hat, der nicht widerlegt werden konnte, wird das Prinzip abgelehnt.
+
+Nach dem Urteil...
+
+  [[ ]] sind wir fertig mit unserer Analyse, das Urteil ist der Beschluss.
+  [[X]] sollte der Systemische Check aufzeigen, wie das Problem in der Gesellschaft verortet ist.
+  [[X]] wird betrachtet, welche Stakeholder Rechtfertigungen einfordern können.
+  [[ ]] wird sich eine Theorie ausgesucht, die zum Urteil passt, um es zu begründen.
+  [[X]] wird die Debatte betrachtet, für welche das Urteil ein Beitrag ist.
 
 ### Quellen und vertiefende Literatur
 
@@ -666,7 +731,11 @@ In dem Film "Bridge of Spies" vertritt James Donovan als Strafverteidiger Abel, 
 
 ## 05 Begriffe
 
+Unser Denken und Diskutieren sind geprägt von Begriffen, die wir meist ganz unbewusst und unreflektiert nutzen. Diese Vorlesung soll ein Bewusstsein dafür schaffen, was Begriffe eigentlich sind und warum es häufig sinnvoll ist, genauer über die Bedeutung nachzudenken, besonders im Gespräch mit anderen Personen.
+
 ![Concept Map Beispiel](img/Conceptmap.png "Bildquelle: ​English Wikipedia user Vicwood40, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons")
+
+Im Rahmen der weiteren Videos werden grundlegende Begriffe der Ethik eingeführt und im Detail betrachtet. Diese sollen kommende Diskussionen zum einen erleichtern und zum anderen überhaupt erst ermöglichen. Eine genaue Betrachtung von Begriffen, wie etwa dem des Konfliktes, kann aufzeigen, dass mehr dahinter steckt und somit dem eigenen Denken neue Wege aufzeigen.
 
 **Lernziele** des Abschnitts *04 Begriffe*:
 
@@ -844,6 +913,104 @@ Um die Sicherheit unserer Daten zu schützen sollten wir große Firmen bei der E
 * Stahl, Bernd Carsten, Job Timmermans, and Brent Daniel Mittelstadt. 2016. “The Ethics of Computing: A Survey of the Computing-Oriented Literature.” ACM Computing Surveys 48 (4): 55:1–38. https://doi.org/10.1145/2871196.
 * Willems, Ulrich. 2015. Wertkonflikte Als Herausforderung Der Demokratie. Wiesbaden: Springer VS. https://doi.org/10.1007/978-3-658-10301-9.
 
+## 06 Verantwortung
+
+
+![Personen an mehreren Zanrädern](img/Verantwortung.jpg "Bildquelle: von rawpixel.com auf Freepik, https://de.freepik.com/vektoren-kostenlos/illustration-von-den-charakteren-die-zahnraeder-halten_3207892.htm")
+
+
+**Lernziele** des Abschnitts *06 Verantwortung*:
+
+*
+
+### Vorbereitungsaufgabe
+
+Informieren Sie sich über den Fall und die Fallgeschichte des Therac-25 Linearbeschleunigers, bspw. bei dem entsprechenden [Wikipedia-Eintrag](https://de.wikipedia.org/wiki/Therac-25). 
+
+Überlegen Sie sich anschließend:
+
+* Welche Aspekte erschweren in diesem Fall die Verantwortungszuschreibung?
+* Wem würden Sie (ohne eine vollständige Analyse vorzunehmen!) die Hauptverantwortung in diesem Fall zuordnen?
+
+### 06-01 Der klassische Blick auf Verantwortung
+
+
+<iframe title="06-01 Der klassische Blick auf Verantwortung" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/b66bef9fdd034f35be01a67223dddfd51d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/b66bef9fdd034f35be01a67223dddfd51d)
+
+[Folien: Der klassische Blick auf Verantwortung](https://cloud.rz.uni-kiel.de/index.php/s/AmEjgDMLj32sniA)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+**Folgt in Kürze...**
+
+### 06-02 Probleme des Verantwortungsbegriffs
+
+
+<iframe title="06-02 Probleme des Verantwortungsbegriffs" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/ff6d6b282c614065b7af0fcb1085eccc1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/ff6d6b282c614065b7af0fcb1085eccc1d)
+
+[Folien: Probleme des Verantwortungsbegriffs](https://cloud.rz.uni-kiel.de/index.php/s/942AmoZWPZFNnAW)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+**Folgt in Kürze...**
+
+### 06-03 Erweiterung(en) des Verantwortungsbegriffs
+
+
+<iframe title="06-03 Erweiterung(en) des Verantwortungsbegriffs" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/3840ad823d3e4773a4dfd383f66ac87b1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/3840ad823d3e4773a4dfd383f66ac87b1d)
+
+[Folien: Erweiterung(en) des Verantwortungsbegriffs](https://cloud.rz.uni-kiel.de/index.php/s/gi3XrAYKx9wapW6)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+**Folgt in Kürze...**
+
+### 06-04 Methode zur Verantwortungsattribution
+
+**Folgt in Kürze...**
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+**Folgt in Kürze...**
+
+### Quellen und vertiefende Literatur
+
+* [Peter Parker Principle](https://knowyourmeme.com/memes/with-great-power-comes-great-responsibility) erklärt
+* Anders, Günther. 2002. Die Antiquiertheit Des Menschen Bd. I: Über Die Seele Im Zeitalter Der Zweiten Industriellen Revolution. 2nd ed. München: C.H.Beck.
+* Fabio, Udo Di, ed. 2025. Grundgesetz. 55. Auflage, Stand: 11. August 2025, Sonderausgabe. Dtv 5003. [München]: C.H. Beck.
+* Floridi, Luciano. 2016. “Faultless Responsibility: On the Nature and Allocation of Moral Responsibility for Distributed Moral Actions.” Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 374 (2083): 20160112. https://doi.org/10.1098/rsta.2016.0112.
+* Forst, Rainer. 1999. “The Basic Right to Justification: Towards a Constructivist Conception of Human Rights.” Constellations 6 (1): 35–60. https://doi.org/10.1111/1467-8675.00119.
+* Lenk, Hans, ed. 1993. Technik Und Ethik. 2., rev. und erw. Aufl. Universal-Bibliothek 8395. Stuttgart: Reclam.
+* Matthias, Andreas. 2004. “The Responsibility Gap: Ascribing Responsibility for the Actions of Learning Automata.” Ethics and Information Technology 6 (3): 175–83. https://doi.org/10.1007/s10676-004-3422-1.
+* Midgley, Mary. 2001. Wickedness: A Philosophical Essay. Routledge Classics. London: Routledge.
+* Misselhorn, Catrin. 2018. “Maschinenethik und "Artificial Morality": Können und sollen Maschinen moralisch handeln?” Aus Politik Und Zeitgeschichte, no. 68: 29–33.
+* Nissenbaum, Helen. 1996. “Accountability in a Computerized Society.” Science and Engineering Ethics 2 (1): 25–42. https://doi.org/10.1007/bf02639315.
+* Novitzky, Peter, Ben Kokkeler, and Peter-Paul Verbeek. 2018. “The Dual-Use of Drones.” Tijdschrift Voor Veiligheid 17 (1-2): 79–95. https://doi.org/10.5553/tvv/187279482018017102007.
+* Talbert, Matthew. 2026. “Moral Responsibility.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta and Uri Nodelman, Summer 2026. https://plato.stanford.edu/archives/sum2026/entries/moral-responsibility/; Metaphysics Research Lab, Stanford University.
+* Waelbers, Katinka. 2008. “Technological Delegation: Responsibility for the Unintended.” Science and Engineering Ethics 15 (1): 51–68. https://doi.org/10.1007/s11948-008-9098-x.
+
 ## Anhang
 
 ### Index
@@ -868,6 +1035,7 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Dilemma                          | 04-02, 05-02                                                                |
 | – Heinz-Dilemma                  | 04-03                                                                       |
 | – Trolley-Dilemma                | 04-02                                                                       |
+| Dual use                         | 06-02                                                                       |
 | Ethik                            | 01-03, 02-01                                                                |
 | – Angewandte Ethik               | 02-01                                                                       |
 | – Bereichsethik                  | 02-01                                                                       |
@@ -894,7 +1062,9 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Paragraphing                     | 03-03                                                                       |
 | Pflichtethik                     | s. Deontologie                                                              |
 | *principle of charity*           | 03-01                                                                       |
+| Problem der vielen Hände         | 06-02                                                                       |
 | *reasonable rejection test*      | 04-03                                                                       |
+| *responsibility gap*             | s. Verantwortungslücke                                                      |
 | Stakeholder                      | 02-02                                                                       |
 | – direkte/indirekte Stakeholder  | 02-02                                                                       |
 | – Stakeholderanalyse             | 02-03                                                                       |
@@ -903,6 +1073,13 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Toulmin-Schema                   | 03-02                                                                       |
 | Tugendethik (Virtue ethics)      | 04-01                                                                       |
 | Utilitarismus                    | 04-01                                                                       |
+| Verantwortung                    | 06-01, 06-02, 06-03, 06-04                                                  |
+| – Gestaltungsverantwortung       | 06-03, 06-04                                                                |
+| – klassischer Verantwortungsbegr.| 06-01                                                                       |
+| – Nutzungsverantwortung          | 06-03, 06-04                                                                |
+| – Rechenschaftsverantwortung     | 06-03, 06-04                                                                |
+| – Verantwortungsattribution      | 06-01                                                                       |
+| – Verantwortungslücke            | 06-02                                                                       |
 | Wahrheit(en)                     | 03-01                                                                       |
 | Werte                            | 02-02, 05-03                                                                |
 | – eingebettete Werte             | 02-02                                                                       |
