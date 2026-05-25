@@ -968,7 +968,6 @@ Informieren Sie sich über den Fall und die Fallgeschichte des Therac-25 Linearb
 
 ### 06-03 Erweiterung(en) des Verantwortungsbegriffs
 
-
 <iframe title="06-03 Erweiterung(en) des Verantwortungsbegriffs" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/3840ad823d3e4773a4dfd383f66ac87b1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
 [Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/3840ad823d3e4773a4dfd383f66ac87b1d)
@@ -985,7 +984,11 @@ Informieren Sie sich über den Fall und die Fallgeschichte des Therac-25 Linearb
 
 ### 06-04 Methode zur Verantwortungsattribution
 
-**Folgt in Kürze...**
+<iframe title="06-04 Methode zur Verantwortungsattribution" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/050bd92836cf46ccbfea282f7249b88c1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/050bd92836cf46ccbfea282f7249b88c1d)
+
+[Folien: Methode zur Verantwortungsattribution](https://cloud.rz.uni-kiel.de/index.php/s/JN4Ey96wqJ86mr3)
 
 ---
 
