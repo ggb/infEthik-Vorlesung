@@ -1014,6 +1014,127 @@ Informieren Sie sich über den Fall und die Fallgeschichte des Therac-25 Linearb
 * Talbert, Matthew. 2026. “Moral Responsibility.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta and Uri Nodelman, Summer 2026. https://plato.stanford.edu/archives/sum2026/entries/moral-responsibility/; Metaphysics Research Lab, Stanford University.
 * Waelbers, Katinka. 2008. “Technological Delegation: Responsibility for the Unintended.” Science and Engineering Ethics 15 (1): 51–68. https://doi.org/10.1007/s11948-008-9098-x.
 
+## 07 Privatheit, Sicherheit und Transparenz
+
+![Überwachungskameras](img/Sicherheit.jpg "Bildquelle: von Joseph Mucira auf Pixabay, https://pixabay.com/de/photos/cctv-%C3%BCberwachungskamera-cctv-7267551/")
+
+**Lernziele** des Abschnitts *07 Privatheit, Transparenz und Sicherheit*:
+
+* Sie können die Begriffe *Privatheit*, *Transparenz* und *Sicherheit* definieren und voneinander abgrenzen.
+* Sie haben Grimms Zwiebelmodell der Privatsphäre verstanden.
+* Sie sind in der Lage mehrere Beispiele für die Verankerung der Privatheit in den bundesdeutschen Grundrechten zu nennen.
+* Sie haben die Funktionen der Privatsphäre verstanden und können die einzelnen Funktionen erklären.
+* Sie kennen die Begriffe *Panoptismus*, *Machtasymmetrie* und *chilling effects* und können die Zusammenhänge erklären.
+* Sie können erklären, warum der Begriff *Transparenz* positiv und negativ verstanden werden kann.
+* Sie wissen, welche Wertekonflikte in Bezug auf *Sicherheit* entstehen können.
+
+### Vorbereitungsaufgabe
+
+Selbstkontrollfragen:
+
+1. Nennen Sie Beispiele für die Verankerung der Privatheit in den bundesdeutschen Grundrechten!
+2. Nennen und erläutern Sie kurz zwei Funktionen der Privatsphäre für das Zusammenleben der Menschen!
+3. Inwiefern ist Machtasymmetrie ein wesentliches Kennzeichen von panoptistischen Systemen?
+4. Transparenz kann positiv und negativ verstanden werden. Erläutern Sie, warum die Wertung vom Begriff der Öffentlichkeit/Privatheit abhängt!
+5. Nennen Sie einen typischen Wertekonflikt, der im Zusammenhang mit Sicherheit in der Öffentlichkeit häufig diskutiert wird!
+
+Mit den Selbstkontrollfragen oben steht Ihnen ein Instrument zur Verfügung, um ihr Verständnis des Stoffes zur überprüfen und Sie können mit den kurzen Fragestellungen üben prägnante Antworten zu formulieren.
+
+Ihre Vorbereitungsaufgabe in dieser Woche lautet:
+
+1. Beantworten Sie *eine* Selbstkontrollfrage.
+2. Bitten Sie eine:n Mitstudierende darum Ihnen die Antwort zur Verfügung zu stellen, damit Sie Feedback äußern können: Versuchen Sie positive und negative Aspekte zu benennen. Formulieren Sie ihre Hilfe konstruktiv, das heißt mit konkreten Vorschlägen, wie die Antwort verbessert werden könnte.
+
+### 07-01 Privatheit
+
+<iframe title="07-01 Privatheit" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/3d5f745ac320408d92f6aa99cfaa40841d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/3d5f745ac320408d92f6aa99cfaa40841d)
+
+[Folien: 07-01 Privatheit](https://cloud.rz.uni-kiel.de/index.php/s/Eoxi9F4N7fGWJim)
+
+---
+
+                           {{1}}
+**Quiz**
+
+Welche Faktoren führen dazu, dass in Grimms Zwiebelmodell der Privatsphäre selbst die intimsten Bereiche direkt an Gesellschaft, Staat und Wirtschaft anliegen?
+
+  [[X]] Soziale Medien
+  [[X]] Digitalisierung
+  [[ ]] Staatliche Vorschriften
+  [[ ]] Fehlende Aluhüte
+
+Was sind die Funktionen von Privatsphäre?
+
+  [[ ]] Verstärken von "Chilling effects"
+  [[X]] Freiheit und Autonomie
+  [[X]] Kreative Entfaltung und Selbstbestimmung
+  [[ ]] Ungefilterte Sammlung von Daten für Firmen und Staat
+  [[X]] Identitäts- und Meinungsbildung
+
+Was zeichnet ein panoptisches System aus?
+
+  [( )] Machtsymmetrie der beteiligten Parteien.
+  [(X)] Machtasymmetrie der beteiligten Parteien.
+
+
+### 07-02 Transparenz
+
+<iframe title="07-02 Transparenz" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/904854f41d924cdb8e44c6c83c63315b1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/904854f41d924cdb8e44c6c83c63315b1d)
+
+[Folien: 07-02 Transparenz](https://cloud.rz.uni-kiel.de/index.php/s/2QSZXGwGHDDiHnT)
+
+---
+
+                           {{1}}
+**Quiz**
+
+Was sind Probleme, die in Bezug zu Transparenz auftreten können?
+
+  [[X]] Schränkt die Privatheit ein und verhindert vertrauensvollen Austausch
+  [[X]] Überforderung der Rezipienten durch zu viele Informationen
+  [[ ]] Rezipienten müssen sich weniger mit System beschäftigen
+  [[X]] Rezipienten müssen sich mehr mit dem System selbst auseinandersetzen
+  [[ ]] Experten des Systems werden überflüssig
+
+### 07-03 Sicherheit
+
+<iframe title="07-03 Sicherheit" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/a7046cbf67174351820ee34f5c917bbb1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/a7046cbf67174351820ee34f5c917bbb1d)
+
+[Folien: 07-03 Sicherheit](https://cloud.rz.uni-kiel.de/index.php/s/ZR7bM9f3c6StgPo)
+
+---
+
+                           {{1}}
+**Quiz**
+
+Kreuzen Sie die richtigen Aussagen an!
+
+  [[ ]] Absolute Sicherheit ist die oberste Priorität für jeden Informatiker!
+  [[X]] Durch Tests lässt sich die Sicherheit eines Systems verbessern.
+  [[X]] Meist muss man einen Kompromiss aus Sicherheit, Privatheit und Transparenz nutzen, um Programme oder Systeme zu realisieren.
+  [[ ]] Sicherheit fordert meist keine Einbußen für Freiheit oder Transparenz.
+  [[X]] Qualitätskontrollen erhöhen die Sicherheit eines Systems.
+  [[ ]] Transparenz kann in der Informatikethik meist vernachlässigt werden.
+  [[ ]] Code Reviews und Pair Programming erhöhen das Risiko unsichere Systeme zu bauen.
+  [[X]] Sichere Systeme zu bauen ist ein Ideal in der Informatikethik.
+
+
+### Quellen und vertiefende Literatur
+
+* Ananny, Mike, and Kate Crawford. 2018. [“Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability.”](https://doi.org/10.1177/1461444816676645) New Media & Society.
+* Arendt, H. 2008. Vita activa oder Vom tätigen Leben. Piper.
+* Cooke, Maeve. 1999. [“A space of one’s own: autonomy, privacy, liberty.”](https://journals.sagepub.com/doi/abs/10.1177/019145379902500102)Philosophy & Social Criticism.
+* DeCew, Judith. 2018. “Privacy.” [“Privacy.”](Https://plato.stanford.edu/archives/spr2018/entries/privacy/) In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Spring 2018. Metaphysics Research Lab, Stanford University.
+* Foucault, Michel. 2007. Überwachen und Strafen, die Geburt des Gefängnisses. Überwachen und Strafen. 1. Aufl., [Nachdr.]. 2271. Frankfurt am Main: Suhrkamp.
+* Grimm, Petra, Tobias O. Keber, and Oliver Zöllner. 2019. Digitale Ethik: Leben in vernetzten Welten. Kompaktwissen XL. Stuttgart: Reclam, Philipp, jun. GmbH, Verlag.
+
+
 ## Anhang
 
 ### Index
@@ -1032,6 +1153,7 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Autonomie                        | 05-01, 05-03                                                                |
 | Begriff(e)                       | 03-04, 05-01                                                                |
 | Bezeichner                       | 05-01                                                                       |
+| *chilling effects*               | 07-01                                                                       |
 | *critical thinking*              | 03-01, 03-02                                                                |
 | Demokratiedefizit                | 04-02                                                                       |
 | Deontologie                      | 04-01                                                                       |
@@ -1062,17 +1184,22 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Moral                            | 01-03                                                                       |
 | Naturalistischer Fehlschluss     | 03-02                                                                       |
 | Norm                             | 05-03                                                                       |
+| Panoptismus                      | 07-01                                                                       |
 | Paragraphing                     | 03-03                                                                       |
 | Pflichtethik                     | s. Deontologie                                                              |
 | *principle of charity*           | 03-01                                                                       |
+| Privatheit                       | 07-01                                                                       |
+| Privatsphäre                     | 07-01                                                                       |
 | Problem der vielen Hände         | 06-02                                                                       |
 | *reasonable rejection test*      | 04-03                                                                       |
 | *responsibility gap*             | s. Verantwortungslücke                                                      |
+| Sicherheit                       | 07-03                                                                       |
 | Stakeholder                      | 02-02                                                                       |
 | – direkte/indirekte Stakeholder  | 02-02                                                                       |
 | – Stakeholderanalyse             | 02-03                                                                       |
 | Syllogismus                      | 03-02                                                                       |
 | – praktischer Syllogismus        | 03-02                                                                       |
+| Transparenz                      | 07-02                                                                       |
 | Toulmin-Schema                   | 03-02                                                                       |
 | Tugendethik (Virtue ethics)      | 04-01                                                                       |
 | Utilitarismus                    | 04-01                                                                       |
