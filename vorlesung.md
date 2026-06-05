@@ -1134,6 +1134,233 @@ Kreuzen Sie die richtigen Aussagen an!
 * Foucault, Michel. 2007. Überwachen und Strafen, die Geburt des Gefängnisses. Überwachen und Strafen. 1. Aufl., [Nachdr.]. 2271. Frankfurt am Main: Suhrkamp.
 * Grimm, Petra, Tobias O. Keber, and Oliver Zöllner. 2019. Digitale Ethik: Leben in vernetzten Welten. Kompaktwissen XL. Stuttgart: Reclam, Philipp, jun. GmbH, Verlag.
 
+## 08 Daten und Maschinelles Lernen
+
+Im achten Abschnitt werden Daten aus einer ethischen Perspektive betrachtet. Insbesondere geht es darum, welche Folgen der unachtsame Gebrauch von Daten im Kontext des maschinellen Lernens haben kann.
+
+Dafür wird im ersten Kapitel der Begriff *Objektivität* mit seinen verschiedenen Verständnisweisen vorgestellt.
+
+Im zweiten Kapitel wird untersucht, woher die Daten eigentlich kommen. Dabei geht es weniger um die legalen und moralischen Arten, an Daten zu gelangen, sondern vielmehr um die problematischen Wege wie z.B. *Ghost Work*.
+
+Wenn analoge Daten in digitale Daten umgewandelt werden, ist damit meist ein Informationsverlust verbunden. Das Kapitel 3 beschäftigt sich genauer mit Reduktion, Verzerrungen und Präferenzenstarrheit in Daten und zeigt, warum und welche Probleme entstehen können.
+
+![Ignorante Person mit Stöpseln im Ohr](img/Daten.png "Bildquelle: von Rilson S. Avelar auf Pixabay, https://pixabay.com/de/illustrations/ignoranz-hoffart-befangenheit-1993615/")
+
+Das letzte Kapitel dieses Abschnitts betrachtet Möglichkeiten und Ideen, wie der Umgang mit Daten verbessert werden kann.
+
+**Lernziele** des Abschnitts *08 Daten und Maschinelles Lernen*:
+
+* Sie können verschiedene Verständnisweisen des Begriffs *Objektivität* nennen.
+* Sie wissen, warum objektiv-ethisch urteilende Maschinen und Algorithmen nicht möglich sind und können es begründen.
+* Sie kennen mehrere (ethisch) problematische Aspekte von *Ghost Work*.
+* Sie haben Verstanden, was unter dem Begriff *Bias* verstanden wird.
+* Sie können folgenden Satz erläutern: "Maschinelles Lernen ist konservativ."
+* Sie sind in der Lage rauszufinden, ob eine datengetriebene Lösung für ein Problem Sinn ergibt.
+
+### Vorbereitungsaufgabe
+
+* [negativewords.txt](https://cloud.rz.uni-kiel.de/index.php/s/RW45JTFXj3qdqJG)
+* [positivewords.txt](https://cloud.rz.uni-kiel.de/index.php/s/s3i9jW9swpQ9dLB)
+* [reviews-small.txt](https://cloud.rz.uni-kiel.de/index.php/s/mtLEjcKzP4RbEWD)
+
+**Hinweise:**
+
+1. Die Bearbeitung aller unten angegebenen Aufgaben kann je nach Vorkenntnissen deutlich mehr als eine halbe Stunde benötigen. Sollten Sie nur wenig Zeit zur Verfügung haben, dann lesen Sie sich den gesamten Text durch, bearbeiten aber nur Teil 5!
+2. Für die Bearbeitung der Aufagben werden zusätzliche Dateien benötigt, die sie oben finden.
+
+> Willkommen zu Ihrem ersten Arbeitstag bei Mamazon, dem innovativen Technologieunternehmen. Hier bei Mamazon möchten wir so viel wie möglich von unseren Kunden erfahren, um sicherzustellen, dass sie mit unseren Produkten zufrieden sind. Um dies zu erreichen, möchten wir alle Bewertungen analysieren, die für jedes Produkt abgegeben werden. Unser Ziel ist es, den von Ihnen dazu entwickelten Algorithmus so zu nutzen, dass wir Produkte mit mehr positiven Bewertungen pushen können, indem wir sie in den Suchergebnissen höher platzieren. Für alle Produkte mit mehr negativen Bewertungen können wir Ihren Algorithmus nutzen, um diese abzustrafen, indem wir sie in den Suchergebnissen niedriger darstellen.
+
+**Teil 1**
+
+Für einen guten Start in das Projekt werden Sie eine Funktion "totalReviewSentiment" schreiben, die die Stimmung (engl. sentiment) von Mamazon-Bewertungen analysieren kann. Dazu stehen Ihnen zwei Textdateien zur Verfügung (Ordner: data): positivewords.txt und negativewords.txt. Sie beginnen mit der Erstellung je eines "Wörterbuchs" (irgendeine Art von assoziativem Array, bspw. ein Python Dict oder eine Java HashMap) für alle positiven  und negativen Wörter. Notieren Sie für jede der Mamazon-Bewertungen, wie viele positive und wie viele negative Wörter Sie finden.
+
+Ihre Funktion erhält drei Parameter: positiveWordFile, negativeWordFile und reviewsFile. Es handelt sich dabei um Strings, die jeweilse den Namen dieser Dateien darstellen. Ihre Funktion muss folgende Aufgaben erfüllen:
+
+1. Die Wörterbücher zum Speichern der positiven und negativen Wörter erstellen.
+2. Öffnen und Lesen der Bewertungsdatei.
+3. Analysieren aller Wörter in der Datei.
+4. Zählen, wie viele positive und negative Wörter enthalten sind.
+5. Ausgabe der Anzahl der positiven und negativen Wörter aus.
+6. Ausgabe eines Strings, aus dem hervorgeht, ob die Mehrheit der Bewertungen positiv oder negativ war. Wenn es mehr positive Bewertungen gibt, wird "The Reviews are Mostly Positive" zurückgegeben. Wenn es mehr negative Bewertungen gibt, wird "The Reviews are Mostly Negative" zurückgegeben.
+
+**Hinweis:** Je nachdem, wie weit Sie in Ihrem Studium sind haben oder haben Sie noch nicht über Techniken wie stopword removal, stemming, bag of words, etc. gehört, die in diesem Fall zum Einsatz gebracht werden könnten. Es steht Ihnen frei diese Techniken zu nutzen, allerdings wird nur eine einfache Lösung erwartet und die Musterlösung entsprechend gestalltet sein. Keep it simple!
+
+**Teil 2**
+
+Versuchen Sie, Ihre Funktionen mit Hilfe von Funktionsdekomposition in mehrere kleinere Unterfunktionen zu zerlegen, die jeweils für eine Aufgabe zuständig sind. Erstellen Sie eine "Hauptfunktion", die alle Ihre Unterfunktionen aufruft, um die gleichen Ergebnisse wie in Teil 1 zu erzielen.
+
+**Teil 3**
+
+Erstellen Sie nun eine Funktion, die die Stimmung einer einzelnen Mamazon-Bewertung analysiert. Diese Funktion nimmt eine String review und berechnet die Stimmung. Dazu erhält die Funktion als weitere Parameter posWordsDict und negWordsDict, die jeweils die schon bekannten Wörterbücher mit positiven und negativen Wörtern enthalten.
+
+Um die Stimmung zu berechnen, berechnen Sie zunächst nur die positive Stimmung. Diese kann berechnet werden, indem die Anzahl der positiven Wörter durch die Anzahl der positiven * negativen Wörter einer Rezension geteilt wird.
+
+Beispiel 1: In einer Review tauchen 3 positive und 2 negative Wörter auf. Der Wert für die positive Stimmung wäre dann Anzahl der positiven Wörter / Anzahl der positiven * negativen Wörter --> 3/5 --> 0.6
+
+Beispiel 2: In einer Review tauchen 6 positive und 12 negative Wörter auf. Der Wert für die positive Stimmung wäre dann Anzahl der positiven Wörter / Anzahl der positiven * negativen Wörter --> 6/18 --> 0.33
+
+(Daraus ergibt sich, dass der Wert für die negative Stimmung 1 - positive Stimmung ist.)
+
+Wir gehen davon aus, dass eine Review gut ist, wenn ihre positive Stimmung > 0.5 ist. Berechnen Sie den Anteil der guten von allen Reviews aus der reviews.txt-Datei.
+
+**Teil 4**
+
+Viele Hacker und Hersteller von Produkten für Mamazon haben herausgefunden, wie sie unseren Algorithmus austricksen können. Sie haben verschiedene Wege gefunden, um ihre Produkte in unserem Empfehlungsalgorithmus weiter nach oben zu bringen. Einer davon ist das Verfassen von gefälschten Bewertungen, die unser Algorithmus für positiv hält (auch wenn sie nicht echt sind).
+
+Um sich auf diese Art von Tricksereien vorzubereiten, schlüpfen wir in die Rolle des Hackers. Versuchen Sie, mehrere Beispiele für Bewertungen zu finden, die Sie in Ihre obige Funktion eingeben können, die für einen Menschen "positiv" erscheinen, für Ihren Algorithmus aber "negativ" sind und umgekehrt. Welche interessanten Trends stellen Sie fest? Wie haben Sie herausgefunden, wie Sie den Algorithmus "austricksen" können?
+
+**Teil 5**
+
+a) Reflektieren und bewerten Sie den hier vorgestellten Ansatz Stimmungen anhand von vorgegebenen Wörterbüchern zu bestimmen: Wo hat dieser Ansatz Grenzen? Können Sie sich andere Methoden vorstellen, die besser funktionieren und wo haben diese Grenzen?
+
+b) Ist es überhaupt sinnvoll Stimmungen in dieser Art zu bewerten? Was geht dadurch verloren?
+
+c) Sind die in diesem Beispiel verwendeten Daten "objektiv"? Falls ja: Was macht sie zu objektiven Daten? Falls nein: Was verhindert ihre Objektivität?
+
+### 08-01 Objektivität
+
+<iframe title="08-01 Objektivität" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/9426a3fd3fd44ae1b6d50bcabbcf433a1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/9426a3fd3fd44ae1b6d50bcabbcf433a1d)
+
+[Folien: Objektivität](https://cloud.rz.uni-kiel.de/index.php/s/9c9SXxRP8a3iia3)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+Objektivität ist schwer bis gar nicht zu erreichen.
+
+  [(X)] Wahr
+  [( )] Falsch
+
+Deshalb kann Objektivität in der Informatik vernachlässigt werden.
+
+  [( )] Wahr
+  [(X)] Falsch
+
+Objektiv (moralisch)- urteilende Maschinen oder Algorithmen sind möglich, da sie nicht wie Menschen innerhalb von Werte- und Normgebilden aufwachsen.
+
+  [( )] Wahr
+  [(X)] Falsch
+
+Normative Schlüsse sind niemals objektiv, da sie normative Prämissen und damit auch Werteurteile erfordern.
+
+  [(X)] Wahr
+  [( )] Falsch
+
+### 08-02 Woher kommen eigentlich die Daten?
+
+<iframe title="08-02 Woher kommen eigentlich die Daten?" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/ac1d3da55dd4490aaa3a0ab0bb37f8f41d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/ac1d3da55dd4490aaa3a0ab0bb37f8f41d)
+
+[Folien: Woher kommen eigentlich die Daten?](https://cloud.rz.uni-kiel.de/index.php/s/jy7Ez2semPzLtrW)
+
+---
+
+                           {{1}}
+**Quiz**
+
+Welche der Aussagen über "Ghost Worker" sind richtig?
+
+  [[ ]] Datenkontrolle von Verbraucherschutzportalen.
+  [[X]] Sie erstellen und verifizieren Trainingsdaten für Maschinelles Lernen.  
+  [[X]] Sie erledigen Moderationsarbeiten in sozialen Netzwerken.
+  [[X]] Sie werden für ihre Arbeit meist sehr schlecht bezahlt.
+  [[ ]] Sie werden von den Firmen fest angestellt.
+  [[X]] Es gibt weltweit ca. 100 Millionen Ghost Worker.
+  [[ ]] Ca. 10% von ihnen haben einen Bachelor- oder höheren Abschluss.
+  [[X]] Sie werden erst nach Erledigung der Arbeit bezahlt (unabhängig vom Aufwand).
+
+
+### 08-03 Reduktion, Verzerrungen und Präferenzenstarrheit
+
+<iframe title="08-03 Reduktion, Verzerrungen und Präferenzenstarrheit" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/b2ae583e999a47168b1fe1988c2eace81d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/b2ae583e999a47168b1fe1988c2eace81d)
+
+[Folien: Reduktion, Verzerrungen und Präferenzenstarrheit](https://cloud.rz.uni-kiel.de/index.php/s/Hr2N4HWPykbn2Wp)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+Welche Aussagen über Bias im Kontext von Machine Learning sind richtig?
+
+  [[X]] Systematische Verzerrung durch einen Algorithmus.
+  [[ ]] Firmware, die von ihrem Betriebssystem geladen wird.
+  [[X]] Maschinelle Bevorzugung von einzelnen Individuen oder Gruppen durch einen Algorithmus.
+  [[ ]] Bias kann nicht unvorhergesehen auftreten und ist immer gewollt.
+  [[X]] Es ist unklar, wie sich Bias in Daten verhindern lässt.
+  [[X]] Bias legitimiert sich selbst und verstärkt sich dadurch, dass Algorithmen menschliches Verhalten nachbilden und imitieren.
+  [[ ]] Abstraktion von Daten ist neutral und kann keine Ursache für Bias sein.
+  [[X]] Maschinelles Lernen ist konservativ.
+
+
+### 08-04 Wie machen wir es besser?
+
+<iframe title="08-04 Wie machen wir es besser?" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/c9287cd3e62549ce92a34d3af46569041d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/c9287cd3e62549ce92a34d3af46569041d)
+
+[Folien: Wie machen wir es besser?](https://cloud.rz.uni-kiel.de/index.php/s/dZ5ExBSbHJ9sySE)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+Wie kann Bias in einem Machine-Learning-Modell reduziert werden?
+
+  [[X]] Durch Erhöhung der Menge an Trainingsdaten.
+  [[ ]] Durch Erhöhung der Komplexität des Modells.
+  [[X]] Durch Erhöhung der Vielfalt der Trainingsdaten.
+  [[X]] Durchführung von Abgleichtests, um sicherzustellen, dass das Modell für verschiedene Bevölkerungsgruppen und Untergruppen genau ist.
+  [[X]] Durchführung von Benutzertests, um sicherzustellen, dass das Modell in der Praxis fair und angemessen ist.
+  [[ ]] Ignorieren von Feedback und Beschwerden von Benutzern bezüglich möglicher Bias im Modell.
+  [[X]] Einbindung von Experten aus unterschiedlichen Bereichen, um mögliche Bias im Modell zu identifizieren und zu korrigieren.
+
+Für welche der folgenden Probleme lässt sich eine sinnvolle datengetriebene Lösung finden?
+
+  [[X]] Verbesserung des Verkehrsfluss in Städten
+  [[ ]] Persönliche Konflikte in Familien oder Beziehungen
+  [[X]] Verringerung des CO2-Fußabdrucks von Unternehmen
+  [[X]] Verbesserung der Patientenversorgung in Krankenhäusern
+  [[ ]] Entscheidungen bezüglich der Erziehung von Kindern
+  [[ ]] Kreatives Schreiben oder Kunst
+
+
+### Quellen und vertiefende Literatur
+
+* Benjamin, Ruha. 2019. Race After Technology: Abolitionist Tools for the New Jim Code. Wiley.
+* Benjamin, Walter, Rolf Tiedemann, and Theodor W. Adorno. 1992. Sprache und Geschichte: Philosophische Essays. Stuttgart: Reclam, Philipp, jun. GmbH, Verlag.
+* D’Ignazio, Catherine, and Lauren F. Klein. 2020. Data Feminism. The MIT Press.
+* Doctorow, Cory. 2020. How to Destroy ["Surveillance Capitalism."](https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59) Medium. OneZero.
+* Gebru, Timnit, Jamie Morgenstern, Briana Vecchione, Jennifer Wortman Vaughan, Hanna Wallach, Hal Daumé III au2, and Kate Crawford. 2020. [“Datasheets for Datasets.”](https://cacm.acm.org/magazines/2021/12/256932-datasheets-for-datasets/fulltext)
+* L. Gray, Mary, and Siddharth Suri. 2019. Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass. Mariner Books.
+* Mattu, Jeff Larson, Lauren Kirchner, Surya, Julia Angwin. 2016. [“Machine Bias.”](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) ProPublica.
+* McClelland, Cary. 2019. Silicon City: San Francisco in the Long Shadow of the Valley. Reprint. S.l.: W W NORTON & CO.
+* Mitchell, Margaret, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Ben Hutchinson, Elena Spitzer, Inioluwa Deborah Raji, and Timnit Gebru. 2019. [“Model Cards for Model Reporting.”](https://doi.org/10.1145/3287560.3287596.) In Proceedings of the Conference on Fairness, Accountability, and Transparency, 220–29. FAT* ’19. New York, NY, USA: Association for Computing Machinery.
+* Reiss, Julian, and Jan Sprenger. 2020. [“Scientific Objectivity.”](Https://plato.stanford.edu/archives/win2020/entries/scientific-objectivity/) In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Winter 2020. Metaphysics Research Lab, Stanford University.
+* Washington, Anne L. 2019. [“How to Argue with an Algorithm: Lessons from the COMPAS ProPublica Debate.”](https://papers.ssrn.com/abstract=3357874) Rochester, NY: Social Science Research Network.
+* Weinberg, Justin. 2020. “Philosophers On GPT-3 (updated with replies by GPT-3).” DailyNous.com.
+* Zuboff, Shoshana. 2018. Das Zeitalter des Überwachungskapitalismus. Frankfurt am Main: Campus Verlag.
+
+Weitere Ressourcen: 
+
+* [FiveThirtyEight: Sience Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/#part1)
+* [The Guardian: How Cambridge Analytica turned Facebook ‘likes’ into a lucrative political tool](https://www.theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm)
+* Auf Kartenprojektionen.de kann man verschiedene Projektionen miteinander vergleichen.
+* [XKCD](https://xkcd.com/977/) über Kartenprojektionen und was sie über dich (!) aussagen.
+* [BR24: OBJECTIVE OR BIASED. On the questionable use of Artificial Intelligence for job applications.](https://interaktiv.br.de/ki-bewerbung/en/)
+* ["Redlining" in den USA: Wie Wohnungspolitik rassistische Diskriminierung verschärft hat](https://www.deutschlandfunkkultur.de/redlining-in-den-usa-wie-wohnungspolitik-rassistische-100.html) Beitrag beim Deutschlandfunk.
+* Jackson, Candace. 2021. ["What is Redlining?"](https://www.nytimes.com/2021/08/17/realestate/what-is-redlining.html) The New York Times.
 
 ## Anhang
 
@@ -1153,8 +1380,10 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Autonomie                        | 05-01, 05-03                                                                |
 | Begriff(e)                       | 03-04, 05-01                                                                |
 | Bezeichner                       | 05-01                                                                       |
+| Bias                             | 08-03                                                                       |
 | *chilling effects*               | 07-01                                                                       |
 | *critical thinking*              | 03-01, 03-02                                                                |
+| *data sheets*                    | 08-04                                                                       |
 | Demokratiedefizit                | 04-02                                                                       |
 | Deontologie                      | 04-01                                                                       |
 | Dilemma                          | 04-02, 05-02                                                                |
@@ -1169,6 +1398,7 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | – Theorien                       | 04-01                                                                       |
 | Fallstudien                      | 02-03                                                                       |
 | Gedankenexperiment               | 04-02, 05-01                                                                |
+| *ghost work*                     | 08-02                                                                       |
 | Handlungsbegründung              | 04-03                                                                       |
 | Informatik                       | 01-02                                                                       |
 | Interesse                        | 05-03                                                                       |
@@ -1181,9 +1411,11 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | large language models (LLMs)     | 02-02                                                                       |
 | Meta-Ethik                       | 01-03                                                                       |
 | Mittel                           | 05-02                                                                       |
+| *model cards*                    | 08-04                                                                       |
 | Moral                            | 01-03                                                                       |
 | Naturalistischer Fehlschluss     | 03-02                                                                       |
 | Norm                             | 05-03                                                                       |
+| Objektivität                     | 08-01                                                                       |
 | Panoptismus                      | 07-01                                                                       |
 | Paragraphing                     | 03-03                                                                       |
 | Pflichtethik                     | s. Deontologie                                                              |
@@ -1192,16 +1424,19 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Privatsphäre                     | 07-01                                                                       |
 | Problem der vielen Hände         | 06-02                                                                       |
 | *reasonable rejection test*      | 04-03                                                                       |
+| Reduktion(ismus)                 | 08-03                                                                       |
 | *responsibility gap*             | s. Verantwortungslücke                                                      |
 | Sicherheit                       | 07-03                                                                       |
 | Stakeholder                      | 02-02                                                                       |
 | – direkte/indirekte Stakeholder  | 02-02                                                                       |
 | – Stakeholderanalyse             | 02-03                                                                       |
+| *surveillance capitalism*        | s. Überwachungskapitalismus                                                 |
 | Syllogismus                      | 03-02                                                                       |
 | – praktischer Syllogismus        | 03-02                                                                       |
 | Transparenz                      | 07-02                                                                       |
 | Toulmin-Schema                   | 03-02                                                                       |
 | Tugendethik (Virtue ethics)      | 04-01                                                                       |
+| Überwachungskapitalismus         | 08-02                                                                       |
 | Utilitarismus                    | 04-01                                                                       |
 | Verantwortung                    | 06-01, 06-02, 06-03, 06-04                                                  |
 | – Gestaltungsverantwortung       | 06-03, 06-04                                                                |
