@@ -409,6 +409,17 @@ Wir argumentieren um...
   [[X]] den Weg zu ethischen Schlüssen zu erläutern 
   [[ ]] Pluralität aus dem Weg zu gehen 
 
+Was bedeutet es, Recht zu haben?
+
+  [[X]] In der Informatik zum Beispiel, eine Aussage beweisen zu können.
+  [[ ]] Eine allgemeingültige Wertaussage zu treffen.
+  [[X]] Schlüssig zu argumentieren, da es nicht immer eine Wahrheit gibt.
+
+Das "Principle of Charity" meint, dass...
+
+  [[ ]] ...wir auch mal anderen Leuten recht geben sollten, damit sie sich wohl fühlen.
+  [[X]] ...wir Aussagen nicht absichtlich falsch verstehen.
+
 ### 03-02 Strukturiertes denken
 
 <iframe title="03-02 Strukturiertes denken" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/088bc05bde274eefa89a8681ea1d90ac1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
@@ -499,6 +510,20 @@ Welche der folgenden Vorteile bietet das Rogerian Argument gegenüber anderen Ar
   [[X]] Konsensorientierung hilft verschiedene Positionen anzunähern.
   [[ ]] Es ist besonders geeignet für kürzere Meinungsbeiträge.
   [[X]] Es erleichtert das Einnehmen der Gegenposition durch vorherige Annäherung.
+
+Wie hilft uns das Paragraphing beim Texte schreiben?
+
+  [[X]] Ermöglicht die Überführung des Toulmin Schemas in einen Absatz.
+  [[ ]] Es erklärt, dass ein Text aus Paragraphen besteht.
+  [[X]] Es gibt uns eine grobe Struktur (Topic sentence - supporting sentence - concluding sentence) vor.
+  [[ ]] Es gibt uns eine grobe Struktur (Topic sentence - supporting sentence - true sentence) vor.
+
+Vom Toulmin-Schema zum Paragraphen:
+
+  [[ ]] Unser Claim steht im Topic sentence.
+  [[ ]] Das Backing bildet den concluding sentence.
+  [[ ]] Warrents/Schlussregeln müssen nicht aufgeschrieben werden, sie gelten im Hintergrund.
+  [[X]] Keine der obigen Aussagen stimmt.
 
 ### 03-04 Ethische Texte lesen und verstehen
 
