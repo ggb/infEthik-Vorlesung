@@ -972,7 +972,23 @@ Informieren Sie sich über den Fall und die Fallgeschichte des Therac-25 Linearb
                            {{1}}
 **Quiz**
 
-**Folgt in Kürze...**
+Wann gilt eine Person nach Lenk und Ropohl als verantwortlich?
+
+  [[X]] Die Person hat selbst gehandelt.
+  [[ ]] Die Person hat vorher einen Artikel darüber gelesen.
+  [[ ]] Die Person musste so handeln.
+  [[X]] Die Person hatte die Möglichkeit, relevante Normen und Werte zu kennen.
+
+Was ist Verantwortungsattribution?
+
+  [[ ]] Die Verteilung von Verantwortung auf Einzelpersonen, die für ein Geschehen verantwortlich sind.
+  [[X]] Die Zuweisung von Verantwortung zu einer Person(-engruppe), die an Bedingungen geknüpft ist.
+
+Wann gilt eine Person nach Matthias als verantwortlich?
+
+  [[X]] Die Person wurde nicht gezwungen.
+  [[ ]] Die Person kann keine Gründe für ihr Handeln nennen.
+  [[X]] Die Person kann für ihre Handlungen Lob oder Tadel empfangen.
 
 ### 06-02 Probleme des Verantwortungsbegriffs
 
@@ -989,7 +1005,31 @@ Informieren Sie sich über den Fall und die Fallgeschichte des Therac-25 Linearb
                            {{1}}
 **Quiz**
 
-**Folgt in Kürze...**
+Was ist eine Verantwortungslücke?
+
+  [[X]] Sie entsteht, wenn keiner beteiligten Person zugeschrieben werden kann, Kontrolle zu haben.
+  [[ ]] Sie entsteht, wenn keiner beteiligten Person zugeschrieben werden kann, Bescheid zu wissen.
+  [[ ]] Sie entsteht, wenn keiner beteiligten Person zugeschrieben werden kann, frei zu sein.
+
+Hierbei handelt es sich um ein Problem der vielen Hände:
+
+  [[ ]] Das Entwicklerteam hat nicht bedacht, dass ihr Programm einen weiteren Use Case hat.
+  [[X]] Die Entwickelnden wissen nicht, was genau das Endprodukt sein wird.
+  [[X]] Der Entwickler einer Funktion ist unbesorgt, seine wird im Endprodukt nicht direkt zum Problem führen.
+  [[ ]] Die Entwicklerin ist unbesorgt, solange alles so angewandt wird, wie sie denkt, gibt es keine Probleme.
+
+Zu welchem Problem gehören die anderen beiden Fälle, der oberen Frage?
+ 
+  [[ ]] Bugs sind (nicht) unvermeidlich
+  [[ ]] Der Computer als Sündenbock
+  [[X]] Dual Use
+
+Was ist problematisch an unserem Umgang mit Bugs?
+
+  [[ ]] Die Produkte funktionieren schlechter, das wirkt sich negativ auf den Ruf der Firma aus.
+  [[X]] Sie sind etwas ganz natürliches und gehören zum Code dazu.
+  [[ ]] Wie echte Käfer können sie sich vermehren und sollten deshalb früh gefangen werden.
+  [[X]] Da sie unvermeidlich sind, lohnen sich Schutzvorkehrungen kaum.
 
 ### 06-03 Erweiterung(en) des Verantwortungsbegriffs
 
@@ -1005,7 +1045,25 @@ Informieren Sie sich über den Fall und die Fallgeschichte des Therac-25 Linearb
                            {{1}}
 **Quiz**
 
-**Folgt in Kürze...**
+Welche Arten von Verantwortung werden vorgestellt?
+
+  [[X]] Nutzungsverantwortung
+  [[ ]] Wissendenverantwortung
+  [[X]] Gestaltungsverantwortung
+  [[X]] Rechenschaftsverantwortung
+  [[ ]] Zeugenverantwortung
+
+Über Verantwortung gilt...
+
+  [[X]] … dass sie nicht binär ist.
+  [[ ]] … dass nur eine Person verantwortlich sein kann.
+  [[ ]] … dass es Intentionalität braucht.
+
+Wie wird dem Dual Use Problem entgegengewirkt?
+
+  [[ ]] Jedes Gerät darf nur auf die vorhergesehene Art genutzt werden.
+  [[X]] Nutzung und Design werden entkoppelt, beide können Verantwortung tragen.
+  [[ ]] Eine umfassendere Testung soll auf alle möglichen Probleme aufmerksam machen.
 
 ### 06-04 Methode zur Verantwortungsattribution
 
@@ -1021,7 +1079,30 @@ Informieren Sie sich über den Fall und die Fallgeschichte des Therac-25 Linearb
                            {{1}}
 **Quiz**
 
-**Folgt in Kürze...**
+Welche Dimension ist gesucht? (Kausale Beteiligung, Entscheidungsmacht, Nutzung, Betroffenheit)
+
+Der Akteur hat zu Entstehung der Situation beigetragen.
+
+  [[Kausale Beteiligung]]
+
+Der Akteur nutzt das System.
+
+  [[Nutzung]]
+
+Der Akteur konnte das System gestalten und verändern.
+
+  [[Entscheidungsmacht]]
+
+Der Akteur trägt die Konsequenzen.
+
+  [[Betroffenheit]]
+
+Was sollte man sich in der Reflexion fragen?
+
+  [[ ]] Habe ich alle Werte gefunden?
+  [[X]] Welche Vorannahmen habe ich getroffen?
+  [[X]] Wurden die unsichtbaren Stakeholder in die Kartierung aufgenommen?
+  [[ ]] Was folgt ökonomisch?
 
 ### Quellen und vertiefende Literatur
 
