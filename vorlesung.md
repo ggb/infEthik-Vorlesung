@@ -1387,6 +1387,107 @@ Weitere Ressourcen:
 * ["Redlining" in den USA: Wie Wohnungspolitik rassistische Diskriminierung verschärft hat](https://www.deutschlandfunkkultur.de/redlining-in-den-usa-wie-wohnungspolitik-rassistische-100.html) Beitrag beim Deutschlandfunk.
 * Jackson, Candace. 2021. ["What is Redlining?"](https://www.nytimes.com/2021/08/17/realestate/what-is-redlining.html) The New York Times.
 
+## 09 Demokratie und Governance
+
+![Bild von einer Demonstration. Ein Mann trägt ein Schild mit der Aufschrift: Every Day is Future](img/markus-spiske-p2Xor4Lbrrk-unsplash.jpg 'Foto von <a href="https://unsplash.com/de/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> auf <a href="https://unsplash.com/de/fotos/menschen-auf-der-strasse-p2Xor4Lbrrk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>')
+
+**Lernziele** des Abschnitts *09 Demokratie und Governance*:
+
+*
+
+### Vorbereitungsaufgabe
+
+Lesen Sie zur Vorbereitung auf die nächste Woche den ["Ethischen Kompass für Informatik-Fachleute"](https://gi.de/fileadmin/GI/Allgemein/PDF/GI_Ethischer_Kompass.pdf) der GI! 
+
+### 09-01 Demokratie und Gesellschaft
+
+<iframe title="09-01 Demokratie und Gesellschaft" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/2847c8002e734108846ffc13f0045afe1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/2847c8002e734108846ffc13f0045afe1d)
+
+[Folien: Demokratie und Gesellschaft](https://cloud.rz.uni-kiel.de/index.php/s/6mT2KWCDK4A23cX)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+Quizfragen folgen... 
+
+### 09-02 Governance und Gesellschaften
+
+<iframe title="09-02 Governance und Gesellschaften" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/2c128b290f924a82955586b8135a9d561d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/2c128b290f924a82955586b8135a9d561d)
+
+[Folien: Governance und Gesellschaften](https://cloud.rz.uni-kiel.de/index.php/s/LaPQddjnr4BRJ8t)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+Quizfragen folgen... 
+
+### 09-03 Digitale Teilhabe und *digital divide*
+
+<iframe title="09-03 Digitale Teilhabe und *digital divide*" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/26016ad78ace4dfea8c060a0b7110c1a1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/26016ad78ace4dfea8c060a0b7110c1a1d)
+
+[Folien: Digitale Teilhabe und *digital divide*](https://cloud.rz.uni-kiel.de/index.php/s/rMDiWDCq4WiBA82)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+Quizfragen folgen... 
+
+### 09-04 (Optional) Beutelsbacher Konsens
+
+<iframe title="09-04 Beutelsbacher Konsens" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/29855a92874246f187773bbdfc9d12dc1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/29855a92874246f187773bbdfc9d12dc1d)
+
+[Folien: Beutelsbacher Konsens](https://cloud.rz.uni-kiel.de/index.php/s/SCR6Q9BfcJwQXk9)
+
+---
+
+
+                           {{1}}
+**Quiz**
+
+Quizfragen folgen... 
+
+
+### Quellen und vertiefende Literatur
+
+* Brey, Philip. 2000. “Disclosive Computer Ethics.” ACM SIGCAS Computers and Society 30 (4): 10–16. https://doi.org/10.1145/572260.572264.
+* Dijk, Jan A. G. M. van. 2006. “Digital Divide Research, Achievements and Shortcomings.” Poetics 34 (4-5): 221–35. https://doi.org/10.1016/j.poetic.2006.05.004.
+* European Union., European Commission. Statistical Office of the. 2025. Eurostat Regional Yearbook: 2025 Edition. LU: Publications Office. https://doi.org/10.2785/5478134.
+* Fabio, Udo Di, ed. 2025. Grundgesetz. 55. Auflage, Stand: 11. August 2025, Sonderausgabe. Dtv 5003. [München]: C.H. Beck.
+* Forst, Rainer. 1999. “The Basic Right to Justification: Towards a Constructivist Conception of Human Rights.” Constellations 6 (1): 35–60. https://doi.org/10.1111/1467-8675.00119.
+* Li, Renee, Pavitthra Pandurangan, Hana Frluckaj, and Laura Dabbish. 2021. “Code of Conduct Conversations in Open Source Software Projects on Github.” Proc. ACM Hum.-Comput. Interact. 5 (CSCW1). https://doi.org/10.1145/3449093.
+* Markus, M Lynne. 2007. “The Governance of Free/Open Source Software Projects: Monolithic, Multidimensional, or Configurational?” Journal of Management & Governance 11 (2): 151–63.
+* Nussbaum, Martha Craven. 2013. Creating Capabilities: The Human Development Approach. First Harvard University Press paperback edition. Cambridge, Massachusetts: The Belknap Press of Harvard University Press.
+* Sen, Amartya. 2020. Ökonomie Für Den Menschen: Wege Zu Gerechtigkeit Und Solidarität in Der Marktwirtschaft. 2. Aufl. München: Hanser.
+* Shklar, Judith N. 2020. Der Liberalismus Der Furcht. Edited by Axel Honneth, Michael Walzer, Seyla Benhabib, Bernard Williams, and Hannes Bajohr. Dritte Auflage. Berlin: Matthes & Seitz.
+* Tourani, Parastou, Bram Adams, and Alexander Serebrenik. 2017. “Code of Conduct in Open Source Projects.” In 2017 IEEE 24th International Conference on Software Analysis, Evolution and Reengineering (SANER), 24–33. https://doi.org/10.1109/SANER.2017.7884606.
+* Wehling, Hans-Georg. 2016. “Konsens à La Beutelsbach? Nachlese Zu Einem Expertengespräch.” Widmaier, B./Zorn, P, 19–27.
+* Zuboff, S. 2019. The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. PublicAffairs. https://books.google.de/books?id=Xbg9jgEACAAJ.
+
+Weitere Ressourcen:
+
+* [The Guardian: We’re all connected now, so why is the internet so white and western?](https://www.theguardian.com/commentisfree/2017/oct/05/internet-white-western-google-wikipedia-skewed)
+* [Contributor Covenant: A Code of Conduct for Digital Communities](https://www.contributor-covenant.org/)
+* [Django Code of Conduct](https://www.djangoproject.com/conduct/)
+* [Python Software Foundation Code of Conduct](https://policies.python.org/python.org/code-of-conduct/)
+* [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+
 ## Anhang
 
 ### Index
@@ -1406,11 +1507,16 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Begriff(e)                       | 03-04, 05-01                                                                |
 | Bezeichner                       | 05-01                                                                       |
 | Bias                             | 08-03                                                                       |
+| *capability approach*            | 09-03                                                                       |
 | *chilling effects*               | 07-01                                                                       |
+| *code of conduct*                | 09-02                                                                       |
 | *critical thinking*              | 03-01, 03-02                                                                |
 | *data sheets*                    | 08-04                                                                       |
-| Demokratiedefizit                | 04-02                                                                       |
+| Demokratie                       | 09-01, 09-02, 09-03                                                         |
+| – Demokratiedefizit              | 04-02                                                                       |
 | Deontologie                      | 04-01                                                                       |
+| *digital divide*                 | 09-03                                                                       |
+| Digitale Teilhabe                | 09-03                                                                       |
 | Dilemma                          | 04-02, 05-02                                                                |
 | – Heinz-Dilemma                  | 04-03                                                                       |
 | – Trolley-Dilemma                | 04-02                                                                       |
@@ -1424,6 +1530,8 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Fallstudien                      | 02-03                                                                       |
 | Gedankenexperiment               | 04-02, 05-01                                                                |
 | *ghost work*                     | 08-02                                                                       |
+| Governance                       | 09-02                                                                       |
+| – *project governance*           | 09-02                                                                       |
 | Handlungsbegründung              | 04-03                                                                       |
 | Informatik                       | 01-02                                                                       |
 | Interesse                        | 05-03                                                                       |
@@ -1433,7 +1541,8 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | – Wertekonflikt                  | 05-03                                                                       |
 | – Zielkonflikt                   | 05-02                                                                       |
 | Konsequentialismus               | 04-01                                                                       |
-| large language models (LLMs)     | 02-02                                                                       |
+| *large language models* (LLMs)   | 02-02                                                                       |
+| Leitlinien                       | 09-02                                                                       |
 | Meta-Ethik                       | 01-03                                                                       |
 | Mittel                           | 05-02                                                                       |
 | *model cards*                    | 08-04                                                                       |
@@ -1444,6 +1553,7 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Panoptismus                      | 07-01                                                                       |
 | Paragraphing                     | 03-03                                                                       |
 | Pflichtethik                     | s. Deontologie                                                              |
+| Pluralismus                      | 09-01, 09-02, 09-03                                                         |
 | *principle of charity*           | 03-01                                                                       |
 | Privatheit                       | 07-01                                                                       |
 | Privatsphäre                     | 07-01                                                                       |
@@ -1461,7 +1571,7 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Transparenz                      | 07-02                                                                       |
 | Toulmin-Schema                   | 03-02                                                                       |
 | Tugendethik (Virtue ethics)      | 04-01                                                                       |
-| Überwachungskapitalismus         | 08-02                                                                       |
+| Überwachungskapitalismus         | 08-02, 09-01                                                                |
 | Utilitarismus                    | 04-01                                                                       |
 | Verantwortung                    | 06-01, 06-02, 06-03, 06-04                                                  |
 | – Gestaltungsverantwortung       | 06-03, 06-04                                                                |
@@ -1478,6 +1588,7 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | – Werturteil                     | 05-03                                                                       |
 | Wissenschaft                     | 01-02                                                                       |
 | – Strukturwissenschaft           | 01-02                                                                       |
+| – wissenschaftliche Gesellschaften | 09-02                                                                      |
 | Ziel(e)                          | 05-02                                                                       |
 |                                  |                                                                             |
 
