@@ -1494,7 +1494,40 @@ Lesen Sie zur Vorbereitung auf die nächste Woche den ["Ethischen Kompass für I
                            {{1}}
 **Quiz**
 
-Quizfragen folgen... 
+Was sind Bestandteile der Demokratie?
+
+  [[ ]] Machtkonzentration nur, wenn keine Rechenschaft gegeben werden muss
+  [[X]] Minderheitenschutz vor dem Willen der Mehrheit
+  [[X]] gleicher Zugang zu öffentlichen Gütern und Ressourcen
+  [[ ]] Mehrere mögliche Lebenswege stehen zur Auswahl
+
+Mehrheitsentscheide vs. Minderheitenschutz
+
+  [[ ]] Minderheitenschutz führt zur Oligarchie.
+  [[X]] Minderheitenschutz kann mit Mehrheitsentscheiden koexistieren.
+
+Das gilt über Rechtfertigungen:
+
+  [[X]] Jede Person hat ein Recht auf Gründe für Entscheidungen, die sie betreffen.
+  [[ ]] Erst eine Rechtfertigung macht eine Person zum Objekt eines Willen.
+  [[X]] Gegebene Gründe müssen vernünftig sein.
+
+Das gilt über Liberalismus der Furcht:
+
+  [[ ]] Furch vor staatlicher Grausamkeit hilft den Bürger*innen, sich richtig zu verhalten.
+  [[X]] Ökonomische Macht ist auch Macht und kann genauso zum Problem werden, wie staatliche Macht.
+
+Das gilt über Surveillance Capitalism
+
+  [[ ]] Der Staat kontrolliert digitale Infrastruktur.
+  [[X]] Die Sammlung von Daten ist ein Geschäftsmodell.
+  [[X]] Meinungsbildung beruht auf Informationen, die nun durch Benutzer*innenprofile gesteuert werden können.
+
+Digitale Demokratisierung kann...
+
+  [[X]] … niedrigschwellige Partizipation ermöglichen.
+  [[X]] … Transparenz durch investigativem Journalismus ermöglichen.
+  [[ ]] … die Demokratie wieder in den Hintergrund rücken, da diese nun weniger Aufmerksamkeit braucht.
 
 ### 09-02 Governance und Gesellschaften
 
@@ -1510,7 +1543,24 @@ Quizfragen folgen...
                            {{1}}
 **Quiz**
 
-Quizfragen folgen... 
+Ethische Leitlinien und Codes of Conduct
+
+  [[ ]] Alle Informatiker*innen sollen sich Leitlinien geben.
+  [[X]] Codes of Conduct enthalten, im Gegensatz zu Leitlinien, Regeln und Konsequenzen.
+  [[X]] Beide sollen das Miteinander regeln.
+  [[X]] Proaktiv werden Mitarbeitende vor ihrer Arbeit auf den Code of Conduct hingewiesen.
+
+Was sind Aufgaben von wissenschaftlichen Gesellschaften als demokratischen Akteuren?
+
+  [[X]] Sie sind ein Gegengewicht zu kommerziellen Akteuren.
+  [[ ]] Sie sorgen dafür, dass ihre Mitglieder auf Konferenzen keine Minderheiten sein müssen.
+  [[X]] Sie vermitteln Interessen durch z.B. Stellungnahmen.
+
+Die Leitlinien der GI besagen, dass...
+
+  [[ ]] … Mitglieder mit Mut für den Schutz der Menschenwürde eintreten sollen, wenn das Gesetz es fordert.
+  [[X]] … von IT-Systemen Betroffene and der Gestaltung angemessen beteiligt werden sollen.
+  [[X]] … Mitglieder ihre Urteilsfähigkeit entwickeln sollen, um verantwortlich mitwirken zu können. 
 
 ### 09-03 Digitale Teilhabe und *digital divide*
 
@@ -1526,7 +1576,25 @@ Quizfragen folgen...
                            {{1}}
 **Quiz**
 
-Quizfragen folgen... 
+Was heißt Zugang zum Internet?
+
+  [[X]] Man muss die Fertigkeiten haben, Gerät und Software zu nutzen und daraus Informationen für ein Ziel zu beziehen.
+  [[X]] Man muss einsehen, dass es nützlich ist, das Internet zu nutzen.
+  [[ ]] Man muss es als Teil einer Gruppe machen.
+  [[X]] Man braucht ein Endgerät, einen Router, etc.
+  [[X]] Es muss passende Angebote geben, dass für mich verständlich/nutzbar sind.
+
+Typische Missverständnisse der digitalen Teilhabe
+
+  [[X]] Das Problem löst sich mit der Zeit - vielleicht für den Zugang, aber nicht für alle Dimensionen der Teilhabe (z.B. Fähigkeiten)
+  [[ ]] Es geht nur um den Internetzugang - alle Europäer*innen haben einen Zugang, sie wissen nur nicht, wie Suchmaschinen funktionieren.
+  [[X]] Das betrifft nur den globalen Süden - auch in Europa wächst das Teilhabe-Problem, wenn auch der westliche Bias im Internet bestehen bleibt.
+
+Verwirklichungschancen sind...
+ 
+  [[X]] … genauso wichtig wie Zugang zu Ressourcen.
+  [[X]] … im besten Fall nicht an Alter, Bildung, Einkommen, Behinderung, etc. gebunden.
+  [[X]] … besonders wichtig, wenn es um demokratische Grundrechte geht.
 
 ### 09-04 (Optional) Beutelsbacher Konsens
 
@@ -1542,7 +1610,19 @@ Quizfragen folgen...
                            {{1}}
 **Quiz**
 
-Quizfragen folgen... 
+Welche Regeln hat der Konsens gebracht?
+
+  [[X]] Überwältigungsverbot
+  [[X]] Was in Wissenschaft und Politik kontrovers ist, muss auch im Unterricht kontrovers erscheinen.
+  [[ ]] Der Schüler muss das Wissen erhalten, um politisch aktiv werden zu können.
+  [[X]] Der Schüler muss in die Lage versetzt werden, eine politische Situation und seine eigene Interessenslage zu analysieren.
+
+Was folgt daraus?
+
+  [[ ]] Lehrpersonen dürfen ihre Meinung nicht zeigen.
+  [[X]] Die Meinung der Lehrperson wird nur dadurch eingeschränkt, dass sie der freiheitlich-demokratischen Grundordnung folgen muss.
+  [[X]] Pluralismus ist ein demokratisches Prinzip.
+  [[X]] Das Überwältigungsverbot meint nicht, dass alle politisch neutral sind, sondern dass die politische Eigenständigkeit respektiert wird.
 
 
 ### Quellen und vertiefende Literatur
