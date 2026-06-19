@@ -1488,6 +1488,179 @@ Weitere Ressourcen:
 * [Python Software Foundation Code of Conduct](https://policies.python.org/python.org/code-of-conduct/)
 * [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
 
+
+## 10 Design
+
+![Digitale Zugänglichkeit für alle](img/Barrierefreiheit.jpg "Bildquelle: von vectorjuice auf Freepik, https://de.freepik.com/vektoren-kostenlos/elektronische-zugaenglichkeit-abstraktes-konzept-vektordarstellung-zugaenglichkeit-zu-websites-elektronisches-geraet-fuer-menschen-mit-behinderungen-kommunikationstechnologie-anpassbare-webseiten-abstrakte-metapher_24122185.htm")
+
+**Lernziele** des Abschnitts *10 Ethisches Design*:
+
+* Sie können den Zusammenhang zwischen Nudges und der Theorie von Kahnemann erklären.
+* Sie können die Begriffe *Nudging*, *Dark Pattern* und *Gamification* erläutern und jeweils passende Beispiele dazu nennen.
+* Sie sind in der Lage zu erläutern, was unter (digitaler) *Barrierefreiheit* verstanden wird.
+* Sie kennen einige Anforderungen, um digitale *Barrierefreiheit* zu gewährleisten.
+
+### Vorbereitungsaufgabe
+
+Wenden Sie das Verfahren zur Auflösung von Wertekonflikten aus dem Vorlesungsvideo 10-01 auf die folgende (bereits aus Woche 6 bekannte) Fallstudie an. Ermitteln Sie konkrete Designvorschläge um vorhandene Wertekonflikte aufzulösen. Formulieren Sie einen kurzen Fließtext (ca. ein bis zwei Absätze), in dem Sie einen Designvorschlag kurz erläutern und begründen.
+
+>Zhou et al. stellen ein System für die automatische Diagnose von Lungenkrebs vor: 
+>
+>Das System lernt, Krebszellen auf Mikroskopibildern von Nadelbiopsien zu erkennen, die aus dem Körper der zu diagnostizierenden Personen entnommen wurden. Solche Systeme sollen dort eingesetzt werden, wo kein erfahrener Pathologe zur Verfügung steht (z. B. in wenig entwickelten ländlichen Gebieten). 
+>
+>Das System ist so konstruiert, dass falsch-negative Diagnosen sehr unwahrscheinlich sind (d. h. der Patient wird für gesund erklärt, obwohl in Wirklichkeit Krebszellen vorhanden sind), aber es gibt dementsprechend viel weniger Vorsichtsmaßnahmen bei falsch-positiven Diagnosen. Auch wenn falsch-positive Diagnosen nicht unmittelbar lebensbedrohlich sind, so können sie doch große finanzielle, praktische und emotionale Probleme für die Betroffenen verursachen, und auch hier müssen wir jemanden finden, der die Verantwortung für solche Fehldiagnosen der Maschine übernimmt. 
+>
+>Was die Programmierer:innen betrifft, so haben sie alles getan, um falsch-negative Diagnosen zu verhindern, und das ist das Beste, was sie tun konnten. Also können sie auch nicht mit Recht dafür verantwortlich gemacht werden, wenn die Limitationen der Maschine vorher klar bekannt sind. (Matthias, 2004)
+
+### 10-01 Verfahren
+
+<iframe title="10-01 Verfahren" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/e285ddc81e2741ffa46c8efc4d4a5dcd1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/e285ddc81e2741ffa46c8efc4d4a5dcd1d)
+
+[Folien: Verfahren](https://cloud.rz.uni-kiel.de/index.php/s/dMBCiEFYGWkQTTo)
+
+---
+
+                         {{1}}
+**Quiz**
+
+Folgt in Kürze... 
+
+### 10-02 Ethisches Design im Kleinen
+
+**Video folgt in Kürze!**
+
+[Videolink]()
+
+[Folien: Ethisches Design im Kleinen]()
+
+--- 
+
+[Link zu "Deceptive Pattern"](https://deceptive.design/)
+
+---
+
+                           {{1}}
+**Quiz**
+
+Welche Aussagen zur Theorie von Kahnemann (2011) zur Informationsverarbeitung sind korrekt?
+
+  [[X]] System 1 ist schnell, instinktiv und emotional.
+  [[ ]] System 1 ist langsam, reflektiert und logisch.
+  [[X]] System 2 ist langsam, reflektiert und logisch.
+  [[ ]] System 2 ist schnell, instinktiv und emotional.
+
+Welches Informationsverarbeitungssystem nach Kahnemann (2011) versuchen Nudges zu beeinflussen?
+
+  [(X)] System 1
+  [( )] System 2
+
+Welches der folgenden Beispiele beschreibt Nudging?
+
+  [[ ]] Ein Plakat, das zum Kauf von Junkfood auffordert.
+  [[X]] Eine schockierende Warnung vor Tabakkonsum auf einer Zigarettenpackung.
+  [[ ]] Ein Verbot von Plastiktüten in Supermärkten.
+  [[ ]] Eine Strafe für ungesunde Ernährung.
+  [[ ]] Eine App, die das Nutzerverhalten aufzeichnet.
+
+Welche Ziele verfolgen Dark Patterns?
+
+  [[X]] Manipulation von Nutzerverhalten
+  [[ ]] Erhöhung der Nutzerfreundlichkeit
+  [[ ]] Verbesserung von Datenschutz und Sicherheit
+  [[ ]] Förderung von sozialer Gerechtigkeit
+  [[X]] Steigerung des Gewinns von Unternehmen
+
+Welche Kritikpunkte gibt es an Gamification?
+
+  [[X]] Missbrauch von spielerischen Elementen zur Manipulation
+  [[X]] Vernachlässigung von langfristigen Zielen zugunsten kurzfristiger Erfolgserlebnisse
+  [[ ]] Steigerung von Motivation und Engagement
+  [[ ]] Einschränkung von Freiheitsrechten
+
+
+### 10-03 Barrierefreiheit
+
+**Video folgt in Kürze!**
+
+[Videolink]()
+
+[Folien: Barrierefreiheit]()
+
+
+---
+
+[Link zum Angebot "Bayern barrierefrei" der Bayerischen Staatsregierung](https://www.barrierefrei.bayern.de/barrierefreiheit-verstehen/beispiele-internet/)
+
+---
+
+                           {{1}}
+**Quiz**
+
+Warum sollten Unternehmen ihre Website barrierefrei gestalten?
+
+   [[X]] Um rechtliche Vorgaben zu erfüllen
+   [[X]] Um die Nutzerfreundlichkeit für alle Nutzer zu erhöhen
+   [[ ]] Um das Image des Unternehmens zu verbessern
+   [[ ]] Um Kosten zu sparen
+
+Wie können Unternehmen ihre Website barrierefrei gestalten?
+
+   [[X]] Durch die Verwendung von klaren und einfachen Texten
+   [[X]] Durch die Verwendung von Farben mit hohem Kontrast
+   [[X]] Durch die Bereitstellung von Alternativtexten für Bilder und Grafiken
+   [[X]] Durch die Bereitstellung von Texttranskriptionen und Untertiteln für Audio- und Videodateien
+
+
+### Quellen und vertiefende Literatur
+
+* Blackwell, Angela Glover. 2016. “The Curb-Cut Effect.” Stanford Social Innovation Review 15: 28–33. https://doi.org/10.48558/YVMS-CC96.
+* Bunz, Mercedes. 2015. “School Will Never End: On Infantilization in Digital Environments — Amplifying Empowerment or Propagating Stupidity?” In Postdigital Aesthetics, 191–202. Palgrave Macmillan UK. https://doi.org/10.1057/9781137437204_15.
+* Deterding, Sebastian, Dan Dixon, Rilla Khaled, and Lennart Nacke. 2011. “From Game Design Elements to Gamefulness: Defining ‘Gamification’.” In Proceedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments, 9–15. MindTrek ’11. ACM. https://doi.org/10.1145/2181037.2181040.
+* Friedman, Batya, and David G. Hendry. 2026. Value Sensitive Design: Shaping Technology with Moral Imagination. 2nd ed. The MIT Press.
+* Friedman, Batya, Peter H. Kahn, Alan Borning, and Alina Huldtgren. 2013. “Value Sensitive Design and Information Systems.” In Early Engagement and New Technologies: Opening up the Laboratory, 55–95. Springer Netherlands. https://doi.org/10.1007/978-94-007-7844-3_4.
+* Gray, Colin M., Yubo Kou, Bryan Battles, Joseph Hoggatt, and Austin L. Toombs. 2018. “The Dark (Patterns) Side of UX Design.” In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, 1–14. CHI ’18. ACM. https://doi.org/10.1145/3173574.3174108.
+* Jacobs, Naomi. 2020. “Capability Sensitive Design for Health and Wellbeing Technologies.” Science and Engineering Ethics 26 (6): 3363–91. https://doi.org/10.1007/s11948-020-00275-5.
+* Kahneman, Daniel. 2012. Thinking, Fast and Slow. 1st ed. London: Penguin.
+* Kim, Tae Wan, and Kevin Werbach. 2016. “More Than Just a Game: Ethical Issues in Gamification.” Ethics and Information Technology 18 (2): 157–73. https://doi.org/10.1007/s10676-016-9401-5.
+* Maier, Maximilian, František Bartoš, T. D. Stanley, David R. Shanks, Adam J. L. Harris, and Eric-Jan Wagenmakers. 2022. “No Evidence for Nudging After Adjusting for Publication Bias.” Proceedings of the National Academy of Sciences 119 (31). https://doi.org/10.1073/pnas.2200300119.
+* Mertens, Stephanie, Mario Herberz, Ulf J. J. Hahnel, and Tobias Brosch. 2021. “The Effectiveness of Nudging: A Meta-Analysis of Choice Architecture Interventions Across Behavioral Domains.” Proceedings of the National Academy of Sciences 119 (1). https://doi.org/10.1073/pnas.2107346118.
+* Oliver, Mike. 2013. “The Social Model of Disability: Thirty Years On.” Disability &Amp; Society 28 (7): 1024–26. https://doi.org/10.1080/09687599.2013.818773.
+* Oosterlaken, Ilse. 2009. “Design for Development: A Capability Approach.” Design Issues 25 (4): 91–102. https://doi.org/10.1162/desi.2009.25.4.91.
+* Nussbaum, Martha Craven. 2013. Creating Capabilities: The Human Development Approach. First Harvard University Press paperback edition. Cambridge, Massachusetts: The Belknap Press of Harvard University Press.
+* Schmidt, Andreas T., and Bart Engelen. 2020. “The Ethics of Nudging: An Overview.” Philosophy Compass 15 (4). https://doi.org/10.1111/phc3.12658.
+* Schrape, Niklas, Sonia Fizek, Paolo Ruffino, and Mathias Fuchs, eds. 2014. Rethinking Gamification. s.l.: meson press eG.
+* Sen, Amartya. 2020. Ökonomie Für Den Menschen: Wege Zu Gerechtigkeit Und Solidarität in Der Marktwirtschaft. 2. Aufl. München: Hanser.
+* Steen, Marc. 2016. “Organizing Design-for-Wellbeing Projects: Using the Capability Approach.” Design Issues 32 (4): 4–15. https://doi.org/10.1162/desi_a_00412.
+* Thaler, Richard H, and Cass R Sunstein. 2009. Nudge: Wie Man Kluge Entscheidungen Anstößt. Ullstein eBooks.
+
+---
+
+**Weitere Verfahren:**
+
+* Betz, Stefanie, Birgit Penzenstadler, Leticia Duboc, Ruzanna Chitchyan, Sedef Akinli Kocak, Ian Brooks, Shola Oyedeji, Jari Porras, Norbert Seyff, and Colin C. Venters. 2024. “Lessons Learned from Developing a Sustainability Awareness Framework for Software Engineering Using Design Science.” ACM Transactions on Software Engineering and Methodology 33 (5): 1–39. https://doi.org/10.1145/3649597.
+* Spiekermann, Sarah. 2019. Digitale Ethik: ein Wertesystem für das 21. Jahrhundert. Droemer eBook.
+* ———. 2021. “Value-based Engineering: Prinzipien und Motivation für bessere IT-Systeme.” Informatik Spektrum. Springer Science and Business Media LLC. https://doi.org/10.1007/s00287-021-01378-4.
+
+---
+
+**Und weitere Ressourcen und Links:**
+
+* [Link zu "Deceptive Pattern"](https://deceptive.design/)
+* [Link zum Angebot "Bayern barrierefrei" der Bayerischen Staatsregierung](https://www.barrierefrei.bayern.de/barrierefreiheit-verstehen/beispiele-internet/)
+* [Thaler: The Power of Nudges, For Good and Bad (NYT, 2015)](https://www.nytimes.com/2015/11/01/upshot/the-power-of-nudges-for-good-and-bad.html)
+* https://ethicaldesignhandbook.com/
+* https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/
+* [Interaktive Bespiele für Dark Patterns von neal.fun](https://neal.fun/dark-patterns/)
+* [FAQ der Bundesfachstelle Barrierefreiheit zu rechtlichen Themen](https://www.bundesfachstelle-barrierefreiheit.de/DE/Fachwissen/Informationstechnik/EU-Webseitenrichtlinie/FAQ/faq_node.html)
+* [Aktion Mensch über barrierefreie Webseiten](https://www.einfach-fuer-alle.de/vorteile-barrierefreie-website/)
+* [WAVE: web accessibility evaluation tool](https://wave.webaim.org/)
+* [Online-Kurs von W3C und UNESCO](https://www.edx.org/course/web-accessibility-introduction)
+* [Barrierefreiheit im Gaming](https://youtu.be/-baRJ5L4hh4): Microsoft und Sony releasen barrierefreie Controller - Was taugen die und ist das ausreichend?
+* [Colorblind-Modus in Diablo 2 Resurrected ist in Wirklichkeit nur Colorblind-Simulator-Modus](https://www.reddit.com/r/Diablo_2_Resurrected/comments/qbwr1y/10_of_men_are_colorblind_yet_blizzard_doesnt/): Statt Menschen mit Rot-Grün-Schwäche zu helfen, simuliert das Spiel nur diese Farbschwäche, was Betroffenen offensichtlich nicht hilft.
+
+
 ## Anhang
 
 ### Index
@@ -1507,7 +1680,7 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Begriff(e)                       | 03-04, 05-01                                                                |
 | Bezeichner                       | 05-01                                                                       |
 | Bias                             | 08-03                                                                       |
-| *capability approach*            | 09-03                                                                       |
+| *capability approach*            | 09-03, 10-01                                                                |
 | *chilling effects*               | 07-01                                                                       |
 | *code of conduct*                | 09-02                                                                       |
 | *critical thinking*              | 03-01, 03-02                                                                |
@@ -1583,8 +1756,9 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Wahrheit(en)                     | 03-01                                                                       |
 | Werte                            | 02-02, 05-03                                                                |
 | – eingebettete Werte             | 02-02                                                                       |
-| – value sensitive design         | 02-03, 05-03                                                                |
+| – *value sensitive design*       | 02-03, 05-03, 10-01                                                         |
 | – Werteanalyse                   | 02-03                                                                       |
+| – Wertekonflikte                 | 10-01                                                                       |
 | – Werturteil                     | 05-03                                                                       |
 | Wissenschaft                     | 01-02                                                                       |
 | – Strukturwissenschaft           | 01-02                                                                       |
