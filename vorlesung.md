@@ -1529,11 +1529,11 @@ Folgt in Kürze...
 
 ### 10-02 Ethisches Design im Kleinen
 
-**Video folgt in Kürze!**
+<iframe title="10-02 Ethisches Design im Kleinen" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/9e4e908ede704148ae4a496c8699e0801d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Videolink]()
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/9e4e908ede704148ae4a496c8699e0801d)
 
-[Folien: Ethisches Design im Kleinen]()
+[Folien: Ethisches Design im Kleinen](https://cloud.rz.uni-kiel.de/index.php/s/XPrqx5qDbit7pZs)
 
 --- 
 
@@ -1582,11 +1582,11 @@ Welche Kritikpunkte gibt es an Gamification?
 
 ### 10-03 Barrierefreiheit
 
-**Video folgt in Kürze!**
+<iframe title="10-03 Barrierefreiheit" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/37e6c445bead4ce190962ca041cae4101d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-[Videolink]()
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/37e6c445bead4ce190962ca041cae4101d)
 
-[Folien: Barrierefreiheit]()
+[Folien: Barrierefreiheit](https://cloud.rz.uni-kiel.de/index.php/s/o2LTP82YfcX5p67)
 
 
 ---
@@ -1618,12 +1618,14 @@ Wie können Unternehmen ihre Website barrierefrei gestalten?
 * Blackwell, Angela Glover. 2016. “The Curb-Cut Effect.” Stanford Social Innovation Review 15: 28–33. https://doi.org/10.48558/YVMS-CC96.
 * Bunz, Mercedes. 2015. “School Will Never End: On Infantilization in Digital Environments — Amplifying Empowerment or Propagating Stupidity?” In Postdigital Aesthetics, 191–202. Palgrave Macmillan UK. https://doi.org/10.1057/9781137437204_15.
 * Deterding, Sebastian, Dan Dixon, Rilla Khaled, and Lennart Nacke. 2011. “From Game Design Elements to Gamefulness: Defining ‘Gamification’.” In Proceedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments, 9–15. MindTrek ’11. ACM. https://doi.org/10.1145/2181037.2181040.
+* Friedman, Batya. 1996. “Value-Sensitive Design.” Interactions 3 (6): 16–23. https://doi.org/10.1145/242485.242493.
 * Friedman, Batya, and David G. Hendry. 2026. Value Sensitive Design: Shaping Technology with Moral Imagination. 2nd ed. The MIT Press.
 * Friedman, Batya, Peter H. Kahn, Alan Borning, and Alina Huldtgren. 2013. “Value Sensitive Design and Information Systems.” In Early Engagement and New Technologies: Opening up the Laboratory, 55–95. Springer Netherlands. https://doi.org/10.1007/978-94-007-7844-3_4.
 * Gray, Colin M., Yubo Kou, Bryan Battles, Joseph Hoggatt, and Austin L. Toombs. 2018. “The Dark (Patterns) Side of UX Design.” In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, 1–14. CHI ’18. ACM. https://doi.org/10.1145/3173574.3174108.
 * Jacobs, Naomi. 2020. “Capability Sensitive Design for Health and Wellbeing Technologies.” Science and Engineering Ethics 26 (6): 3363–91. https://doi.org/10.1007/s11948-020-00275-5.
 * Kahneman, Daniel. 2012. Thinking, Fast and Slow. 1st ed. London: Penguin.
 * Kim, Tae Wan, and Kevin Werbach. 2016. “More Than Just a Game: Ethical Issues in Gamification.” Ethics and Information Technology 18 (2): 157–73. https://doi.org/10.1007/s10676-016-9401-5.
+* Lilley, Mariana, Anne Currie, Andrew Pyper, and Sue Attwood. 2020. “Using the Ethical OS Toolkit to Mitigate the Risk of Unintended Consequences.” In HCI International 2020 – Late Breaking Posters, 77–82. Springer International Publishing. https://doi.org/10.1007/978-3-030-60700-5_10.
 * Maier, Maximilian, František Bartoš, T. D. Stanley, David R. Shanks, Adam J. L. Harris, and Eric-Jan Wagenmakers. 2022. “No Evidence for Nudging After Adjusting for Publication Bias.” Proceedings of the National Academy of Sciences 119 (31). https://doi.org/10.1073/pnas.2200300119.
 * Mertens, Stephanie, Mario Herberz, Ulf J. J. Hahnel, and Tobias Brosch. 2021. “The Effectiveness of Nudging: A Meta-Analysis of Choice Architecture Interventions Across Behavioral Domains.” Proceedings of the National Academy of Sciences 119 (1). https://doi.org/10.1073/pnas.2107346118.
 * Oliver, Mike. 2013. “The Social Model of Disability: Thirty Years On.” Disability &Amp; Society 28 (7): 1024–26. https://doi.org/10.1080/09687599.2013.818773.
@@ -1634,6 +1636,7 @@ Wie können Unternehmen ihre Website barrierefrei gestalten?
 * Sen, Amartya. 2020. Ökonomie Für Den Menschen: Wege Zu Gerechtigkeit Und Solidarität in Der Marktwirtschaft. 2. Aufl. München: Hanser.
 * Steen, Marc. 2016. “Organizing Design-for-Wellbeing Projects: Using the Capability Approach.” Design Issues 32 (4): 4–15. https://doi.org/10.1162/desi_a_00412.
 * Thaler, Richard H, and Cass R Sunstein. 2009. Nudge: Wie Man Kluge Entscheidungen Anstößt. Ullstein eBooks.
+* Wong, Richmond Y., Michael A. Madaio, and Nick Merrill. 2023. “Seeing Like a Toolkit: How Toolkits Envision the Work of AI Ethics.” Proceedings of the ACM on Human-Computer Interaction 7 (CSCW1): 1–27. https://doi.org/10.1145/3579621.
 
 ---
 
@@ -1677,13 +1680,17 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | – Faktenaussage                  | 03-02                                                                       |
 | – Normenaussage                  | 03-02                                                                       |
 | Autonomie                        | 05-01, 05-03                                                                |
+| Barrierefreiheit                 | 10-03                                                                       |
 | Begriff(e)                       | 03-04, 05-01                                                                |
 | Bezeichner                       | 05-01                                                                       |
 | Bias                             | 08-03                                                                       |
 | *capability approach*            | 09-03, 10-01                                                                |
+| – *capabaility sensitive design* | 10-01                                                                       |
 | *chilling effects*               | 07-01                                                                       |
 | *code of conduct*                | 09-02                                                                       |
 | *critical thinking*              | 03-01, 03-02                                                                |
+| Curb Cut-Effekt                  | 10-03                                                                       |
+| *dark pattern*                   | 10-02                                                                       |
 | *data sheets*                    | 08-04                                                                       |
 | Demokratie                       | 09-01, 09-02, 09-03                                                         |
 | – Demokratiedefizit              | 04-02                                                                       |
@@ -1701,11 +1708,13 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | – Micro and macro ethics         | 02-01                                                                       |
 | – Theorien                       | 04-01                                                                       |
 | Fallstudien                      | 02-03                                                                       |
+| *gamification*                   | 10-02                                                                       |
 | Gedankenexperiment               | 04-02, 05-01                                                                |
 | *ghost work*                     | 08-02                                                                       |
 | Governance                       | 09-02                                                                       |
 | – *project governance*           | 09-02                                                                       |
 | Handlungsbegründung              | 04-03                                                                       |
+| Infantilisierung                 | 10-02                                                                       |
 | Informatik                       | 01-02                                                                       |
 | Interesse                        | 05-03                                                                       |
 | Konflikt                         |                                                                             |
@@ -1722,6 +1731,7 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Moral                            | 01-03                                                                       |
 | Naturalistischer Fehlschluss     | 03-02                                                                       |
 | Norm                             | 05-03                                                                       |
+| *nudge*                          | 10-02                                                                       |
 | Objektivität                     | 08-01                                                                       |
 | Panoptismus                      | 07-01                                                                       |
 | Paragraphing                     | 03-03                                                                       |
@@ -1735,6 +1745,7 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Reduktion(ismus)                 | 08-03                                                                       |
 | *responsibility gap*             | s. Verantwortungslücke                                                      |
 | Sicherheit                       | 07-03                                                                       |
+| *sludge*                         | s. *nudge*                                                                       |
 | Stakeholder                      | 02-02                                                                       |
 | – direkte/indirekte Stakeholder  | 02-02                                                                       |
 | – Stakeholderanalyse             | 02-03                                                                       |
