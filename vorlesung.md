@@ -972,7 +972,23 @@ Informieren Sie sich über den Fall und die Fallgeschichte des Therac-25 Linearb
                            {{1}}
 **Quiz**
 
-**Folgt in Kürze...**
+Wann gilt eine Person nach Lenk und Ropohl als verantwortlich?
+
+  [[X]] Die Person hat selbst gehandelt.
+  [[ ]] Die Person hat vorher einen Artikel darüber gelesen.
+  [[ ]] Die Person musste so handeln.
+  [[X]] Die Person hatte die Möglichkeit, relevante Normen und Werte zu kennen.
+
+Was ist Verantwortungsattribution?
+
+  [[ ]] Die Verteilung von Verantwortung auf Einzelpersonen, die für ein Geschehen verantwortlich sind.
+  [[X]] Die Zuweisung von Verantwortung zu einer Person(-engruppe), die an Bedingungen geknüpft ist.
+
+Wann gilt eine Person nach Matthias als verantwortlich?
+
+  [[X]] Die Person wurde nicht gezwungen.
+  [[ ]] Die Person kann keine Gründe für ihr Handeln nennen.
+  [[X]] Die Person kann für ihre Handlungen Lob oder Tadel empfangen.
 
 ### 06-02 Probleme des Verantwortungsbegriffs
 
@@ -989,7 +1005,31 @@ Informieren Sie sich über den Fall und die Fallgeschichte des Therac-25 Linearb
                            {{1}}
 **Quiz**
 
-**Folgt in Kürze...**
+Was ist eine Verantwortungslücke?
+
+  [[X]] Sie entsteht, wenn keiner beteiligten Person zugeschrieben werden kann, Kontrolle zu haben.
+  [[ ]] Sie entsteht, wenn keiner beteiligten Person zugeschrieben werden kann, Bescheid zu wissen.
+  [[ ]] Sie entsteht, wenn keiner beteiligten Person zugeschrieben werden kann, frei zu sein.
+
+Hierbei handelt es sich um ein Problem der vielen Hände:
+
+  [[ ]] Das Entwicklerteam hat nicht bedacht, dass ihr Programm einen weiteren Use Case hat.
+  [[X]] Die Entwickelnden wissen nicht, was genau das Endprodukt sein wird.
+  [[X]] Der Entwickler einer Funktion ist unbesorgt, seine wird im Endprodukt nicht direkt zum Problem führen.
+  [[ ]] Die Entwicklerin ist unbesorgt, solange alles so angewandt wird, wie sie denkt, gibt es keine Probleme.
+
+Zu welchem Problem gehören die anderen beiden Fälle, der oberen Frage?
+ 
+  [[ ]] Bugs sind (nicht) unvermeidlich
+  [[ ]] Der Computer als Sündenbock
+  [[X]] Dual Use
+
+Was ist problematisch an unserem Umgang mit Bugs?
+
+  [[ ]] Die Produkte funktionieren schlechter, das wirkt sich negativ auf den Ruf der Firma aus.
+  [[X]] Sie sind etwas ganz natürliches und gehören zum Code dazu.
+  [[ ]] Wie echte Käfer können sie sich vermehren und sollten deshalb früh gefangen werden.
+  [[X]] Da sie unvermeidlich sind, lohnen sich Schutzvorkehrungen kaum.
 
 ### 06-03 Erweiterung(en) des Verantwortungsbegriffs
 
@@ -1005,7 +1045,25 @@ Informieren Sie sich über den Fall und die Fallgeschichte des Therac-25 Linearb
                            {{1}}
 **Quiz**
 
-**Folgt in Kürze...**
+Welche Arten von Verantwortung werden vorgestellt?
+
+  [[X]] Nutzungsverantwortung
+  [[ ]] Wissendenverantwortung
+  [[X]] Gestaltungsverantwortung
+  [[X]] Rechenschaftsverantwortung
+  [[ ]] Zeugenverantwortung
+
+Über Verantwortung gilt...
+
+  [[X]] … dass sie nicht binär ist.
+  [[ ]] … dass nur eine Person verantwortlich sein kann.
+  [[ ]] … dass es Intentionalität braucht.
+
+Wie wird dem Dual Use Problem entgegengewirkt?
+
+  [[ ]] Jedes Gerät darf nur auf die vorhergesehene Art genutzt werden.
+  [[X]] Nutzung und Design werden entkoppelt, beide können Verantwortung tragen.
+  [[ ]] Eine umfassendere Testung soll auf alle möglichen Probleme aufmerksam machen.
 
 ### 06-04 Methode zur Verantwortungsattribution
 
@@ -1021,7 +1079,30 @@ Informieren Sie sich über den Fall und die Fallgeschichte des Therac-25 Linearb
                            {{1}}
 **Quiz**
 
-**Folgt in Kürze...**
+Welche Dimension ist gesucht? (Kausale Beteiligung, Entscheidungsmacht, Nutzung, Betroffenheit)
+
+Der Akteur hat zu Entstehung der Situation beigetragen.
+
+  [[Kausale Beteiligung]]
+
+Der Akteur nutzt das System.
+
+  [[Nutzung]]
+
+Der Akteur konnte das System gestalten und verändern.
+
+  [[Entscheidungsmacht]]
+
+Der Akteur trägt die Konsequenzen.
+
+  [[Betroffenheit]]
+
+Was sollte man sich in der Reflexion fragen?
+
+  [[ ]] Habe ich alle Werte gefunden?
+  [[X]] Welche Vorannahmen habe ich getroffen?
+  [[X]] Wurden die unsichtbaren Stakeholder in die Kartierung aufgenommen?
+  [[ ]] Was folgt ökonomisch?
 
 ### Quellen und vertiefende Literatur
 
@@ -1413,7 +1494,40 @@ Lesen Sie zur Vorbereitung auf die nächste Woche den ["Ethischen Kompass für I
                            {{1}}
 **Quiz**
 
-Quizfragen folgen... 
+Was sind Bestandteile der Demokratie?
+
+  [[ ]] Machtkonzentration nur, wenn keine Rechenschaft gegeben werden muss
+  [[X]] Minderheitenschutz vor dem Willen der Mehrheit
+  [[X]] gleicher Zugang zu öffentlichen Gütern und Ressourcen
+  [[ ]] Mehrere mögliche Lebenswege stehen zur Auswahl
+
+Mehrheitsentscheide vs. Minderheitenschutz
+
+  [[ ]] Minderheitenschutz führt zur Oligarchie.
+  [[X]] Minderheitenschutz kann mit Mehrheitsentscheiden koexistieren.
+
+Das gilt über Rechtfertigungen:
+
+  [[X]] Jede Person hat ein Recht auf Gründe für Entscheidungen, die sie betreffen.
+  [[ ]] Erst eine Rechtfertigung macht eine Person zum Objekt eines Willen.
+  [[X]] Gegebene Gründe müssen vernünftig sein.
+
+Das gilt über Liberalismus der Furcht:
+
+  [[ ]] Furch vor staatlicher Grausamkeit hilft den Bürger*innen, sich richtig zu verhalten.
+  [[X]] Ökonomische Macht ist auch Macht und kann genauso zum Problem werden, wie staatliche Macht.
+
+Das gilt über Surveillance Capitalism
+
+  [[ ]] Der Staat kontrolliert digitale Infrastruktur.
+  [[X]] Die Sammlung von Daten ist ein Geschäftsmodell.
+  [[X]] Meinungsbildung beruht auf Informationen, die nun durch Benutzer*innenprofile gesteuert werden können.
+
+Digitale Demokratisierung kann...
+
+  [[X]] … niedrigschwellige Partizipation ermöglichen.
+  [[X]] … Transparenz durch investigativem Journalismus ermöglichen.
+  [[ ]] … die Demokratie wieder in den Hintergrund rücken, da diese nun weniger Aufmerksamkeit braucht.
 
 ### 09-02 Governance und Gesellschaften
 
@@ -1429,7 +1543,24 @@ Quizfragen folgen...
                            {{1}}
 **Quiz**
 
-Quizfragen folgen... 
+Ethische Leitlinien und Codes of Conduct
+
+  [[ ]] Alle Informatiker*innen sollen sich Leitlinien geben.
+  [[X]] Codes of Conduct enthalten, im Gegensatz zu Leitlinien, Regeln und Konsequenzen.
+  [[X]] Beide sollen das Miteinander regeln.
+  [[X]] Proaktiv werden Mitarbeitende vor ihrer Arbeit auf den Code of Conduct hingewiesen.
+
+Was sind Aufgaben von wissenschaftlichen Gesellschaften als demokratischen Akteuren?
+
+  [[X]] Sie sind ein Gegengewicht zu kommerziellen Akteuren.
+  [[ ]] Sie sorgen dafür, dass ihre Mitglieder auf Konferenzen keine Minderheiten sein müssen.
+  [[X]] Sie vermitteln Interessen durch z.B. Stellungnahmen.
+
+Die Leitlinien der GI besagen, dass...
+
+  [[ ]] … Mitglieder mit Mut für den Schutz der Menschenwürde eintreten sollen, wenn das Gesetz es fordert.
+  [[X]] … von IT-Systemen Betroffene and der Gestaltung angemessen beteiligt werden sollen.
+  [[X]] … Mitglieder ihre Urteilsfähigkeit entwickeln sollen, um verantwortlich mitwirken zu können. 
 
 ### 09-03 Digitale Teilhabe und *digital divide*
 
@@ -1445,7 +1576,25 @@ Quizfragen folgen...
                            {{1}}
 **Quiz**
 
-Quizfragen folgen... 
+Was heißt Zugang zum Internet?
+
+  [[X]] Man muss die Fertigkeiten haben, Gerät und Software zu nutzen und daraus Informationen für ein Ziel zu beziehen.
+  [[X]] Man muss einsehen, dass es nützlich ist, das Internet zu nutzen.
+  [[ ]] Man muss es als Teil einer Gruppe machen.
+  [[X]] Man braucht ein Endgerät, einen Router, etc.
+  [[X]] Es muss passende Angebote geben, dass für mich verständlich/nutzbar sind.
+
+Typische Missverständnisse der digitalen Teilhabe
+
+  [[X]] Das Problem löst sich mit der Zeit - vielleicht für den Zugang, aber nicht für alle Dimensionen der Teilhabe (z.B. Fähigkeiten)
+  [[ ]] Es geht nur um den Internetzugang - alle Europäer*innen haben einen Zugang, sie wissen nur nicht, wie Suchmaschinen funktionieren.
+  [[X]] Das betrifft nur den globalen Süden - auch in Europa wächst das Teilhabe-Problem, wenn auch der westliche Bias im Internet bestehen bleibt.
+
+Verwirklichungschancen sind...
+ 
+  [[X]] … genauso wichtig wie Zugang zu Ressourcen.
+  [[X]] … im besten Fall nicht an Alter, Bildung, Einkommen, Behinderung, etc. gebunden.
+  [[X]] … besonders wichtig, wenn es um demokratische Grundrechte geht.
 
 ### 09-04 (Optional) Beutelsbacher Konsens
 
@@ -1461,7 +1610,19 @@ Quizfragen folgen...
                            {{1}}
 **Quiz**
 
-Quizfragen folgen... 
+Welche Regeln hat der Konsens gebracht?
+
+  [[X]] Überwältigungsverbot
+  [[X]] Was in Wissenschaft und Politik kontrovers ist, muss auch im Unterricht kontrovers erscheinen.
+  [[ ]] Der Schüler muss das Wissen erhalten, um politisch aktiv werden zu können.
+  [[X]] Der Schüler muss in die Lage versetzt werden, eine politische Situation und seine eigene Interessenslage zu analysieren.
+
+Was folgt daraus?
+
+  [[ ]] Lehrpersonen dürfen ihre Meinung nicht zeigen.
+  [[X]] Die Meinung der Lehrperson wird nur dadurch eingeschränkt, dass sie der freiheitlich-demokratischen Grundordnung folgen muss.
+  [[X]] Pluralismus ist ein demokratisches Prinzip.
+  [[X]] Das Überwältigungsverbot meint nicht, dass alle politisch neutral sind, sondern dass die politische Eigenständigkeit respektiert wird.
 
 
 ### Quellen und vertiefende Literatur
