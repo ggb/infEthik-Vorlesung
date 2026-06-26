@@ -940,13 +940,20 @@ Um die Sicherheit unserer Daten zu schützen sollten wir große Firmen bei der E
 
 ## 06 Verantwortung
 
+In der vergangenen Woche ist der Begriff der Verantwortung bereits angeschnitten worden, diese Woche soll er in den Fokus gerückt werden. Die Informatik greift in viele Lebensbereiche der Menschen ein und kann Einfluss darauf nehmen, daher ist es wichtig, sich umfangreiche Gedanken darüber zu machen, welche Auswirkungen eine Software oder ein Produkt auf diese Leben haben werden. Dazu brauchen wir nicht nur eine Definition des Begriffes Verantwortung, sondern auch eine Methode, damit wir Verantwortung leichter erkennen und dadurch bedachter übernehmen können.
 
 ![Personen an mehreren Zanrädern](img/Verantwortung.jpg "Bildquelle: von rawpixel.com auf Freepik, https://de.freepik.com/vektoren-kostenlos/illustration-von-den-charakteren-die-zahnraeder-halten_3207892.htm")
+
+Wie in einer Uhr viele Zahnräder zusammen laufen und einander beeinflussen, so kommen in jeder Situation im echten Leben verschiedene Personen zusammen. Und so wie selten nur ein Rad alles verantwortet ist es auch bei Personen, die selten allein die gesamte Verantwortung tragen. Daher sollen in den Videos dieser Woche drei Arten der Verantwortung vorgestellt werden, welche koexistieren und von mehreren (und auch den gleichen) Personen eingenommen werden können.
 
 
 **Lernziele** des Abschnitts *06 Verantwortung*:
 
-*
+* Sie wissen, warum Verantwortung wichtig zu betrachten ist.
+* Sie kennen Probleme, die bei einem schwachen Verantwortungsbegriff auftreten können.
+* Sie wissen, dass Verantwortung nicht einfach abgetreten werden kann.
+* Sie können für Stakeholder bestimmen, auf welche Weise sie Einfluss auf das Geschehen haben.
+* Sie sind in der Lage, ein Urteil über die Verantwortung als Beitrag zur Debatte zu fällen und zu reflektieren.
 
 ### Vorbereitungsaufgabe
 
@@ -1686,7 +1693,30 @@ Wenden Sie das Verfahren zur Auflösung von Wertekonflikten aus dem Vorlesungsvi
                          {{1}}
 **Quiz**
 
-Folgt in Kürze... 
+Auf welche Weisen sollen Werte nach dem VSD untersucht werden?
+
+  [[X]] Konzeptuell: Was bedeuten die Werte in diesem Kontext?
+  [[ ]] Philosophisch: Auf welcher Argumentationslinien bauen die Werte auf?
+  [[X]] Technisch: Wie unterstützt oder behindert das System diese Werte?
+  [[ ]] Empirisch: Mit welcher Methode können die Werte erforsch werden?
+
+Wie unterscheiden und gleichen sich VSD und CSD?
+ 
+  [[ ]] Die empirische Betrachtung wird durch die Betrachtung der Fähigkeiten ersetzt.
+  [[X]] Statt der 13 Werte werden 10 Fähigkeiten als Grundlage gewählt.
+  [[X]] Beide nutzen die 3 Arten der Untersuchung von Werten.
+  [[ ]] Beide bauen auf den 13 Werten auf.
+
+Das passiert bei der Wertekonfliktauflösung:
+
+  [[ ]] Das Verfahren muss nur einmal durchgeführt werden.
+  [[X]] Zuerst werden mögliche Konflikte identifiziert und markiert.
+  [[X]] * zeigen, dass Schulungen oder Vertretungen nötig sind.
+  [[X]] Konflikte werden nach E, A oder M kategorisiert.
+  [[X]] Stakeholder sollten im besten Fall selbst befragt werden.
+  [[X]] Wenn eine Person(-engruppe) sich nicht vertreten kann, wird sie mit einem * markiert.
+  [[X]] Wir müssen uns (oder die Stakeholder) fragen, was dazu führen würde, dass der Konflikt sich für sie löst?
+  [[X]] Existenzielle Werte lassen sich meist nur institutionell lösen.
 
 ### 10-02 Ethisches Design im Kleinen
 
