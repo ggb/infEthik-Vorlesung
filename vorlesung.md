@@ -1663,6 +1663,270 @@ Wie können Unternehmen ihre Website barrierefrei gestalten?
 * [Barrierefreiheit im Gaming](https://youtu.be/-baRJ5L4hh4): Microsoft und Sony releasen barrierefreie Controller - Was taugen die und ist das ausreichend?
 * [Colorblind-Modus in Diablo 2 Resurrected ist in Wirklichkeit nur Colorblind-Simulator-Modus](https://www.reddit.com/r/Diablo_2_Resurrected/comments/qbwr1y/10_of_men_are_colorblind_yet_blizzard_doesnt/): Statt Menschen mit Rot-Grün-Schwäche zu helfen, simuliert das Spiel nur diese Farbschwäche, was Betroffenen offensichtlich nicht hilft.
 
+## 11 Ethik in der Wissenschaft
+
+Der elfte Abschnitt beschäftigt sich mit den ethischen Ansprüchen, die an Informatiker:innen als Forscher:innen gestellt werden. 
+Das zweite Kapitel behandelt gute Praktiken in der Forschung, um Probleme zu erkennen und Lösungen dafür zu finden. So werden unter anderem Grundsätze vorgestellt, wie mit Software und Daten umgegangen werden sollte.
+
+![Brille, die auf Unterlagen liegt](img/dan-dimmock-3mt71MKGjQ0-unsplash.jpg "Photo by <a href="https://unsplash.com/@dandimmock?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Dan Dimmock</a> on <a href="https://unsplash.com/photos/eyeglasses-with-gray-frames-on-the-top-of-notebook-3mt71MKGjQ0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>")
+
+Im dritten Kapitel rückt die Methode *Impact Statement* in den Vordergrund und es wird genauer betrachtet, warum ein *Impact Statement* verfasst werden sollte. Dazu werden auch zwei Beispiele vorgestellt.
+Das letzte Kapitel von Abschnitt 11 befasst sich mit dem Thema *Zivilklausel* und militärische Forschung an Hochschulen. Eine *Zivilklausel* schließt u.a. die Forschung für militärische Zwecke an Universitäten aus. Wieso dieser Weg auch problematisch sein kann und wie die CAU Kiel damit umgeht, wird in Kapitel 4 dargestellt.
+
+**Lernziele** des Abschnitts *11 Ethik in der Wissenschaft*:
+
++ Sie wissen, welche Aspekte bei der Reflektion von Forschungsergebnissen berücksichtigt werden sollten.
++ Sie haben verstanden, was das Prinzip *lege artis* ist.
++ Sie können erklären, warum *Plagiate* ethisch problematisch sind.
++ Sie wissen, wofür Impact Statements sinnvoll sind und was beim Schreiben beachtet werden sollte.
++ Sie kennen den Umgang der CAU mit militärischer Forschung.
+
+
+### Vorbereitungsaufgabe
+
+Führen Sie für die folgende Fallstudie eine disklosive Analyse (Stakeholder- und Werteanalyse) zur Vorbereitung auf die Übung durch: 
+
+> Sie haben kürzlich eine Stelle in einer Bioinformatik-Arbeitsgruppe einer großen, deutschen Universität angetreten. Die Arbeitsgruppe beschäftigt sich damit, wie mittels Machine Learning Moleküle für die pharmazeutische Nutzung gewonnen werden können. Der Hintergrund ist dabei wie folgt: Die Synthetisierung neuartiger Moleküle für die pharmazeutische Nutzung ist teuer und zeitintensiv, es gibt aber einen sehr großen Suchraum möglicher, geeigneter Moleküle. Machine Learning hilft dabei, den zur Verfügung stehenden Suchraum durch die Berücksichtigung bisheriger Erfahrungen zu verkleinern und die Suche auf vielversprechende Kandidaten einzugrenzen. Diese können in der Folge synthetisiert und erprobt werden. Das spart Kosten und Ressourcen. Eine Gefahr ist dabei immer, dass man „aus Versehen“ hochgiftige Präparate herstellt. Daher wird beim Machine Learning darauf geachtet, möglichst Molekülverbindungen zu vermeiden, die bekanntermaßen giftig sind. Dafür werden offen zugängliche, von anderen Forschern zur Verfügung gestellte Datensätze zu Giftstoffen verwendet. Diese Datensätze enthalten Informationen über Moleküle, ihre Giftigkeit und weitere Auffälligkeiten.
+>
+>Die Arbeitsgruppe wurde von einer internationalen Organisation kontaktiert, die sich für den Bann von biologischen und chemischen Waffen ausspricht. Diese Organisation veranstaltet eine Konferenz und hat um einen Beitrag gebeten, der darstellt, wie einfach es ist, das in Ihrer Arbeitsgruppe entwickelte Verfahren „umzudrehen“ und besonders giftige Stoffe zu erzeugen. Da diese Anfrage für die Chefin der Arbeitsgruppe, Fr. Prof. Flamel, keine große Priorität besitzt, hat sie das Thema als Bachelorarbeit vergeben. Die Bachelorstudentin, die das Thema übernommen hat, hat ihre Zwischenergebnisse kürzlich im internen Oberseminar der Arbeitsgruppe vorgestellt und alle Anwesenden schockiert: Sie konnte mit einfachsten Mitteln innerhalb kürzester Zeit mehrere zehntausend hochgiftige (teils um ein vielfaches giftiger als die bekannten Kampfstoffe) und potentiell waffentaugliche Stoffe identifizieren. Dabei ist sie wie folgt vorgegangen:
+>
+>Sie hat zunächst mit einer Suchmaschine eine Reihe frei verfügbarer Datensätze zu Giftstoffen ausfindig gemacht (alle seriös und von anderen Forschern öffentlich zur Verfügung gestellt). Sie hat dann ein generatives neuronales Netz trainiert, mit dem Ziel, möglichst giftige Stoffe neu zu erzeugen. Da sie vorher wenig Kontakt mit dieser Technologie hatte, hat sie ein kurzes Python-Skript aus verschiedenen Stackoverflow-Artikeln zusammenkopiert. Sie selbst und zwei weitere Kolleg*innen hatten inzwischen Gelegenheit, das Vorgehen der Studentin nachzuvollziehen und zu überprüfen: Trotz der einfachen Mittel und des amateurhaften Vorgehens, ist der von ihr verwendete Prozess solide und die Ergebnisse glaubwürdig. Die Ergebnisse lassen sich außerdem weiter filtern, sodass besonders einfach zu generierende Gifte in einer eigenen Liste angezeigt werden.
+>
+>Prof. Flamel hat inzwischen mit der Studentin ein Paper als Beitrag für die Konferenz verfasst, hadert aber damit, es einzureichen, weil sie unsicher darüber ist, ob das ein verantwortungsvoller Umgang mit den gewonnenen Erkenntnissen ist. Sie hat daher alle Mitglieder der Arbeitsgruppe um eine Stellungnahme gebeten.
+
+### 11-01 Forschungsethische Probleme  
+
+<iframe title="11-01 Forschungsethische Probleme" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/ff66c7d49d2d4150bd6f66c0bf777d6e1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/ff66c7d49d2d4150bd6f66c0bf777d6e1d)
+
+[Folien: Forschungsethische Probleme](https://cloud.rz.uni-kiel.de/index.php/s/WeWHCQ7maMQmQ6m)
+
+---
+
+                           {{1}}
+**Quiz**
+
+Was gilt laut ACM Policy als Plagiat?
+
+ [[X]] Die wortwörtliche Übernahme von Texten oder Teilen aus Texten anderer Autoren ohne entsprechende Quellenangabe.
+ [[X]] Das Paraphrasieren von Texten anderer Autoren ohne entsprechende Quellenangabe.
+ [[X]] Das Kopieren von Grafiken, Tabellen oder Bildern anderer Autoren ohne entsprechende Quellenangabe.
+ [[X]] Das Abschreiben von Programmen oder Programmteilen anderer Autoren ohne entsprechende Quellenangabe.
+
+Was sollte man tun, um Plagiate zu vermeiden?
+
+ [[ ]] Alle Texte, Grafiken oder Tabellen selbst erstellen und keine fremden Quellen verwenden.
+ [[X]] Alle verwendeten Quellen korrekt zitieren und angeben.
+ [[ ]] Sich auf die Verwendung von Texten anderer Autoren beschränken, die älter als 50 Jahre sind.
+ [[ ]] Sich auf die Verwendung von Quellen beschränken, die nicht im Internet verfügbar sind.
+
+
+### 11-02 Gute Praktiken 
+
+<iframe title="11-02 Gute Praktiken" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/4e9df1c8dfec4f25b8d77778810359491d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/4e9df1c8dfec4f25b8d77778810359491d)
+
+[Folien: Gute Praktiken](https://cloud.rz.uni-kiel.de/index.php/s/tmqTbFC8kYDdEZS)
+
+---
+
+                           {{1}}
+**Quiz**
+
+Was sind wichtige Aspekte, die bei der Reflektion von Forschungsergebnissen berücksichtigt werden müssen?
+
+ [[X]] Die Berücksichtigung der eigenen Vorurteile und Voreingenommenheit
+ [[ ]] Die Identifikation von Fehlern anderer Forschungsgruppen
+ [[X]] Die ausreichende Anonymisierung der Probandendaten
+ [[X]] Die Gewährleistung der Validität der Forschungsergebnisse
+ [[X]] Das Prinzip "lege artis" wurde für die Forschung verwendet.
+
+
+### 11-03 Impact Statements 
+
+**Achtung:** Das Video 11-03 ist noch nicht überarbeitet und referenziert an einigen Stellen Inhalte, die so nicht mehr existieren. Bitte ignorieren Sie diese Hinweise einfach.
+
+<iframe title="11-03 Impact Statements" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/bc822a70e7be4e008c3993bc3856c0521d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/bc822a70e7be4e008c3993bc3856c0521d)
+
+[Folien: Impact Statements](https://cloud.rz.uni-kiel.de/index.php/s/eiiJCFXbgjPsJB6)
+
+---
+
+                           {{1}}
+**Quiz**
+
+Was sollte beim Schreiben eines Impact Statements beachtet werden?
+
+ [[X]] Die Verwendung von klarer und präziser Sprache.
+ [[ ]] Es sollen nur die Nachteile und Probleme ihrer Forschung behandelt werden.
+ [[ ]] Es sollte versucht werden, Unsicherheiten zu kaschieren.
+ [[X]] Die Verwendung von ethischen Fachbegriffen.
+ [[X]] Die Verwendung von weiterführender Literatur, wenn sie sinnvoll oder nötig ist.  
+ [[ ]] Bei theoretischen Arbeiten ist ein Impact Statement unnötig.
+
+### 11-04 Zivilklauseln
+
+<iframe title="11-04 Zivilklausel" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/c4ce53f489294ce989055de9db16cd5e1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/c4ce53f489294ce989055de9db16cd5e1d)
+
+[Folien: Eigene Forschung reflektieren](https://cloud.rz.uni-kiel.de/index.php/s/ttBqJnzWQYYwA5d)
+
+---
+
+                           {{1}}
+**Quiz**
+
+Was legt eine Zivilklausel an Universitäten fest?
+
+ [[ ]] Sie schreibt den Studierenden das Tragen von Militärkleidung vor.
+ [[ ]] Sie erlaubt die Nutzung von zivilen Technologien und Materialien in der Forschung und Lehre an der Universität.
+ [[ ]] Sie reguliert die Zusammenarbeit zwischen der Universität und zivilen Organisationen.
+ [[ ]] Sie fördert die Durchführung von zivilgesellschaftlichen Projekten an der Universität.
+ [[X]] Sie schreibt den Verzicht auf militärische Forschung und Lehre an der Universität vor.
+
+Hat die CAU Kiel eine Zivilklausel?
+
+  [( )] Ja
+  [(X)] Nein
+
+### Quellen und vertiefende Literatur
+
+* Nanayakkara, Priyanka, Jessica Hullman, and Nicholas Diakopoulos. 2021. [“Unpacking the Expressed Consequences of AI Research in Broader Impact Statements.”](https://doi.org/10.1145/3461702.3462608) In Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society, 795–806. New York, NY, USA: Association for Computing Machinery
+* Prunkl, Carina E. A., Carolyn Ashurst, Markus Anderljung, Helena Webb, Jan Leike, and Allan Dafoe. 2021. [“Institutionalizing ethics in AI through broader impact requirements.”](https://doi.org/10.1038/s42256-021-00298-y) Nature Machine Intelligence
+* Breuer, Franz, Petra Muckel, and Barbara Dieris. 2019. [“Gütekriterien und ethische Fragen.”](https://doi.org/10.1007/978-3-658-22219-2_7) In Reflexive Grounded Theory: Eine Einführung für die Forschungspraxis, 355–93. Wiesbaden: Springer Fachmedien Wiesbaden
+
+**Weitere Ressourcen:**
+
+* [ACM Policy on Plagiarism, Misrepresentation, and Falsification](https://www.acm.org/publications/policies/plagiarism-overview)
+* [CARE Prinzipien des VAD](https://www.vad-ev.de/care-principles/)
+* [Softwareentwicklung in der Wissenschaft](https://www.forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/softwareentwicklung-und-gute-wissenschaftliche-praxis/)
+* [Integrität und Ethik in der Wissenschaft: Portal der CAU](https://www.uni-kiel.de/de/forschung/integritaet-ethik)
+* [Zertifikatsstudiengang Forschungsethik an der CAU](https://www.forschungsethik.uni-kiel.de/de)
+* [Richtlinie der CAU zu Guter Wissenschaftlicher Praxis](https://www.uni-kiel.de/fileadmin/user_upload/forschung/integritaet-ethik/downloads/CAU-Richtlinie_Gute_wissenschaftliche_Praxis.pdf)
+* [Richtlinie der DFG zu Guter Wissenschaftlicher Praxis](https://www.dfg.de/download/pdf/foerderung/rechtliche_rahmenbedingungen/gute_wissenschaftliche_praxis/kodex_gwp.pdf)
+* [Richtlinie der CAU zu "Forschungsfreiheit und Forschungsrisiken"](http://www.uni-kiel.de/gf-praesidium/de/recht/interne-richtlinien/forschungsfreiheit-und-forschungsrisiken.pdf)
+* [FragDenStaat: Kooperation der CAU mit der Bundeswehr](https://fragdenstaat.de/anfrage/kooperation-der-christian-albrechts-universitat-mit-der-bundeswehr/)
+* [Spiegel Online: Nie wieder Kriegesforschung!](https://www.spiegel.de/lebenundlernen/uni/militaerforschung-in-kiel-studenten-fordern-zivilklausel-a-907623.html)
+* [Deutschlandfunk: Eingriff in die Freiheit der Wissenschaft](https://www.deutschlandfunk.de/eingriff-in-die-freiheit-der-wissenschaft-100.html)
+* [A Guide to Writing the NeurIPS Impact Statement](https://medium.com/@GovAI/a-guide-to-writing-the-neurips-impact-statement-4293b723f832)
+
+## 12 Haltung
+
+Der letzte Abschnitt dieses Kurses beschäftigt sich mit der individuellen Haltung. Als Informatiker:in kann man leicht in so eine Dilemmasituation geraten, wenn z.B. der Arbeitgeber etwas unmoralisches verlangt. In diesem Abschnitt soll es darum gehen, wie man sich in so einer Situation verhalten und selbst eine Lösung finden kann.
+
+![Eine Person mit einer Waage.](img/Arbeit.jpg "Bildquelle: von Freepik auf Freepik, https://de.freepik.com/vektoren-kostenlos/illustration-zur-geschaeftsethik_10841305.htm")
+
+Das erste Kapitel erklärt dafür die grundlegenden Begriffe *Haltung* und *Gewissen*.
+
+Kapitel 2 befasst sich mit verschiedenen Varianten, wie man als Arbeitnehmer:in mit einer *individuellen Dilemmasituation* umgehen kann. Es werden die Begriffe *Treuepflicht* und *Whistleblowing* erkärt und verschiedene Vereine vorgestellt, die in so einer Situation helfen können.
+
+Im Kapitel drei wird kurz darauf eingegangen, welche Gedanken man sich vor der Arbeitgeberwahl stellen sollte, um eine Arbeitsstelle zu finden, mit der man persönlich moralisch leben kann.
+
+**Lernziele** des Abschnitts *12 Haltung*:
+
++ Sie können die Begriffe *Haltung* und *Gewissen* definieren.
++ Sie wissen, in welchem Zusammenhang *Haltung* und *Gewissen* beim Fällen einer Entscheidung stehen.
++ Sie können erklären, was die *Treuepflicht* und was *Whistleblowing* ist.
+
+### Vorbereitungsaufgabe
+
+Lesen Sie die folgende Fallbeschreibung und versetzen Sie sich in die Situation von Sophie: Was würden Sie tun?
+
+Skizzieren Sie – stichwortartig oder als Fließtext – mögliche Verhaltensalternativen und bewerten Sie diese vor dem Hintergrund der in der Aufgabe geschilderten Lebensumstände von Sophie.
+
+>Das städtische Krankenhaus in M. will seine Kostenrechnung gesetzlichen Vorgaben anpassen: Während bisher Leistungen an Patient:innen pauschal durch Tagessätze abgerechnet wurden, sollen jetzt alle an Patient:innen verrichteten Zuwendungen einzeln erfasst werden. Das Krankenhaus beschließt daher, die Verwaltung durch eine zentrale Datenhaltung zu modernisieren.
+>
+>Das mittelgroße Softwarehaus S. am Ort, das bereits mit der Aufgabenanalyse betraut war, erhält den Auftrag. Es stellt daraufhin Sophie ein, eine berufsunerfahrene Informatikerin mit den Studienschwerpunkten Systemanalyse, Datenbanken und Informationssysteme. Sophie ist froh um diese Stelle, da sie und ihr Mann – ein arbeitsloser Lehrer, der das gemeinsame zweijährige Kind versorgt – am Ort bleiben und ihre Sozialbeziehungen aufrechterhalten wollen.
+>
+>Im Laufe der Einarbeitung in das Projekt muss Sophie allerdings feststellen, dass die zentral vorgehaltenen Daten in der bisherigen Planung nicht ausreichend gegen unbefugten Zugriff geschützt sind. Sie hält das System nach außen hin für „offen wie ein Scheunentor“; zusätzlich erlaubt die zentrale Datenhaltung auf einfachste Weise eine genaue Überwachung aller Pflegekräfte: Effizienz bei einzelnen Tätigkeiten, persönliche Vorlieben, allgemeines Engagement und Leistungen bei Teamarbeit. Sophie steht aber dem Einsatz von Computersystemen zu Überwachungszwecken grundsätzlich ablehnend gegenüber und glaubt, dafür gute Gründe zu haben.
+>
+>Sophie spricht ihre vorgesetzten Personen auf ihre Bedenken an. Diese lehnen aber unter Hinweis auf akute Zeit- und Finanzknappheit jegliche Änderungen am Projektplan strikt ab: Sophie werde bezahlt, um ihre Aufgabe zu machen; Kritik an dem Projekt steht ihr nicht zu; für einen immer möglichen Missbrauch einer Software wäre weder sie noch die Softwarefirma verantwortlich zu machen.
+>
+>(Quelle: Pfeifer 2009)
+
+### 12-01 Haltung und Gewissen
+
+<iframe title="12-01 Haltung und Gewissen" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/f0dd715a214e4a62bf821d4074c669811d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/f0dd715a214e4a62bf821d4074c669811d)
+
+[Folien: Haltung und Gewissen](https://cloud.rz.uni-kiel.de/index.php/s/tJjTLyAiCds8Xdd)
+
+---
+
+                           {{1}}
+**Quiz**
+
+Wie hängen Haltung und Gewissen zusammen?
+
+  [[ ]] Haltung und Gewissen sind Synonyme und bedeuten dasselbe.
+  [[ ]] Haltung ist dynamisch und ändert sich häufig, während das Gewissen unveränderlich ist.
+  [[X]] Haltung ist ein Wertesystem, welches man für sich entwickelt, während das Gewissen dieses Wertesystem in konkreten Kontexten abwägt und anwendet.
+  [[X]] Man muss Haltung vertreten, um für sich selbst vertretbare Gewissensentscheidungen treffen zu können.
+
+
+
+### 12-02 Treuepflicht und Whistleblowing
+
+<iframe title="12-02 Dilemmata im Job" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/5c153d3c1d014c6da420171a1c60c01c1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/5c153d3c1d014c6da420171a1c60c01c1d)
+
+[Folien: Treuepflicht und Whistleblowing](https://cloud.rz.uni-kiel.de/index.php/s/dmfoqKSa6tnEqMs)
+
+---
+
+                           {{1}}
+**Quiz**
+
+Was ist die Treuepflicht?
+
+  [[ ]] Die Verpflichtung eines Arbeitnehmers, während der Arbeitszeit keine privaten E-Mails zu schreiben.
+  [[X]] Die Verpflichtung eines Arbeitnehmers, Firmengeheimnisse vertraulich zu behandeln.
+  [[X]] Die Verpflichtung eines Arbeitnehmers, dem Arbeitgeber nicht zu schaden.
+  [[ ]] Die Verpflichtung eines Arbeitgebers, die Gehälter pünktlich zu zahlen.
+  [[ ]] Die Verpflichtung eines Arbeitnehmers, Überstunden zu leisten, wenn der Arbeitgeber dies anordnet.
+
+Was ist Whistleblowing?
+
+  [[ ]] Das unbefugte Veröffentlichen von Informationen über eine Organisation.
+  [[ ]] Das illegale Hacken in die Computersysteme einer Organisation.
+  [[X]] Die offene oder verdeckte Meldung von Missständen in einer Organisation an eine externe Stelle.
+  [[ ]] Das Verkaufen von vertraulichen Informationen einer Organisation an Dritte.
+  [[ ]] Die gezielte Rufschädigung einer Organisation durch das Verbreiten von Falschinformationen.
+
+Werden Whistleblower geschützt und wenn ja wie?
+
+  [[X]] Ja, Whistleblower werden durch mehrere Richtlinien und Gesetze vor Benachteiligung und Vergeltung geschützt.
+  [[ ]] Ja, Whistleblower werden durch Aufnahme in das Zeugenschutzprogramm geschützt.
+  [[ ]] Nein, Whistleblower verstoßen gegen die Treuepflicht und werden deshalb nicht geschützt.
+
+### 12-03 Arbeitgeberwahl
+
+<iframe title="12-03 Arbeitgeberwahl" width="900" height="600" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://videoportal.rz.uni-kiel.de/Mediasite/Play/cd1422ef627049939cc62df1f3ed69641d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+[Videolink](https://videoportal.rz.uni-kiel.de/Mediasite/Play/cd1422ef627049939cc62df1f3ed69641d)
+
+[Folien: Arbeitgeberwahl](https://cloud.rz.uni-kiel.de/index.php/s/9WxpHTWy5Xbe4KJ)
+
+### Quellen und vertiefende Literatur
+
+* Giubilini, Alberto. 2021. “Conscience.” Https://plato.stanford.edu/archives/spr2021/entries/conscience/. In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Spring 2021. Metaphysics Research Lab, Stanford University.
+* Grimm, Petra, Tobias O. Keber, and Oliver Zöllner. 2019. Digitale Ethik: Leben in vernetzten Welten. Kompaktwissen XL. Stuttgart: Reclam, Philipp, jun. GmbH, Verlag.
+* Pfeifer, V. 2009. Ethisch argumentieren: eine Anleitung anhand von aktuellen Fallanalysen. Ethisch argumentieren / Eine Anleitung anhand von aktuellen Fallanalysen. Schöningh.
+* Braune, Andreas, ed. 2017. Ziviler Ungehorsam. Philipp Reclam jun. GmbH & Co. KG. https://www.reclam.de/detail/978-3-15-019446-1/Ziviler_Ungehorsam.
+* Delmas, Candice. 2018. A duty to resist: When disobedience should be uncivil. Oxford University Press.
+
+**Weitere Ressourcen:**
+
+* [Boston Review (Candice Delmas): That Lonesome Whistle](https://bostonreview.net/articles/candice-delmas-snowden-civil-disobedience/)
+* [Liste Kieler Rüstungsunternehmen (Stand 2014)](https://gegenwind.info/stadtrundfahrt/betriebe.html)
+
 
 ## Anhang
 
@@ -1700,7 +1964,7 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Dilemma                          | 04-02, 05-02                                                                |
 | – Heinz-Dilemma                  | 04-03                                                                       |
 | – Trolley-Dilemma                | 04-02                                                                       |
-| Dual use                         | 06-02                                                                       |
+| Dual use                         | 06-02, 11-01                                                                |
 | Ethik                            | 01-03, 02-01                                                                |
 | – Angewandte Ethik               | 02-01                                                                       |
 | – Bereichsethik                  | 02-01                                                                       |
@@ -1710,9 +1974,12 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Fallstudien                      | 02-03                                                                       |
 | *gamification*                   | 10-02                                                                       |
 | Gedankenexperiment               | 04-02, 05-01                                                                |
+| Gewissen                         | 12-01                                                                       |
 | *ghost work*                     | 08-02                                                                       |
 | Governance                       | 09-02                                                                       |
 | – *project governance*           | 09-02                                                                       |
+| Gute wissenschaftliche Praxis    | 11-02                                                                       |
+| Haltung                          | 12-01                                                                       |
 | Handlungsbegründung              | 04-03                                                                       |
 | Infantilisierung                 | 10-02                                                                       |
 | Informatik                       | 01-02                                                                       |
@@ -1724,6 +1991,7 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | – Zielkonflikt                   | 05-02                                                                       |
 | Konsequentialismus               | 04-01                                                                       |
 | *large language models* (LLMs)   | 02-02                                                                       |
+| *lege artis*                     | 11-02                                                                       |
 | Leitlinien                       | 09-02                                                                       |
 | Meta-Ethik                       | 01-03                                                                       |
 | Mittel                           | 05-02                                                                       |
@@ -1736,6 +2004,7 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Panoptismus                      | 07-01                                                                       |
 | Paragraphing                     | 03-03                                                                       |
 | Pflichtethik                     | s. Deontologie                                                              |
+| Plagiat                          | 11-01                                                                       |
 | Pluralismus                      | 09-01, 09-02, 09-03                                                         |
 | *principle of charity*           | 03-01                                                                       |
 | Privatheit                       | 07-01                                                                       |
@@ -1753,11 +2022,12 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | Syllogismus                      | 03-02                                                                       |
 | – praktischer Syllogismus        | 03-02                                                                       |
 | Transparenz                      | 07-02                                                                       |
+| Treuepflicht                     | 12-02                                                                       |
 | Toulmin-Schema                   | 03-02                                                                       |
 | Tugendethik (Virtue ethics)      | 04-01                                                                       |
 | Überwachungskapitalismus         | 08-02, 09-01                                                                |
 | Utilitarismus                    | 04-01                                                                       |
-| Verantwortung                    | 06-01, 06-02, 06-03, 06-04                                                  |
+| Verantwortung                    | 06-01, 06-02, 06-03, 06-04, 11-02                                           |
 | – Gestaltungsverantwortung       | 06-03, 06-04                                                                |
 | – klassischer Verantwortungsbegr.| 06-01                                                                       |
 | – Nutzungsverantwortung          | 06-03, 06-04                                                                |
@@ -1771,9 +2041,10 @@ Die folgende Tabelle führt die wichtigsten Begriffe der Vorlesung zusammen mit 
 | – Werteanalyse                   | 02-03                                                                       |
 | – Wertekonflikte                 | 10-01                                                                       |
 | – Werturteil                     | 05-03                                                                       |
+| Whistleblowing                   | 12-02                                                                       |
 | Wissenschaft                     | 01-02                                                                       |
 | – Strukturwissenschaft           | 01-02                                                                       |
 | – wissenschaftliche Gesellschaften | 09-02                                                                      |
 | Ziel(e)                          | 05-02                                                                       |
-|                                  |                                                                             |
+| Zivilklausel                     | 11-04                                                                       |
 
