@@ -1675,11 +1675,11 @@ Das letzte Kapitel von Abschnitt 11 befasst sich mit dem Thema *Zivilklausel* un
 
 **Lernziele** des Abschnitts *11 Ethik in der Wissenschaft*:
 
-+ Sie wissen, welche Aspekte bei der Reflektion von Forschungsergebnissen berücksichtigt werden sollten.
-+ Sie haben verstanden, was das Prinzip *lege artis* ist.
-+ Sie können erklären, warum *Plagiate* ethisch problematisch sind.
-+ Sie wissen, wofür Impact Statements sinnvoll sind und was beim Schreiben beachtet werden sollte.
-+ Sie kennen den Umgang der CAU mit militärischer Forschung.
+* Sie wissen, welche Aspekte bei der Reflektion von Forschungsergebnissen berücksichtigt werden sollten.
+* Sie haben verstanden, was das Prinzip *lege artis* ist.
+* Sie können erklären, warum *Plagiate* ethisch problematisch sind.
+* Sie wissen, wofür Impact Statements sinnvoll sind und was beim Schreiben beachtet werden sollte.
+* Sie kennen den Umgang der CAU mit militärischer Forschung.
 
 
 ### Vorbereitungsaufgabe
@@ -1829,9 +1829,9 @@ Im Kapitel drei wird kurz darauf eingegangen, welche Gedanken man sich vor der A
 
 **Lernziele** des Abschnitts *12 Haltung*:
 
-+ Sie können die Begriffe *Haltung* und *Gewissen* definieren.
-+ Sie wissen, in welchem Zusammenhang *Haltung* und *Gewissen* beim Fällen einer Entscheidung stehen.
-+ Sie können erklären, was die *Treuepflicht* und was *Whistleblowing* ist.
+* Sie können die Begriffe *Haltung* und *Gewissen* definieren.
+* Sie wissen, in welchem Zusammenhang *Haltung* und *Gewissen* beim Fällen einer Entscheidung stehen.
+* Sie können erklären, was die *Treuepflicht* und was *Whistleblowing* ist.
 
 ### Vorbereitungsaufgabe
 
